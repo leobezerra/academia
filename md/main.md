@@ -1,6 +1,7 @@
 ---
 address: Digital Metropolis Institute (IMD), Federal University of Rio
   Grande do Norte (UFRN)
+documentclass: moderncv
 ---
 
 My thesis on **computational intelligence (CI)** was seminal to my
