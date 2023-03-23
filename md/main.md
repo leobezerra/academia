@@ -126,10 +126,11 @@ the project.
 
 **Time-series features for predictive policing**
 
-<img src="https://img.shields.io/badge/year-2022-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-IEEE%20ISC2-purple.svg"/> </a> </a> 
+<img src="https://img.shields.io/badge/year-2018-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-IEEE%20ISC2-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-21-blue.svg"/> </a>  
 
+**Towards a crime hotspot detection framework for patrol planning**
 
-2018 Towards a crime hotspot detection framework for patrol planning, IEEE SmartCity.
+<img src="https://img.shields.io/badge/year-2018-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-IEEE%20SmartCity-purple.svg"/> </a>
 
 These papers comprise the contributions of data science M.Sc. theses I
 (co-)supervised in partnership with public and private institutions. The
@@ -146,6 +147,20 @@ the COVID-19 pandemic in the industry. Finally, the 2018 papers address
 predictive policing to assist the local government in the forecasting of
 criminal occurrences.
 
+---
+
+**Evaluating anytime performance on NAS-Bench-101**
+
+<img src="https://img.shields.io/badge/year-2021-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-IEEE%20CEC-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-83-blue.svg"/> </a> 
+
+**iSklearn: automated machine learning with irace**
+
+<img src="https://img.shields.io/badge/year-2021-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-IEEE%20CEC-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-83-blue.svg"/> </a> 
+
+**Comparing contextual embeddings for semantic textual similarity in Portuguese**
+
+<img src="https://img.shields.io/badge/year-2021-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-BRACIS-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-12-blue.svg"/> </a> 
+
 These papers are the contributions of M.Sc. theses I supervised in deep
 and automated machine learning. The relevance of these papers is
 evidenced by the state-of-the-art techniques that were employed. In
@@ -155,6 +170,20 @@ processing, and time series forecasting. Importantly, these papers
 demonstrate that I understand the technological complexity of current
 state-of-the-art AI models, their potential impact on society, and
 therefore their need for accountability.
+
+---
+
+**Revisiting Pareto-optimal multi-and many-objective reference fronts for continuous optimization**
+
+<img src="https://img.shields.io/badge/year-2021-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-IEEE%20CEC-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-83-blue.svg"/> </a> 
+
+Archiver effects on the performance of state-of-the-art multi-and many-objective evolutionary algorithms
+
+<img src="https://img.shields.io/badge/year-2019-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-GECCO-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-39-blue.svg"/> </a> 
+
+**An empirical assessment of the properties of inverted generational distance on multi-and many-objective optimization**
+
+<img src="https://img.shields.io/badge/year-2017-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-GECCO-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-17-blue.svg"/> </a> 
 
 These papers comprise follow-up works on my Ph.D. thesis. The relevance
 of these papers is evidenced by their ongoing impact on the evolutionary
