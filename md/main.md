@@ -1,8 +1,7 @@
----
-address: Digital Metropolis Institute (IMD), Federal University of Rio
-  Grande do Norte (UFRN)
-documentclass: moderncv
----
+![Leonardo Bezerra](img/us.jpg)
+# Leonardo Bezerra
+
+[Digital Metropolis Institute (IMD)](https://imd.ufrn.br) | [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br) | [CV](https://github.com/leobezerra/academia/raw/master/md/cv.pdf) | leobezerra@imd.ufrn.br
 
 My thesis on **computational intelligence (CI)** was seminal to my
 current research on **data science (DS)**, **artificial
@@ -20,17 +19,40 @@ assisted in the fight against the COVID-19 pandemic through science
 publication and communication, in attempt to counter the intensive
 disinformation campaign held in Brazil.
 
-# History
+## History
 
-## Appointments
+### Appointments
+| Start | End | Appointment | Institution | Location |
+|---|---|---|---|---|
+| 2017 | - | Assistant professor | [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br) | [Natal, RN, Brazil](https://goo.gl/maps/iS9PUqgSrShn9mEq8) | 
+| 2016 | 2017 | Assistant professor | [Federal University of Paraíba (UFPB)](https://ufpb.br) | [João Pessoa, PB, Brazil](https://goo.gl/maps/LHXb9Srhdmmd6Krw7) | 
 
-## Awards
+### Awards
 
-# Projects and funding
+| Start | End | Award | Institution | Location
+|---|---|---|---|---|
+| 2011 | 2016 | Ph.D. degree in Engineering and Technology | [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) |
+| 2011 | - | F.R.I.A doctoral fellowship | [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) |
+| 2009 | - | Best paper award | [Brazilian Symposium on Augmented and Virtual Reality (SVR)](https://grv.inf.pucrs.br/svr2009) | [Porto Alegre, RS, Brazil](https://goo.gl/maps/rKBGkSTUYFbKd5s29) |
 
-# Key$\star$ and relevant publications
+---
 
-## Journals (5)
+## Projects and funding
+
+| Start | End | Project | Funder | Location | Role | Status
+|---|---|---|---|---|---|---|
+| 2023 | 2024 | [Information technology graduate internship (class of 2024)](https://residenciaregional.jfrn.jus.br) | [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br) | [Recife, PE, Brazil](https://goo.gl/maps/FnsBrCsXqXjEDtaR9) | Collaborator | <img src="https://img.shields.io/badge/-active-green.svg"/></a> |
+| 2022 | 2023 | Technological innovation cell | [Iberdrola Neoenergia COSERN](https://trf5.jus.br) | [Natal, RN, Brazil](https://goo.gl/maps/iS9PUqgSrShn9mEq8) | Collaborator | <img src="https://img.shields.io/badge/-active-green.svg"/></a> |
+| 2021 | 2023 | [Information technology graduate internship (class of 2023)](https://residenciaregional.jfrn.jus.br) | [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br) | [Recife, PE, Brazil](https://goo.gl/maps/FnsBrCsXqXjEDtaR9) | Proponent | <img src="https://img.shields.io/badge/-active-green.svg"/></a> |
+| 2020 | 2021 | Applied research and human resource education in hardware technologies for artificial intelligence | [Huawei Telecommunications in Brazil](https://huawei.com.br/) | [São Paulo, SP, Brazil](https://goo.gl/maps/LVmYC6tLVA67wJMh9) | Proponent | <img src="https://img.shields.io/badge/-done-blue.svg"/></a> |
+| 2017 | 2018 | [SmartMetropolis](https://smlab.imd.ufrn.br/) | Multiple local and national government branches | [Natal, RN, Brazil](https://goo.gl/maps/iS9PUqgSrShn9mEq8) | Collaborator | <img src="https://img.shields.io/badge/-done-blue.svg"/></a> |
+| 2017 | 2018 | [Revision and update of the Brazilian Standard Classification of Education (CINE Brasil 2018)](https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/cine-brasil)) | [UNESCO](https://unesco.org/) & Brazilian Ministry of Education – [INEP](https://www.gov.br/inep/pt-br) | [Brasília, DF, Brazil](https://goo.gl/maps/CbpPfxbkoDqF7YD57) | Proponent | <img src="https://img.shields.io/badge/-done-blue.svg"/></a> |
+| 2015 | 2016 | [Combinatorial optimization: metaheuristics and exact methods (COMEX)](https://www.belspo.be/belspo/fedra/proj.asp?l=en&COD=P7%2F36) | [Belgian Federal Science Policy Office (BELSPO)](https://belspo.be/) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) | Collaborator | <img src="https://img.shields.io/badge/-done-blue.svg"/></a> |
+| 2011 | 2015 | Generalization of metaheuristics for optimization problems with three or more objectives | [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) | Proponent | <img src="https://img.shields.io/badge/-done-blue.svg"/></a>
+
+## Key and relevant publications
+
+### Journals (5)
 
 This paper was the main contribution from the first Ph.D. thesis I
 co-supervised, and demonstrates how multi-objective and dynamic
@@ -59,7 +81,7 @@ on a research project. In detail, each paper meets an specific objective
 of my thesis proposal, incrementally achieving the general objective of
 the project.
 
-## Conference papers (11)
+### Conference papers (11)
 
 These papers comprise the contributions of data science M.Sc. theses I
 (co-)supervised in partnership with public and private institutions. The
@@ -95,10 +117,6 @@ conducted in my Ph.D. was seminal to relevant future work. In addition,
 they demonstrate that I understand that seeking autonomy as an
 independent researcher does not mean discontinuing previous research.
 
-# Supervision
+## Supervision
 
-# Languages
-
-# Publication list
-
------------------------
+## Languages
