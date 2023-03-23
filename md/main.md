@@ -112,6 +112,25 @@ the project.
 
 ### Conference papers (11)
 
+**High school timetabling at a federal educational institute in Brazil**
+
+<img src="https://img.shields.io/badge/year-2022-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-IEEE%20CEC-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-83-blue.svg"/> </a> 
+
+**Retail sales forecasting for a Brazilian supermarket chain: an empirical assessment**
+
+<img src="https://img.shields.io/badge/year-2022-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-IEEE%20CBI-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-23-blue.svg"/> </a> 
+
+**Supermarket customer segmentation: a case study in a large Brazilian retail chain**
+
+<img src="https://img.shields.io/badge/year-2022-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-IEEE%20CBI-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-23-blue.svg"/> </a> 
+
+**Time-series features for predictive policing**
+
+<img src="https://img.shields.io/badge/year-2022-green.svg"/> </a> <img src="https://img.shields.io/badge/conference-IEEE%20ISC2-purple.svg"/> </a> </a> 
+
+
+2018 Towards a crime hotspot detection framework for patrol planning, IEEE SmartCity.
+
 These papers comprise the contributions of data science M.Sc. theses I
 (co-)supervised in partnership with public and private institutions. The
 relevance of these papers is evidenced by the socially relevant
