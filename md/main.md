@@ -50,9 +50,15 @@ disinformation campaign held in Brazil.
 | 2015 | 2016 | [Combinatorial optimization: metaheuristics and exact methods (COMEX)](https://www.belspo.be/belspo/fedra/proj.asp?l=en&COD=P7%2F36) | [Belgian Federal Science Policy Office (BELSPO)](https://belspo.be/) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) | Collaborator | <img src="https://img.shields.io/badge/-done-blue.svg"/></a> |
 | 2011 | 2015 | Generalization of metaheuristics for optimization problems with three or more objectives | [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) | Proponent | <img src="https://img.shields.io/badge/-done-blue.svg"/></a>
 
+---
+
 ## Key and relevant publications
 
 ### Journals (5)
+
+**A computational study on ant colony optimization for the traveling salesman problem with dynamic demands**
+
+<img src="https://img.shields.io/badge/year-2021-green.svg"/> </a> <img src="https://img.shields.io/badge/journal-Computers%20&amp;%20Operations%20Research-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-160-blue.svg"/> </a> 
 
 This paper was the main contribution from the first Ph.D. thesis I
 co-supervised, and demonstrates how multi-objective and dynamic
@@ -61,6 +67,12 @@ best paper award nomination at the EMO 2019 conference, where a
 preliminary version of the journal paper was first published. In
 addition, this paper is a concrete example of how I bridge different
 research topics into multi-disciplinary work.
+
+---
+
+**Comparing community mobility reduction between first and second COVID-19 waves**
+
+<img src="https://img.shields.io/badge/year-2021-green.svg"/> </a> <img src="https://img.shields.io/badge/journal-Transport%20Policy-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-103-blue.svg"/> </a> 
 
 This paper was the main contribution of my efforts in science
 publication and communication to assist in the fight against the
@@ -71,6 +83,21 @@ continents and COVID-19 waves included in the assessment. In addition,
 this paper is a concrete example of how I use computational intelligence
 in the context of socially relevant problems.
 
+---
+
+**Automatically designing state-of-the-art multi-and many-objective evolutionary algorithms**
+
+<img src="https://img.shields.io/badge/year-2020-green.svg"/> </a> <img src="https://img.shields.io/badge/journal-MIT%20Evolutionary%20Computation%20Journal-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-84-blue.svg"/> </a> 
+
+**A large-scale experimental evaluation of high-performing multi-and many-objective evolutionary
+algorithms**
+
+<img src="https://img.shields.io/badge/year-2020-green.svg"/> </a> <img src="https://img.shields.io/badge/journal-MIT%20Evolutionary%20Computation%20Journal-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-84-blue.svg"/></a> 
+
+**Automatic component-wise design of multiobjective evolutionary algorithms**
+
+<img src="https://img.shields.io/badge/year-2016-green.svg"/> </a> <img src="https://img.shields.io/badge/journal-IEEE%20Transactions%20on%20Evolutionary%20Computation-purple.svg"/> </a> <img src="https://img.shields.io/badge/h--index-186-blue.svg"/></a> 
+
 These papers comprise the contributions of my Ph.D. thesis, having been
 accepted for publication prior to my defense or shortly after. Their
 relevance is evidenced by their ongoing impact on the evolutionary
@@ -80,6 +107,8 @@ importantly, these papers demonstrate how I am able to plan and deliver
 on a research project. In detail, each paper meets an specific objective
 of my thesis proposal, incrementally achieving the general objective of
 the project.
+
+---
 
 ### Conference papers (11)
 
