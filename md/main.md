@@ -1,8 +1,12 @@
 ![Leonardo Bezerra](img/us.jpg)
 # Leonardo Bezerra
-<a href="mailto:leonardo.bezerra@ufrn.br" target="_blank"><img src="https://img.shields.io/badge/-leonardo&#46;bezerra&#64;ufrn&#46;br-purple.svg?logo=gmail&style=for-the-badge"/> </a> 
-<a href="t.me/username" target="_blank"><img src="https://img.shields.io/badge/-&#64;leo__bezerra-blue.svg?logo=telegram&style=for-the-badge"/> </a> 
-<a href="https://github.com/leobezerra/academia/raw/master/md/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-green.svg?logo=adobeacrobatreader&style=for-the-badge"/> </a>
+<a href="mailto:leonardo.bezerra@ufrn.br" target="_blank"><img src="https://img.shields.io/badge/-leonardo&#46;bezerra&#64;ufrn&#46;br-purple.svg?logo=gmail&style=for-the-badge"/></a> 
+<a href="https://t.me/leo_bezerra" target="_blank"><img src="https://img.shields.io/badge/-leo__bezerra-blue.svg?logo=telegram&style=for-the-badge"/></a> 
+<a href="https://github.com/leobezerra/academia/raw/master/md/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-green.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
+<a href="https://scholar.google.com/citations?user=llcIEHIAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://img.shields.io/badge/-scholar-yellow.svg?logo=googlescholar&style=for-the-badge"/></a>
+<a href="https://orcid.org/0000-0003-4654-2553" target="_blank"><img src="https://img.shields.io/badge/-orcid-orange.svg?logo=orcid&style=for-the-badge"/></a>
+
+
 
 My thesis on **computational intelligence (CI)** was seminal to my
 current research on **data science (DS)**, **artificial
@@ -37,7 +41,7 @@ disinformation campaign held in Brazil.
 
 ### Languages
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> </a> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> </a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/en-fluent-blue.svg?style=for-the-badge"/> </a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/es-fluent-blue.svg?style=for-the-badge"/> </a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/it-intermediary-green.svg?style=for-the-badge"/> </a> 
@@ -66,7 +70,10 @@ disinformation campaign held in Brazil.
 
 **A computational study on ant colony optimization for the traveling salesman problem with dynamic demands**
 
-<img src="https://img.shields.io/badge/journal-Computers%20&amp;%20Operations%20Research-purple.svg?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/year-2021-year.svg?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/h--index-160-green.svg?style=for-the-badge"/> </a> 
+<a href="https://www.sciencedirect.com/journal/computers-and-operations-research" target="_blank"><img src="https://img.shields.io/badge/-Computers%20&amp;%20Operations%20Research-purple.svg?logo=elsevier&style=for-the-badge"/> </a> 
+<a href="../data/journals/OliBezStuDorWanSou2021cor.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge"/> </a> 
+<a href="../data/journals/OliBezStuDorWanSou2021cor.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge"/> </a> 
+<a href="https://doi.org/10.1016/j.cor.2021.105359" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge"/> </a> 
 
 This paper was the main contribution from the first Ph.D. thesis I
 co-supervised, and demonstrates how multi-objective and dynamic
@@ -80,7 +87,10 @@ research topics into multi-disciplinary work.
 
 **Comparing community mobility reduction between first and second COVID-19 waves**
 
-<img src="https://img.shields.io/badge/journal-Transport%20Policy-purple.svg?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/year-2021-blue.svg?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/h--index-103-green.svg?style=for-the-badge"/> </a> 
+<a href="https://www.sciencedirect.com/journal/transport-policy" target="_blank"><img src="https://img.shields.io/badge/-Transport%20Policy-purple.svg?logo=elsevier&style=for-the-badge"/> </a> 
+<a href="../data/journals/CavMonOliWanBezTakLim2021tp.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge"/> </a> 
+<a href="../data/journals/CavMonOliWanBezTakLim2021tp.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge"/> </a> 
+<a href="https://doi.org/10.1016/j.tranpol.2021.08.004" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge"/> </a> 
 
 This paper was the main contribution of my efforts in science
 publication and communication to assist in the fight against the
@@ -95,16 +105,25 @@ in the context of socially relevant problems.
 
 **Automatically designing state-of-the-art multi-and many-objective evolutionary algorithms**
 
-<img src="https://img.shields.io/badge/journal-MIT%20Evolutionary%20Computation%20Journal-purple.svg?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/year-2020-blue.svg?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/h--index-84-green.svg?style=for-the-badge"/> </a> 
+<a href="https://direct.mit.edu/evco" target="_blank"><img src="https://img.shields.io/badge/-MIT%20Evolutionary%20Computation%20Journal-purple.svg?style=for-the-badge"/> </a> 
+<a href="../data/journals/BezLopStu2020ecj.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge"/> </a> 
+<a href="../data/journals/BezLopStu2020ecj.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge"/> </a> 
+<a href="https://doi.org/10.1162/evco_a_00263" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge"/> </a>
 
 **A large-scale experimental evaluation of high-performing multi-and many-objective evolutionary
 algorithms**
 
-<img src="https://img.shields.io/badge/journal-MIT%20Evolutionary%20Computation%20Journal-purple.svg?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/year-2020-blue.svg?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/h--index-84-green.svg?style=for-the-badge"/></a> 
+<a href="https://direct.mit.edu/evco" target="_blank"><img src="https://img.shields.io/badge/-MIT%20Evolutionary%20Computation%20Journal-purple.svg?style=for-the-badge"/> </a> 
+<a href="../data/journals/BezLopStu2018ecj.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge"/> </a> 
+<a href="../data/journals/BezLopStu2018ecj.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge"/> </a> 
+<a href="https://doi.org/10.1162/evco_a_00217" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge"/> </a>
 
 **Automatic component-wise design of multiobjective evolutionary algorithms**
 
-<img src="https://img.shields.io/badge/journal-IEEE%20Transactions%20on%20Evolutionary%20Computation-purple.svg?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/year-2016-blue.svg?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/h--index-186-green.svg?style=for-the-badge"/></a> 
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235" target="_blank"><img src="https://img.shields.io/badge/-IEEE%20Transactions%20on%20Evolutionary%20Computation-purple.svg?logo=ieee&style=for-the-badge"/> </a> 
+<a href="../data/journals/BezLopStu2016tec.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge"/> </a> 
+<a href="../data/journals/BezLopStu2016tec.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge"/> </a> 
+<a href="https://doi.org/10.1109/TEVC.2015.2474158" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge"/> </a> 
 
 These papers comprise the contributions of my Ph.D. thesis, having been
 accepted for publication prior to my defense or shortly after. Their
