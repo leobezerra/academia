@@ -1,5 +1,9 @@
+<a name="top"/>
+
 ![Leonardo Bezerra](img/us.jpg)
+
 # Leonardo Bezerra
+
 <a href="mailto:leonardo.bezerra@ufrn.br" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
 <a href="https://www.linkedin.com/in/leonardo-c-t-bezerra-623b7231" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue.svg?logo=linkedin&style=for-the-badge"/></a>
 <a href="https://orcid.org/0000-0003-4654-2553" target="_blank"><img src="https://img.shields.io/badge/-orcid-green.svg?logo=orcid&style=for-the-badge&logoColor=white"/></a>
@@ -7,26 +11,20 @@
 <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
 
-My thesis on **computational intelligence (CI)** was seminal to my
+My [thesis](#history) on **computational intelligence (CI)** was seminal to my
 current research on **data science (DS)**, **artificial
 intelligence (AI)**, and their impact on **socially relevant problems**.
 
-Concerning DS, I supervise applied research projects with both the
-public and private sectors. Partners include the Brazilian Judicial
-Branch and Ministry of Education, as well as regional, national, and
-multi-national companies in fields as diverse as retail,
-telecommunications, and energy. 
+- I **propose** and **collaborate** with applied [data science projects](#projects) with both the public and private sectors. Partners include the **Brazilian Judicial Branch** and **Ministry of Education**, as well as **regional** and **(multi-)national companies** in fields as diverse as **retail**, **telecommunications**, and **energy**. 
 
-Regarding AI, I supervise graduate
-students on theses involving deep and automated machine learning, as
-well as the intersection of multi-objective optimization with other CI
-domains, such as multi-dimensional visualization and dynamic
-optimization. 
+- I **supervise graduate students** on [theses](#theses) involving **deep** and **automated machine learning**, as well as the intersection of **multi-objective optimization** with other CI domains, such as **multi-dimensional visualization** and **dynamic optimization**. 
 
-About socially revelant problems, I have
-assisted in the fight against the COVID-19 pandemic through science
-publication and communication, in attempt to counter the intensive
-disinformation campaign held in Brazil.
+- I have a deep concern for socially relevant problems, having for instance **assisted in the fight against the COVID-19 pandemic** through science [publication](#publications) and [communication](#communication), in an attempt to **counter** the intensive
+**disinformation** campaign held in Brazil.
+
+---
+
+<a name="history"/>
 
 ## History
 
@@ -49,6 +47,8 @@ disinformation campaign held in Brazil.
 **Ph.D. degree in Engineering and Technology** @ [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/)
 
 <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/theses/BezerraPhD.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/theses/BezerraPhD.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
 
 **F.R.I.A doctoral fellowship** @ [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be)
 
@@ -63,6 +63,8 @@ disinformation campaign held in Brazil.
 <img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/en-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/es-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/it-intermediary-green.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/fr-intermediary-green.svg?style=for-the-badge"/> 
 
 ---
+
+<a name="projects"/>
 
 ## Projects and funding
 
@@ -102,7 +104,47 @@ disinformation campaign held in Brazil.
 
 <img src="https://img.shields.io/badge/start-2015-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
 
+[Back to the top](#top)
+
 ---
+
+<a name="theses"/>
+
+## Supervision
+
+**Design configuration for the MMAS algorithm applied to the travelling salesman problem with dynamic demands** @ Federal Center of Technological Education of Minas Gerais (CEFET-MG)
+
+<img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-PhD-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/nyNDnqb4qfzCWW3j7" target="_blank"><img src="https://img.shields.io/badge/-Belo%20Horizonte&comma;%20MG&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-co--supervisor-yellow.svg?style=for-the-badge"/> <a href="https://sig.cefetmg.br/sigaa/verArquivo?idArquivo=4512267&key=f5474cbd7e730a9473e2c3dab7013dfc" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+**A case study on customer segmentation of a supermarket chain** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/47160/1/Casestudycustomer_Oliveira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+**Sales forecasting for a supermarket chain in Natal, Brazil: an empirical assessment** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/47159/1/Salesforecastingsupermarket_Almeida_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+**Assessing irace for automated machine and deep learning in computer vision** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/43771/1/Assessingiraceautomated_Vieira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+**Assessing irace for automated machine and deep learning in computer vision** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/43771/1/Assessingiraceautomated_Vieira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+**Predspot: predicting crime hotspots with machine learning** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-co--supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/29155/1/Predspotpredictingcrime_AraujoJunior_2019.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+**A metaheuristic approach to the high school timetabling problem at IFRN** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/26605/1/Abordagemmetaheur%C3%ADsticaproblema_Dantas_2018.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+[Back to the top](#top)
+
+---
+
+<a name="publications"/>
 
 ## Key and relevant publications
 
@@ -295,32 +337,4 @@ conducted in my Ph.D. was seminal to relevant future work. In addition,
 they demonstrate that I understand that seeking autonomy as an
 independent researcher does not mean discontinuing previous research.
 
-## Supervision
-
-**Design configuration for the MMAS algorithm applied to the travelling salesman problem with dynamic demands** @ Federal Center of Technological Education of Minas Gerais (CEFET-MG)
-
-<img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-PhD-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/nyNDnqb4qfzCWW3j7" target="_blank"><img src="https://img.shields.io/badge/-Belo%20Horizonte&comma;%20MG&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-co--supervisor-yellow.svg?style=for-the-badge"/> <a href="https://sig.cefetmg.br/sigaa/verArquivo?idArquivo=4512267&key=f5474cbd7e730a9473e2c3dab7013dfc" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
-
-**A case study on customer segmentation of a supermarket chain** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/47160/1/Casestudycustomer_Oliveira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
-
-**Sales forecasting for a supermarket chain in Natal, Brazil: an empirical assessment** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/47159/1/Salesforecastingsupermarket_Almeida_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
-
-**Assessing irace for automated machine and deep learning in computer vision** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/43771/1/Assessingiraceautomated_Vieira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
-
-**Assessing irace for automated machine and deep learning in computer vision** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/43771/1/Assessingiraceautomated_Vieira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
-
-**Predspot: predicting crime hotspots with machine learning** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-co--supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/29155/1/Predspotpredictingcrime_AraujoJunior_2019.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
-
-**A metaheuristic approach to the high school timetabling problem at IFRN** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/26605/1/Abordagemmetaheur%C3%ADsticaproblema_Dantas_2018.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+[Back to the top](#top)
