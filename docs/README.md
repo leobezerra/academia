@@ -1,10 +1,12 @@
 ![Leonardo Bezerra](img/us.jpg)
 # Leonardo Bezerra
-<a href="mailto:leonardo.bezerra@ufrn.br" target="_blank"><img src="https://img.shields.io/badge/-leonardo&#46;bezerra&#64;ufrn&#46;br-purple.svg?logo=gmail&style=for-the-badge"/></a> 
-<a href="https://t.me/leo_bezerra" target="_blank"><img src="https://img.shields.io/badge/-leo__bezerra-blue.svg?logo=telegram&style=for-the-badge"/></a> 
-<a href="https://github.com/leobezerra/academia/raw/master/md/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-green.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
+<a href="mailto:leonardo.bezerra@ufrn.br" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
+<a href="https://www.linkedin.com/in/leonardo-c-t-bezerra-623b7231" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue.svg?logo=linkedin&style=for-the-badge"/></a>
+<a href="https://orcid.org/0000-0003-4654-2553" target="_blank"><img src="https://img.shields.io/badge/-orcid-green.svg?logo=orcid&style=for-the-badge"/></a>
 <a href="https://scholar.google.com/citations?user=llcIEHIAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://img.shields.io/badge/-scholar-yellow.svg?logo=googlescholar&style=for-the-badge"/></a>
-<a href="https://orcid.org/0000-0003-4654-2553" target="_blank"><img src="https://img.shields.io/badge/-orcid-orange.svg?logo=orcid&style=for-the-badge"/></a>
+<a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge"/></a>
+<a href="https://github.com/leobezerra/academia/raw/master/md/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
+
 
 
 
@@ -33,11 +35,11 @@ disinformation campaign held in Brazil.
 | 2016 | 2017 | Assistant professor | [Federal University of Paraíba (UFPB)](https://ufpb.br) | [João Pessoa, PB, Brazil](https://goo.gl/maps/LHXb9Srhdmmd6Krw7) | 
 
 ### Awards
-| Start | End | Award | Institution | Location
+| Start | End | Award | Institution | Location |
 |---|---|---|---|---|
 | 2011 | 2016 | Ph.D. degree in Engineering and Technology | [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) |
-| 2011 | - | F.R.I.A doctoral fellowship | [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) |
-| 2009 | - | Best paper award | [Brazilian Symposium on Augmented and Virtual Reality (SVR)](https://grv.inf.pucrs.br/svr2009) | [Porto Alegre, RS, Brazil](https://goo.gl/maps/rKBGkSTUYFbKd5s29) |
+| 2011 | 2015 | F.R.I.A doctoral fellowship | [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) |
+| 2009 | 2009 | Best paper award | [Brazilian Symposium on Augmented and Virtual Reality (SVR)](https://grv.inf.pucrs.br/svr2009) | [Porto Alegre, RS, Brazil](https://goo.gl/maps/rKBGkSTUYFbKd5s29) |
 
 ### Languages
 
