@@ -35,18 +35,31 @@ disinformation campaign held in Brazil.
 
 ### Appointments
 
-| Start | End | Appointment | Institution | Location |
-|---|---|---|---|---|
-| 2017 | - | Assistant professor | [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br) | [Natal, RN, Brazil](https://goo.gl/maps/iS9PUqgSrShn9mEq8) | 
-| 2016 | 2017 | Assistant professor | [Federal University of Paraíba (UFPB)](https://ufpb.br) | [João Pessoa, PB, Brazil](https://goo.gl/maps/LHXb9Srhdmmd6Krw7) | 
+**Assistant professor** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+
+**Assistant professor** @ [Federal University of Paraíba (UFPB)](https://ufpb.br)
+
+<img src="https://img.shields.io/badge/start-2016-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2017-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
 ### Awards
 
-| Start | End | Award | Institution | Location |
-|---|---|---|---|---|
-| 2011 | 2016 | Ph.D. degree in Engineering and Technology | [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) |
-| 2011 | 2015 | F.R.I.A doctoral fellowship | [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) |
-| 2009 | 2009 | Best paper award | [Brazilian Symposium on Augmented and Virtual Reality (SVR)](https://grv.inf.pucrs.br/svr2009) | [Porto Alegre, RS, Brazil](https://goo.gl/maps/rKBGkSTUYFbKd5s29) |
+**Best paper award nomination** @ [Evolutionary Multicriterion Optimisation (EMO)](https://link.springer.com/book/10.1007/978-3-030-12598-1)
+
+<img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/TMXMVfLxzDACKouN7" target="_blank"><img src="https://img.shields.io/badge/-East%20Lansing&comma;%20MI&comma;%20USA-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+
+**Ph.D. degree in Engineering and Technology** @ [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/)
+
+<img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+
+**F.R.I.A doctoral fellowship** @ [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be)
+
+<img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+
+**Best paper award** @ [Brazilian Symposium on Augmented and Virtual Reality (SVR)](https://grv.inf.pucrs.br/svr2009)
+
+<img src="https://img.shields.io/badge/year-2009-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/rKBGkSTUYFbKd5s29" target="_blank"><img src="https://img.shields.io/badge/-Porto%20Alegre&comma;%20RS&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
 ### Languages
 
