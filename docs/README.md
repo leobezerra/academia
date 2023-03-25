@@ -338,3 +338,17 @@ they demonstrate that I understand that seeking autonomy as an
 independent researcher does not mean discontinuing previous research.
 
 [Back to the top](#top)
+  
+---
+  
+## Science communication
+  
+<a href="https://www.instagram.com/covidvisual/" target="_blank"> <img src="https://img.shields.io/badge/-visualcovid-purple.svg?logo=instagram&style=for-the-badge&logoColor=white"/></a>
+<a href="https://twitter.com/isola_ai" target="_blank"> <img src="https://img.shields.io/badge/-isola&#46;ai-blue.svg?logo=twitter&style=for-the-badge&logoColor=white"/></a>
+<a href="https://leobezerra.github.io/covid19/" target="_blank"> <img src="https://img.shields.io/badge/-visualizing%20covid--19-green.svg?logo=jupyter&style=for-the-badge&logoColor=white"/></a>
+<a href="https://demografiaufrn.net/category/onas-covid19/" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observartory-orange.svg?logo=wordpress&style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.youtube.com/playlist?list=PLU35_2f9Kc6q-KmGmaMevXa5_qfRcVUmt" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observartory-red.svg?logo=youtube&style=for-the-badge&logoColor=white"/></a>  
+
+
+  
+[Back to the top](#top)  
