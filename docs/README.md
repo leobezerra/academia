@@ -344,7 +344,7 @@ independent researcher does not mean discontinuing previous research.
   
 ## Science communication
 
-During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed and collaborated with several science communication efforts to help disseminate the guidelines from the [World Health Organization (WHO)](https://who.org) and counter the disinformation campaigns that were strongly affecting the social distance adherence in Brazil.
+During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed and collaborated with several science communication efforts to help disseminate the guidelines from the [World Health Organization (WHO)](https://who.int) and counter the disinformation campaigns that were strongly affecting the social distance adherence in Brazil.
 
 <a href="https://www.instagram.com/covidvisual/" target="_blank"> <img src="https://img.shields.io/badge/-visualcovid-purple.svg?logo=instagram&style=for-the-badge&logoColor=white"/></a>
 <a href="https://twitter.com/isola_ai" target="_blank"> <img src="https://img.shields.io/badge/-isola&#46;ai-blue.svg?logo=twitter&style=for-the-badge&logoColor=white"/></a>
