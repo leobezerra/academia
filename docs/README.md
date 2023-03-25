@@ -7,9 +7,6 @@
 <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
 
-
-
-
 My thesis on **computational intelligence (CI)** was seminal to my
 current research on **data science (DS)**, **artificial
 intelligence (AI)**, and their impact on **socially relevant problems**.
@@ -81,7 +78,7 @@ disinformation campaign held in Brazil.
 
 **Revision and update of the Brazilian Standard Classification of Education (CINE Brasil 2018)** @ [UNESCO](https://unesco.org/) & Brazilian Ministry of Education – [INEP](https://www.gov.br/inep/pt-br)
 
-<img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2019-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/CbpPfxbkoDqF7YD57" target="_blank"><img src="https://img.shields.io/badge/-Bras&iacute;lia&comma;%20DF&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/cine-brasil" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2019-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/CbpPfxbkoDqF7YD57" target="_blank"><img src="https://img.shields.io/badge/-Bras&iacute;lia&comma;%20DF&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/cine-brasil" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 
 **Generalization of metaheuristics for optimization problems with three or more objectives** @ [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be)
 
@@ -91,15 +88,15 @@ disinformation campaign held in Brazil.
 
 **Information technology graduate internship (class of 2024)** @ [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br)
 
-<img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 
 **Information technology graduate internship (class of 2023)** @ [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br)
 
-<img src="https://img.shields.io/badge/start-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/start-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 
 **SmartMetropolis** @ Multiple local and national government branches
 
-<img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2018-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>  <a href="https://smlab.imd.ufrn.br/" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2018-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>  <a href="https://smlab.imd.ufrn.br/" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 
 **Combinatorial optimization: metaheuristics and exact methods (COMEX)** @ [Belgian Federal Science Policy Office (BELSPO)](https://belspo.be/)
 
@@ -299,3 +296,31 @@ they demonstrate that I understand that seeking autonomy as an
 independent researcher does not mean discontinuing previous research.
 
 ## Supervision
+
+**Design configuration for the MMAS algorithm applied to the travelling salesman problem with dynamic demands** @ Federal Center of Technological Education of Minas Gerais (CEFET-MG)
+
+<img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-PhD-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/nyNDnqb4qfzCWW3j7" target="_blank"><img src="https://img.shields.io/badge/-Belo%20Horizonte&comma;%20MG&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-co--supervisor-yellow.svg?style=for-the-badge"/> <a href="https://sig.cefetmg.br/sigaa/verArquivo?idArquivo=4512267&key=f5474cbd7e730a9473e2c3dab7013dfc" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+**A case study on customer segmentation of a supermarket chain** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MSc-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/47160/1/Casestudycustomer_Oliveira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+**Sales forecasting for a supermarket chain in Natal, Brazil: an empirical assessment** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MSc-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/47159/1/Salesforecastingsupermarket_Almeida_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+**Assessing irace for automated machine and deep learning in computer vision** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MSc-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/43771/1/Assessingiraceautomated_Vieira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+**Assessing irace for automated machine and deep learning in computer vision** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MSc-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/43771/1/Assessingiraceautomated_Vieira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+**Predspot: predicting crime hotspots with machine learning** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MSc-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/29155/1/Predspotpredictingcrime_AraujoJunior_2019.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
+
+**A metaheuristic approach to the high school timetabling problem at IFRN** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MSc-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/26605/1/Abordagemmetaheur%C3%ADsticaproblema_Dantas_2018.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
