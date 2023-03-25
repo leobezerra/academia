@@ -13,15 +13,20 @@
 My thesis on **computational intelligence (CI)** was seminal to my
 current research on **data science (DS)**, **artificial
 intelligence (AI)**, and their impact on **socially relevant problems**.
+
 Concerning DS, I supervise applied research projects with both the
 public and private sectors. Partners include the Brazilian Judicial
 Branch and Ministry of Education, as well as regional, national, and
 multi-national companies in fields as diverse as retail,
-telecommunications, and energy. Regarding AI, I supervise graduate
+telecommunications, and energy. 
+
+Regarding AI, I supervise graduate
 students on theses involving deep and automated machine learning, as
 well as the intersection of multi-objective optimization with other CI
 domains, such as multi-dimensional visualization and dynamic
-optimization. Finally, regarding socially revelant problems, I have
+optimization. 
+
+About socially revelant problems, I have
 assisted in the fight against the COVID-19 pandemic through science
 publication and communication, in attempt to counter the intensive
 disinformation campaign held in Brazil.
