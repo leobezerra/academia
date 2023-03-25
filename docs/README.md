@@ -45,11 +45,7 @@ disinformation campaign held in Brazil.
 
 ### Languages
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> </a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/en-fluent-blue.svg?style=for-the-badge"/> </a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/es-fluent-blue.svg?style=for-the-badge"/> </a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/it-intermediary-green.svg?style=for-the-badge"/> </a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/fr-intermediary-green.svg?style=for-the-badge"/> </a> 
+<img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/en-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/es-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/it-intermediary-green.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/fr-intermediary-green.svg?style=for-the-badge"/> 
 
 ---
 
