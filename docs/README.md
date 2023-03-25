@@ -114,8 +114,8 @@ disinformation campaign held in Brazil.
 **A computational study on ant colony optimization for the traveling salesman problem with dynamic demands**
 
 <a href="https://www.sciencedirect.com/journal/computers-and-operations-research" target="_blank"><img src="https://img.shields.io/badge/-Computers%20&amp;%20Operations%20Research-purple.svg?logo=elsevier&style=for-the-badge&logoColor=white"/> </a> 
-<a href="../data/journals/OliBezStuDorWanSou2021cor.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
-<a href="../data/journals/OliBezStuDorWanSou2021cor.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/OliBezStuDorWanSou2021cor.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/OliBezStuDorWanSou2021cor.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
 <a href="https://doi.org/10.1016/j.cor.2021.105359" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/> </a> 
 
 This paper was the main contribution from the first Ph.D. thesis I
@@ -131,8 +131,8 @@ research topics into multi-disciplinary work.
 **Comparing community mobility reduction between first and second COVID-19 waves**
 
 <a href="https://www.sciencedirect.com/journal/transport-policy" target="_blank"><img src="https://img.shields.io/badge/-Transport%20Policy-purple.svg?logo=elsevier&style=for-the-badge&logoColor=white"/> </a> 
-<a href="../data/journals/CavMonOliWanBezTakLim2021tp.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
-<a href="../data/journals/CavMonOliWanBezTakLim2021tp.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/CavMonOliWanBezTakLim2021tp.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/CavMonOliWanBezTakLim2021tp.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
 <a href="https://doi.org/10.1016/j.tranpol.2021.08.004" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/> </a> 
 
 This paper was the main contribution of my efforts in science
@@ -149,23 +149,23 @@ in the context of socially relevant problems.
 **Automatically designing state-of-the-art multi-and many-objective evolutionary algorithms**
 
 <a href="https://direct.mit.edu/evco" target="_blank"><img src="https://img.shields.io/badge/-MIT%20Evolutionary%20Computation%20Journal-purple.svg?style=for-the-badge&logoColor=white"/> </a> 
-<a href="../data/journals/BezLopStu2020ecj.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
-<a href="../data/journals/BezLopStu2020ecj.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/BezLopStu2020ecj.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/BezLopStu2020ecj.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
 <a href="https://doi.org/10.1162/evco_a_00263" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/> </a>
 
 **A large-scale experimental evaluation of high-performing multi-and many-objective evolutionary
 algorithms**
 
 <a href="https://direct.mit.edu/evco" target="_blank"><img src="https://img.shields.io/badge/-MIT%20Evolutionary%20Computation%20Journal-purple.svg?style=for-the-badge&logoColor=white"/> </a> 
-<a href="../data/journals/BezLopStu2018ecj.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
-<a href="../data/journals/BezLopStu2018ecj.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/BezLopStu2018ecj.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/BezLopStu2018ecj.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
 <a href="https://doi.org/10.1162/evco_a_00217" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/> </a>
 
 **Automatic component-wise design of multiobjective evolutionary algorithms**
 
 <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235" target="_blank"><img src="https://img.shields.io/badge/-IEEE%20Transactions%20on%20Evolutionary%20Computation-purple.svg?logo=ieee&style=for-the-badge&logoColor=white"/> </a> 
-<a href="../data/journals/BezLopStu2016tec.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
-<a href="../data/journals/BezLopStu2016tec.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/BezLopStu2016tec.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/BezLopStu2016tec.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
 <a href="https://doi.org/10.1109/TEVC.2015.2474158" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/> </a> 
 
 These papers comprise the contributions of my Ph.D. thesis, having been
@@ -185,36 +185,36 @@ the project.
 **High school timetabling at a federal educational institute in Brazil**
 
 <a href="https://wcci2022.org" target="_blank"><img src="https://img.shields.io/badge/-IEEE%20WCCI%202022-purple.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="../data/journals/DanAndBez2022hst.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="../data/journals/DanAndBez2022hst.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/DanAndBez2022hst.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/DanAndBez2022hst.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/CEC55065.2022.9870388" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a> 
 
 **Retail sales forecasting for a Brazilian supermarket chain: an empirical assessment**
 
 <a href="https://cbi2022.cs.vu.nl" target="_blank"><img src="https://img.shields.io/badge/-IEEE%20CBI%202022-purple.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="../data/journals/AlmMarNunBez2022cbi.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="../data/journals/AlmMarNunBez2022cbi.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AlmMarNunBez2022cbi.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AlmMarNunBez2022cbi.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/CBI54897.2022.00014" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a> 
 
 **Supermarket customer segmentation: a case study in a large Brazilian retail chain**
 
 <a href="https://cbi2022.cs.vu.nl" target="_blank"><img src="https://img.shields.io/badge/-IEEE%20CBI%202022-purple.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="../data/journals/OliAraBez2022cbi.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="../data/journals/OliAraBez2022cbi.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/OliAraBez2022cbi.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/OliAraBez2022cbi.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/CBI54897.2022.00015" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 
 **Time-series features for predictive policing**
 
 <a href="https://site.ieee.org/isc2-2018/" target="_blank"><img src="https://img.shields.io/badge/-IEEE%20ISC2%202018-purple.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="../data/journals/BorZieBeiCacMarAraBezGei2018isc2.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="../data/journals/BorZieBeiCacMarAraBezGei2018isc2.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/BorZieBeiCacMarAraBezGei2018isc2.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/BorZieBeiCacMarAraBezGei2018isc2.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/ISC2.2018.8656731" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 
 **Towards a crime hotspot detection framework for patrol planning**
 
 <a href="https://ieeexplore.ieee.org/xpl/conhome/8605812/proceeding" target="_blank"><img src="https://img.shields.io/badge/-IEEE%20SmartCity%202018-purple.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="../data/journals/AraCacBezVieBor2018sc.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="../data/journals/AraCacBezVieBor2018sc.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AraCacBezVieBor2018sc.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AraCacBezVieBor2018sc.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/HPCC/SmartCity/DSS.2018.00211" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 
 These papers comprise the contributions of data science M.Sc. theses I
@@ -237,22 +237,22 @@ criminal occurrences.
 **Evaluating anytime performance on NAS-Bench-101**
 
 <a href="https://cec2021.mini.pw.edu.pl" target="_blank"><img src="https://img.shields.io/badge/-IEEE%20CEC%202021-purple.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="../data/journals/VieCacBez2021nasbench.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="../data/journals/VieCacBez2021nasbench.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/VieCacBez2021nasbench.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/VieCacBez2021nasbench.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/CEC45853.2021.9504902" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 
 **iSklearn: automated machine learning with irace**
 
 <a href="https://cec2021.mini.pw.edu.pl" target="_blank"><img src="https://img.shields.io/badge/-IEEE%20CEC%202021-purple.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="../data/journals/VieAraAndBez2021isklearn.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="../data/journals/VieAraAndBez2021isklearn.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/VieAraAndBez2021isklearn.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/VieAraAndBez2021isklearn.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/CEC45853.2021.9504696" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 
 **Comparing contextual embeddings for semantic textual similarity in Portuguese**
 
 <a href="https://c4ai.inova.usp.br/bracis2021/" target="_blank"><img src="https://img.shields.io/badge/-%20BRACIS%202021-purple.svg?style=for-the-badge"/></a>
-<a href="../data/journals/AndCarBez2021bracis.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="../data/journals/AndCarBez2021bracis.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AndCarBez2021bracis.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AndCarBez2021bracis.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1007/978-3-030-91699-2_27" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 
 These papers are the contributions of M.Sc. theses I supervised in deep
@@ -270,22 +270,22 @@ therefore their need for accountability.
 **Revisiting Pareto-optimal multi-and many-objective reference fronts for continuous optimization**
 
 <a href="https://cec2021.mini.pw.edu.pl" target="_blank"><img src="https://img.shields.io/badge/-IEEE%20CEC%202021-purple.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="../data/journals/CavWanBezStu2021fronts.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="../data/journals/CavWanBezStu2021fronts.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/CavWanBezStu2021fronts.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/CavWanBezStu2021fronts.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/CEC45853.2021.9504952" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 
 **Archiver effects on the performance of state-of-the-art multi-and many-objective evolutionary algorithms**
 
 <a href="https://gecco-2019.sigevo.org" target="_blank"><img src="https://img.shields.io/badge/-GECCO%202019-purple.svg?logo=acm&style=for-the-badge&logoColor=white"/></a>
-<a href="../data/journals/BezLopStu2019gecco.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="../data/journals/BezLopStu2019gecco.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/BezLopStu2019gecco.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/BezLopStu2019gecco.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1145/3321707.3321789" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 
 **An empirical assessment of the properties of inverted generational distance on multi-and many-objective optimization**
 
 <a href="https://link.springer.com/book/10.1007/978-3-319-54157-0" target="_blank"><img src="https://img.shields.io/badge/-EMO%202017-purple.svg?style=for-the-badge"/></a>
-<a href="../data/journals/BezLopStu2017igd.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="../data/journals/BezLopStu2017igd.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/BezLopStu2017igd.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/BezLopStu2017igd.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1007/978-3-319-54157-0_3" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 
 
