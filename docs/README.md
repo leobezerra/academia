@@ -19,8 +19,7 @@ intelligence (AI)**, and their impact on **socially relevant problems**.
 
 - I **supervise graduate students** on [theses](#theses) involving **deep** and **automated machine learning**, as well as the intersection of **multi-objective optimization** with other CI domains, such as **multi-dimensional visualization** and **dynamic optimization**. 
 
-- I have a deep concern for socially relevant problems, having for instance **assisted in the fight against the COVID-19 pandemic** through science [publication](#publications) and [communication](#communication), in an attempt to **counter** the intensive
-**disinformation** campaign held in Brazil.
+- I have a deep concern for socially relevant problems, having for instance **assisted in the fight against the COVID-19 pandemic** through science [publication](#publications) and [communication](#communication), in an attempt to **counter** the intensive **disinformation** campaign held in Brazil.
 
 ---
 
@@ -341,14 +340,16 @@ independent researcher does not mean discontinuing previous research.
   
 ---
   
-## Science communication
+<a name="communication"/>
   
+## Science communication
+
+During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed and collaborated with several science communication efforts to help disseminate the guidelines from the [World Health Organization (WHO)](https://who.org) and counter the disinformation campaigns that were strongly affecting the social distance adherence in Brazil.
+
 <a href="https://www.instagram.com/covidvisual/" target="_blank"> <img src="https://img.shields.io/badge/-visualcovid-purple.svg?logo=instagram&style=for-the-badge&logoColor=white"/></a>
 <a href="https://twitter.com/isola_ai" target="_blank"> <img src="https://img.shields.io/badge/-isola&#46;ai-blue.svg?logo=twitter&style=for-the-badge&logoColor=white"/></a>
 <a href="https://leobezerra.github.io/covid19/" target="_blank"> <img src="https://img.shields.io/badge/-visualizing%20covid--19-green.svg?logo=jupyter&style=for-the-badge&logoColor=white"/></a>
-<a href="https://demografiaufrn.net/category/onas-covid19/" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observartory-orange.svg?logo=wordpress&style=for-the-badge&logoColor=white"/></a>
+<a href="https://demografiaufrn.net/category/onas-covid19/" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observartory-yellow.svg?logo=wordpress&style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.youtube.com/playlist?list=PLU35_2f9Kc6q-KmGmaMevXa5_qfRcVUmt" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observartory-red.svg?logo=youtube&style=for-the-badge&logoColor=white"/></a>  
-
-
   
 [Back to the top](#top)  
