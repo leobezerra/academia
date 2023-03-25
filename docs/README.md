@@ -33,22 +33,35 @@ disinformation campaign held in Brazil.
 
 ## History
 
-### Appointments
+### Appointments (2)
 
-| Start | End | Appointment | Institution | Location |
-|---|---|---|---|---|
-| 2017 | - | Assistant professor | [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br) | [Natal, RN, Brazil](https://goo.gl/maps/iS9PUqgSrShn9mEq8) | 
-| 2016 | 2017 | Assistant professor | [Federal University of Paraíba (UFPB)](https://ufpb.br) | [João Pessoa, PB, Brazil](https://goo.gl/maps/LHXb9Srhdmmd6Krw7) | 
+**Assistant professor** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
-### Awards
+<img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
-| Start | End | Award | Institution | Location |
-|---|---|---|---|---|
-| 2011 | 2016 | Ph.D. degree in Engineering and Technology | [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) |
-| 2011 | 2015 | F.R.I.A doctoral fellowship | [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) |
-| 2009 | 2009 | Best paper award | [Brazilian Symposium on Augmented and Virtual Reality (SVR)](https://grv.inf.pucrs.br/svr2009) | [Porto Alegre, RS, Brazil](https://goo.gl/maps/rKBGkSTUYFbKd5s29) |
+**Assistant professor** @ [Federal University of Paraíba (UFPB)](https://ufpb.br)
 
-### Languages
+<img src="https://img.shields.io/badge/start-2016-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2017-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+
+### Awards (4)
+
+**Best paper award nomination** @ [Evolutionary Multi-Criterion Optimization (EMO)](https://link.springer.com/book/10.1007/978-3-030-12598-1)
+
+<img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/TMXMVfLxzDACKouN7" target="_blank"><img src="https://img.shields.io/badge/-East%20Lansing&comma;%20MI&comma;%20USA-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+
+**Ph.D. degree in Engineering and Technology** @ [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/)
+
+<img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+
+**F.R.I.A doctoral fellowship** @ [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be)
+
+<img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+
+**Best paper award** @ [Brazilian Symposium on Augmented and Virtual Reality (SVR)](https://grv.inf.pucrs.br/svr2009)
+
+<img src="https://img.shields.io/badge/year-2009-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/rKBGkSTUYFbKd5s29" target="_blank"><img src="https://img.shields.io/badge/-Porto%20Alegre&comma;%20RS&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+
+### Languages (5)
 
 <img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/en-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/es-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/it-intermediary-green.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/fr-intermediary-green.svg?style=for-the-badge"/> 
 
@@ -56,16 +69,41 @@ disinformation campaign held in Brazil.
 
 ## Projects and funding
 
-| Start | End | Project | Funder | Location | Role | Status
-|---|---|---|---|---|---|---|
-| 2023 | 2024 | [Information technology graduate internship (class of 2024)](https://residenciaregional.jfrn.jus.br) | [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br) | [Recife, PE, Brazil](https://goo.gl/maps/FnsBrCsXqXjEDtaR9) | Collaborator | <img src="https://img.shields.io/badge/-active-green.svg?style=for-the-badge"/></a> |
-| 2022 | 2023 | Technological innovation cell | [Iberdrola Neoenergia COSERN](https://trf5.jus.br) | [Natal, RN, Brazil](https://goo.gl/maps/iS9PUqgSrShn9mEq8) | Collaborator | <img src="https://img.shields.io/badge/-active-green.svg?style=for-the-badge"/></a> |
-| 2021 | 2023 | [Information technology graduate internship (class of 2023)](https://residenciaregional.jfrn.jus.br) | [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br) | [Recife, PE, Brazil](https://goo.gl/maps/FnsBrCsXqXjEDtaR9) | Proponent | <img src="https://img.shields.io/badge/-active-green.svg?style=for-the-badge"/></a> |
-| 2020 | 2021 | Applied research and human resource education in hardware technologies for artificial intelligence | [Huawei Telecommunications in Brazil](https://huawei.com.br/) | [São Paulo, SP, Brazil](https://goo.gl/maps/LVmYC6tLVA67wJMh9) | Proponent | <img src="https://img.shields.io/badge/-done-blue.svg?style=for-the-badge"/></a> |
-| 2017 | 2018 | [SmartMetropolis](https://smlab.imd.ufrn.br/) | Multiple local and national government branches | [Natal, RN, Brazil](https://goo.gl/maps/iS9PUqgSrShn9mEq8) | Collaborator | <img src="https://img.shields.io/badge/-done-blue.svg?style=for-the-badge"/></a> |
-| 2017 | 2018 | [Revision and update of the Brazilian Standard Classification of Education (CINE Brasil 2018)](https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/cine-brasil)) | [UNESCO](https://unesco.org/) & Brazilian Ministry of Education – [INEP](https://www.gov.br/inep/pt-br) | [Brasília, DF, Brazil](https://goo.gl/maps/CbpPfxbkoDqF7YD57) | Proponent | <img src="https://img.shields.io/badge/-done-blue.svg?style=for-the-badge"/></a> |
-| 2015 | 2016 | [Combinatorial optimization: metaheuristics and exact methods (COMEX)](https://www.belspo.be/belspo/fedra/proj.asp?l=en&COD=P7%2F36) | [Belgian Federal Science Policy Office (BELSPO)](https://belspo.be/) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) | Collaborator | <img src="https://img.shields.io/badge/-done-blue.svg?style=for-the-badge"/></a> |
-| 2011 | 2015 | Generalization of metaheuristics for optimization problems with three or more objectives | [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be) | [Brussels, Belgium](https://goo.gl/maps/MKYig57yGJhiMnoi6) | Proponent | <img src="https://img.shields.io/badge/-done-blue.svg?style=for-the-badge"/></a>
+### Proponent (4)
+
+**Technological innovation cell** @ [Iberdrola Neoenergia COSERN](https://www.neoenergia.com)
+
+<img src="https://img.shields.io/badge/start-2022-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> 
+
+**Applied research and human resource education in hardware technologies for artificial intelligence** @ [Huawei Telecommunications in Brazil](https://huawei.com.br/)
+
+<img src="https://img.shields.io/badge/start-2020-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2021-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/LVmYC6tLVA67wJMh9" target="_blank"><img src="https://img.shields.io/badge/-S&atilde;o%20Paulo&comma;%20SP&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
+
+**Revision and update of the Brazilian Standard Classification of Education (CINE Brasil 2018)** @ [UNESCO](https://unesco.org/) & Brazilian Ministry of Education – [INEP](https://www.gov.br/inep/pt-br)
+
+<img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2019-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/CbpPfxbkoDqF7YD57" target="_blank"><img src="https://img.shields.io/badge/-Bras&iacute;lia&comma;%20DF&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/cine-brasil" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?style=for-the-badge"/></a>
+
+**Generalization of metaheuristics for optimization problems with three or more objectives** @ [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be)
+
+<img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2015-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
+
+### Collaborator (4)
+
+**Information technology graduate internship (class of 2024)** @ [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br)
+
+<img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?style=for-the-badge"/></a> 
+
+**Information technology graduate internship (class of 2023)** @ [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br)
+
+<img src="https://img.shields.io/badge/start-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?style=for-the-badge"/></a> 
+
+**SmartMetropolis** @ Multiple local and national government branches
+
+<img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2018-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>  <a href="https://smlab.imd.ufrn.br/" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?style=for-the-badge"/></a> 
+
+**Combinatorial optimization: metaheuristics and exact methods (COMEX)** @ [Belgian Federal Science Policy Office (BELSPO)](https://belspo.be/)
+
+<img src="https://img.shields.io/badge/start-2015-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
 
 ---
 
