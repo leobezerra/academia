@@ -103,6 +103,10 @@ intelligence (AI)**, and their impact on **socially relevant problems**.
 
 <img src="https://img.shields.io/badge/start-2015-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
 
+**Algorithms for mobile robot path planning considering multiple objectives** @ [National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br)
+
+<img src="https://img.shields.io/badge/start-2009-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2011-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+
 [Back to the top](#top)
 
 ---
@@ -122,10 +126,6 @@ intelligence (AI)**, and their impact on **socially relevant problems**.
 **Sales forecasting for a supermarket chain in Natal, Brazil: an empirical assessment** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
 <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/47159/1/Salesforecastingsupermarket_Almeida_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
-
-**Assessing irace for automated machine and deep learning in computer vision** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/degree-MS-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/role-supervisor-yellow.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/43771/1/Assessingiraceautomated_Vieira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
 
 **Assessing irace for automated machine and deep learning in computer vision** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
