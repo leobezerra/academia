@@ -67,7 +67,7 @@ intelligence (AI)**, and their impact on **socially relevant problems**.
 
 ## Projects and funding
 
-Financial details about the projects are provided in my [CV](#top).
+_Financial details about the projects are provided in my [CV](#top)._
 
 ### Proponent (4)
 
@@ -170,7 +170,7 @@ Financial details about the projects are provided in my [CV](#top).
 
 ## Key and relevant publications
 
-An exhaustive publication list with full author description is provided in my [CV](#top).
+_An exhaustive publication list with full author description is provided in my [CV](#top)._
 
 ### Journals (5)
 
