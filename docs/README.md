@@ -67,6 +67,8 @@ intelligence (AI)**, and their impact on **socially relevant problems**.
 
 ## Projects and funding
 
+Financial details about the projects are provided in my [CV](#top).
+
 ### Proponent (4)
 
 **Technological innovation cell** @ [Iberdrola Neoenergia COSERN](https://www.neoenergia.com)
@@ -167,6 +169,8 @@ intelligence (AI)**, and their impact on **socially relevant problems**.
 <a name="publications"/>
 
 ## Key and relevant publications
+
+An exhaustive publication list with full author description is provided in my [CV](#top).
 
 ### Journals (5)
 
