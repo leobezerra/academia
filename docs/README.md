@@ -107,7 +107,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 **Algorithms for mobile robot path planning considering multiple objectives** @ [National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br)
 
-<img src="https://img.shields.io/badge/start-2009-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2011-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/start-2009-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2011-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 
 [Back to the top](#top)
 
@@ -117,7 +117,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 ## Supervision
 
-**Design configuration for the MMAS algorithm applied to the travelling salesman problem with dynamic demands** @ Federal Center of Technological Education of Minas Gerais (CEFET-MG)
+**Design configuration for the MMAS algorithm applied to the travelling salesman problem with dynamic demands** @ [Federal Center of Technological Education of Minas Gerais (CEFET-MG)](https://cefetmg.br)
 
 <img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/nyNDnqb4qfzCWW3j7" target="_blank"><img src="https://img.shields.io/badge/-Belo%20Horizonte&comma;%20MG&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/degree-PhD-yellow.svg?style=for-the-badge"/>
