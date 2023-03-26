@@ -27,7 +27,7 @@ intelligence (AI)**, and their impact on **socially relevant problems**.
 
 ## Places
   
-_Use the button on the top-right corner of the map to select between conferences, funders, appointments, and coauthors._
+_Use the button on the top-right corner of the map to select between marker categories._
 
 <iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
 
