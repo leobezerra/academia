@@ -27,7 +27,7 @@ intelligence (AI)**, and their impact on **socially relevant problems**.
 
 ## Places
 
-<iframe src="places.html" height="500" width="500"></iframe>
+<iframe src="places.html"></iframe>
 
 ---
 
