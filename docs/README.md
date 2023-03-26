@@ -21,6 +21,14 @@ intelligence (AI)**, and their impact on **socially relevant problems**.
 
 - I have a deep concern for socially relevant problems, having for instance **assisted in the fight against the COVID-19 pandemic** through science [publication](#publications) and [communication](#communication), in an attempt to **counter** the intensive **disinformation** campaign held in Brazil.
 
+--- 
+
+<a name="places">
+
+## Places
+
+<iframe src="places.html" height="500" width="500"></iframe>
+
 ---
 
 <a name="history"/>
