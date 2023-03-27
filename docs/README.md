@@ -275,9 +275,9 @@ the project.
 
 <img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <a href="https://cbi2022.cs.vu.nl" target="_blank"><img src="https://img.shields.io/badge/-CBI-blue.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
 <a href="https://goo.gl/maps/2MB93qVrrNXvMeJZ8" target="_blank"><img src="https://img.shields.io/badge/-Amsterdam&comma;%20The%20Netherlands-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AlmMarNunBez2022cbi.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AlmMarNunBez2022cbi.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/CBI54897.2022.00014" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AlmMarNunBez2022cbi.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AlmMarNunBez2022cbi.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 
 **Supermarket customer segmentation: a case study in a large Brazilian retail chain**
 
@@ -290,7 +290,7 @@ the project.
 **Time-series features for predictive policing**
 
 <img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://site.ieee.org/isc2-2018/" target="_blank"><img src="https://img.shields.io/badge/-ISC2-blue.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="https://goo.gl/maps/uvByoh5R17tiJtmv8" target="_blank"><img src="https://img.shields.io/badge/-Amsterdam&comma;%20The%20Netherlands-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://goo.gl/maps/uvByoh5R17tiJtmv8" target="_blank"><img src="https://img.shields.io/badge/-Kansas%20City&comma;%20MO&comma;%20USA-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/ISC2.2018.8656731" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/BorZieBeiCacMarAraBezGei2018isc2.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/BorZieBeiCacMarAraBezGei2018isc2.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
@@ -298,7 +298,7 @@ the project.
 **Towards a crime hotspot detection framework for patrol planning**
 
 <img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://ieeexplore.ieee.org/xpl/conhome/8605812/proceeding" target="_blank"><img src="https://img.shields.io/badge/-SmartCity-blue.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="https://goo.gl/maps/uvByoh5R17tiJtmv8" target="_blank"><img src="https://img.shields.io/badge/-Kansas%20City&comma;MO&comma;USA-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://goo.gl/maps/KA1zb4NLMJseNwnP8" target="_blank"><img src="https://img.shields.io/badge/-Exeter&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/HPCC/SmartCity/DSS.2018.00211" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AraCacBezVieBor2018sc.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AraCacBezVieBor2018sc.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
@@ -323,7 +323,7 @@ criminal occurrences.
 **Evaluating anytime performance on NAS-Bench-101**
 
 <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://cec2021.mini.pw.edu.pl" target="_blank"><img src="https://img.shields.io/badge/-CEC-blue.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="https://goo.gl/maps/1TuDLuAwvhZJ78yz7" target="_blank"><img src="https://img.shields.io/badge/-Krakow&comma;Poland-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://goo.gl/maps/1TuDLuAwvhZJ78yz7" target="_blank"><img src="https://img.shields.io/badge/-Krakow&comma;%20Poland-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/CEC45853.2021.9504902" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/VieCacBez2021nasbench.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/VieCacBez2021nasbench.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
@@ -331,7 +331,7 @@ criminal occurrences.
 **iSklearn: automated machine learning with irace**
 
 <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://cec2021.mini.pw.edu.pl" target="_blank"><img src="https://img.shields.io/badge/-CEC-blue.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="https://goo.gl/maps/1TuDLuAwvhZJ78yz7" target="_blank"><img src="https://img.shields.io/badge/-Krakow&comma;Poland-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://goo.gl/maps/1TuDLuAwvhZJ78yz7" target="_blank"><img src="https://img.shields.io/badge/-Krakow&comma;%20Poland-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/CEC45853.2021.9504696" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/VieAraAndBez2021isklearn.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/VieAraAndBez2021isklearn.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
@@ -340,8 +340,8 @@ criminal occurrences.
 
 <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://c4ai.inova.usp.br/bracis2021/" target="_blank"><img src="https://img.shields.io/badge/-%20BRACIS%202021-blue.svg?style=for-the-badge"/></a> <img src="https://img.shields.io/badge/-online-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/>
 <a href="https://doi.org/10.1007/978-3-030-91699-2_27" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
-<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AndCarBez2021bracis.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-blue.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AndCarBez2021bracis.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-green.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a>
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AndCarBez2021bracis.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AndCarBez2021bracis.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a>
 
 These papers are the contributions of M.Sc. theses I supervised in deep
 and automated machine learning. The relevance of these papers is
@@ -358,7 +358,7 @@ therefore their need for accountability.
 **Revisiting Pareto-optimal multi-and many-objective reference fronts for continuous optimization**
 
 <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://cec2021.mini.pw.edu.pl" target="_blank"><img src="https://img.shields.io/badge/-CEC-blue.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="https://goo.gl/maps/1TuDLuAwvhZJ78yz7" target="_blank"><img src="https://img.shields.io/badge/-Krakow&comma;Poland-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://goo.gl/maps/1TuDLuAwvhZJ78yz7" target="_blank"><img src="https://img.shields.io/badge/-Krakow&comma;%20Poland-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1109/CEC45853.2021.9504952" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/CavWanBezStu2021fronts.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/CavWanBezStu2021fronts.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
@@ -366,15 +366,15 @@ therefore their need for accountability.
 **Archiver effects on the performance of state-of-the-art multi-and many-objective evolutionary algorithms**
 
 <img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <a href="https://gecco-2019.sigevo.org" target="_blank"><img src="https://img.shields.io/badge/-GECCO-blue.svg?logo=acm&style=for-the-badge&logoColor=white"/></a>
-<a href="https://goo.gl/maps/XevNq13MjyDXsgwD6" target="_blank"><img src="https://img.shields.io/badge/-Prague&comma;Czech%20Republic-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://goo.gl/maps/XevNq13MjyDXsgwD6" target="_blank"><img src="https://img.shields.io/badge/-Prague&comma;%20Czech%20Republic-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1145/3321707.3321789" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/BezLopStu2019gecco.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/BezLopStu2019gecco.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 
 **An empirical assessment of the properties of inverted generational distance on multi-and many-objective optimization**
 
-<img src="https://img.shields.io/badge/year-2017-blue.svg?style=for-the-badge"/> <a href="https://link.springer.com/book/10.1007/978-3-319-54157-0" target="_blank"><img src="https://img.shields.io/badge/-EMO-blue.svg?style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/8fsKTXhtak5XiJap9" target="_blank"><img src="https://img.shields.io/badge/-East%20Lansing&comma;MI&comma;USA-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/year-2017-purple.svg?style=for-the-badge"/> <a href="https://link.springer.com/book/10.1007/978-3-319-54157-0" target="_blank"><img src="https://img.shields.io/badge/-EMO-blue.svg?style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/8fsKTXhtak5XiJap9" target="_blank"><img src="https://img.shields.io/badge/-East%20Lansing&comma;%20MI&comma;%20USA-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://doi.org/10.1007/978-3-319-54157-0_3" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/BezLopStu2017igd.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/BezLopStu2017igd.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
