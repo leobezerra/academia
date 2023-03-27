@@ -529,6 +529,13 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 ---
 
-### Communication and networking
+### Community
 
+In addition to my formal collaborations through supervision and authoring, I have also met incredible people along my research career.
+- **Wider network**, researchers that always wholeheartedly assist me when I reach out to them.
+- **IRIDIAns**, the whole family of researchers that graduated with my from the IRIDIA lab.
+- **Alumni**, the amazing students I had the privilege to supervise.
+  
+Check their whereabouts (updated eventually) at the interactive map at the beginning of this CV :blush:
+  
 [Back to the top](#top)  
