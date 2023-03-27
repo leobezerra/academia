@@ -25,9 +25,17 @@ intelligence (AI)**, and their impact on **socially relevant problems**.
 
 <a name="places">
 
-## Places
-  
-_Use the button on the top-right corner of the map to select between marker categories._
+## Places & People 
+
+<img src="https://img.shields.io/badge/-appointments-pink.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-awards-purple.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-funders-darkblue.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-conferences-blue.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-coauthors-darkgreen.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-talks-green.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-wider%20network-orange.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-iridians-red.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-alumni-darkred.svg?style=for-the-badge"/>
 
 <iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
 
