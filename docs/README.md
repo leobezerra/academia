@@ -473,14 +473,14 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 <img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/marcus-ritt-a2164737/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/rKBGkSTUYFbKd5s29" target="_blank"><img src="https://img.shields.io/badge/-Porto%20Alegre&comma;%20RS&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/> 
-<a href="https://slides.com/leobezerra/deck-1" target="_blank"><img src="https://img.shields.io/badge/-keynote-red.svg?logo=slides&logoColor=white&style=for-the-badge"/></a>
+<a href="https://slides.com/leobezerra/deck-1" target="_blank"><img src="https://img.shields.io/badge/-keynote-orange.svg?logo=slides&logoColor=white&style=for-the-badge"/></a>
 
 @ [Federal University of Paraíba (UFPB)](https://ufpb.br)
 
 <img src="https://img.shields.io/badge/year-2017-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/luc%C3%ADdio-cabral-38249834/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/> 
-<a href="https://slides.com/leobezerra/deck-1" target="_blank"><img src="https://img.shields.io/badge/-keynote-red.svg?logo=slides&logoColor=white&style=for-the-badge"/></a>
+<a href="https://slides.com/leobezerra/deck-1" target="_blank"><img src="https://img.shields.io/badge/-keynote-orange.svg?logo=slides&logoColor=white&style=for-the-badge"/></a>
 
 ---
 
@@ -496,15 +496,25 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
+<img src="https://img.shields.io/badge/year-2016-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-goldbarg-a961457/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/> 
+<a href="https://iridia.ulb.ac.be/~leonardo/irace/lae-2015-1/" target="_blank"><img src="https://img.shields.io/badge/-tutorial-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+  
+@ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+
 <img src="https://img.shields.io/badge/year-2015-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-goldbarg-a961457/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/> 
+<a href="https://iridia.ulb.ac.be/~leonardo/irace/lae-2015-1/" target="_blank"><img src="https://img.shields.io/badge/-tutorial-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 
+  
 @ [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/)
 
 <img src="https://img.shields.io/badge/year-2015-purple.svg?style=for-the-badge"/> <a href="https://code.ulb.ac.be/lab/IRIDIA" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/> 
+<a href="https://iridia.ulb.ac.be/~leonardo/irace/irace-link/" target="_blank"><img src="https://img.shields.io/badge/-tutorial-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 
 ---
 
