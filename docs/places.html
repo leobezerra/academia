@@ -1,0 +1,2075 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_920e69638098ed4475431138e140bd8a {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_920e69638098ed4475431138e140bd8a" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_920e69638098ed4475431138e140bd8a = L.map(
+                "map_920e69638098ed4475431138e140bd8a",
+                {
+                    center: [5.7842, -35.2],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 1,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_4e78d02667f111aa3ecc1f74e5085995 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_920e69638098ed4475431138e140bd8a);
+        
+    
+            var marker_cluster_ab306f7e710266bb7f4c58c73c252e9f = L.markerClusterGroup(
+                {"polygonOptions": {"color": "transparent", "stroke": false}}
+            );
+            map_920e69638098ed4475431138e140bd8a.addLayer(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var marker_b99e7c35c407a9be1da9624a89d20013 = L.marker(
+                [45.4077172, 11.8734455],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_1f907ebbc83238eca8f047a199738091 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_b99e7c35c407a9be1da9624a89d20013.setIcon(icon_1f907ebbc83238eca8f047a199738091);
+        
+    
+            marker_b99e7c35c407a9be1da9624a89d20013.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>IEEE WCCI 2022</strong><br><em>High school timetabling at a federal educational institute in Brazil</em><br>Padua, Italy
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_69242e5a58057a9c14876ba67e84e7f4 = L.marker(
+                [52.3730796, 4.8924534],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_5d169dd0aca799025bf79380effe9a27 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_69242e5a58057a9c14876ba67e84e7f4.setIcon(icon_5d169dd0aca799025bf79380effe9a27);
+        
+    
+            marker_69242e5a58057a9c14876ba67e84e7f4.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>IEEE CBI 2022</strong><br><em>Retail sales forecasting for a Brazilian supermarket chain: an empirical assessment</em><br>Amsterdam, The Netherlands
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_7829ace75f63d44364b5232a9c85a9d5 = L.marker(
+                [52.3730796, 4.8924534],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_1e6fafbcc20845e7ad50540d91265a99 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_7829ace75f63d44364b5232a9c85a9d5.setIcon(icon_1e6fafbcc20845e7ad50540d91265a99);
+        
+    
+            marker_7829ace75f63d44364b5232a9c85a9d5.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>IEEE CBI 2022</strong><br><em>Supermarket customer segmentation: a case study in a large Brazilian retail chain</em><br>Amsterdam, The Netherlands
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_73c9ca13cd862cdeed53088527dfcb37 = L.marker(
+                [50.0619474, 19.9368564],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_5288818d155d8e4cbeb70b9f67db6bb6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_73c9ca13cd862cdeed53088527dfcb37.setIcon(icon_5288818d155d8e4cbeb70b9f67db6bb6);
+        
+    
+            marker_73c9ca13cd862cdeed53088527dfcb37.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>IEEE CEC 2021</strong><br><em>Revisiting pareto-optimal multi- and many-objective reference fronts for continuous optimization</em><br>Kraków, Poland
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5ff5a4ea94f565b486e17b8c4edad978 = L.marker(
+                [50.0619474, 19.9368564],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_b7d7db56b7188cb9df732240222fac41 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_5ff5a4ea94f565b486e17b8c4edad978.setIcon(icon_b7d7db56b7188cb9df732240222fac41);
+        
+    
+            marker_5ff5a4ea94f565b486e17b8c4edad978.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>IEEE CEC 2021</strong><br><em>Evaluating anytime performance on NAS-Bench-101</em><br>Kraków, Poland
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1a4a1288d4ee2b7b729c9cc8ee6a7685 = L.marker(
+                [50.0619474, 19.9368564],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_3ab034c2607df99f43903a8e58b18713 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_1a4a1288d4ee2b7b729c9cc8ee6a7685.setIcon(icon_3ab034c2607df99f43903a8e58b18713);
+        
+    
+            marker_1a4a1288d4ee2b7b729c9cc8ee6a7685.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>IEEE CEC 2021</strong><br><em>iSklearn: automated machine learning with irace</em><br>Kraków, Poland
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_620c64cb495e861f7e52ea00819ebbc9 = L.marker(
+                [50.0874654, 14.4212535],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_98d44a6cb54c81e57604125413d7d521 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_620c64cb495e861f7e52ea00819ebbc9.setIcon(icon_98d44a6cb54c81e57604125413d7d521);
+        
+    
+            marker_620c64cb495e861f7e52ea00819ebbc9.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>GECCO 2019</strong><br><em>Archiver effects on the performance of state-of-the-art multi- and many-objective evolutionary algorithms</em><br>Prague, Czech Republic
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fd688d0ff82cc187c388145fadc6399c = L.marker(
+                [42.7320307, -84.4721678],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_972c53bd7c5f20d7a8eda85d215c447f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_fd688d0ff82cc187c388145fadc6399c.setIcon(icon_972c53bd7c5f20d7a8eda85d215c447f);
+        
+    
+            marker_fd688d0ff82cc187c388145fadc6399c.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>EMO 2019</strong><br><em>The hypervolume indicator as a performance measure in dynamic optimization</em><br>East Lansing, MI, USA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_7fc8693d8fffaff66540ea4ac0f3071d = L.marker(
+                [50.7255794, -3.5269497],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_ba8dcfacc2940472773368310d38c09c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_7fc8693d8fffaff66540ea4ac0f3071d.setIcon(icon_ba8dcfacc2940472773368310d38c09c);
+        
+    
+            marker_7fc8693d8fffaff66540ea4ac0f3071d.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>IEEE SmartCity 2018</strong><br><em>Towards a crime hotspot detection framework for patrol planning</em><br>Exeter, UK
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_db51ee599d51b2b5ae1e768b9832ca7d = L.marker(
+                [39.100105, -94.5781416],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_f963e1c7f3eec5a10ce7df3fa800d323 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_db51ee599d51b2b5ae1e768b9832ca7d.setIcon(icon_f963e1c7f3eec5a10ce7df3fa800d323);
+        
+    
+            marker_db51ee599d51b2b5ae1e768b9832ca7d.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>IEEE ISC2 2018</strong><br><em>Time-series features for predictive policing</em><br>Kansas City, MO, USA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b2c55be6f718bb7770ebc06b3eaaf16e = L.marker(
+                [51.9625101, 7.6251879],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_36928cbc81802c32e585f15d4826765f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_b2c55be6f718bb7770ebc06b3eaaf16e.setIcon(icon_36928cbc81802c32e585f15d4826765f);
+        
+    
+            marker_b2c55be6f718bb7770ebc06b3eaaf16e.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>EMO 2017</strong><br><em>An empirical assessment of the properties of inverted generational distance on multi- and many-objective optimization</em><br>Münster, Germany
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ec8b4770fbcc3d0fb788a2d78d629fab = L.marker(
+                [41.4417677, -8.2955712],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_f425379316ccc4ebea256323dbb83036 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_ec8b4770fbcc3d0fb788a2d78d629fab.setIcon(icon_f425379316ccc4ebea256323dbb83036);
+        
+    
+            marker_ec8b4770fbcc3d0fb788a2d78d629fab.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>EMO 2015</strong><br><em>Comparing decomposition-based and automatically component-wise designed multi-objective evolutionary algorithms</em><br>Guimarães, Portugal
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_53ee63e4e20669b307a0411795b54523 = L.marker(
+                [41.4417677, -8.2955712],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_a378e63c9917d59f3ffb23971a86ec94 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_53ee63e4e20669b307a0411795b54523.setIcon(icon_a378e63c9917d59f3ffb23971a86ec94);
+        
+    
+            marker_53ee63e4e20669b307a0411795b54523.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>EMO 2015</strong><br><em>To DE or not to DE? Multi-objective differential evolution revisited from a component-wise perspective</em><br>Guimarães, Portugal
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c1620d9a98f36bba620e535cf32cd400 = L.marker(
+                [46.0500268, 14.5069289],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_a7e03f321d7c9cece05e7bcec5142bc6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_c1620d9a98f36bba620e535cf32cd400.setIcon(icon_a7e03f321d7c9cece05e7bcec5142bc6);
+        
+    
+            marker_c1620d9a98f36bba620e535cf32cd400.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>PPSN 2014</strong><br><em>Automatic design of evolutionary algorithms for multi-objective combinatorial optimization</em><br>Ljubljana, Slovenia
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_15246dbf09783a101a9ddfb9fcf2757e = L.marker(
+                [29.6519684, -82.3249846],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_e42be7d7b31074e059b63258f534c036 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_15246dbf09783a101a9ddfb9fcf2757e.setIcon(icon_e42be7d7b31074e059b63258f534c036);
+        
+    
+            marker_15246dbf09783a101a9ddfb9fcf2757e.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>LION 2014</strong><br><em>Deconstructing multi-objective evolutionary algorithms: an iterative analysis on the permutation flowshop problem</em><br>Gainesville, FL, USA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5dfe6cc6624426dafff7f74bea72b4d5 = L.marker(
+                [48.2083537, 16.3725042],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_79386216ad05cb31464911ebb0a34a77 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_5dfe6cc6624426dafff7f74bea72b4d5.setIcon(icon_79386216ad05cb31464911ebb0a34a77);
+        
+    
+            marker_5dfe6cc6624426dafff7f74bea72b4d5.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>EvoCOP 2013</strong><br><em>An analysis of local search for the bi-objective bidimensional knapsack problem</em><br>Wien, Austria
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_60fe003cde0f7e4ff6f7addcb79fde39 = L.marker(
+                [50.8465573, 4.351697],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_a7f3ec2c4cd657e9b8bc65fdc7a5894d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_60fe003cde0f7e4ff6f7addcb79fde39.setIcon(icon_a7f3ec2c4cd657e9b8bc65fdc7a5894d);
+        
+    
+            marker_60fe003cde0f7e4ff6f7addcb79fde39.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>ANTS 2012</strong><br><em>Automatic generation of multi- objective ACO algorithms for the bi-objective knapsack</em><br>Brussels, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5b00475a0374bfaecd84f274d1b40d08 = L.marker(
+                [-20.385527, -43.5035214],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_31189d041784afc9c807b771a5e69dd1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_5b00475a0374bfaecd84f274d1b40d08.setIcon(icon_31189d041784afc9c807b771a5e69dd1);
+        
+    
+            marker_5b00475a0374bfaecd84f274d1b40d08.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>EMO 2011</strong><br><em>GRACE: A generational randomized ACO for the multiobjective shortest path problem</em><br>Ouro Preto, MG, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_414b9d60302eaaa7f5ee053f858a91b9 = L.marker(
+                [-23.433162, -45.083415],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_39999712d2fbad19ec8f4e1882ebefbc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_414b9d60302eaaa7f5ee053f858a91b9.setIcon(icon_39999712d2fbad19ec8f4e1882ebefbc);
+        
+    
+            marker_414b9d60302eaaa7f5ee053f858a91b9.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>SBPO 2011</strong><br><em>Um estudo experimental do problem de caminhos mínimos multiobjetivo</em><br>Ubatuba, SP, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_130a513f229f190093ed38e8911a3f54 = L.marker(
+                [-30.0324999, -51.2303767],
+                {}
+            ).addTo(marker_cluster_ab306f7e710266bb7f4c58c73c252e9f);
+        
+    
+            var icon_5a351470bb85e0ef95fe7959fc48d719 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_130a513f229f190093ed38e8911a3f54.setIcon(icon_5a351470bb85e0ef95fe7959fc48d719);
+        
+    
+            marker_130a513f229f190093ed38e8911a3f54.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>SVR 2009</strong><br><em>FAITH: A desktop virtual reality system for fingerspelling</em><br>Porto Alegre, RS, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cluster_5a811374cc859c016c68f9b6afd6e2b0 = L.markerClusterGroup(
+                {"polygonOptions": {"color": "transparent", "stroke": false}}
+            );
+            map_920e69638098ed4475431138e140bd8a.addLayer(marker_cluster_5a811374cc859c016c68f9b6afd6e2b0);
+        
+    
+            var marker_118a8a58b28de4b9b8f4dd907312583b = L.marker(
+                [50.8465573, 4.351697],
+                {}
+            ).addTo(marker_cluster_5a811374cc859c016c68f9b6afd6e2b0);
+        
+    
+            var icon_5adf628db210b39edfd4d5f7a7319684 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "blue", "prefix": "fa"}
+            );
+            marker_118a8a58b28de4b9b8f4dd907312583b.setIcon(icon_5adf628db210b39edfd4d5f7a7319684);
+        
+    
+            marker_118a8a58b28de4b9b8f4dd907312583b.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Belgian Federal Science Policy Office (BELSPO)</strong><br><em>Combinatorial optimization: metaheuristics and exact methods (COMEX)</em><br>Brussels, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1c4fb2c561e8b14326ff6cfac1d015dd = L.marker(
+                [50.8465573, 4.351697],
+                {}
+            ).addTo(marker_cluster_5a811374cc859c016c68f9b6afd6e2b0);
+        
+    
+            var icon_1dc11100ae563949886c923b93f4bc60 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "blue", "prefix": "fa"}
+            );
+            marker_1c4fb2c561e8b14326ff6cfac1d015dd.setIcon(icon_1dc11100ae563949886c923b93f4bc60);
+        
+    
+            marker_1c4fb2c561e8b14326ff6cfac1d015dd.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Fonds de la Recherche Scientifique (FNRS)</strong><br><em>Generalization of metaheuristics for optimization problems with three or more objectives</em><br>Brussels, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9dc6aaeb574897624d8e4296f957e41f = L.marker(
+                [-8.0584933, -34.8848193],
+                {}
+            ).addTo(marker_cluster_5a811374cc859c016c68f9b6afd6e2b0);
+        
+    
+            var icon_3bd70edb2f00b0579affa2836d2d5e37 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "blue", "prefix": "fa"}
+            );
+            marker_9dc6aaeb574897624d8e4296f957e41f.setIcon(icon_3bd70edb2f00b0579affa2836d2d5e37);
+        
+    
+            marker_9dc6aaeb574897624d8e4296f957e41f.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>5th Region Federal Regional Court (TRF5)</strong><br><em>Information technology graduate internship (class of 2024)</em><br>Recife, PE, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_de2e531613e21c55049ff2547bda2b39 = L.marker(
+                [-8.0584933, -34.8848193],
+                {}
+            ).addTo(marker_cluster_5a811374cc859c016c68f9b6afd6e2b0);
+        
+    
+            var icon_6267dda8d59995bb98da1cc5f956051d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "blue", "prefix": "fa"}
+            );
+            marker_de2e531613e21c55049ff2547bda2b39.setIcon(icon_6267dda8d59995bb98da1cc5f956051d);
+        
+    
+            marker_de2e531613e21c55049ff2547bda2b39.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>5th Region Federal Regional Court (TRF5)</strong><br><em>Information technology graduate internship (class of 2023)</em><br>Recife, PE, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_84685d792fd5476f5010ea58ecba369a = L.marker(
+                [-5.805398, -35.2080905],
+                {}
+            ).addTo(marker_cluster_5a811374cc859c016c68f9b6afd6e2b0);
+        
+    
+            var icon_13d7b90638aaa9c2e8ee0baae824781d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "blue", "prefix": "fa"}
+            );
+            marker_84685d792fd5476f5010ea58ecba369a.setIcon(icon_13d7b90638aaa9c2e8ee0baae824781d);
+        
+    
+            marker_84685d792fd5476f5010ea58ecba369a.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Iberdrola Neoenergia COSERN</strong><br><em>Technological innovation cell</em><br>Natal, RN, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f9b64fe1aedf43a2398942fb15cdf9e2 = L.marker(
+                [-23.5506507, -46.6333824],
+                {}
+            ).addTo(marker_cluster_5a811374cc859c016c68f9b6afd6e2b0);
+        
+    
+            var icon_f1ff25cd47b42548cd1fa873024b0797 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "blue", "prefix": "fa"}
+            );
+            marker_f9b64fe1aedf43a2398942fb15cdf9e2.setIcon(icon_f1ff25cd47b42548cd1fa873024b0797);
+        
+    
+            marker_f9b64fe1aedf43a2398942fb15cdf9e2.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Huawei Telecommunications in Brazil</strong><br><em>Applied research and human resource education in hardware technologies for artificial intelligence</em><br>São Paulo, SP, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_14b1cee342ac04c5f1df002908b62520 = L.marker(
+                [-15.7934036, -47.8823172],
+                {}
+            ).addTo(marker_cluster_5a811374cc859c016c68f9b6afd6e2b0);
+        
+    
+            var icon_34e2bfafb2b3235216fd26ce5104316d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "blue", "prefix": "fa"}
+            );
+            marker_14b1cee342ac04c5f1df002908b62520.setIcon(icon_34e2bfafb2b3235216fd26ce5104316d);
+        
+    
+            marker_14b1cee342ac04c5f1df002908b62520.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Brazilian Ministry of Education - INEP</strong><br><em>Revision and update of the Brazilian Standard Classification of Education (CINE Brasil 2018)</em><br>Brasília, DF, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a9d7023948cf1f198ae0987669222990 = L.marker(
+                [48.8534951, 2.3483915],
+                {}
+            ).addTo(marker_cluster_5a811374cc859c016c68f9b6afd6e2b0);
+        
+    
+            var icon_7f154d9b0f3bbeeecd8114572d54f3c1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "blue", "prefix": "fa"}
+            );
+            marker_a9d7023948cf1f198ae0987669222990.setIcon(icon_7f154d9b0f3bbeeecd8114572d54f3c1);
+        
+    
+            marker_a9d7023948cf1f198ae0987669222990.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>UNESCO</strong><br><em>Revision and update of the Brazilian Standard Classification of Education (CINE Brasil 2018)</em><br>Paris, France
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cluster_2fcbdc8ab4ae6a6f94e0e2bee1d42af4 = L.markerClusterGroup(
+                {"polygonOptions": {"color": "transparent", "stroke": false}}
+            );
+            map_920e69638098ed4475431138e140bd8a.addLayer(marker_cluster_2fcbdc8ab4ae6a6f94e0e2bee1d42af4);
+        
+    
+            var marker_7cde66aac0777330a7b24a422a417925 = L.marker(
+                [50.8465573, 4.351697],
+                {}
+            ).addTo(marker_cluster_2fcbdc8ab4ae6a6f94e0e2bee1d42af4);
+        
+    
+            var icon_1bb201a32de08f8b1d5e51116691dd6a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "green", "prefix": "fa"}
+            );
+            marker_7cde66aac0777330a7b24a422a417925.setIcon(icon_1bb201a32de08f8b1d5e51116691dd6a);
+        
+    
+            marker_7cde66aac0777330a7b24a422a417925.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Université Libre de Bruxelles (ULB)</strong><br><em>Teaching Assistant</em><br>Brussels, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b8fd0e33ef34e0776347a7639f148fd1 = L.marker(
+                [-5.805398, -35.2080905],
+                {}
+            ).addTo(marker_cluster_2fcbdc8ab4ae6a6f94e0e2bee1d42af4);
+        
+    
+            var icon_e72b0cc5638102a508f2cbc5cce2d97f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "green", "prefix": "fa"}
+            );
+            marker_b8fd0e33ef34e0776347a7639f148fd1.setIcon(icon_e72b0cc5638102a508f2cbc5cce2d97f);
+        
+    
+            marker_b8fd0e33ef34e0776347a7639f148fd1.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Federal University of Rio Grande do Norte</strong><br><em>Assistant Professor</em><br>Natal, RN, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_950049023aca73c61f9b1172bc42a508 = L.marker(
+                [-7.1215981, -34.882028],
+                {}
+            ).addTo(marker_cluster_2fcbdc8ab4ae6a6f94e0e2bee1d42af4);
+        
+    
+            var icon_931189d49748561cceed67f26533aabe = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "green", "prefix": "fa"}
+            );
+            marker_950049023aca73c61f9b1172bc42a508.setIcon(icon_931189d49748561cceed67f26533aabe);
+        
+    
+            marker_950049023aca73c61f9b1172bc42a508.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Federal University of Paraíba</strong><br><em>Assistant Professor</em><br>João Pessoa, PB, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cluster_935a8195913130ba50ca2082357dc3f8 = L.markerClusterGroup(
+                {"polygonOptions": {"color": "transparent", "stroke": false}}
+            );
+            map_920e69638098ed4475431138e140bd8a.addLayer(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var marker_46f75429da6db410ca125cee8625dee5 = L.marker(
+                [50.8465573, 4.351697],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_b5df0a2f9a6be69a48f2b8cb7ded1b28 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_46f75429da6db410ca125cee8625dee5.setIcon(icon_b5df0a2f9a6be69a48f2b8cb7ded1b28);
+        
+    
+            marker_46f75429da6db410ca125cee8625dee5.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Thomas Stützle</strong><br><em>Université Libre de Bruxelles (ULB)</em><br>Brussels, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fe0d1c9f2a05d6e443c7ea497f40459d = L.marker(
+                [50.8465573, 4.351697],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_8a476a4156cd609ba71585e5e949d859 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_fe0d1c9f2a05d6e443c7ea497f40459d.setIcon(icon_8a476a4156cd609ba71585e5e949d859);
+        
+    
+            marker_fe0d1c9f2a05d6e443c7ea497f40459d.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Marco Dorigo</strong><br><em>Université Libre de Bruxelles (ULB)</em><br>Brussels, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_989d9930ac0cbf30114186380e45ee43 = L.marker(
+                [-5.805398, -35.2080905],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_d8b68c6dc198548f7cb6799bef154ae2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_989d9930ac0cbf30114186380e45ee43.setIcon(icon_d8b68c6dc198548f7cb6799bef154ae2);
+        
+    
+            marker_989d9930ac0cbf30114186380e45ee43.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Luciana Lima</strong><br><em>Federal University of Rio Grande do Norte (UFRN)</em><br>Natal, RN, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6845d555f52421fcd7e58d6bb49976e3 = L.marker(
+                [-5.805398, -35.2080905],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_a8a92a8dd7418730924d6f85f1179451 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_6845d555f52421fcd7e58d6bb49976e3.setIcon(icon_a8a92a8dd7418730924d6f85f1179451);
+        
+    
+            marker_6845d555f52421fcd7e58d6bb49976e3.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Elizabeth F. G. Goldbarg</strong><br><em>Federal University of Rio Grande do Norte (UFRN)</em><br>Natal, RN, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9d6890b6cff5b2d5697ad6098d3221cf = L.marker(
+                [-5.805398, -35.2080905],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_f1fe4310effc7fed5009dc43575c8328 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_9d6890b6cff5b2d5697ad6098d3221cf.setIcon(icon_f1fe4310effc7fed5009dc43575c8328);
+        
+    
+            marker_9d6890b6cff5b2d5697ad6098d3221cf.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Allan M. Martins</strong><br><em>Federal University of Rio Grande do Norte (UFRN)</em><br>Natal, RN, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ad07bab15cca3eeebb6d3650d6abacb9 = L.marker(
+                [-5.805398, -35.2080905],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_b7f6df37fc4f6a1bfa5939b82a44f5af = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_ad07bab15cca3eeebb6d3650d6abacb9.setIcon(icon_b7f6df37fc4f6a1bfa5939b82a44f5af);
+        
+    
+            marker_ad07bab15cca3eeebb6d3650d6abacb9.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Marcus A. Nunes</strong><br><em>Federal University of Rio Grande do Norte (UFRN)</em><br>Natal, RN, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_23a21d2c50484f0b963d4684fec4e1d9 = L.marker(
+                [-5.805398, -35.2080905],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_de5378578f50726bca087f85348bcd37 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_23a21d2c50484f0b963d4684fec4e1d9.setIcon(icon_de5378578f50726bca087f85348bcd37);
+        
+    
+            marker_23a21d2c50484f0b963d4684fec4e1d9.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Daniel S.A. Araújo</strong><br><em>Federal University of Rio Grande do Norte (UFRN)</em><br>Natal, RN, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_80e9a17130f8fe28d20b1fce0c6daf55 = L.marker(
+                [-5.805398, -35.2080905],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_12df079d35150349548fd42b3315a811 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_80e9a17130f8fe28d20b1fce0c6daf55.setIcon(icon_12df079d35150349548fd42b3315a811);
+        
+    
+            marker_80e9a17130f8fe28d20b1fce0c6daf55.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Nélio Alessandro Azevedo Cacho</strong><br><em>Federal University of Rio Grande do Norte (UFRN)</em><br>Natal, RN, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_00202d205e8d36c288ca49240e3e05d1 = L.marker(
+                [52.4796992, -1.9026911],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_aba3eb22d6abfc3853e72b41058b2df7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_00202d205e8d36c288ca49240e3e05d1.setIcon(icon_aba3eb22d6abfc3853e72b41058b2df7);
+        
+    
+            marker_00202d205e8d36c288ca49240e3e05d1.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Elizabeth F. Wanner</strong><br><em>Aston University</em><br>Birmingham, UK
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_dd6e9a5ddc679d3229d09e1306dbae18 = L.marker(
+                [-19.9225776, -43.9451356],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_786bc823733674fe26a71f9b4d8c9d08 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_dd6e9a5ddc679d3229d09e1306dbae18.setIcon(icon_786bc823733674fe26a71f9b4d8c9d08);
+        
+    
+            marker_dd6e9a5ddc679d3229d09e1306dbae18.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Ricardo H. C. Takahashi</strong><br><em>Federal University of Minas Gerais (UFMG)</em><br>Belo Horizonte, MG, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ab7c1b631d1d15db9a3a45838c337a71 = L.marker(
+                [-19.9225776, -43.9451356],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_01ddc124a07fddd36a56c2ab8d833df8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_ab7c1b631d1d15db9a3a45838c337a71.setIcon(icon_01ddc124a07fddd36a56c2ab8d833df8);
+        
+    
+            marker_ab7c1b631d1d15db9a3a45838c337a71.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Sérgio R. de Souza</strong><br><em>Federal Center of Technological Education of Minas Gerais (CEFET-MG)</em><br>Belo Horizonte, MG, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1a811524c9839f1d56a814ee782c6b18 = L.marker(
+                [53.4794892, -2.2451148],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_ce3ad0b1edb6da6bb54f2a029dce8a15 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_1a811524c9839f1d56a814ee782c6b18.setIcon(icon_ce3ad0b1edb6da6bb54f2a029dce8a15);
+        
+    
+            marker_1a811524c9839f1d56a814ee782c6b18.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Manuel López-Ibáñez</strong><br><em>University of Manchester</em><br>Manchester, UK
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_da875457b9e96c3db3c218b7a9dcafdc = L.marker(
+                [47.6144219, -122.192337],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_e596e159d425aea733a0ec954ae3666d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_da875457b9e96c3db3c218b7a9dcafdc.setIcon(icon_e596e159d425aea733a0ec954ae3666d);
+        
+    
+            marker_da875457b9e96c3db3c218b7a9dcafdc.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Luciana S. Buriol</strong><br><em>Amazon</em><br>Bellevue, WA, USA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4694b113f415a5e99f8f0f7f2d70265b = L.marker(
+                [-6.4594544, -37.0971911],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_bcfd6cf2e38fdbc38d09a1da3f5e8c05 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_4694b113f415a5e99f8f0f7f2d70265b.setIcon(icon_bcfd6cf2e38fdbc38d09a1da3f5e8c05);
+        
+    
+            marker_4694b113f415a5e99f8f0f7f2d70265b.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Romerito C. Andrade</strong><br><em>Federal Institute of Education, Science, and Technology of Rio Grande do Norte (IFRN)</em><br>Caicó, RN, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1a24121829279504cdeb774074496fa6 = L.marker(
+                [51.5073359, -0.12765],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_c64c36df5bcc31b504d93121998451a5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_1a24121829279504cdeb774074496fa6.setIcon(icon_c64c36df5bcc31b504d93121998451a5);
+        
+    
+            marker_1a24121829279504cdeb774074496fa6.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Jonathan Cardoso-Silva</strong><br><em>London School of Economics and Political Science</em><br>London, UK
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c6b5cf304ce7267ddb550b32cebcfaaf = L.marker(
+                [-33.0458456, -71.6196749],
+                {}
+            ).addTo(marker_cluster_935a8195913130ba50ca2082357dc3f8);
+        
+    
+            var icon_fe66758f8365719ed508607dc936c4b3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_c6b5cf304ce7267ddb550b32cebcfaaf.setIcon(icon_fe66758f8365719ed508607dc936c4b3);
+        
+    
+            marker_c6b5cf304ce7267ddb550b32cebcfaaf.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Leslie Pérez Cáceres</strong><br><em>Pontificia Universidad Católica de Valparaíso</em><br>Valparaiso, Chile
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cluster_2434fd7d0500fd145831264dd9b223ab = L.markerClusterGroup(
+                {"polygonOptions": {"color": "transparent", "stroke": false}}
+            );
+            map_920e69638098ed4475431138e140bd8a.addLayer(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var marker_acd4309853eea342d6c0ddbeaf07d01b = L.marker(
+                [50.8465573, 4.351697],
+                {}
+            ).addTo(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var icon_c1a43f75f493e1c1a46051e10a0e3443 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_acd4309853eea342d6c0ddbeaf07d01b.setIcon(icon_c1a43f75f493e1c1a46051e10a0e3443);
+        
+    
+            marker_acd4309853eea342d6c0ddbeaf07d01b.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Université Libre de Bruxelles (ULB)</strong><br><em>A practical introduction to irace</em><br>Brussels, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_abb0193d67dbd593ef5f09d81b615b87 = L.marker(
+                [-30.0324999, -51.2303767],
+                {}
+            ).addTo(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var icon_87acd8362a9971293e89b8632ddad8ab = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_abb0193d67dbd593ef5f09d81b615b87.setIcon(icon_87acd8362a9971293e89b8632ddad8ab);
+        
+    
+            marker_abb0193d67dbd593ef5f09d81b615b87.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Federal University of Rio Grande do Sul (UFRGS)</strong><br><em>A component-wise approach to multi-objective evolutionary algorithms: from flexible frameworks to automatic design</em><br>Porto Alegre, RS, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a73062afdfbcafc937179f89ad5e3079 = L.marker(
+                [-5.805398, -35.2080905],
+                {}
+            ).addTo(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var icon_882b9a23924302e4dd0cb62eed2499da = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_a73062afdfbcafc937179f89ad5e3079.setIcon(icon_882b9a23924302e4dd0cb62eed2499da);
+        
+    
+            marker_a73062afdfbcafc937179f89ad5e3079.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Python Brasil 2018</strong><br><em>AutoML with Python - machine learning made easy(ish) </em><br>Natal, RN, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b6f5da6a67d1bc7decef86ed1c62583e = L.marker(
+                [-5.805398, -35.2080905],
+                {}
+            ).addTo(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var icon_983ee9cde88713df8a863313ad8269ff = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_b6f5da6a67d1bc7decef86ed1c62583e.setIcon(icon_983ee9cde88713df8a863313ad8269ff);
+        
+    
+            marker_b6f5da6a67d1bc7decef86ed1c62583e.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Federal University of Rio Grande do Norte (UFRN)</strong><br><em>A practical introduction to irace</em><br>Natal, RN, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fbc768f59d641ab03400fc57166c1185 = L.marker(
+                [-5.805398, -35.2080905],
+                {}
+            ).addTo(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var icon_14133120b3ae75df657f98306cd4c653 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_fbc768f59d641ab03400fc57166c1185.setIcon(icon_14133120b3ae75df657f98306cd4c653);
+        
+    
+            marker_fbc768f59d641ab03400fc57166c1185.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Federal University of Rio Grande do Norte (UFRN)</strong><br><em>Brazilian Standard Classification of Education (CINE Brasil 2018)</em><br>Natal, RN, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f33b091cb026230b0b932c59a9d48c5f = L.marker(
+                [-23.5506507, -46.6333824],
+                {}
+            ).addTo(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var icon_13d4ab377b46a3c34e7d5f3de5c1904e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_f33b091cb026230b0b932c59a9d48c5f.setIcon(icon_13d4ab377b46a3c34e7d5f3de5c1904e);
+        
+    
+            marker_f33b091cb026230b0b932c59a9d48c5f.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Federal University of São Paulo (Unifesp)</strong><br><em>Brazilian Standard Classification of Education (CINE Brasil 2018)</em><br>São Paulo, SP, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_79bda1ff7726c688a50bf2a1901b47b8 = L.marker(
+                [-15.7934036, -47.8823172],
+                {}
+            ).addTo(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var icon_1521001fdac14fc7633c92943fd1ac40 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_79bda1ff7726c688a50bf2a1901b47b8.setIcon(icon_1521001fdac14fc7633c92943fd1ac40);
+        
+    
+            marker_79bda1ff7726c688a50bf2a1901b47b8.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Brazilian Ministry of Education - INEP</strong><br><em>Brazilian Standard Classification of Education (CINE Brasil 2018)</em><br>Brasília, DF, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5987ec95c4a1932da09e2ae4194191cd = L.marker(
+                [-7.1215981, -34.882028],
+                {}
+            ).addTo(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var icon_9a4b5ed0231b0586cbd7172c11455bc0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_5987ec95c4a1932da09e2ae4194191cd.setIcon(icon_9a4b5ed0231b0586cbd7172c11455bc0);
+        
+    
+            marker_5987ec95c4a1932da09e2ae4194191cd.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Federal University of Paraíba (UFRGS)</strong><br><em>A component-wise approach to multi-objective evolutionary algorithms: from flexible frameworks to automatic design</em><br>João Pessoa, PB, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f95df2cbb6afb9e48b9a758cb9df6f01 = L.marker(
+                [46.623943, 14.3075976],
+                {}
+            ).addTo(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var icon_15dcfe57ccaa5b189490d0a7465638aa = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_f95df2cbb6afb9e48b9a758cb9df6f01.setIcon(icon_15dcfe57ccaa5b189490d0a7465638aa);
+        
+    
+            marker_f95df2cbb6afb9e48b9a758cb9df6f01.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Alpen-Adria-Universität Klagenfurt</strong><br><em>Automatic Generation of Multi-Objective ACO Algorithms for the Biobjective Knapsack</em><br>Klagenfurt, Austria
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0d0bb8a42097e554a075a9a2d3f4ea0f = L.marker(
+                [46.623943, 14.3075976],
+                {}
+            ).addTo(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var icon_f256e8e76bcf814e77710a4ebe4ff392 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_0d0bb8a42097e554a075a9a2d3f4ea0f.setIcon(icon_f256e8e76bcf814e77710a4ebe4ff392);
+        
+    
+            marker_0d0bb8a42097e554a075a9a2d3f4ea0f.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Lakeside Labs</strong><br><em>Automatic Generation of Multi-Objective ACO Algorithms for the Biobjective Knapsack</em><br>Klagenfurt, Austria
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6987f6f65dc174996d1f4acf32a8ba11 = L.marker(
+                [53.3806626, -1.4702278],
+                {}
+            ).addTo(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var icon_1ddead653901bc5c68fabdcc51a06816 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_6987f6f65dc174996d1f4acf32a8ba11.setIcon(icon_1ddead653901bc5c68fabdcc51a06816);
+        
+    
+            marker_6987f6f65dc174996d1f4acf32a8ba11.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>University of Sheffield</strong><br><em>A component-wise approach to multi-objective evolutionary algorithms: from flexible frameworks to automatic design</em><br>Sheffield, UK
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_7efcb1d1831392558cd6da3d29b2b3c2 = L.marker(
+                [-3.7304512, -38.5217989],
+                {}
+            ).addTo(marker_cluster_2434fd7d0500fd145831264dd9b223ab);
+        
+    
+            var icon_15fc69111761f2ce3b49222777ef89d8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_7efcb1d1831392558cd6da3d29b2b3c2.setIcon(icon_15fc69111761f2ce3b49222777ef89d8);
+        
+    
+            marker_7efcb1d1831392558cd6da3d29b2b3c2.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Federal University of Ceará (UFC)</strong><br><em>Brazilian Standard Classification of Education (CINE Brasil 2018)</em><br>Fortaleza, CE, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cluster_4b08ce70e8c5470f640246eb34ebc846 = L.markerClusterGroup(
+                {"polygonOptions": {"color": "transparent", "stroke": false}}
+            );
+            map_920e69638098ed4475431138e140bd8a.addLayer(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var marker_f672f8ddbeef4ad8cdd35346bac9f96e = L.marker(
+                [46.0500268, 14.5069289],
+                {}
+            ).addTo(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var icon_c9bea0277958dd7307bd7d530f2a07d3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkred", "prefix": "fa"}
+            );
+            marker_f672f8ddbeef4ad8cdd35346bac9f96e.setIcon(icon_c9bea0277958dd7307bd7d530f2a07d3);
+        
+    
+            marker_f672f8ddbeef4ad8cdd35346bac9f96e.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Tea Tušar</strong><br><em>Jožef Stefan Institute</em><br>Ljubljana, Slovenia
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1686f1640056aa4a7525fd2751dc4583 = L.marker(
+                [50.8465573, 4.351697],
+                {}
+            ).addTo(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var icon_30c27d6d8061da03745c22ff1803e24e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkred", "prefix": "fa"}
+            );
+            marker_1686f1640056aa4a7525fd2751dc4583.setIcon(icon_30c27d6d8061da03745c22ff1803e24e);
+        
+    
+            marker_1686f1640056aa4a7525fd2751dc4583.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Mauro Birattari</strong><br><em>Université Libre de Bruxelles (ULB)</em><br>Brussels, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1850847eb0541bf16927367f2463adaa = L.marker(
+                [-30.0324999, -51.2303767],
+                {}
+            ).addTo(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var icon_1d736f36675b285e8615221b46f9e410 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkred", "prefix": "fa"}
+            );
+            marker_1850847eb0541bf16927367f2463adaa.setIcon(icon_1d736f36675b285e8615221b46f9e410);
+        
+    
+            marker_1850847eb0541bf16927367f2463adaa.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Marcus Ritt</strong><br><em>Federal University of Rio Grande do Norte (UFRGS)</em><br>Porto Alegre, RS, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2815010f7e84e54fcde2341136e03e10 = L.marker(
+                [53.3806626, -1.4702278],
+                {}
+            ).addTo(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var icon_e5213a7cefad1821d951adba7279afbc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkred", "prefix": "fa"}
+            );
+            marker_2815010f7e84e54fcde2341136e03e10.setIcon(icon_e5213a7cefad1821d951adba7279afbc);
+        
+    
+            marker_2815010f7e84e54fcde2341136e03e10.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Robin Purshouse</strong><br><em>University of Sheffield</em><br>Sheffield, UK
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f0590c2fc3eee64f9e21deb9d61e08ce = L.marker(
+                [49.2608724, -123.113952],
+                {}
+            ).addTo(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var icon_2913ac3376584a3737b1dabc88b44177 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkred", "prefix": "fa"}
+            );
+            marker_f0590c2fc3eee64f9e21deb9d61e08ce.setIcon(icon_2913ac3376584a3737b1dabc88b44177);
+        
+    
+            marker_f0590c2fc3eee64f9e21deb9d61e08ce.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Holger Hoos</strong><br><em>University of British Columbia (UBC)</em><br>Vancouver, BC, Canada
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b1f1b0aa1477d8adb55f9e4ae3052338 = L.marker(
+                [52.1594747, 4.4908843],
+                {}
+            ).addTo(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var icon_1e3b70e4f45d653593fd8f263aae6c74 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkred", "prefix": "fa"}
+            );
+            marker_b1f1b0aa1477d8adb55f9e4ae3052338.setIcon(icon_1e3b70e4f45d653593fd8f263aae6c74);
+        
+    
+            marker_b1f1b0aa1477d8adb55f9e4ae3052338.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Holger Hoos</strong><br><em>Leiden University</em><br>Leiden, The Netherlands
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_db61e64dd3b2bc90ab46e206d7ca6b87 = L.marker(
+                [52.1594747, 4.4908843],
+                {}
+            ).addTo(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var icon_be0e5544826c762b7a9a552230ad7b81 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkred", "prefix": "fa"}
+            );
+            marker_db61e64dd3b2bc90ab46e206d7ca6b87.setIcon(icon_be0e5544826c762b7a9a552230ad7b81);
+        
+    
+            marker_db61e64dd3b2bc90ab46e206d7ca6b87.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Dario Izzo</strong><br><em>European Space Agency (ESA)</em><br>Leiden, The Netherlands
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bef2eba25dc993a2589c5be0879f6d5b = L.marker(
+                [50.776351, 6.083862],
+                {}
+            ).addTo(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var icon_75e58de27b4575ec0ed0e565a83d312f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkred", "prefix": "fa"}
+            );
+            marker_bef2eba25dc993a2589c5be0879f6d5b.setIcon(icon_75e58de27b4575ec0ed0e565a83d312f);
+        
+    
+            marker_bef2eba25dc993a2589c5be0879f6d5b.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Holger Hoos</strong><br><em>RWTH Aachen University</em><br>Aachen, Germany
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4b92cbec67d625f9f43d4eb4d95076a4 = L.marker(
+                [36.7213028, -4.4216366],
+                {}
+            ).addTo(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var icon_a2167bb0901359e62e95c92df21ee1d5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkred", "prefix": "fa"}
+            );
+            marker_4b92cbec67d625f9f43d4eb4d95076a4.setIcon(icon_a2167bb0901359e62e95c92df21ee1d5);
+        
+    
+            marker_4b92cbec67d625f9f43d4eb4d95076a4.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Antonio J. Nebro</strong><br><em>Universidad de Málaga</em><br>Málaga, Spain
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_071ace5cfb4d966b17d78f4adb7df5e3 = L.marker(
+                [40.2111931, -8.4294632],
+                {}
+            ).addTo(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var icon_9ba93c40ff5f87ae315e1e7bda134085 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkred", "prefix": "fa"}
+            );
+            marker_071ace5cfb4d966b17d78f4adb7df5e3.setIcon(icon_9ba93c40ff5f87ae315e1e7bda134085);
+        
+    
+            marker_071ace5cfb4d966b17d78f4adb7df5e3.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Carlos M. Fonseca</strong><br><em>Universidade de Coimbra</em><br>Coimbra, Portugal
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bc6d4e6df2a77eabb469e6627c334a3d = L.marker(
+                [36.1143945, 138.0319015],
+                {}
+            ).addTo(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var icon_2cdb9f2bbcf98e7d65fc6eb8a4009853 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkred", "prefix": "fa"}
+            );
+            marker_bc6d4e6df2a77eabb469e6627c334a3d.setIcon(icon_2cdb9f2bbcf98e7d65fc6eb8a4009853);
+        
+    
+            marker_bc6d4e6df2a77eabb469e6627c334a3d.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Hernán Aguirre</strong><br><em>Shinshu University</em><br>Nagano, Japan
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_167333ceb7dad22180c983b9b464a62f = L.marker(
+                [51.0347708, 2.3772525],
+                {}
+            ).addTo(marker_cluster_4b08ce70e8c5470f640246eb34ebc846);
+        
+    
+            var icon_bfedda5629c646ec33e7bbde0a162c80 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkred", "prefix": "fa"}
+            );
+            marker_167333ceb7dad22180c983b9b464a62f.setIcon(icon_bfedda5629c646ec33e7bbde0a162c80);
+        
+    
+            marker_167333ceb7dad22180c983b9b464a62f.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Sebastién Verel</strong><br><em>Université du Littoral Côte d'Opale</em><br>Dunkerque, France
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0 = L.markerClusterGroup(
+                {"polygonOptions": {"color": "transparent", "stroke": false}}
+            );
+            map_920e69638098ed4475431138e140bd8a.addLayer(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var marker_cf2818fb02cf727cb0076e0725173a21 = L.marker(
+                [52.3730796, 4.8924534],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_630c902214fd67c36349b573eeaf9a65 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_cf2818fb02cf727cb0076e0725173a21.setIcon(icon_630c902214fd67c36349b573eeaf9a65);
+        
+    
+            marker_cf2818fb02cf727cb0076e0725173a21.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Gabriele Valentini</strong><br><em>Adaptfy</em><br>Amsterdam, The Netherlands
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c89e2466876c4b679b1116a60fad62bd = L.marker(
+                [50.8465573, 4.351697],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_1508abd10b994f4be1636e79973bdcd4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_c89e2466876c4b679b1116a60fad62bd.setIcon(icon_1508abd10b994f4be1636e79973bdcd4);
+        
+    
+            marker_c89e2466876c4b679b1116a60fad62bd.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Giovanni Reina</strong><br><em>Université Libre de Bruxelles (ULB)</em><br>Brussels, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_7f8e8d1a3573383536910303eb101c3d = L.marker(
+                [50.8465573, 4.351697],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_56ca1bb15b4be0ebcdba747668338bbb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_7f8e8d1a3573383536910303eb101c3d.setIcon(icon_56ca1bb15b4be0ebcdba747668338bbb);
+        
+    
+            marker_7f8e8d1a3573383536910303eb101c3d.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Alberto Franzin</strong><br><em>Université Libre de Bruxelles (ULB)</em><br>Brussels, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_51059301e3b38a914a49a623a9f331bc = L.marker(
+                [51.5073359, -0.12765],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_3952823d4e77a9a312c06357fded1748 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_51059301e3b38a914a49a623a9f331bc.setIcon(icon_3952823d4e77a9a312c06357fded1748);
+        
+    
+            marker_51059301e3b38a914a49a623a9f331bc.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Touraj Soleymani</strong><br><em>Imperial College London</em><br>London, UK
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9ae38d9e12a2b0d5f3cfb703c0682923 = L.marker(
+                [-33.0458456, -71.6196749],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_957b95c6e6610185c4983b9d28eb1230 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_9ae38d9e12a2b0d5f3cfb703c0682923.setIcon(icon_957b95c6e6610185c4983b9d28eb1230);
+        
+    
+            marker_9ae38d9e12a2b0d5f3cfb703c0682923.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Leslie Pérez Cáceres</strong><br><em>Pontificia Universidad Católica de Valparaíso</em><br>Valparaiso, Chile
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ecd8883a1e3701248cd8e4fc9cce23de = L.marker(
+                [49.2608724, -123.113952],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_85a858f93e28bcc39b9e521e268e6120 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_ecd8883a1e3701248cd8e4fc9cce23de.setIcon(icon_85a858f93e28bcc39b9e521e268e6120);
+        
+    
+            marker_ecd8883a1e3701248cd8e4fc9cce23de.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>István Fehérvári</strong><br><em>Loblaw Digital</em><br>Vancouver, BC, Canada
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_01c44b5c85e03cf19d268eef703dbeb5 = L.marker(
+                [50.8806207, 4.4730008],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_ee1988d89d840e3ad0d7c95bcc21dc97 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_01c44b5c85e03cf19d268eef703dbeb5.setIcon(icon_ee1988d89d840e3ad0d7c95bcc21dc97);
+        
+    
+            marker_01c44b5c85e03cf19d268eef703dbeb5.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Gianpiero Francesca</strong><br><em>Toyota Motor Europe</em><br>Zaventem, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b01a0557ef7397899d25409f321a7bdb = L.marker(
+                [50.8806207, 4.4730008],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_c723cd1473dce8707c6dcefed33fdc2d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_b01a0557ef7397899d25409f321a7bdb.setIcon(icon_c723cd1473dce8707c6dcefed33fdc2d);
+        
+    
+            marker_b01a0557ef7397899d25409f321a7bdb.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Lorenzo Garattoni</strong><br><em>Toyota Motor Europe</em><br>Zaventem, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ecdc3ca6a76782cbcc1dcc20718c5aa5 = L.marker(
+                [47.3744489, 8.5410422],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_d1bb9e535e661072354f24a520513eb7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_ecdc3ca6a76782cbcc1dcc20718c5aa5.setIcon(icon_d1bb9e535e661072354f24a520513eb7);
+        
+    
+            marker_ecdc3ca6a76782cbcc1dcc20718c5aa5.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Nithin Mathews</strong><br><em>Swiss Innovation Agency (Inosuisse)</em><br>Zurich, Switzerland
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2f224cef1bd6bbb9e050232ce39bd89a = L.marker(
+                [47.3744489, 8.5410422],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_55116fbca5e7ed3ee99e7072a406f3f1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_2f224cef1bd6bbb9e050232ce39bd89a.setIcon(icon_55116fbca5e7ed3ee99e7072a406f3f1);
+        
+    
+            marker_2f224cef1bd6bbb9e050232ce39bd89a.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Giovanni Pini</strong><br><em>Tecan</em><br>Zurich, Switzerland
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8f6989f54b826b9e9738aa5fd3bfe8d5 = L.marker(
+                [52.0799838, 4.3113461],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_9d3bf020c963ea3964ef1966253e175f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_8f6989f54b826b9e9738aa5fd3bfe8d5.setIcon(icon_9d3bf020c963ea3964ef1966253e175f);
+        
+    
+            marker_8f6989f54b826b9e9738aa5fd3bfe8d5.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Franco Mascia</strong><br><em>European Patent Office</em><br>The Hague, The Netherlands
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f4bee9a989ea1fc006c3d6c8ec811119 = L.marker(
+                [25.074282349999997, 55.18853865430702],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_39197e8bd7c2fd09287f7dcea8594579 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_f4bee9a989ea1fc006c3d6c8ec811119.setIcon(icon_39197e8bd7c2fd09287f7dcea8594579);
+        
+    
+            marker_f4bee9a989ea1fc006c3d6c8ec811119.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Eliseo Ferrante</strong><br><em>Technology Innovation Institute</em><br>Dubai, United Arab Emirates
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c731058550ac59e336e22226208a2715 = L.marker(
+                [42.6991505, 23.3366681],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_3128ca9d0bb8fb33969ec45af11aab9c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_c731058550ac59e336e22226208a2715.setIcon(icon_3128ca9d0bb8fb33969ec45af11aab9c);
+        
+    
+            marker_c731058550ac59e336e22226208a2715.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Jérémie Dubois-Lacoste</strong><br><em>Archway.Finance</em><br>Sofia, Bulgary
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_485526cefaccd3650c78d85c2be33dd6 = L.marker(
+                [47.1867619, 8.516564],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_07a970031f6a48fe9c4806e37fe1a8b1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_485526cefaccd3650c78d85c2be33dd6.setIcon(icon_07a970031f6a48fe9c4806e37fe1a8b1);
+        
+    
+            marker_485526cefaccd3650c78d85c2be33dd6.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Jérémie Dubois-Lacoste</strong><br><em>Cryptosphere Systems</em><br>Zug, Baar, Switzerland
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_45732a113d17cf23a93020ab8e109103 = L.marker(
+                [47.1867619, 8.516564],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_bd1f7193b665234a498e7ffbce98806a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_45732a113d17cf23a93020ab8e109103.setIcon(icon_bd1f7193b665234a498e7ffbce98806a);
+        
+    
+            marker_45732a113d17cf23a93020ab8e109103.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Arne Brutschy</strong><br><em>Cryptosphere Systems</em><br>Zug, Baar, Switzerland
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c749205c52aff2342b5c15208e69e36b = L.marker(
+                [47.1867619, 8.516564],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_4aa3e34f2b5ce9c96cb3e25c895f1c92 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_c749205c52aff2342b5c15208e69e36b.setIcon(icon_4aa3e34f2b5ce9c96cb3e25c895f1c92);
+        
+    
+            marker_c749205c52aff2342b5c15208e69e36b.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Rehan O'Grady</strong><br><em>Cryptosphere Systems</em><br>Zug, Baar, Switzerland
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_de9451efb086812deed9fcaa34daab17 = L.marker(
+                [42.2625621, -71.8018877],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_70490f0d820d87337265fd45611663f8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_de9451efb086812deed9fcaa34daab17.setIcon(icon_70490f0d820d87337265fd45611663f8);
+        
+    
+            marker_de9451efb086812deed9fcaa34daab17.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Carlo Pinciroli</strong><br><em>Worcester Polytechnic Institute</em><br>Worcester, MA, USA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d4db9661d281cb55a96722dc8ecbc85e = L.marker(
+                [41.8933203, 12.4829321],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_27e5c089698befd663e412dacbb57f3a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_d4db9661d281cb55a96722dc8ecbc85e.setIcon(icon_27e5c089698befd663e412dacbb57f3a);
+        
+    
+            marker_d4db9661d281cb55a96722dc8ecbc85e.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Vito Trianni</strong><br><em>Istituto di Scienze e Tecnologie della Cognizione (CNR)</em><br>Rome, Italy
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e2d3f6f3ba364f6d1b198f1152905dd5 = L.marker(
+                [50.8331141, 4.3668279],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_bc0ceff1c2c7f52a32dfe07fcf21de95 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_e2d3f6f3ba364f6d1b198f1152905dd5.setIcon(icon_bc0ceff1c2c7f52a32dfe07fcf21de95);
+        
+    
+            marker_e2d3f6f3ba364f6d1b198f1152905dd5.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Anthony Antoun</strong><br><em>Sony Depthsense Solutions</em><br>Ixelles, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d305b9ddb286521ab7233db87e589bb3 = L.marker(
+                [52.5170365, 13.3888599],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_1cf436002f12d9eb10d46bc362f630b4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_d305b9ddb286521ab7233db87e589bb3.setIcon(icon_1cf436002f12d9eb10d46bc362f630b4);
+        
+    
+            marker_d305b9ddb286521ab7233db87e589bb3.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Zhi Yuan</strong><br><em>Delivery Hero</em><br>Berlin, Germany
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_002f84f7eb7efdbb9be9482c84d41d5d = L.marker(
+                [52.5170365, 13.3888599],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_b7c03f7a485752bfc0103a05c31eab4e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_002f84f7eb7efdbb9be9482c84d41d5d.setIcon(icon_b7c03f7a485752bfc0103a05c31eab4e);
+        
+    
+            marker_002f84f7eb7efdbb9be9482c84d41d5d.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Roman Miletitch</strong><br><em>MegaMinds</em><br>Berlin, Germany
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_dccfdfefff5ace5b26190519846b3b93 = L.marker(
+                [59.9133301, 10.7389701],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_8779016c5368a77da697b9a9d8976018 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_dccfdfefff5ace5b26190519846b3b93.setIcon(icon_8779016c5368a77da697b9a9d8976018);
+        
+    
+            marker_dccfdfefff5ace5b26190519846b3b93.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Dhananjay Ipparthi</strong><br><em>Expense Reduction Analysts</em><br>Oslo, Norway
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fd6fcb9177b7f935ad3c7427e7f8f3fe = L.marker(
+                [50.879202, 4.7011675],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_16b5a5f748014902891fd1c2888d68d0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_fd6fcb9177b7f935ad3c7427e7f8f3fe.setIcon(icon_16b5a5f748014902891fd1c2888d68d0);
+        
+    
+            marker_fd6fcb9177b7f935ad3c7427e7f8f3fe.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Tarik Roukny</strong><br><em>KU Leuven</em><br>Leuven, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0f33d00b6dc49b8ec95b2e9d4a97158b = L.marker(
+                [45.4641943, 9.1896346],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_49ed2e55cba36810af4e342044238a2c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_0f33d00b6dc49b8ec95b2e9d4a97158b.setIcon(icon_49ed2e55cba36810af4e342044238a2c);
+        
+    
+            marker_0f33d00b6dc49b8ec95b2e9d4a97158b.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Gaëtan Podevijn</strong><br><em>Prima</em><br>Milan, Italy
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_eebb500f9fc12e1096a37b2b8e28a38e = L.marker(
+                [58.3801207, 26.72245],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_d1a8a23b9369805afa75f60bc33ac677 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_eebb500f9fc12e1096a37b2b8e28a38e.setIcon(icon_d1a8a23b9369805afa75f60bc33ac677);
+        
+    
+            marker_eebb500f9fc12e1096a37b2b8e28a38e.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Alessandro Stranieri</strong><br><em>Perforce Software</em><br>Tartu, Estonia
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_954af2dde3c59eca465a75198d2a9e64 = L.marker(
+                [51.0538286, 3.7250121],
+                {}
+            ).addTo(marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0);
+        
+    
+            var icon_f33464bd7116610b16f0a202c2fea306 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "lightred", "prefix": "fa"}
+            );
+            marker_954af2dde3c59eca465a75198d2a9e64.setIcon(icon_f33464bd7116610b16f0a202c2fea306);
+        
+    
+            marker_954af2dde3c59eca465a75198d2a9e64.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Federico Pagnozzi</strong><br><em>Solvice</em><br>Gent, Belgium
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var layer_control_6a11273a57da6da7a893acc2aab512e1 = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_4e78d02667f111aa3ecc1f74e5085995,
+                },
+                overlays :  {
+                    "Conferences" : marker_cluster_ab306f7e710266bb7f4c58c73c252e9f,
+                    "Funders" : marker_cluster_5a811374cc859c016c68f9b6afd6e2b0,
+                    "Appointments" : marker_cluster_2fcbdc8ab4ae6a6f94e0e2bee1d42af4,
+                    "Coauthors" : marker_cluster_935a8195913130ba50ca2082357dc3f8,
+                    "Talks" : marker_cluster_2434fd7d0500fd145831264dd9b223ab,
+                    "Wider network" : marker_cluster_4b08ce70e8c5470f640246eb34ebc846,
+                    "IRIDIAns" : marker_cluster_f57913eb14a7a84f3d30f5966cf26cf0,
+                },
+            };
+            L.control.layers(
+                layer_control_6a11273a57da6da7a893acc2aab512e1.base_layers,
+                layer_control_6a11273a57da6da7a893acc2aab512e1.overlays,
+                {"autoZIndex": true, "collapse": true, "collapsed": true, "position": "topright"}
+            ).addTo(map_920e69638098ed4475431138e140bd8a);
+        
+</script>
+</html>
