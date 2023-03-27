@@ -404,8 +404,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ Brazilian Ministry of Education - [INEP](https://www.gov.br/inep/pt-br)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> 
-<a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/CbpPfxbkoDqF7YD57" target="_blank"><img src="https://img.shields.io/badge/-Bras&iacute;lia&comma;%20DF&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/>
 <a href="https://www.youtube.com/watch?v=OJgpViD6OdU&list=PLjz5Kd6rxbE4dwUbbr6AJOyYs7dh4kwKg" target="_blank"><img src="https://img.shields.io/badge/-video-red.svg?logo=youtube&logoColor=white&style=for-the-badge"/></a>
@@ -413,29 +412,25 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ [Federal University of Ceará (UFC)](https://ufc.br)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> 
-<a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/uwCwwU2jQAtCWzQh8" target="_blank"><img src="https://img.shields.io/badge/-Fortaleza&comma;%20CE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/>
 
 @ [Federal University of São Paulo (Unifesp)](https://unifesp.br)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> 
-<a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/LVmYC6tLVA67wJMh9" target="_blank"><img src="https://img.shields.io/badge/-S&atilde;o%20Paulo&comma;%20SP&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/>
 
 @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> 
-<a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/>
 
 @ [Computing Education Workshop (WEI@CSBC)](http://www2.sbc.org.br/csbc2018/?page_id=197)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> 
-<a href="https://www.linkedin.com/company/sbcoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/sbcoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/>
 
@@ -443,8 +438,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 **AutoML with Python - machine learning made easy(ish)** @ [Python Brasil 2018](https://2018.pythonbrasil.org.br/)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> 
-<a href="https://www.linkedin.com/company/apyb/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/apyb/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/> 
 <a href="https://www.youtube.com/watch?v=nuRDxYF_35A" target="_blank"><img src="https://img.shields.io/badge/-video-red.svg?logo=youtube&logoColor=white&style=for-the-badge"/></a>
@@ -452,23 +446,22 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 ---
 
 **A component-wise approach to multi-objective evolutionary algorithms: from flexible frameworks to automatic design** 
+
 @ [Federal University of Rio Grande do Sul (UFRGS)](https://ufrgs.br)
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> 
-<a href="https://www.linkedin.com/in/marcus-ritt-a2164737/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/marcus-ritt-a2164737/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/rKBGkSTUYFbKd5s29" target="_blank"><img src="https://img.shields.io/badge/-Porto%20Alegre&comma;%20RS&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/> 
 
 @ [Federal University of Paraíba (UFPB)](https://ufpb.br)
 
-<img src="https://img.shields.io/badge/year-2017-purple.svg?style=for-the-badge"/> 
-<a href="https://www.linkedin.com/in/luc%C3%ADdio-cabral-38249834/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2017-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/luc%C3%ADdio-cabral-38249834/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/> 
 
 @ [University of Sheffield](https://www.sheffield.ac.uk)
 
-<img src="https://img.shields.io/badge/year-2016-purple.svg?style=for-the-badge"/> 
-<a href="https://www.linkedin.com/in/robin-purshouse-43555227/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2016-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/robin-purshouse-43555227/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/eTMYx3PRri8njDFu8" target="_blank"><img src="https://img.shields.io/badge/-Sheffield&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/> 
 
@@ -476,8 +469,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 **pagmo C++ scientific library** @ [European Space Agency (ESA)](https://www.esa.int/)
 
-<img src="https://img.shields.io/badge/year-2016-purple.svg?style=for-the-badge"/> 
-<a href="https://www.esa.int/gsp/ACT/team/dario_izzo/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2016-purple.svg?style=for-the-badge"/> <a href="https://www.esa.int/gsp/ACT/team/dario_izzo/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/Qx3ZhKBUG6eBQjjR8" target="_blank"><img src="https://img.shields.io/badge/-Leiden&comma;%20The%20Netherlands-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-visit-yellow.svg?style=for-the-badge"/> 
 
@@ -487,25 +479,24 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
-<img src="https://img.shields.io/badge/year-2015-purple.svg?style=for-the-badge"/> 
-<a href="https://www.linkedin.com/in/elizabeth-goldbarg-a961457/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2015-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-goldbarg-a961457/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/> 
 
 @ [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/)
 
-<img src="https://img.shields.io/badge/year-2015-purple.svg?style=for-the-badge"/> 
-<a href="https://code.ulb.ac.be/lab/IRIDIA" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2015-purple.svg?style=for-the-badge"/> <a href="https://code.ulb.ac.be/lab/IRIDIA" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/> 
 
 ---
 
-**Automatic Generation of Multi-Objective ACO Algorithms for the Biobjective Knapsack** @ [Alpen-Adria-Universität Klagenfurt](https://www.aau.at/) / [Lakeside Labs](https://www.lakeside-labs.com/)
+**Automatic Generation of Multi-Objective ACO Algorithms for the Biobjective Knapsack** 
 
-<img src="https://img.shields.io/badge/year-2013-purple.svg?style=for-the-badge"/> 
-<a href="https://www.linkedin.com/in/istvanfehervari/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/https://goo.gl/maps/zHUuXMvWsxz8wpYE8" target="_blank"><img src="https://img.shields.io/badge/-Klagenfurt&comma;%20Austria-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+@ [Alpen-Adria-Universität Klagenfurt](https://www.aau.at/) / [Lakeside Labs](https://www.lakeside-labs.com/)
+
+<img src="https://img.shields.io/badge/year-2013-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/istvanfehervari/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/zHUuXMvWsxz8wpYE8" target="_blank"><img src="https://img.shields.io/badge/-Klagenfurt&comma;%20Austria-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/> 
 <a href="https://www.youtube.com/watch?v=VbNWZh6HaWA" target="_blank"><img src="https://img.shields.io/badge/-video-red.svg?logo=youtube&logoColor=white&style=for-the-badge"/></a>
 
