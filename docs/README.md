@@ -1,3 +1,5 @@
+<meta property="og:image" content="img/us.jpg" />
+
 <a name="top"/>
 
 ![Leonardo Bezerra](img/us.jpg)
