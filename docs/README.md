@@ -1,11 +1,3 @@
----
-title: "Leonardo Bezerra - Academic CV"
-output:
-  html_document:
-    includes:
-       in_header: docs/html/myheader.html
----
-
 <a name="top"/>
 
 ![Leonardo Bezerra](img/us.jpg)
