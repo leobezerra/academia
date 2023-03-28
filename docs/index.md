@@ -1,9 +1,9 @@
 ---
 title: "Leonardo Bezerra - Academic CV"
-output:
-  html_document:
-    includes:
-      in_header: html/myheader.html
+image:
+    path: img/us.jp
+    width: 1200
+    height: 628
 ---
 
 <a name="top"/>
