@@ -3,7 +3,7 @@ title: "Leonardo Bezerra - Academic CV"
 output:
   html_document:
     includes:
-       in_header: myheader.html
+       in_header: docs/html/myheader.html
 ---
 
 <a name="top"/>
