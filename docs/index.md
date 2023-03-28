@@ -1,7 +1,7 @@
 ---
 title: "Leonardo Bezerra - Academic CV"
 image:
-    path: img/us.jp
+    path: img/us.jpg
     width: 1200
     height: 628
 ---
