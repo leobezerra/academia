@@ -58,26 +58,62 @@
 %- \textcolor{olive}{Dean and Dalrymple}}
 
 %----------------------------------------------------------------------------------------
-
+    
 \begin{document}
 
 \makecvtitle % Print the CV title
 
 \vspace{-1.cm}
 
-\input{tex/fellow}
+\newcommand{\research}{}
+\newcommand{\teaching}{}
 
-\section{Publication list}
-\nociteJournals{*}
-\bibliographystyleJournals{plainyr-rev}
-\bibliographyJournals{bib/journals}
+\ifdefined\research
+  \ifdefined\teaching
+    \section{Research}
+  \fi
+  \ifdefined\teaching
+    \input{tex/fellow}
+  \else
+    \input{tex/fellow}
+    \section{Supervision}
+    \input{tex/supervision}
+  \fi
+\fi
 
-\nociteChapters{*}
-\bibliographystyleChapters{plainyr-rev}
-\bibliographyChapters{bib/chapters}
+\ifdefined\teaching
+  \ifdefined\research
+    \section{Teaching}
+  \fi
+  \input{tex/lecturer}
+  \input{tex/supervision}
+\fi
 
-\nociteConferences{*}
-\bibliographystyleConferences{plainyr-rev}
-\bibliographyConferences{bib/conferences}
+%----------------------------------------------------------------------------------------
+%	LANGUAGES SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Languages}
+
+\cvlanguage{Portuguese}{Fluent}{Mother language}
+\cvlanguage{English}{Fluent}{TOEFL iBT Score 108}
+\cvlanguage{Spanish}{Fluent}{European Union Reference Level C1}
+\cvlanguage{French}{Intermediate}{European Union Reference Level B1}
+\cvlanguage{Italian}{Intermediate}{European Union Reference Level B1}
+
+\ifdefined\research
+    \section{Publication list}
+    \nociteJournals{*}
+    \bibliographystyleJournals{plainyr-rev}
+    \bibliographyJournals{bib/journals}
+    
+    \nociteChapters{*}
+    \bibliographystyleChapters{plainyr-rev}
+    \bibliographyChapters{bib/chapters}
+    
+    \nociteConferences{*}
+    \bibliographystyleConferences{plainyr-rev}
+    \bibliographyConferences{bib/conferences}
+\fi
 
 \end{document}
