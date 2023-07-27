@@ -65,6 +65,10 @@ intelligence (AI)**, and their impact on **socially relevant problems**.
 
 ### Awards (4)
 
+**Alain Bensoussan fellowship** @ [European Research Consortium for Informatics and Mathematics (ERCIM)](https://www.ercim.eu)
+
+<img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/WDxsQVzGprUmcet76" target="_blank"><img src="https://img.shields.io/badge/-M&aacute;laga&comma;%20Spain-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+
 **Best paper award nomination** @ [Evolutionary Multi-Criterion Optimization (EMO)](https://link.springer.com/book/10.1007/978-3-030-12598-1)
 
 <img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/TMXMVfLxzDACKouN7" target="_blank"><img src="https://img.shields.io/badge/-East%20Lansing&comma;%20MI&comma;%20USA-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
