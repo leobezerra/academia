@@ -160,7 +160,8 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 **Design configuration for the MMAS algorithm applied to the travelling salesman problem with dynamic demands** @ [Federal Center of Technological Education of Minas Gerais (CEFET-MG)](https://cefetmg.br)
 
-<img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/nyNDnqb4qfzCWW3j7" target="_blank"><img src="https://img.shields.io/badge/-Belo%20Horizonte&comma;%20MG&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/sabrina-oliveira-78780713b/" target="_blank"><img src="https://img.shields.io/badge/-author-blue.svg?logo=linkedin&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/nyNDnqb4qfzCWW3j7" target="_blank"><img src="https://img.shields.io/badge/-Belo%20Horizonte&comma;%20MG&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/degree-PhD-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-co--supervisor-orange.svg?style=for-the-badge"/> <a href="https://sig.cefetmg.br/sigaa/verArquivo?idArquivo=4512267&key=f5474cbd7e730a9473e2c3dab7013dfc" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
 
