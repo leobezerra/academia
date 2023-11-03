@@ -39,9 +39,9 @@ Currently, **my main research focus is on promoting and sustaining accountabilit
 
 ### Autumn 2023
 
-- I was invited by the [Benchmarking Network](https://sites.google.com/view/benchmarking-network/) to attend the ["BeMCO: Benchmarking in Multi-Criteria Optimization" workshop](https://www.lorentzcenter.nl/bemco-benchmarking-in-multi-criteria-optimisation.html) at the [Lorentz Center@Oort, Leiden, The Netherlands](https://www.lorentzcenter.nl/). 
+- I was invited by the **Benchmarking Network** to attend the "_BeMCO: Benchmarking in Multi-Criteria Optimization_" workshop, which will take place from April 15th to 19th, 2024 at the [Lorentz Center@Oort, Leiden, The Netherlands](https://www.lorentzcenter.nl/bemco-benchmarking-in-multi-criteria-optimisation.html). 
 
-- I was invited by [Dr. Elizabeth Wanner](https://research.aston.ac.uk/en/persons/elizabeth-wanner) to give a talk at [Aston University, Birmingham, UK](https://www.aston.ac.uk/), hosted by the **Aston Centre for Artificial Intelligence Research and Applications (ACAIRA)**. The talk was entitled "**Promoting and sustaining accountability in artificial intelligence applications**".
+- I was invited by **Dr. Elizabeth Wanner** to give a talk at [Aston University, Birmingham, UK](https://www.aston.ac.uk/). The talk was hosted by the **Aston Centre for Artificial Intelligence Research and Applications (ACAIRA)** on October 16th, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
 
 ### Summer 2023
 
@@ -457,7 +457,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 ### Communication and networking
 
-**Proposing and sustaining accountability in artificial intelligence applications** 
+**Promoting and sustaining accountability in artificial intelligence applications** 
 
 @ Aston Centre for Artificial Intelligence Research and Applications (ACAIRA) - [Aston University, Birmingham, UK](https://www.aston.ac.uk/)
 
