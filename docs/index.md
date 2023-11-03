@@ -41,7 +41,7 @@ Currently, **my main research focus is on promoting and sustaining accountabilit
 
 - I was invited by the [Benchmarking Network](https://sites.google.com/view/benchmarking-network/) to attend the ["BeMCO: Benchmarking in Multi-Criteria Optimization" workshop](https://www.lorentzcenter.nl/bemco-benchmarking-in-multi-criteria-optimisation.html) at the [Lorentz Center@Oort, Leiden, The Netherlands](https://www.lorentzcenter.nl/). 
 
-- I was invited by [Dr. Elizabeth Wanner](https://research.aston.ac.uk/en/persons/elizabeth-wanner) to give a talk at [Aston University, Birmingham, UK](https://research.aston.ac.uk/en/), hosted by the **Aston Centre for Artificial Intelligence Research and Applications (ACAIRA)**. The talk was entitled "**Promoting and sustaining accountability in artificial intelligence applications**".
+- I was invited by [Dr. Elizabeth Wanner](https://research.aston.ac.uk/en/persons/elizabeth-wanner) to give a talk at [Aston University, Birmingham, UK](https://www.aston.ac.uk/), hosted by the **Aston Centre for Artificial Intelligence Research and Applications (ACAIRA)**. The talk was entitled "**Promoting and sustaining accountability in artificial intelligence applications**".
 
 ### Summer 2023
 
@@ -450,12 +450,20 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 <a href="https://www.instagram.com/covidvisual/" target="_blank"> <img src="https://img.shields.io/badge/-visualcovid-purple.svg?logo=instagram&style=for-the-badge&logoColor=white"/></a>
 <a href="https://twitter.com/isola_ai" target="_blank"> <img src="https://img.shields.io/badge/-isola&#46;ai-blue.svg?logo=twitter&style=for-the-badge&logoColor=white"/></a>
 <a href="https://leobezerra.github.io/covid19/" target="_blank"> <img src="https://img.shields.io/badge/-visualizing%20covid--19-green.svg?logo=jupyter&style=for-the-badge&logoColor=white"/></a>
-<a href="https://demografiaufrn.net/category/onas-covid19/" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observartory-yellow.svg?logo=wordpress&style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.youtube.com/playlist?list=PLU35_2f9Kc6q-KmGmaMevXa5_qfRcVUmt" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observartory-red.svg?logo=youtube&style=for-the-badge&logoColor=white"/></a>  
+<a href="https://demografiaufrn.net/category/onas-covid19/" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observatory-yellow.svg?logo=wordpress&style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.youtube.com/playlist?list=PLU35_2f9Kc6q-KmGmaMevXa5_qfRcVUmt" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observatory-red.svg?logo=youtube&style=for-the-badge&logoColor=white"/></a>  
 
 ---
 
 ### Communication and networking
+
+**Proposing and sustaining accountability in artificial intelligence applications** 
+
+@ Aston Centre for Artificial Intelligence Research and Applications (ACAIRA) - [Aston University, Birmingham, UK](https://www.aston.ac.uk/)
+
+<img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-wanner-91607832/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<a href="https://maps.app.goo.gl/aGJuE2actyUHx3UW7" target="_blank"><img src="https://img.shields.io/badge/-Birmingham&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
 **Brazilian Standard Classification of Education (CINE Brasil 2018)** 
 
