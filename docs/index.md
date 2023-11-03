@@ -33,6 +33,25 @@ Currently, **my main research focus is on promoting and sustaining accountabilit
 
 --- 
 
+<a name="news">
+
+## News
+
+### Autumn 2023
+
+- I was invited by the [Benchmarking Network](https://sites.google.com/view/benchmarking-network/) to attend the ["BeMCO: Benchmarking in Multi-Criteria Optimization" workshop](https://www.lorentzcenter.nl/bemco-benchmarking-in-multi-criteria-optimisation.html) at the [Lorentz Center@Oort, Leiden, The Netherlands](https://www.lorentzcenter.nl/). 
+
+- I was invited by [Dr. Elizabeth Wanner](https://research.aston.ac.uk/en/persons/elizabeth-wanner) to give a talk at [Aston University, Birmingham, UK](https://research.aston.ac.uk/en/), hosted by the **Aston Centre for Artificial Intelligence Research and Applications (ACAIRA)**. The talk was entitled "**Promoting and sustaining accountability in artificial intelligence applications**".
+
+### Summer 2023
+
+- I was offered and accepted a **Lecturer in Artificial Intelligence/Data Science** position at the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). 
+- I was offered a **Senior Lecturer in Data Science** position at the [University of Westminster, London, UK](https://www.westminster.ac.uk/). 
+- I was offered a **Senior Teaching Fellow in Data Science** position at the [Coventry University, Coventry, UK](https://www.coventry.ac.uk/).
+- I was awarded an **Alain Bensoussan fellowship** from the [European Research Consortium for Informatics and Mathematics (ERCIM)](https://www.ercim.eu) to work at <a href="https://www.uma.es/" target="_blank">Universidad de Malaga (UMA), Malaga, Spain</a>.
+
+--- 
+
 <a name="places">
 
 ## Places & People 
