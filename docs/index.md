@@ -142,7 +142,7 @@ Currently, I have relocated to the UK and my main research focus is on **assessi
 
 ### Awards (4)
 
-**Outstanding Early Career Researcher Research Culture Awards nomination** [University of Stirling](https://stir.ac.uk)
+**Outstanding Early Career Researcher nomination** @ _Research Culture Awards_, [University of Stirling](https://stir.ac.uk)
 
 <img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
