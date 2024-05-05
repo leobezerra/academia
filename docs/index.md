@@ -56,11 +56,16 @@ Currently, I have relocated to the UK and my main research focus is on **assessi
 ## News
 
 ### Spring 2023
+
+- I was invited by **Responsible AI UK** to attend the "_RAi UK Integrator Sandpit_", which will take place from June 11th to 13th, 2024 at the [De Vere Latimer Estate, Chesham, United Kingdom](https://www.devere.co.uk/latimer-estate).
+
+- I was nominated for a **Research Culture Award** by the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/) in the "_Outstanding Early Career Researcher_" category.
+
 - I was invited by **Dr. Annalisa Ricardi** to give a talk at the [University of Strathclyde, Glasgow, UK](https://www.strath.ac.uk/). The talk will be hosted by the **Aerospace Centre of Excellence** on May 22nd, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
-- I was nominated for a **Research Culture Award** by the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/) in the **Outstanding Early Career Researcher** category.
-
 - I was invited by **Prof. Holger Hoos** to give a talk at [RWTH Aachen University, Aachen, DE](https://www.rwth-aachen.de). The talk was hosted by the **Chair for Artificial Intelligence Methodology (AIM)** on April 17th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
+
+- I attended the "_BeMCO: Benchmarking in Multi-Criteria Optimization_" workshop, organized by the **Benchmarking Network**, which took place from April 15th to 19th, 2024 at the [Lorentz Center@Oort, Leiden, The Netherlands](https://www.lorentzcenter.nl/bemco-benchmarking-in-multi-criteria-optimisation.html). 
 
 - I was invited by **Dr. Gianpiero Francesca** to give a talk at [Toyota Motor Europe, Brussels, BE](https://www.toyota-europe.com/). The talk was hosted by the **Applied Engineering Research and Development Team** on April 15th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
