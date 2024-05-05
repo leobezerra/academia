@@ -38,6 +38,8 @@ Currently, **my main research focus is on promoting and sustaining accountabilit
 ## News
 
 ### Spring 2023
+- I was nominated for a **Research Culture Award** by the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/) in the **Outstanding Early Career Researcher** category.
+
 - I was invited by **Prof. Holger Hoos** to give a talk at [RWTH Aachen University, Aachen, DE](https://www.rwth-aachen.de). The talk was hosted by the **Chair for Artificial Intelligence Methodology (AIM)** on April 17th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
 - I was invited by **Dr. Gianpiero Francesca** to give a talk at [Toyota Motor Europe, Brussels, BE](https://www.toyota-europe.com/). The talk was hosted by the **Applied Engineering Research and Development Team** on April 15th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
