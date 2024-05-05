@@ -85,7 +85,7 @@ Currently, **my main research focus is on promoting and sustaining accountabilit
 <img src="https://img.shields.io/badge/-wider%20network-orange.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-iridians-red.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-alumni-darkred.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-co\-investigators-bisque.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-coinvestigators-bisque.svg?style=for-the-badge"/>
 
 <iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
 
