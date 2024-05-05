@@ -37,9 +37,29 @@ Currently, **my main research focus is on promoting and sustaining accountabilit
 
 ## News
 
+### Spring 2023
+- I was invited by **Prof. Holger Hoos** to give a talk at [RWTH Aachen University, Aachen, DE](https://www.rwth-aachen.de). The talk was hosted by the **Chair for Artificial Intelligence Methodology (AIM)** on April 17th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
+
+- I was invited by **Dr. Gianpiero Francesca** to give a talk at [Toyota Motor Europe, Brussels, BE](https://www.toyota-europe.com/). The talk was hosted by the **Applied Engineering Research and Development Team** on April 15th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
+
+- I was invited by **Prof. Thomas Stützle**, **Prof. Mauro Birattari**, and **Prof. Marco Dorigo** to give a talk at [Université Libre de Bruxelles, Brussels, BE](https://www.ulb.ac.be/). The talk was hosted by the **IRIDIA Artificial Intelligence Laboratory** on April 11th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
+
+
+### Winter 2023
+
+- I was invited by **Dr. Anthony O'Hare** to give a public lecture at the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). The talk was hosted by the **Computing Science and Mathematics Division (CSM)** on March 18th, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
+
+- I was invited by **Prof. Kenneth Benoit** to give a talk at the [London School of Economical and Political Sciences, London, UK](https://www.lse.ac.uk/). The talk was hosted by the **Data Science Institute (DSI)** on February 26th, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
+
+- I was invited by **Prof. Simone Stumpf** to give a talk at the [University of Glasgow, Glasgow, UK](https://www.gla.ac.uk/). The talk was hosted by the **Information, Data, and Analysis Section (IDA)** on February 1st, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
+
+- I was invited by **Prof. Federica Sarro** to give a talk at [University College London, London, UK](https://www.ucl.ac.uk/). The talk was hosted by the **Software Systems Engineering Group (SSE)** on January 24th, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
+
 ### Autumn 2023
 
 - I was invited by the **Benchmarking Network** to attend the "_BeMCO: Benchmarking in Multi-Criteria Optimization_" workshop, which will take place from April 15th to 19th, 2024 at the [Lorentz Center@Oort, Leiden, The Netherlands](https://www.lorentzcenter.nl/bemco-benchmarking-in-multi-criteria-optimisation.html). 
+
+- I was invited by **Dr. Wen-Shin Lee** to give a talk at the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). The talk was hosted by the **Computing Science and Mathematics Division (CSM)** on November 24th, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
 
 - I was invited by **Dr. Elizabeth Wanner** to give a talk at [Aston University, Birmingham, UK](https://www.aston.ac.uk/). The talk was hosted by the **Aston Centre for Artificial Intelligence Research and Applications (ACAIRA)** on October 16th, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
 
