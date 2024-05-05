@@ -19,17 +19,24 @@ image:
 <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
 
-My [thesis](#history) on **computational intelligence (CI)** was seminal to my
-current research on **data science (DS)**, **artificial
-intelligence (AI)**, and their impact on **socially relevant problems**.
+My [thesis](#history) on **computational intelligence (CI)** was seminal to my research in Brazil over the past seven years on **data science (DS)**, **artificial intelligence (AI)**, and their impact on **socially relevant problems**.
 
-- I **propose** and **collaborate** with applied [data science projects](#projects) with both the public and private sectors. Partners include the **Brazilian Judicial Branch** and **Ministry of Education**, as well as **regional** and **(multi-)national companies** in fields as diverse as **retail**, **telecommunications**, and **energy**. 
+- I **propose** and **collaborate** with applied [data science projects](#projects) with both the public and private sectors. Partners include the **Brazilian Judicial Branch**, **Ministry of Education**, as well as **regional** and **(multi-)national companies** in fields as diverse as **retail**, **telecommunications**, and **energy**. 
 
 - I **supervise graduate students** on [theses](#theses) involving **deep** and **automated machine learning**, as well as the intersection of **multi-objective optimization** with other CI domains, such as **multi-dimensional visualization** and **dynamic optimization**. 
 
-- I have a deep concern for socially relevant problems, having for instance **assisted in the fight against the COVID-19 pandemic** through science [publication](#publications) and [communication](#communication), in an attempt to **counter** the intensive **disinformation** campaign held in Brazil.
+- I have a deep concern for socially relevant problems, having for instance **assisted in the fight against the COVID-19 pandemic** through science [publication](#publications) and [communication](#communication). Importantly, my research has led to contributions to policymaking in public health and in higher education (HE), having revised and update the **Brazilian Standard Classification of Education**, used for HE census, evaluation, and regulation.
 
-Currently, **my main research focus is on promoting and sustaining accountability in artificial intelligence applications**. My goal is to propose an end-to-end policy framework to be used by governments and AI developers alike to ensure that AI applications be devised and operated in an accountable way. To achieve this, I am applying for funding opportunities to structure an **Observatory of the Potentially Incurred Social Damage from Artificial Intelligence (PISD.ai)**, which will survey current and future relevant real-world examples where the lack of appropriate AI regulation (potentially) incurs significant social damage. Critical examples include (i) **the role of social media recommendation algorithms in disinformation and its impact on democracy, human rights, and public health**, and; (ii) **the disruptive nature of generative AI**.
+Currently, I have relocated to the UK and my main research focus is on **assessing and addressing the social impacts of artificial intelligence systems**. 
+- I have joined a research consortium led by the **University of Glasgow** to propose **methodologies and workbenches that enable stakeholders with diverse backgrounds to participate in AI harm auditing**. The consortium comprises over 20 investigators from UK universities, namely **Stirling**, **Strathclyde**, **Sheffield**, **York**, and **King's College London**, as well as **The Data Lab** from the **University of Edinburgh**. 
+
+- I am applying for funding to promote a society where **artificial intelligence systems are fair, accountable, inclusive, responsible, transparent, ethical, carbon-neutral, and human-centred (FAIRTECH) by design**. To achieve this, I will:
+
+  1. structure an **Observatory of the Potentially Incurred Social Damage from Artificial Intelligence (PISD.ai)**, which will survey current (and future) relevant real-world examples where the lack of appropriate AI regulation (potentially) incurs significant social damage. Critical examples include (i) **the role of social media recommendation algorithms in disinformation and its impact on democracy, human rights, public health, and climate change**, and; (ii) **the disruptive nature of generative AI**.
+  2. survey the existing **AI regulation proposals** from major Western and non-Western democratic players, as well as the **legal, economical, and technical limitations** for appropriate regulation. Major player examples include the **European Union**, the **United Kingdom**, the **United States of America**, **Brazil**, **Chile**, and **Japan**.
+  3. propose **validation frameworks** to assist AI regulators and policymakers better structure  their proposals. Examples include the **appropriate definition of artificial intelligence systems to reduce the risk of overregulation**. 
+  4. structure an **educational framework to promote a FAIRTECH by design culture**, targeting key players in government, academia, industry, and civil society more broadly. Relevant partners that have already demonstrated interest include the **Brazilian Computing Society**, **Brazilian Ministry of Human Rights and Citizenship**, and **Toyota Motor Europe**.
+
 
 --- 
 
