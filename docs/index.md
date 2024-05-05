@@ -37,6 +37,17 @@ Currently, I have relocated to the UK and my main research focus is on **assessi
   3. propose **validation frameworks** to assist AI regulators and policymakers better structure  their proposals. Examples include the **appropriate definition of artificial intelligence systems to reduce the risk of overregulation**. 
   4. structure an **educational framework to promote a FAIRTECH by design culture**, targeting key players in government, academia, industry, and civil society more broadly. Relevant partners that have already demonstrated interest include the **Brazilian Computing Society**, **Brazilian Ministry of Human Rights and Citizenship**, and **Toyota Motor Europe**.
 
+---
+
+## Contents
+
+1. [News](#news)
+2. [Places & People](#places)
+3. [History](#history)
+4. [Projectsa and funding](#projects)
+5. [Supervision](#theses)
+6. [Key and relevant publications](#publications)
+7. [Science communication, networking, and community](#communication)
 
 --- 
 
