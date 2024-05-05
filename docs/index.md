@@ -44,7 +44,7 @@ Currently, I have relocated to the UK and my main research focus is on **assessi
 1. [News](#news)
 2. [Places & People](#places)
 3. [History](#history)
-4. [Projectsa and funding](#projects)
+4. [Projects and funding](#projects)
 5. [Supervision](#theses)
 6. [Key and relevant publications](#publications)
 7. [Science communication, networking, and community](#communication)
@@ -92,6 +92,8 @@ Currently, I have relocated to the UK and my main research focus is on **assessi
 - I was offered a **Senior Teaching Fellow in Data Science** position at the [Coventry University, Coventry, UK](https://www.coventry.ac.uk/).
 - I was awarded an **Alain Bensoussan fellowship** from the [European Research Consortium for Informatics and Mathematics (ERCIM)](https://www.ercim.eu) to work at <a href="https://www.uma.es/" target="_blank">Universidad de Malaga (UMA), Malaga, Spain</a>.
 
+[Back to the top](#top)
+
 --- 
 
 <a name="places">
@@ -110,6 +112,8 @@ Currently, I have relocated to the UK and my main research focus is on **assessi
 <img src="https://img.shields.io/badge/-coinvestigators-bisque.svg?style=for-the-badge"/>
 
 <iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
+
+[Back to the top](#top)
 
 ---
 
