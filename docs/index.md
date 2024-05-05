@@ -19,7 +19,7 @@ image:
 <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
 
-My [thesis](#history) on **computational intelligence (CI)** was seminal to my Lectureship in Big Data in Brazil, working between 2016-2023 on **data science (DS)**, **artificial intelligence (AI)**, and their impact on **socially relevant problems**.
+My [thesis](#history) on **computational intelligence (CI)** was seminal to my Lectureship in Big Data in Brazil, where I worked between 2016-2023 on **data science (DS)**, **artificial intelligence (AI)**, and their impact on **socially relevant problems**.
 
 - I **proposed** and **collaborated** with applied [data science projects](#projects) with both the public and private sectors. Partners included the **Brazilian Judicial Branch** and **Ministry of Education**, as well as **regional** and **(multi-)national companies** in fields as diverse as **retail**, **telecommunications**, and **energy**. 
 
