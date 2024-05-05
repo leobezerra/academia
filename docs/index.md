@@ -533,6 +533,8 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
+---
+
 **Promoting and sustaining accountability in artificial intelligence applications** 
 
 @ Computing Science and Mathematics (CSM) Public Lectures - [University of Stirling](https://stir.ac.uk)
