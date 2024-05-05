@@ -19,15 +19,15 @@ image:
 <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
 
-My [thesis](#history) on **computational intelligence (CI)** was seminal to my research in Brazil over the past seven years on **data science (DS)**, **artificial intelligence (AI)**, and their impact on **socially relevant problems**.
+My [thesis](#history) on **computational intelligence (CI)** was seminal to my Lectureship in Big Data in Brazil, working between 2016-2023 on **data science (DS)**, **artificial intelligence (AI)**, and their impact on **socially relevant problems**.
 
-- I **propose** and **collaborate** with applied [data science projects](#projects) with both the public and private sectors. Partners include the **Brazilian Judicial Branch**, **Ministry of Education**, as well as **regional** and **(multi-)national companies** in fields as diverse as **retail**, **telecommunications**, and **energy**. 
+- I **proposed** and **collaborated** with applied [data science projects](#projects) with both the public and private sectors. Partners included the **Brazilian Judicial Branch** and **Ministry of Education**, as well as **regional** and **(multi-)national companies** in fields as diverse as **retail**, **telecommunications**, and **energy**. 
 
-- I **supervise graduate students** on [theses](#theses) involving **deep** and **automated machine learning**, as well as the intersection of **multi-objective optimization** with other CI domains, such as **multi-dimensional visualization** and **dynamic optimization**. 
+- I **supervised graduate students** on [theses](#theses) involving **deep** and **automated machine learning**, as well as the intersection of **multi-objective optimization** with other CI domains, such as **multi-dimensional visualization** and **dynamic optimization**. 
 
-- I have a deep concern for socially relevant problems, having for instance **assisted in the fight against the COVID-19 pandemic** through science [publication](#publications) and [communication](#communication). Importantly, my research has led to contributions to policymaking in public health and in higher education, having revised and updated the **Brazilian Standard Classification of Education** for census, evaluation, and regulation.
+- I developed a deep concern for socially relevant problems, having for instance **assisted in the fight against the COVID-19 pandemic** through science [publication](#publications) and [communication](#communication). Importantly, my Lectureship led to contributions to policymaking in public health and in higher education, having revised and updated the **Brazilian Standard Classification of Education** for census, evaluation, and regulation.
 
-Currently, I have relocated to the UK and my main research focus is on **assessing and addressing the social impacts of artificial intelligence systems**. 
+In 2023, I relocated to the UK and my main research focus is on **assessing and addressing the social impacts of artificial intelligence systems**. 
 - I have joined a research consortium led by the **University of Glasgow** to propose **methodologies and workbenches that enable stakeholders with diverse backgrounds to participate in AI harm auditing**. The consortium comprises over 20 investigators from UK universities, namely **Stirling**, **Strathclyde**, **Sheffield**, **York**, and **King's College London**, as well as **The Data Lab** from the **University of Edinburgh**. 
 
 - I am applying for funding to promote a society where **artificial intelligence systems are fair, accountable, inclusive, responsible, transparent, ethical, carbon-neutral, and human-centred (FAIRTECH) by design**. To achieve this, I will:
