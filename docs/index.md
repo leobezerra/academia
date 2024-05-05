@@ -25,7 +25,7 @@ My [thesis](#history) on **computational intelligence (CI)** was seminal to my r
 
 - I **supervise graduate students** on [theses](#theses) involving **deep** and **automated machine learning**, as well as the intersection of **multi-objective optimization** with other CI domains, such as **multi-dimensional visualization** and **dynamic optimization**. 
 
-- I have a deep concern for socially relevant problems, having for instance **assisted in the fight against the COVID-19 pandemic** through science [publication](#publications) and [communication](#communication). Importantly, my research has led to contributions to policymaking in public health and in higher education (HE), having revised and update the **Brazilian Standard Classification of Education**, used for HE census, evaluation, and regulation.
+- I have a deep concern for socially relevant problems, having for instance **assisted in the fight against the COVID-19 pandemic** through science [publication](#publications) and [communication](#communication). Importantly, my research has led to contributions to policymaking in public health and in higher education, having revised and updated the **Brazilian Standard Classification of Education** for census, evaluation, and regulation.
 
 Currently, I have relocated to the UK and my main research focus is on **assessing and addressing the social impacts of artificial intelligence systems**. 
 - I have joined a research consortium led by the **University of Glasgow** to propose **methodologies and workbenches that enable stakeholders with diverse backgrounds to participate in AI harm auditing**. The consortium comprises over 20 investigators from UK universities, namely **Stirling**, **Strathclyde**, **Sheffield**, **York**, and **King's College London**, as well as **The Data Lab** from the **University of Edinburgh**. 
@@ -59,7 +59,7 @@ Currently, I have relocated to the UK and my main research focus is on **assessi
 
 - I was invited by **Responsible AI UK** to attend the "_RAi UK Integrator Sandpit_", which will take place from June 11th to 13th, 2024 at the [De Vere Latimer Estate, Chesham, United Kingdom](https://www.devere.co.uk/latimer-estate).
 
-- I was nominated for a **Research Culture Award** by the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/) in the "_Outstanding Early Career Researcher_" category.
+- I was nominated **Outstanding Early Career Researcher** at the **Research Culture Awards** from the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/).
 
 - I was invited by **Dr. Annalisa Ricardi** to give a talk at the [University of Strathclyde, Glasgow, UK](https://www.strath.ac.uk/). The talk will be hosted by the **Aerospace Centre of Excellence** on May 22nd, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
@@ -141,6 +141,10 @@ Currently, I have relocated to the UK and my main research focus is on **assessi
 <img src="https://img.shields.io/badge/start-2016-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2017-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
 ### Awards (4)
+
+**Outstanding Early Career Researcher Research Culture Awards nomination** [University of Stirling](https://stir.ac.uk)
+
+<img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
 **Alain Bensoussan fellowship** @ [European Research Consortium for Informatics and Mathematics (ERCIM)](https://www.ercim.eu)
 
