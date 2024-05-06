@@ -55,7 +55,7 @@ I relocated to the University of Stirling, UK in 2023, deepening my research foc
 
 ## News
 
-### Spring 2023
+### Spring 2024
 
 - I was invited by **Responsible AI UK** to attend the "_RAi UK Integrator Sandpit_", which will take place from June 11th to 13th, 2024 at the [De Vere Latimer Estate, Chesham, United Kingdom](https://www.devere.co.uk/latimer-estate).
 
@@ -72,7 +72,7 @@ I relocated to the University of Stirling, UK in 2023, deepening my research foc
 - I was invited by **Prof. Thomas Stützle**, **Prof. Mauro Birattari**, and **Prof. Marco Dorigo** to give a talk at [Université Libre de Bruxelles, Brussels, BE](https://www.ulb.ac.be/). The talk was hosted by the **IRIDIA Artificial Intelligence Laboratory** on April 11th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
 
-### Winter 2023
+### Winter 2024
 
 - I was invited by **Dr. Anthony O'Hare** to give a public lecture at the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). The talk was hosted by the **Computing Science and Mathematics Division (CSM)** on March 18th, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
 
