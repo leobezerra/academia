@@ -59,7 +59,7 @@ I relocated to the University of Stirling, UK in 2023, deepening my research foc
 
 - I was invited by **Responsible AI UK** to attend the "_RAi UK Integrator Sandpit_", which will take place from June 11th to 13th, 2024 at the [De Vere Latimer Estate, Chesham, United Kingdom](https://www.devere.co.uk/latimer-estate).
 
-- I was nominated **Outstanding Early Career Researcher** at the **Research Culture Awards** from the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/).
+- I was nominated **Outstanding Early Career Researcher** by the **Research Culture Awards** of the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/).
 
 - I was invited by **Dr. Annalisa Ricardi** to give a talk at the [University of Strathclyde, Glasgow, UK](https://www.strath.ac.uk/). The talk will be hosted by the **Aerospace Centre of Excellence** on May 22nd, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
