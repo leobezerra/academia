@@ -67,7 +67,7 @@ I relocated to the University of Stirling, UK in 2023, deepening my research foc
 
 - I attended the "_BeMCO: Benchmarking in Multi-Criteria Optimization_" workshop, organized by the **Benchmarking Network**, which took place from April 15th to 19th, 2024 at the [Lorentz Center@Oort, Leiden, The Netherlands](https://www.lorentzcenter.nl/bemco-benchmarking-in-multi-criteria-optimisation.html). 
 
-- I was invited by **Dr. Gianpiero Francesca** to give a talk at [Toyota Motor Europe, Brussels, BE](https://www.toyota-europe.com/). The talk was hosted by the **Electronics Advanced Technology Research and Development Division** on April 15th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
+- I was invited by **Dr. Gianpiero Francesca** to give a talk at [Toyota Motor Europe, Brussels, BE](https://www.toyota-europe.com/). The talk was hosted by the **Advanced Technology R&D Division** on April 15th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
 - I was invited by **Prof. Thomas Stützle**, **Prof. Mauro Birattari**, and **Prof. Marco Dorigo** to give a talk at [Université Libre de Bruxelles, Brussels, BE](https://www.ulb.ac.be/). The talk was hosted by the **IRIDIA Artificial Intelligence Laboratory** on April 11th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
