@@ -521,7 +521,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 <a href="https://maps.app.goo.gl/GyULHzMDKVRHPNk88" target="_blank"><img src="https://img.shields.io/badge/-Aachen&comma;%20Germany-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
-@ [Toyota Motor Europe](https://toyota-europe.com/)
+@ Advanced Technology R&D Division - [Toyota Motor Europe](https://toyota-europe.com/)
 
 <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gianpierofrancesca/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
