@@ -146,7 +146,7 @@ I relocated to the University of Stirling, UK in 2023, deepening my research foc
 
 **Responsible AI UK Keystone Project** @ [Responsible AI UK](https://rai.ac.uk)
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
 **Outstanding Early Career Researcher nomination** @ _Research Culture Awards_, [University of Stirling](https://stir.ac.uk)
 
