@@ -192,11 +192,11 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 **PHAWM: Participatory harm auditing workbenches and methodologies** @ [Responsible AI UK](https://rai.ac.uk)
 
-<img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>  <img src="https://img.shields.io/badge/status-activ-yellow.svg?style=for-the-badge"/> 
 
 **Technological innovation cell** @ [Iberdrola Neoenergia COSERN](https://www.neoenergia.com)
 
-<img src="https://img.shields.io/badge/start-2022-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/start-2022-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
 
 **Applied research and human resource education in hardware technologies for artificial intelligence** @ [Huawei Telecommunications in Brazil](https://huawei.com.br/)
 
