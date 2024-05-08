@@ -28,7 +28,7 @@ My [thesis](#history) on **fundamental artificial intelligence (AI)** was semina
 - I developed a deep concern for socially relevant problems, having for instance **assisted in the fight against the COVID-19 pandemic** through science publication and [communication](#communication). Importantly, my Lectureships led to contributions to policymaking in public health, law (enforcement), and higher education, namely the revised and updated **Brazilian Standard Classification of Education** for census, evaluation, and regulation.
 
 I relocated to the University of Stirling, UK in 2023, deepening my research focus on **assessing and addressing the social impacts of AI systems**. 
-- I have joined a research consortium led by the **University of Glasgow** to propose **methodologies and workbenches that enable stakeholders with diverse backgrounds to participate in AI harm auditing**. The consortium comprises over 20 investigators from major UK universities, namely **Strathclyde**, **Sheffield**, **York**, and **King's College London**, as well as **The Data Lab** from the **University of Edinburgh**. 
+- I have joined a research consortium led by the **University of Glasgow** to propose **methodologies and workbenches that enable stakeholders with diverse backgrounds to participate in AI harm auditing**. The consortium comprises over 20 investigators from major UK universities, namely **Strathclyde**, **Sheffield**, **York**, and **King's College London**, as well as **The Data Lab** from the **University of Edinburgh**. The project was awarded £3.5mi by Responsible AI UK in April 2024, and will last four years starting in May 2024.  
 
 - I am applying for funding to promote a society where **AI systems are fair, accountable, inclusive, responsible, transparent, ethical, carbon-neutral, and human-centred (FAIRTECH) by design**. To achieve this, I will:
 
@@ -56,6 +56,8 @@ I relocated to the University of Stirling, UK in 2023, deepening my research foc
 ## News
 
 ### Spring 2024
+
+- Our project "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" was awarded **£3.5mi by Responsible AI UK** to propose approaches that **enable society to take part in AI auditing** over the next four years, starting May 2024. Our consortium comprises **25 investigators from 7 UK universities**, namely Glasgow, Strathclyde, Stirling, Edinburgh, Sheffield, York, and King's College London, as well as **23 external partners**.
 
 - I was invited by **Responsible AI UK** to attend the "_RAi UK Integrator Sandpit_", which will take place from June 11th to 13th, 2024 at the [De Vere Latimer Estate, Chesham, United Kingdom](https://www.devere.co.uk/latimer-estate).
 
@@ -140,11 +142,15 @@ I relocated to the University of Stirling, UK in 2023, deepening my research foc
 
 <img src="https://img.shields.io/badge/start-2016-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2017-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
-### Awards (4)
+### Awards (6)
+
+**Responsible AI UK Keystone Project** @ [Responsible AI UK](https://rai.ac.uk)
+
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
 **Outstanding Early Career Researcher nomination** @ _Research Culture Awards_, [University of Stirling](https://stir.ac.uk)
 
-<img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
 **Alain Bensoussan fellowship** @ [European Research Consortium for Informatics and Mathematics (ERCIM)](https://www.ercim.eu)
 
@@ -182,7 +188,11 @@ I relocated to the University of Stirling, UK in 2023, deepening my research foc
 
 _Financial details about the projects are provided in my [CV](#top)._
 
-### Proponent (4)
+### Proponent (5)
+
+**PHAWM: Participatory harm auditing workbenches and methodologies** @ [Responsible AI UK](https://rai.ac.uk)
+
+<img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/><img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
 **Technological innovation cell** @ [Iberdrola Neoenergia COSERN](https://www.neoenergia.com)
 
