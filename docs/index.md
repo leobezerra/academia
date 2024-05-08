@@ -192,7 +192,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 **PHAWM: Participatory harm auditing workbenches and methodologies** @ [Responsible AI UK](https://rai.ac.uk)
 
-<img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>  <img src="https://img.shields.io/badge/status-activ-yellow.svg?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>  <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> 
 
 **Technological innovation cell** @ [Iberdrola Neoenergia COSERN](https://www.neoenergia.com)
 
