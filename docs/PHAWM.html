@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_6352ad52273873f531a3fa89534f6d00 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_6352ad52273873f531a3fa89534f6d00" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_6352ad52273873f531a3fa89534f6d00 = L.map(
+                "map_6352ad52273873f531a3fa89534f6d00",
+                {
+                    center: [5.7842, -35.2],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 1,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f4ce4cb7970dd0b0c84c01fce1ceaef0 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_f4ce4cb7970dd0b0c84c01fce1ceaef0.addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var feature_group_75a4dfa3c9a3a7ee14645c888ee6bdbc = L.featureGroup(
+                {}
+            );
+        
+    
+            feature_group_75a4dfa3c9a3a7ee14645c888ee6bdbc.addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var feature_group_f15d81858af1dafd48e67fcff152621f = L.featureGroup(
+                {}
+            );
+        
+    
+            feature_group_f15d81858af1dafd48e67fcff152621f.addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var marker_ea2111c121cbe292c9b8dfbfa30781a0 = L.marker(
+                [51.52471385, -0.03931044284306251],
+                {}
+            ).addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var icon_6f45517198b396ffbaad10b79d08cc42 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_ea2111c121cbe292c9b8dfbfa30781a0.setIcon(icon_6f45517198b396ffbaad10b79d08cc42);
+        
+    
+            marker_ea2111c121cbe292c9b8dfbfa30781a0.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Gina Neff</strong><br><em>RAI UK / QMUL</em><br>Queen Mary University, London, UK
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8ed14eaa6c93e26aaf852b53562d3253 = L.marker(
+                [56.7861112, -4.1140518],
+                {}
+            ).addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var icon_3aeb8cc64fb4d87ae65c71a417884121 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_8ed14eaa6c93e26aaf852b53562d3253.setIcon(icon_3aeb8cc64fb4d87ae65c71a417884121);
+        
+    
+            marker_8ed14eaa6c93e26aaf852b53562d3253.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Carolyn Currie</strong><br><em>Women's Enterprise Scotland</em><br>Scotland, UK
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4d45d3150b9a4f3e5140b78fb39502ca = L.marker(
+                [53.3493795, -6.2605593],
+                {}
+            ).addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var icon_c7068c7dbbb4479c8f8570fa604caa37 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_4d45d3150b9a4f3e5140b78fb39502ca.setIcon(icon_c7068c7dbbb4479c8f8570fa604caa37);
+        
+    
+            marker_4d45d3150b9a4f3e5140b78fb39502ca.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Elizabeth Daly</strong><br><em>IBM Ireland</em><br>Dublin, Ireland
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b8c499422de7bb485d612b0e24d719a2 = L.marker(
+                [55.9533456, -3.1883749],
+                {}
+            ).addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var icon_1c266a86c6e0ce849fbd6999761a2c29 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_b8c499422de7bb485d612b0e24d719a2.setIcon(icon_1c266a86c6e0ce849fbd6999761a2c29);
+        
+    
+            marker_b8c499422de7bb485d612b0e24d719a2.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Jeremy Darot</strong><br><em>Scottish Government</em><br>Edinburgh, Scotland, UK
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3ae0a0fe59af48824419d7fdc14ccf66 = L.marker(
+                [51.75870755, -1.2556684826092037],
+                {}
+            ).addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var icon_3d5b5b60fd3dd00ac82a9c1307d91135 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_3ae0a0fe59af48824419d7fdc14ccf66.setIcon(icon_3d5b5b60fd3dd00ac82a9c1307d91135);
+        
+    
+            marker_3ae0a0fe59af48824419d7fdc14ccf66.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Reuben Binns</strong><br><em>University of Oxford</em><br>University of Oxford, Oxford, UK
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ac53eda7fbf1e2ba054a4d2cf8648b3c = L.marker(
+                [49.8916044, 10.8868478],
+                {}
+            ).addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var icon_092ef6e68e0e152db488db09bb79e758 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_ac53eda7fbf1e2ba054a4d2cf8648b3c.setIcon(icon_092ef6e68e0e152db488db09bb79e758);
+        
+    
+            marker_ac53eda7fbf1e2ba054a4d2cf8648b3c.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Ute Schmid</strong><br><em>University of Bamberg, Germany</em><br>Bamberg, Germany
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_664edff90ceb3fbdb067e16aa66366a1 = L.marker(
+                [40.444189699999995, -79.94271918393466],
+                {}
+            ).addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var icon_46a49074d64f352eb73af84c247e3872 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_664edff90ceb3fbdb067e16aa66366a1.setIcon(icon_46a49074d64f352eb73af84c247e3872);
+        
+    
+            marker_664edff90ceb3fbdb067e16aa66366a1.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Sherry Tongshuang Wu</strong><br><em>CMU, USA</em><br>Carnegie Mellon University, Pittsburgh, PA, USA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_81ac2dff946f1838f29e6b8127abc99a = L.marker(
+                [53.34366705, -6.254436557768817],
+                {}
+            ).addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var icon_ba12179f72cccc6a15b4431edf43fe4b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_81ac2dff946f1838f29e6b8127abc99a.setIcon(icon_ba12179f72cccc6a15b4431edf43fe4b);
+        
+    
+            marker_81ac2dff946f1838f29e6b8127abc99a.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Abeba Birhane</strong><br><em>Trinity College Dublin</em><br>Trinity College Dublin, Dublin, Ireland
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a9b154432f7f44f94ecffa06c82e0967 = L.marker(
+                [39.131611649999996, -77.21654057806873],
+                {}
+            ).addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var icon_3674517da5f3863b202b09ae0e87966c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_a9b154432f7f44f94ecffa06c82e0967.setIcon(icon_3674517da5f3863b202b09ae0e87966c);
+        
+    
+            marker_a9b154432f7f44f94ecffa06c82e0967.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Ian Soboroff</strong><br><em>NIST, USA</em><br>NIST, MA, USA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_311a001897c240ce4c7780f5acfee806 = L.marker(
+                [53.32551635, -2.2360092452682454],
+                {}
+            ).addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            var icon_a9fb1c0e931b83a9a2a5448bf196682c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "map-marker", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_311a001897c240ce4c7780f5acfee806.setIcon(icon_a9fb1c0e931b83a9a2a5448bf196682c);
+        
+    
+            marker_311a001897c240ce4c7780f5acfee806.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Kimberley Mai</strong><br><em>ICO</em><br>ICO, Cheshire, United Kingdom
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            tile_layer_f4ce4cb7970dd0b0c84c01fce1ceaef0.addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            feature_group_75a4dfa3c9a3a7ee14645c888ee6bdbc.addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            feature_group_f15d81858af1dafd48e67fcff152621f.addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            tile_layer_f4ce4cb7970dd0b0c84c01fce1ceaef0.addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            feature_group_75a4dfa3c9a3a7ee14645c888ee6bdbc.addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+    
+            feature_group_f15d81858af1dafd48e67fcff152621f.addTo(map_6352ad52273873f531a3fa89534f6d00);
+        
+</script>
+</html>
