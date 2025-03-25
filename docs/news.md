@@ -28,7 +28,7 @@ title: "Leonardo Bezerra - Academic CV"
    - [Autumn](#autumn2023)
    - [Summer](#summer2023)
   
-[Back to the main page](../)
+[Back to the main page](/)
 
 <a name="2024"/>
 <a name="spring2024"/>
