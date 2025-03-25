@@ -30,8 +30,14 @@ title: "Leonardo Bezerra - Academic CV"
   
 [Back to main page](index.md)
 
+--- 
+
 <a name="2024"/>
+
+## 2024
+
 <a name="spring2024"/>
+
 ### Spring 2024
 
 - Our project "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" was awarded **£3.5mi by Responsible AI UK** to propose approaches that **enable society to take part in AI auditing** over the next four years, starting May 2024. Our consortium comprises **25 investigators from 7 UK universities**, namely Glasgow, Strathclyde, Stirling, Edinburgh, Sheffield, York, and King's College London, as well as **23 external partners**.
@@ -53,6 +59,7 @@ title: "Leonardo Bezerra - Academic CV"
 [Back to the top](#top)
 
 <a name="winter2024"/>
+
 ### Winter 2024
 
 - I was invited by **Dr. Anthony O'Hare** to give a public lecture at the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). The talk was hosted by the **Computing Science and Mathematics Division (CSM)** on March 18th, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
@@ -65,8 +72,14 @@ title: "Leonardo Bezerra - Academic CV"
 
 [Back to the top](#top)
 
+--- 
+
 <a name="2023"/>
+
+## 2023
+
 <a name="autumn2023"/>
+
 ### Autumn 2023
 
 - I was invited by the **Benchmarking Network** to attend the "_BeMCO: Benchmarking in Multi-Criteria Optimization_" workshop, which will take place from April 15th to 19th, 2024 at the [Lorentz Center@Oort, Leiden, The Netherlands](https://www.lorentzcenter.nl/bemco-benchmarking-in-multi-criteria-optimisation.html). 
@@ -78,6 +91,7 @@ title: "Leonardo Bezerra - Academic CV"
 [Back to the top](#top)
 
 <a name="summer2023"/>
+
 ### Summer 2023
 
 - I was offered and accepted a **Lecturer in Artificial Intelligence/Data Science** position at the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). 
