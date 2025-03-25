@@ -50,23 +50,15 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 
 ## News
 
-### Spring 2024
+### Winter 2025
 
-- Our project "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" was awarded **£3.5mi by Responsible AI UK** to propose approaches that **enable society to take part in AI auditing** over the next four years, starting May 2024. Our consortium comprises **25 investigators from 7 UK universities**, namely Glasgow, Strathclyde, Stirling, Edinburgh, Sheffield, York, and King's College London, as well as **23 external partners**.
+- I was invited by **Responsible AI UK** to attend the concluding event of the "_Public voices in AI_" research project. The event will take place on March 28th, at the [Work Station, Sheffield, UK](https://www.showroomworkstation.org.uk/workstation/default.aspx).
 
-- I was invited by **Responsible AI UK** to attend the "_RAi UK Integrator Sandpit_", which will take place from June 11th to 13th, 2024 at the [De Vere Latimer Estate, Chesham, United Kingdom](https://www.devere.co.uk/latimer-estate).
+- I was invited by **Dr. Manuel López-Ibáñez** to give a talk at the [University of Manchester, Manchester, UK](https://www.manchester.ac.uk/). The talk will be hosted by the **Decision and Cognitive Science Research Centre** on March 27th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
-- I was nominated **Outstanding Early Career Researcher** by the **Research Culture Awards** of the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/).
+- I was invited by **The Data Lab** to be a panelist at the **Data & AI Ethics Meet-up**. The meet-up took place on March 4th, at the [Bayes Centre, University of Edinburgh, Edinburgh, UK](https://bayes-centre.ed.ac.uk), and my talk was entitled "_PHAWM: Supporting society to assess AI​_".
 
-- I was invited by **Dr. Annalisa Ricardi** to give a talk at the [University of Strathclyde, Glasgow, UK](https://www.strath.ac.uk/). The talk will be hosted by the **Aerospace Centre of Excellence** on May 22nd, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
-
-- I was invited by **Prof. Holger Hoos** to give a talk at [RWTH Aachen University, Aachen, DE](https://www.rwth-aachen.de). The talk was hosted by the **Chair for Artificial Intelligence Methodology (AIM)** on April 17th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
-
-- I attended the "_BeMCO: Benchmarking in Multi-Criteria Optimization_" workshop, organized by the **Benchmarking Network**, which took place from April 15th to 19th, 2024 at the [Lorentz Center@Oort, Leiden, The Netherlands](https://www.lorentzcenter.nl/bemco-benchmarking-in-multi-criteria-optimisation.html). 
-
-- I was invited by **Dr. Gianpiero Francesca** to give a talk at [Toyota Motor Europe, Brussels, BE](https://www.toyota-europe.com/). The talk was hosted by the **Advanced Technology R&D Division** on April 15th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
-
-- I was invited by **Prof. Thomas Stützle**, **Prof. Mauro Birattari**, and **Prof. Marco Dorigo** to give a talk at [Université Libre de Bruxelles, Brussels, BE](https://www.ulb.ac.be/). The talk was hosted by the **IRIDIA Artificial Intelligence Laboratory** on April 11th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
+- I had a paper accepted at the **International Conference on the Applications of Evolutionary Computation** (EvoApps, part of EvoStar). The paper is entitled "_Optimizing the logistics operations of distribution network operators from a multinational electric utility company_" and is the result of a collaboration with **Neoenergia**, the Brazilian subsidiary of Spanish multinational utility company **Iberdrola**. The conference will take place from April 23th to 25th, 2025 at the [University of Trieste, Trieste, Italy](https://portale.units.it/en). 
 
 You can check past news [here](news).
 
