@@ -1,14 +1,8 @@
 ---
 title: "Leonardo Bezerra - Academic CV"
-image:
-    path: img/us.png
-    width: 1200
-    height: 628
 ---
 
 <a name="top"/>
-
-![Leonardo Bezerra](img/us.jpg)
 
 # Leonardo Bezerra
 
