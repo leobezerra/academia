@@ -24,13 +24,14 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 **I relocated to the University of Stirling, UK in 2023**, deepening my research focus on **assessing and addressing the social impacts of AI systems**. 
 - **I have joined a research consortium led by the University of Glasgow to propose methodologies and workbenches that enable stakeholders with diverse backgrounds to participate in AI harm auditing**. The consortium was awarded **£3.5 million by the Responsible AI Keystone Projects call funded by UKRI**. The project started in May 2024 and will last for 48 months. Importantly, the project currently has **over 20 external partners** who will provide case studies and help devise and evaluate our AI harm auditing workbenches and methodologies.
 
+<!--
 - **I am applying for funding to promote a society where AI systems are fair, accountable, inclusive, responsible, transparent, ethical, carbon-neutral, and human-centred (FAIRTECH) by design**. To achieve this, I will:
 
   1. structure an **Observatory of the Potentially Incurred Social Damage from Artificial Intelligence (PISD.ai)**, which will survey current (and future) relevant real-world examples where the **lack of appropriate AI regulation (potentially) incurs significant social damage**. A prototypical  example is **the role of social media recommendation algorithms in disinformation** and its impact on **democracy, human rights, public health, and climate change**, and how this impact can be further **worsened by generative AI**.
   2. survey the existing **AI regulation proposals** from major Western and non-Western democratic players, as well as the **legal, economical, and technical limitations** for appropriate regulation. Major player examples include the **European Union**, the **United Kingdom**, the **United States of America**, **Brazil**, **Chile**, and **Japan**.
   3. propose **validation frameworks to assist AI regulators and policymakers** in their proposals and/or revisions. Examples include the **appropriate definition of artificial intelligence systems** to reduce the **risk of overregulation**. 
   4. formulate an **educational framework** to promote a **FAIRTECH by design culture**, targeting key players in government, academia, industry, and civil society more broadly. Relevant partners that have already demonstrated interest include the **Brazilian Computing Society**, **Brazilian Ministry of Human Rights and Citizenship**, and **Toyota Motor Europe**.
-
+-->
 ---
 
 ## Contents
