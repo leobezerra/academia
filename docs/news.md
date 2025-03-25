@@ -1,3 +1,18 @@
+---
+title: "Leonardo Bezerra - Academic CV"
+---
+
+<a name="top"/>
+
+# Leonardo Bezerra
+
+<a href="mailto:leonardo.bezerra@stir.ac.uk" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
+<a href="https://www.linkedin.com/in/leonardo-c-t-bezerra-623b7231" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue.svg?logo=linkedin&style=for-the-badge"/></a>
+<a href="https://orcid.org/0000-0003-4654-2553" target="_blank"><img src="https://img.shields.io/badge/-orcid-green.svg?logo=orcid&style=for-the-badge&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=llcIEHIAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://img.shields.io/badge/-scholar-yellow.svg?logo=googlescholar&style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
+
 ## News
 
 <a name="top"/>
@@ -12,6 +27,8 @@
 3. [2023](#2023)
    - [Autumn](#autumn2023)
    - [Summer](#summer2023)
+  
+[Back to the main page](../)
 
 <a name="2024"/>
 <a name="spring2024"/>
