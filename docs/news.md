@@ -17,14 +17,14 @@ title: "Leonardo Bezerra - Academic CV"
 
 <a name="top"/>
 
-1. [2025]
-   - Spring
-2. [2024](#2024)
-   - Summer
-   - Autumn
+1. [2025](#2025)
+   - [Winter](#winter2025)
+3. [2024](#2024)
+   - [Autumn](#autumn2024)
+   - [Summer](#summer2024)
    - [Spring](#spring2024)
    - [Winter](#winter2024)
-3. [2023](#2023)
+4. [2023](#2023)
    - [Autumn](#autumn2023)
    - [Summer](#summer2023)
   
@@ -32,9 +32,37 @@ title: "Leonardo Bezerra - Academic CV"
 
 --- 
 
+<a name="2025"/>
+
+## 2025
+
+<a name="winter2025"/>
+
+### Winter 2025
+
+- I had a paper accepted at the **International Conference on the Applications of Evolutionary Computation** (EvoApps, part of EvoStar). The paper is entitled "_Optimizing the logistics operations of distribution network operators from a multinational electric utility company_" and is the result of a collaboration with **Neoenergia**, the Brazilian subsidiary of Spanish multinational utility company **Iberdrola**. The conference will take place from April 23th to 25th, 2025 at the [University of Trieste, Trieste, Italy](https://portale.units.it/en). 
+
+--- 
+
 <a name="2024"/>
 
 ## 2024
+
+<a name="autumn2024"/>
+
+### Autumn 2024
+
+- I attended the launch event of the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" project, funded by **Responsible AI UK**, which took place on October 25th, 2024 at the [Technology & Innovation Centre (TIC)](https://www.strath.ac.uk/research/technologyandinnovationcentre/) of the University of Strathclyde, Glasgow, Scotland. 
+
+<a name="summer2024"/>
+
+### Summer 2024
+
+- I was invited by **Dr. Nelson Ferreira de Sousa Junior** to join a research bid about the use of AI in the analysis of oral, written, and archeological records in Brazil, Portugal and Guinea-Bissau. The call was funded by the **CNPq**, the Brazilian National Council for Research.
+
+- I was invited by **INEP** to help revise the _Brazilian Standard Classification of Education_ (Cine Brasil 2018). INEP is the major higher education (HE) policy regulator associated with the **Brazilian Ministry of Education**, and I was invited for my role as one of the coordinators of the Cine Brasil 2018 proposal, based on **UNESCO's** _International Standard Classification of Education_ (ISCED-F).
+
+- I published a paper with **Dr. Guido Noto La Diega** entitled "_Can there be responsible AI without AI liability? Incentivizing generative AI safety through ex-post tort liability under the EU AI liability directive_". The paper will appear on the **International Journal of Law and Information Technology**, published by the **Oxford University Press**.
 
 <a name="spring2024"/>
 
@@ -42,11 +70,11 @@ title: "Leonardo Bezerra - Academic CV"
 
 - Our project "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" was awarded **£3.5mi by Responsible AI UK** to propose approaches that **enable society to take part in AI auditing** over the next four years, starting May 2024. Our consortium comprises **25 investigators from 7 UK universities**, namely Glasgow, Strathclyde, Stirling, Edinburgh, Sheffield, York, and King's College London, as well as **23 external partners**.
 
-- I was invited by **Responsible AI UK** to attend the "_RAi UK Integrator Sandpit_", which will take place from June 11th to 13th, 2024 at the [De Vere Latimer Estate, Chesham, United Kingdom](https://www.devere.co.uk/latimer-estate).
+- I was invited by **Responsible AI UK** to attend the "_RAi UK Integrator Sandpit_", which took place from June 11th to 13th, 2024 at the [De Vere Latimer Estate, Chesham, United Kingdom](https://www.devere.co.uk/latimer-estate).
 
 - I was nominated **Outstanding Early Career Researcher** by the **Research Culture Awards** of the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/).
 
-- I was invited by **Dr. Annalisa Ricardi** to give a talk at the [University of Strathclyde, Glasgow, UK](https://www.strath.ac.uk/). The talk will be hosted by the **Aerospace Centre of Excellence** on May 22nd, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
+- I was invited by **Dr. Annalisa Ricardi** to give a talk at the [University of Strathclyde, Glasgow, UK](https://www.strath.ac.uk/). The talk was hosted by the **Aerospace Centre of Excellence** on May 22nd, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
 - I was invited by **Prof. Holger Hoos** to give a talk at [RWTH Aachen University, Aachen, DE](https://www.rwth-aachen.de). The talk was hosted by the **Chair for Artificial Intelligence Methodology (AIM)** on April 17th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
