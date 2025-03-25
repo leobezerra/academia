@@ -40,6 +40,12 @@ title: "Leonardo Bezerra - Academic CV"
 
 ### Winter 2025
 
+- I was invited by **Responsible AI UK** to attend the concluding event of the "_Public voices in AI_" research project. The event will take place on March 28th, at the [Work Station, Sheffield, UK](https://www.showroomworkstation.org.uk/workstation/default.aspx).
+
+- I was invited by **Dr. Manuel López-Ibáñez** to give a talk at the [University of Manchester, Manchester, UK](https://www.manchester.ac.uk/). The talk will be hosted by the **Decision and Cognitive Science Research Centre** on March 27th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
+
+- I was invited by **The Data Lab** to be a panelist at the **Data & AI Ethics Meet-up**. The meet-up took place on March 4th, at the [Bayes Centre, University of Edinburgh, Edinburgh, UK](https://bayes-centre.ed.ac.uk), and my talk was entitled "_PHAWM: Supporting society to assess AI​_".
+
 - I had a paper accepted at the **International Conference on the Applications of Evolutionary Computation** (EvoApps, part of EvoStar). The paper is entitled "_Optimizing the logistics operations of distribution network operators from a multinational electric utility company_" and is the result of a collaboration with **Neoenergia**, the Brazilian subsidiary of Spanish multinational utility company **Iberdrola**. The conference will take place from April 23th to 25th, 2025 at the [University of Trieste, Trieste, Italy](https://portale.units.it/en). 
 
 --- 
