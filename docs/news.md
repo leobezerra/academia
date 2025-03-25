@@ -2,13 +2,18 @@
 
 1. [2025]
    - Spring
-2. [2024]
-   - [Spring](#spring2024)
+2. [2024](#2024)
    - Summer
    - Autumn
-   - Winter
+   - [Spring](#spring2024)
+   - [Winter](#winter2024)
+3. [2023](#2023)
+   - [Autumn](#autumn2023)
+   - [Summer](#summer2023)
 
-### <a href="#spring2024">Spring 2024</a>
+<a name="2024"></a>
+<a name="spring2024"></a>
+### Spring 2024
 
 - Our project "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" was awarded **£3.5mi by Responsible AI UK** to propose approaches that **enable society to take part in AI auditing** over the next four years, starting May 2024. Our consortium comprises **25 investigators from 7 UK universities**, namely Glasgow, Strathclyde, Stirling, Edinburgh, Sheffield, York, and King's College London, as well as **23 external partners**.
 
@@ -26,7 +31,7 @@
 
 - I was invited by **Prof. Thomas Stützle**, **Prof. Mauro Birattari**, and **Prof. Marco Dorigo** to give a talk at [Université Libre de Bruxelles, Brussels, BE](https://www.ulb.ac.be/). The talk was hosted by the **IRIDIA Artificial Intelligence Laboratory** on April 11th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
-
+<a name="winter2024"></a>
 ### Winter 2024
 
 - I was invited by **Dr. Anthony O'Hare** to give a public lecture at the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). The talk was hosted by the **Computing Science and Mathematics Division (CSM)** on March 18th, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
@@ -37,6 +42,10 @@
 
 - I was invited by **Prof. Federica Sarro** to give a talk at [University College London, London, UK](https://www.ucl.ac.uk/). The talk was hosted by the **Software Systems Engineering Group (SSE)** on January 24th, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
 
+[Back to the top](#top)
+
+<a name="2023"></a>
+<a name="autumn2023"></a>
 ### Autumn 2023
 
 - I was invited by the **Benchmarking Network** to attend the "_BeMCO: Benchmarking in Multi-Criteria Optimization_" workshop, which will take place from April 15th to 19th, 2024 at the [Lorentz Center@Oort, Leiden, The Netherlands](https://www.lorentzcenter.nl/bemco-benchmarking-in-multi-criteria-optimisation.html). 
@@ -45,6 +54,7 @@
 
 - I was invited by **Dr. Elizabeth Wanner** to give a talk at [Aston University, Birmingham, UK](https://www.aston.ac.uk/). The talk was hosted by the **Aston Centre for Artificial Intelligence Research and Applications (ACAIRA)** on October 16th, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
 
+<a name="summer2023"></a>
 ### Summer 2023
 
 - I was offered and accepted a **Lecturer in Artificial Intelligence/Data Science** position at the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). 
@@ -53,4 +63,3 @@
 - I was awarded an **Alain Bensoussan fellowship** from the [European Research Consortium for Informatics and Mathematics (ERCIM)](https://www.ercim.eu) to work at <a href="https://www.uma.es/" target="_blank">Universidad de Malaga (UMA), Malaga, Spain</a>.
 
 [Back to the top](#top)
-
