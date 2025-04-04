@@ -3,7 +3,7 @@ title: "Leonardo Bezerra - Academic CV"
 output: html_document
 ---
 
-``{css formatting, echo=FALSE}
+```{css formatting, echo=FALSE}
 
 #header {
     position: fixed;
@@ -11,7 +11,7 @@ output: html_document
     height: 75px;
     background-color: white;
 }
-``
+```
 
 <h3 style="margin-top: 75px;">&nbsp;</h3>
 
