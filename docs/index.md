@@ -34,7 +34,7 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 
 - **I developed a deep concern for socially relevant problems**, having for instance **assisted in the fight against the COVID-19 pandemic through science publication and [communication](#communication)**. Importantly, my Lectureships led to **contributions to policymaking in public health, law (enforcement), and higher education**, e.g. the revised and updated **Brazilian Standard Classification of Education** for census, evaluation, and regulation.
 
-**I relocated to the University of Stirling, UK in 2023**, deepening my research focus on **assessing and addressing the social impacts of AI systems**. 
+**I relocated to the University of Stirling, UK in 2023**, deepening my research focus on **assessing and addressing the eco-social-technical effects of AI ecosystems**. 
 - **I have joined a research consortium led by the University of Glasgow to propose methodologies and workbenches that enable stakeholders with diverse backgrounds to participate in AI harm auditing**. The consortium was awarded **£3.5 million by the Responsible AI Keystone Projects call funded by UKRI**. The project started in May 2024 and will last for 48 months. Importantly, the project currently has **over 20 external partners** who will provide case studies and help devise and evaluate our AI harm auditing workbenches and methodologies.
 
 <!--
