@@ -1,6 +1,19 @@
 ---
 title: "Leonardo Bezerra - Academic CV"
+output: html_document
 ---
+
+``{css formatting, echo=FALSE}
+
+#header {
+    position: fixed;
+    width: 100%;
+    height: 75px;
+    background-color: white;
+}
+``
+
+<h3 style="margin-top: 75px;">&nbsp;</h3>
 
 <a name="top"/>
 
