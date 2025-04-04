@@ -1,6 +1,5 @@
 ---
 title: "Leonardo C. T. Bezerra - Academic CV"
-output: html_document
 ---
 
 <a name="top"/>
