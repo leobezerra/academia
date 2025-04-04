@@ -1,2 +1,6 @@
 title: Leonardo C. T. Bezerra - Academic CV
 description: Lecturer in AI/Data Science @ University of Stirling, Stirling, UK
+navigation:
+  - section: News
+  - document: news
+    label: News
