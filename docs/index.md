@@ -50,11 +50,15 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 
 ## News
 
+### Spring 2025
+
+- I was invited to become the Project Lead at the University of Stirling for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, effective immediately. The project is starting its second year in April 2025 and will run until March 2028. 
+
 ### Winter 2025
 
-- I was invited by **Responsible AI UK** to attend the concluding event of the "_Public voices in AI_" research project. The event will take place on March 28th, at the [Work Station, Sheffield, UK](https://www.showroomworkstation.org.uk/workstation/default.aspx).
+- I was invited by **Responsible AI UK** to attend the concluding event of the "_Public voices in AI_" research project. The event took place on March 28th, at the [Work Station, Sheffield, UK](https://www.showroomworkstation.org.uk/workstation/default.aspx).
 
-- I was invited by **Dr. Manuel López-Ibáñez** to give a talk at the [University of Manchester, Manchester, UK](https://www.manchester.ac.uk/). The talk will be hosted by the **Decision and Cognitive Science Research Centre** on March 27th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
+- I was invited by **Dr. Manuel López-Ibáñez** to give a talk at the [University of Manchester, Manchester, UK](https://www.manchester.ac.uk/). The talk was hosted by the **Decision and Cognitive Science Research Centre** on March 27th, entitled "_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_".
 
 - I was invited by **The Data Lab** to be a panelist at the **Data & AI Ethics Meet-up**. The meet-up took place on March 4th, at the [Bayes Centre, University of Edinburgh, Edinburgh, UK](https://bayes-centre.ed.ac.uk), and my talk was entitled "_PHAWM: Supporting society to assess AI​_".
 
