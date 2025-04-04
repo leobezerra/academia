@@ -30,6 +30,7 @@ title: "Leonardo Bezerra - Academic CV"
 
 --- 
 
+<!--
 <a name="2025"/>
 
 ## 2025
@@ -47,7 +48,7 @@ title: "Leonardo Bezerra - Academic CV"
 - I had a paper accepted at the **International Conference on the Applications of Evolutionary Computation** (EvoApps, part of EvoStar). The paper is entitled "_Optimizing the logistics operations of distribution network operators from a multinational electric utility company_" and is the result of a collaboration with **Neoenergia**, the Brazilian subsidiary of Spanish multinational utility company **Iberdrola**. The conference will take place from April 23th to 25th, 2025 at the [University of Trieste, Trieste, Italy](https://portale.units.it/en). 
 
 --- 
-
+-->
 <a name="2024"/>
 
 ## 2024
