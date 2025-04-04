@@ -1,6 +1,10 @@
 ---
 title: "Leonardo Bezerra - Academic CV"
 output: html_document
+navigation:
+  - section: News
+  - document: news
+    label: News
 ---
 
 <a name="top"/>
