@@ -52,7 +52,7 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 
 ### Spring 2025
 
-- I was invited to become the **Project Lead** at the **University of Stirling** for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, effective immediately. The project is starting its second year in April 2025 and will run until March 2028. 
+- I was invited to become the **Project Lead** at the **University of Stirling** for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, from April 2025 on. The project is currently starting its second year and will run until March 2028. 
 
 ### Winter 2025
 
