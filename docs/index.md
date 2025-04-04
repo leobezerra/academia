@@ -35,7 +35,7 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 - **I developed a deep concern for socially relevant problems**, having for instance **assisted in the fight against the COVID-19 pandemic through science publication and [communication](#communication)**. Importantly, my Lectureships led to **contributions to policymaking in public health, law (enforcement), and higher education**, e.g. the revised and updated **Brazilian Standard Classification of Education** for census, evaluation, and regulation.
 
 **I relocated to the University of Stirling, UK in 2023**, deepening my research focus on **assessing and addressing the eco-social-technical effects of AI ecosystems**. 
-- **I have joined a research consortium led by the University of Glasgow to propose methodologies and workbenches that enable stakeholders with diverse backgrounds to participate in AI harm auditing**. The consortium was awarded **£3.5 million by the Responsible AI Keystone Projects call funded by UKRI**. The project started in May 2024 and will last for 48 months. Importantly, the project currently has **over 20 external partners** who will provide case studies and help devise and evaluate our AI harm auditing workbenches and methodologies.
+- **I have joined a research consortium led by the University of Glasgow to propose methodologies and workbenches that enable stakeholders with diverse backgrounds to participate in AI harm auditing**. The consortium was awarded **£3.5 million by the Responsible AI Keystone Projects call funded by UKRI**. The project started in May 2024 and will last for 42 months. Importantly, the project currently has **over 25 external partners** who will provide case studies and help devise and evaluate our AI harm auditing workbenches and methodologies.
 
 <!--
 - **I am applying for funding to promote a society where AI systems are fair, accountable, inclusive, responsible, transparent, ethical, carbon-neutral, and human-centred (FAIRTECH) by design**. To achieve this, I will:
@@ -67,7 +67,7 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 
 - I proposed and hosted through the **StirAI Lab** a meet-up on "__AI Ethics__" at the **University of Stirling**. The event took place on April 4th and had **Wiktoria Kulik** as panelist alongside myself, with **Dr. Terrie-Lynn Thompson** as moderator. 
 
-- I was invited to become the **Project Lead** at the **University of Stirling** for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, from April 2025 on. The project is currently starting its second year and will run until March 2028. 
+- I was invited to become the **Project Lead** at the **University of Stirling** for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, from April 2025 on. The project is finishing its first year and will run until March 2028. 
 
 ### Winter 2025
 
