@@ -52,7 +52,7 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 
 ### Spring 2025
 
-- I proposed and hosted through the **StirAI Lab** a meet-up on "__AI Ethics__" at the **University of Stirling**. The event took place on April 4th and had **Wiktoria Kulik** as panelist alongside myself, with **Dr. Terrie-Lynn Thompson** as moderator. 
+- I invited **Wiktoria Kulik** from **Accenture UK** for a meet-up on "_AI Ethics_" at the **University of Stirling**, hosted by the **StirAI Lab** and the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project. The event took place on April 4th and had Wiktoria and myself as panelists, with **Dr. Terrie-Lynn Thompson** as moderator. 
 
 - I was invited to become the **Project Lead** at the **University of Stirling** for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, from April 2025 on. The project is finishing its first year and will run until March 2028. 
 
