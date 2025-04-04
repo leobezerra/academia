@@ -17,14 +17,12 @@ title: "Leonardo Bezerra - Academic CV"
 
 <a name="top"/>
 
-1. [2025](#2025)
-   - [Winter](#winter2025)
-3. [2024](#2024)
+1. [2024](#2024)
    - [Autumn](#autumn2024)
    - [Summer](#summer2024)
    - [Spring](#spring2024)
    - [Winter](#winter2024)
-4. [2023](#2023)
+2. [2023](#2023)
    - [Autumn](#autumn2023)
    - [Summer](#summer2023)
   
