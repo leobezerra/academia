@@ -29,7 +29,7 @@ title: "Sociotechnical & Resposible AI Seminar Series"
   
 --- 
 
-<a name="spring2026"/></a>
+<a name="spring2026"/>
 
 ## AI & Ethics
 
@@ -45,7 +45,7 @@ title: "Sociotechnical & Resposible AI Seminar Series"
 
 --- 
 
-<a name="autumn2025"/></a>
+<a name="autumn2025"/>
 
 ## AI & Gender
 
@@ -65,7 +65,7 @@ _Carolline Querino is a specialist in Gender Mainstreaming, focusing on Artifici
 
 --- 
 
-<a name="spring2025"/></a>
+<a name="spring2025"/>
 
 ## AI & Organisations
 
@@ -85,7 +85,7 @@ _Wiktoria Kulik is a Responsible AI Manager at Accenture, where she supports cli
 
 --- 
 
-<a name="autumn2024"/></a>
+<a name="autumn2024"/>
 
 ## AI & Metrics
 
