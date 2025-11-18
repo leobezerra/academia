@@ -1,5 +1,5 @@
 ---
-title: "Leonardo C. T. Bezerra - Academic CV"
+title: "Leonardo C. T. Bezerra - Academic webpage"
 ---
 
 <a name="top"/>
