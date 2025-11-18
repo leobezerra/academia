@@ -1,5 +1,5 @@
 ---
-title: "Leonardo Bezerra - Academic CV"
+title: "Leonardo Bezerra"
 ---
 
 <a name="top"/>
