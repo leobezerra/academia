@@ -17,12 +17,14 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="top"/>
 
-1. [2024](#2024)
+1. [2025](#2025)
+   - [Winter](#winter2025)
+2. [2024](#2024)
    - [Autumn](#autumn2024)
    - [Summer](#summer2024)
    - [Spring](#spring2024)
    - [Winter](#winter2024)
-2. [2023](#2023)
+3. [2023](#2023)
    - [Autumn](#autumn2023)
    - [Summer](#summer2023)
   
@@ -30,7 +32,6 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 --- 
 
-<!--
 <a name="2025"/>
 
 ## 2025
@@ -48,7 +49,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 - I had a paper accepted at the **International Conference on the Applications of Evolutionary Computation** (EvoApps, part of EvoStar). The paper is entitled "_Optimizing the logistics operations of distribution network operators from a multinational electric utility company_" and is the result of a collaboration with **Neoenergia**, the Brazilian subsidiary of Spanish multinational utility company **Iberdrola**. The conference will take place from April 23th to 25th, 2025 at the [University of Trieste, Trieste, Italy](https://portale.units.it/en). 
 
 --- 
--->
+
 <a name="2024"/>
 
 ## 2024
