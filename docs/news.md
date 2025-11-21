@@ -18,6 +18,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <a name="top"/>
 
 1. [2025](#2025)
+   - [Spring](#spring2025)
    - [Winter](#winter2025)
 2. [2024](#2024)
    - [Autumn](#autumn2024)
@@ -35,6 +36,14 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <a name="2025"/>
 
 ## 2025
+
+<a name="spring2025"/>
+
+### Spring 2025
+
+- I invited **Wiktoria Kulik** from **Accenture UK** for a meet-up on "_AI Ethics_" at the **University of Stirling**, hosted by the **StirAI Lab** and the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project. The event took place on April 4th and had Wiktoria and myself as panelists, with **Dr. Terrie-Lynn Thompson** as moderator. 
+
+- I was invited to become the **Project Lead** at the **University of Stirling** for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, from April 2025 on. The project is finishing its first year and will run until March 2028. 
 
 <a name="winter2025"/>
 
