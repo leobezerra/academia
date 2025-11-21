@@ -50,12 +50,17 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 
 ## News
 
+### Summer 2025
+
+- I was invited by **Responsible AI UK** for an "_All Hands Meeting_" gathering funded research projects, our partners, and relevant stakeholders, which will take place from November 18th to 19h, 2025, at the [Mercure Manchester Picaddily Hotel](https://maps.app.goo.gl/RSUc9agRqunyT8jr6).
+
 ### Spring 2025
 
 - I invited **Wiktoria Kulik** from **Accenture UK** for a meet-up on "_AI Ethics_" at the **University of Stirling**, hosted by the **StirAI Lab** and the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project. The event took place on April 4th and had Wiktoria and myself as panelists, with **Dr. Terrie-Lynn Thompson** as moderator. 
 
 - I was invited to become the **Project Lead** at the **University of Stirling** for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, from April 2025 on. The project is finishing its first year and will run until March 2028. 
 
+<!--
 ### Winter 2025
 
 - I was invited by **Responsible AI UK** to attend the concluding event of the "_Public voices in AI_" research project. The event took place on March 28th, at the [Work Station, Sheffield, UK](https://www.showroomworkstation.org.uk/workstation/default.aspx).
@@ -65,7 +70,7 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 - I was invited by **The Data Lab** to be a panelist at the **Data & AI Ethics Meet-up**. The meet-up took place on March 4th, at the [Bayes Centre, University of Edinburgh, Edinburgh, UK](https://bayes-centre.ed.ac.uk), and my talk was entitled "_PHAWM: Supporting society to assess AI​_".
 
 - I had a paper accepted at the **International Conference on the Applications of Evolutionary Computation** (EvoApps, part of EvoStar). The paper is entitled "_Optimizing the logistics operations of distribution network operators from a multinational electric utility company_" and is the result of a collaboration with **Neoenergia**, the Brazilian subsidiary of Spanish multinational utility company **Iberdrola**. The conference will take place from April 23th to 25th, 2025 at the [University of Trieste, Trieste, Italy](https://portale.units.it/en). 
-
+-->
 You can check past news [here](news).
 
 [Back to the top](#top)
