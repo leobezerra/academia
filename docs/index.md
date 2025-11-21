@@ -52,7 +52,7 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 
 ### Summer 2025
 
-- I was invited by **Responsible AI UK** for an "_All Hands Meeting_" gathering funded research projects, our partners, and relevant stakeholders, which will take place from November 18th to 19h, 2025, at the [Mercure Manchester Picaddily Hotel](https://maps.app.goo.gl/RSUc9agRqunyT8jr6).
+- I was invited by **Responsible AI UK** for an "_All Hands Meeting_" gathering funded research projects, our partners, and relevant stakeholders, which will take place from November 18th to 19th, 2025, at the [Mercure Manchester Picaddily Hotel](https://maps.app.goo.gl/RSUc9agRqunyT8jr6).
 
 ### Spring 2025
 
