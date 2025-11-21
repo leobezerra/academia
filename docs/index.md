@@ -50,18 +50,23 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 
 ## News
 
+### Autumn 2025
+
+- I was nominated for **Outstanding Activity to Support Research** by the **Research Culture Awards** of the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/), as a result of my work organising the "_Sociotechnical & Responsible AI Seminar Series_".
+
 ### Summer 2025
 
 - I invited **Carolline Querino** from **Cajú Consultoria Nordestina / Itaipu ParqueTec** for a talk at the "_Sociotechnical & Responsible AI Seminar Series_" of the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). The talk was hosted by the **StirAI Lab** and the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project on August 29th, entitled "_Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online_". 
 
 - I was invited by **Responsible AI UK** for an "_All Hands Meeting_" gathering funded research projects, our partners, and relevant stakeholders, which will take place from November 18th to 19th, 2025, at the [Mercure Manchester Picaddily Hotel](https://maps.app.goo.gl/RSUc9agRqunyT8jr6).
 
+<!--
 ### Spring 2025
 
 - I invited **Wiktoria Kulik** from **Accenture UK** for a meet-up on "_AI Ethics_" at the **University of Stirling**, hosted by the **StirAI Lab** and the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project. The event took place on April 4th and had Wiktoria and myself as panelists, with **Dr. Terrie-Lynn Thompson** as moderator. 
 
 - I was invited to become the **Project Lead** at the **University of Stirling** for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, from April 2025 on. The project is finishing its first year and will run until March 2028. 
-
+-->
 You can check past news [here](news).
 
 [Back to the top](#top)
