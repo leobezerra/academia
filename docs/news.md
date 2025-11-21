@@ -13,7 +13,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
 
-## News
+## Past news
 
 <a name="top"/>
 
@@ -57,6 +57,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 - I had a paper accepted at the **International Conference on the Applications of Evolutionary Computation** (EvoApps, part of EvoStar). The paper is entitled "_Optimizing the logistics operations of distribution network operators from a multinational electric utility company_" and is the result of a collaboration with **Neoenergia**, the Brazilian subsidiary of Spanish multinational utility company **Iberdrola**. The conference will take place from April 23th to 25th, 2025 at the [University of Trieste, Trieste, Italy](https://portale.units.it/en). 
 
+[Back to the top](#top)
+
 --- 
 
 <a name="2024"/>
@@ -71,6 +73,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 - I attended the launch event of the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" project, funded by **Responsible AI UK**, which took place on October 25th, 2024 at the [Technology & Innovation Centre (TIC)](https://www.strath.ac.uk/research/technologyandinnovationcentre/) of the University of Strathclyde, Glasgow, Scotland. 
 
+[Back to the top](#top)
+
 <a name="summer2024"/>
 
 ### Summer 2024
@@ -80,6 +84,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 - I was invited by **INEP** to help revise the _Brazilian Standard Classification of Education_ (Cine Brasil 2018). INEP is the major higher education (HE) policy regulator associated with the **Brazilian Ministry of Education**, and I was invited for my role as one of the coordinators of the Cine Brasil 2018 proposal, based on **UNESCO's** _International Standard Classification of Education_ (ISCED-F).
 
 - I published a paper with **Dr. Guido Noto La Diega** entitled "_Can there be responsible AI without AI liability? Incentivizing generative AI safety through ex-post tort liability under the EU AI liability directive_". The paper will appear on the **International Journal of Law and Information Technology**, published by the **Oxford University Press**.
+
+[Back to the top](#top)
 
 <a name="spring2024"/>
 
