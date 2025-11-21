@@ -58,6 +58,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 ### Autumn 2024
 
+- I hosted **Dr. Elizabeth Wanner** for a talk at the _Sociotechnical & Responsible AI Seminar Series_ at the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). The talk was hosted by the [PHAWM](https://phawm.org) research project, the StirAI multidisciplinary research lab and the Computing Science and Mathematics Division on November 29th, entitled “_Mathematical models for Dominance Move: Comparison and complexity analysis_”. 
+
 - I attended the launch event of the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" project, funded by **Responsible AI UK**, which took place on October 25th, 2024 at the [Technology & Innovation Centre (TIC)](https://www.strath.ac.uk/research/technologyandinnovationcentre/) of the University of Strathclyde, Glasgow, Scotland. 
 
 <a name="summer2024"/>
