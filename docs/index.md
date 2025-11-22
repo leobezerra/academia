@@ -24,6 +24,7 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 **I relocated to the University of Stirling, UK in 2023**, deepening my research focus on **assessing and addressing the eco-social-technical effects of AI ecosystems**. 
 - **I have joined a research consortium led by the University of Glasgow to propose methodologies and workbenches that enable stakeholders with diverse backgrounds to participate in AI harm auditing**. The consortium was awarded **£3.5 million by the Responsible AI Keystone Projects call funded by UKRI**. The project started in May 2024 and will last for 42 months. Importantly, the project currently has **over 25 external partners** who will provide case studies and help devise and evaluate our AI harm auditing workbenches and methodologies.
 
+- **I have been organizing the [Sociotechnical & Responsible AI seminar series](https://leobezerra.github.io/seminars)**, hosted in collaboration with the [PHAWM](https://phawm.org) research project and the StirAI multidisciplinary research lab. The series started on Autumn 2024, with guest speakers from academica, academia, and civil society presenting about topics connecting AI & Society. 
 <!--
 - **I am applying for funding to promote a society where AI systems are fair, accountable, inclusive, responsible, transparent, ethical, carbon-neutral, and human-centred (FAIRTECH) by design**. To achieve this, I will:
 
