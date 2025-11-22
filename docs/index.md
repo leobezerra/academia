@@ -385,7 +385,7 @@ the project.
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AraCacBezVieBor2018sc.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AraCacBezVieBor2018sc.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 
-These papers comprise the contributions of data science M.Sc. theses I
+These papers comprise the contributions of data science MSc+MPhil theses I
 (co-)supervised in partnership with public and private institutions. The
 relevance of these papers is evidenced by the socially relevant
 scenarios they address. In detail, the first paper focuses on the
@@ -395,7 +395,7 @@ over half of the students that declared income, gender, and ethnicity
 coming from low income families, being women, and self-declaring as
 non-white. The remainder 2022 papers use AI techniques to model
 different business processes in the 3rd largest retail supermarket chain
-in the Northeast of Brazil, and is instrumental to assess the impact of
+in the Northeast of Brazil, and are instrumental to assess the impact of
 the COVID-19 pandemic in the industry. Finally, the 2018 papers address
 predictive policing to assist the local government in the forecasting of
 criminal occurrences.
@@ -425,7 +425,7 @@ criminal occurrences.
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AndCarBez2021bracis.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AndCarBez2021bracis.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a>
 
-These papers are the contributions of M.Sc. theses I supervised in deep
+These papers are the contributions of MSc+MPhil theses I supervised in deep
 and automated machine learning. The relevance of these papers is
 evidenced by the state-of-the-art techniques that were employed. In
 addition, the application domains considered are among the most relevant
