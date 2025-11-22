@@ -47,7 +47,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 - I was invited by **Google Brasil** to be a panelist at the **Confraria de Dados Meet-up**. The meet-up took place on April 10th, at [Google Brasil, Belo Horizonte, Minas Gerais, Brazil](https://google.com.br), and was entitled "_AI Data Ready: Challenges and opportunities for companies preparing for AI​_".
 
-- I invited **Wiktoria Kulik** from **Accenture UK** for a meet-up on "_AI Ethics_" at the **University of Stirling**, hosted by the **StirAI Lab** and the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project. The event took place on April 4th and had Wiktoria and myself as panelists, with **Dr. Terrie-Lynn Thompson** as moderator. 
+- I invited **Wiktoria Kulik** from **Accenture UK** for a meet-up on "_AI Ethics_" at the **University of Stirling**, hosted by the **StirAI Lab** and the **PHAWM research project**. The event took place on April 4th and had Wiktoria and myself as panelists, with **Dr. Terrie-Lynn Thompson** as moderator. 
 
 - I was invited to become the **Project Lead** at the **University of Stirling** for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, from April 2025 on. The project is finishing its first year and will run until March 2028. 
 
