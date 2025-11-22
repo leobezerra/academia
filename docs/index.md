@@ -495,6 +495,12 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 **FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence** 
 
+@ Aerospace Centre of Excellence - [University of Strathclyde, Glasgow, UL](https://www.strath.ac.uk/)
+
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/annalisariccardi" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
+<a href="https://maps.app.goo.gl/Tjhza4tc8zh2Cue38" target="_blank"><img src="https://img.shields.io/badge/-Glasgow&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
+
 @ Chair for Artificial Intelligence Methodologies (AIM) - [RWTH Aachen University](https://rwth-aachen.de)
 
 <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/holger-hoos-3a37954/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
@@ -662,7 +668,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 ---
 
-**Automatic Generation of Multi-Objective ACO Algorithms for the Biobjective Knapsack** 
+**Automatic generation of multi-objective ACO algorithms for the biobjective knapsack** 
 
 @ [Alpen-Adria-Universität Klagenfurt](https://www.aau.at/) / [Lakeside Labs](https://www.lakeside-labs.com/)
 
