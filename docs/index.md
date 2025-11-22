@@ -565,7 +565,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
-@ Aston Centre for Artificial Intelligence Research and Applications (ACAIRA) - [Aston University, Birmingham, UK](https://www.aston.ac.uk/)
+@ Aston Centre for Artificial Intelligence Research and Applications (ACAIRA) - [Aston University](https://www.aston.ac.uk/)
 
 <img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-wanner-91607832/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://maps.app.goo.gl/aGJuE2actyUHx3UW7" target="_blank"><img src="https://img.shields.io/badge/-Birmingham&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
