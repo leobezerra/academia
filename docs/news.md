@@ -41,6 +41,12 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 ### Spring 2025
 
+- I was invited by **Dr. William Oliveira** to be a guest lecturer at the **Information Technology & Society** module of [Universidade Federal do Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil](https://ufrn.br). The lecture took place on June 9th, online, and was organised as a Q&A panel for students to better understand AI and the job market (local and overseas).
+
+- I attended the **International Conference on the Applications of Evolutionary Computation** (EvoApps, part of EvoStar), where I presented a paper entitled "_Optimizing the logistics operations of distribution network operators from a multinational electric utility company_". The paper is the result of a collaboration with **Neoenergia**, the Brazilian subsidiary of Spanish multinational utility company **Iberdrola**. The conference took place from April 23th to 25th, 2025 at the [Università degli Studi di Trieste, Trieste, Italy](https://portale.units.it/en). 
+
+- I was invited by **Google Brasil** to be a panelist at the **Confraria de Dados Meet-up**. The meet-up took place on April 10th, at [Google Brasil, Belo Horizonte, Minas Gerais, Brazil](https://google.com.br), and was entitled "_AI Data Ready: Challenges and opportunities for companies preparing for AI​_".
+
 - I invited **Wiktoria Kulik** from **Accenture UK** for a meet-up on "_AI Ethics_" at the **University of Stirling**, hosted by the **StirAI Lab** and the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project. The event took place on April 4th and had Wiktoria and myself as panelists, with **Dr. Terrie-Lynn Thompson** as moderator. 
 
 - I was invited to become the **Project Lead** at the **University of Stirling** for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, from April 2025 on. The project is finishing its first year and will run until March 2028. 
@@ -55,7 +61,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 - I was invited by **The Data Lab** to be a panelist at the **Data & AI Ethics Meet-up**. The meet-up took place on March 4th, at the [Bayes Centre, University of Edinburgh, Edinburgh, UK](https://bayes-centre.ed.ac.uk), and my talk was entitled "_PHAWM: Supporting society to assess AI​_".
 
-- I had a paper accepted at the **International Conference on the Applications of Evolutionary Computation** (EvoApps, part of EvoStar). The paper is entitled "_Optimizing the logistics operations of distribution network operators from a multinational electric utility company_" and is the result of a collaboration with **Neoenergia**, the Brazilian subsidiary of Spanish multinational utility company **Iberdrola**. The conference will take place from April 23th to 25th, 2025 at the [University of Trieste, Trieste, Italy](https://portale.units.it/en). 
+- I had a paper accepted at the **International Conference on the Applications of Evolutionary Computation** (EvoApps, part of EvoStar). The paper is entitled "_Optimizing the logistics operations of distribution network operators from a multinational electric utility company_" and is the result of a collaboration with **Neoenergia**, the Brazilian subsidiary of Spanish multinational utility company **Iberdrola**. The conference will take place from April 23th to 25th, 2025 at the [Università degli Studi di Trieste, Trieste, Italy](https://portale.units.it/en). 
 
 [Back to the top](#top)
 
