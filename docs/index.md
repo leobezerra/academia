@@ -52,11 +52,11 @@ My **[thesis](#history) on fundamental artificial intelligence (AI)** resulted o
 
 ### Autumn 2025
 
-- I was nominated for **Outstanding Activity to Support Research** by the **Research Culture Awards** of the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/), as a result of my work organising the "_Sociotechnical & Responsible AI Seminar Series_".
+- I was nominated for **Outstanding Activity to Support Research** by the **Research Culture Awards** of the [University of Stirling](https://www.stir.ac.uk/), as a result of my work organising the "_Sociotechnical & Responsible AI Seminar Series_".
 
 ### Summer 2025
 
-- I invited **Carolline Querino** from **Cajú Consultoria Nordestina / Itaipu ParqueTec** for a talk at the "_Sociotechnical & Responsible AI Seminar Series_" of the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). The talk was hosted by the **StirAI Lab** and the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project on August 29th, entitled "_Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online_". 
+- I invited **Carolline Querino** from **Cajú Consultoria Nordestina / Itaipu ParqueTec** for a talk at the "_Sociotechnical & Responsible AI Seminar Series_" of the [University of Stirling](https://www.stir.ac.uk/). The talk was hosted by the **StirAI Lab** and the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project on August 29th, entitled "_Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online_". 
 
 - I was invited by **Responsible AI UK** for an "_All Hands Meeting_" gathering funded research projects, our partners, and relevant stakeholders, which will take place from November 18th to 19th, 2025, at the [Mercure Manchester Picaddily Hotel](https://maps.app.goo.gl/RSUc9agRqunyT8jr6).
 
