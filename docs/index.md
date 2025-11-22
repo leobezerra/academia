@@ -15,9 +15,9 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 **I am a Lecturer in Sociotechnical & Responsible Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **assessing and addressing the eco-social-technical effects of AI ecosystems**, and is funded by both the UK and Brazilian governments. 
 
-- **I am part of a research consortium comprising 40 academics from 7 major UK universities**, as well as **25 industry, government, and civil society partners**. Our project entitled "_Participatory Harm Auditing Workbenches and Methodologies_" ([PHAWM](https://phawm.org)) was awarded **£3.5 million by Responsible AI UK to enable end-users and decision-subjects of AI applications to participate in their auditing**. The project started in May 2024 and will last for 42 months.
+- **I am part of a research consortium comprising 40 academics from 7 major UK universities**, as well as **25 industry, government, and civil society partners**. Our project entitled "_Participatory Harm Auditing Workbenches and Methodologies_" ([PHAWM](https://phawm.org)) was awarded **£3.5 million by [Responsible AI UK](https://rai.uk) to enable end-users and decision-subjects of AI applications to participate in their auditing**. The project started in May 2024 and will last for 42 months.
 
-- **I research and supervise computer and social science graduate students in collaboration with the Itaipu Technology Park**. The project entitled _"Human Rights Observatory"_ ([ObservaDH](https://observadh.mdh.gov.br/)) is funded by **Itaipu Binacional** and the **Brazilian Ministry of Human Rights and Citizenship**. My team investigates the **automatic detection of hate speech**, the **impact of AI applications in technology-facilitated gender-based violence (TFGBV)**, and **the political alignment of Large Language Models (LLMs)**. 
+- **I research and supervise computer and social science graduate students in collaboration with the Itaipu Technology Park (Itaipu Parquetec)**. The project entitled _"Human Rights Observatory"_ ([ObservaDH](https://observadh.mdh.gov.br/)) is funded by **[Itaipu Binacional](https://itaipu.energy)** and the **[Brazilian Ministry of Human Rights and Citizenship](https://mdh.org)**. My team investigates the **automatic detection of hate speech**, the **impact of AI applications in technology-facilitated gender-based violence (TFGBV)**, and **the political alignment of Large Language Models (LLMs)**. 
 
 - **I organize the [Sociotechnical & Responsible AI seminar series](https://leobezerra.github.io/seminars)**, hosted in collaboration with PHAWM and the **StirAI multidisciplinary research lab**. The series started on Autumn 2024, with guest speakers from academia, industry, and civil society presenting about topics connecting AI & Society.
 
@@ -190,7 +190,11 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2015-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
 
-### Collaborator (5)
+### Collaborator (6)
+
+**Human rights observatory (ObservaDH)** @ [Itaipu Parquetec](https://www.itaipuparquetec.org.br)
+
+<img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 
 **Information technology postgraduate apprenticeship (class of 2024)** @ [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br)
 
