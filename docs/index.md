@@ -495,6 +495,12 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 **FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence** 
 
+@ School of Computer Science - [University of St Andrews, St Andrews, UL](https://www.st-andrews.ac.uk/)
+
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/nguyen-dang-5a0027250" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
+<a href="https://maps.app.goo.gl/QY5Bgcy7oLJxuuMc8" target="_blank"><img src="https://img.shields.io/badge/-St&#46;%20Andrews&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
+
 @ Aerospace Centre of Excellence - [University of Strathclyde, Glasgow, UL](https://www.strath.ac.uk/)
 
 <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/annalisariccardi" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
