@@ -18,7 +18,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 - **I research and supervise graduate students in collaboration with the Itaipu Technology Park, funded by Itaipu Binacional and the Brazilian Ministry of Human Rights and Citizenship**. The project entitled "_ObservaDH_" hosts an **observatory of human rights**, and my team investigates the **automatic detection of hate speech targeting human rights**, the **impact of AI applications in technology-facilitated gender-based violence (TFGBV)**, and **the alignment of Large Language Models (LLMs) with human rights charters**. 
 
-- **I have been organizing the [Sociotechnical & Responsible AI seminar series](https://leobezerra.github.io/seminars)**, hosted in collaboration with the **[PHAWM](https://phawm.org) research project** and the **StirAI multidisciplinary research lab**. The series started on Autumn 2024, with guest speakers from academia, industry, and civil society presenting about topics connecting AI & Society.
+- **I organize the [Sociotechnical & Responsible AI seminar series](https://leobezerra.github.io/seminars)**, hosted in collaboration with the **[PHAWM](https://phawm.org) research project** and the **StirAI multidisciplinary research lab**. The series started on Autumn 2024, with guest speakers from academia, industry, and civil society presenting about topics connecting AI & Society.
 
 Previously, my **[thesis](#history) on fundamental AI** resulted on **three journal and nine top-tier conference papers**, being seminal to my **Lectureships** in Brazil, where I worked **between 2016 and 2023** on **data science**, **AI**, and their effects on **socially relevant problems**.
 
