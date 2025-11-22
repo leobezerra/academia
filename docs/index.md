@@ -20,7 +20,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 - **I organize the [Sociotechnical & Responsible AI seminar series](https://leobezerra.github.io/seminars)**, hosted in collaboration with PHAWM and the **StirAI multidisciplinary research lab**. The series started on Autumn 2024, with guest speakers from academia, industry, and civil society presenting about topics connecting AI & Society.
 
-Previously, my **[thesis](#history) on fundamental AI** resulted on **three journal and nine top-tier conference papers**, being seminal to my **Lectureships** in Brazil, where I worked **between 2016 and 2023** on **data science**, **AI**, and their effects on **socially relevant problems**.
+[Previously](#history), my **thesis on fundamental AI** resulted on **three journal and nine top-tier conference papers**, being seminal to my **Lectureships in Brazil**, where I worked **between 2016 and 2023** on **data science**, **AI**, and their effects on **socially relevant problems**.
 
 - **I proposed and collaborated with applied [data science projects](#projects) with both the public and private sectors, comprising circa £3.5mi in total funding**. Partners included the **Brazilian Judicial Branch**, **Ministry of Education**, and **Public Safety Secretariats**, as well as **retail** and **energy companies**, e.g. **Neoenergia**, the Brazilian subsidiary of the Spanish utility company **Iberdrola**. 
 
