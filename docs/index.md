@@ -2,8 +2,6 @@
 title: "Leonardo C. T. Bezerra - Academic webpage"
 ---
 
-<a name="top"/>
-
 # Leonardo C. T. Bezerra
 
 <a href="mailto:leonardo.bezerra@stir.ac.uk" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
@@ -38,6 +36,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
   4. formulate an **educational framework** to promote a **FAIRTECH by design culture**, targeting key players in government, academia, industry, and civil society more broadly. Relevant partners that have already demonstrated interest include the **Brazilian Computing Society**, **Brazilian Ministry of Human Rights and Citizenship**, and **Toyota Motor Europe**.
 -->
 ---
+
+<a name="top"/>
 
 ## Contents
 
