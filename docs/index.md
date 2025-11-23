@@ -522,7 +522,8 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 <a href="https://www.instagram.com/covidvisual/" target="_blank"> <img src="https://img.shields.io/badge/-visualcovid-purple.svg?logo=instagram&style=for-the-badge&logoColor=white"/></a>
 <a href="https://twitter.com/isola_ai" target="_blank"> <img src="https://img.shields.io/badge/-isola&#46;ai-blue.svg?logo=twitter&style=for-the-badge&logoColor=white"/></a>
 <a href="https://leobezerra.github.io/covid19/" target="_blank"> <img src="https://img.shields.io/badge/-visualizing%20covid--19-green.svg?logo=jupyter&style=for-the-badge&logoColor=white"/></a>
-<a href="https://demografiaufrn.net/category/onas-covid19/" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observatory-yellow.svg?logo=wordpress&style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.sciencedirect.com/science/article/pii/S2352340920305928" target="_blank"> <img src="https://img.shields.io/badge/-dataset-yellow.svg?logo=elsevier&style=for-the-badge&logoColor=white"/></a>
+<a href="https://demografiaufrn.net/category/onas-covid19/" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observatory-orange.svg?logo=wordpress&style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.youtube.com/playlist?list=PLU35_2f9Kc6q-KmGmaMevXa5_qfRcVUmt" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observatory-red.svg?logo=youtube&style=for-the-badge&logoColor=white"/></a>  
 
 ---
