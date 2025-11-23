@@ -288,8 +288,8 @@ _An exhaustive publication list with full author description is provided in my [
 
 <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://academic.oup.com/ijlit" target="_blank"><img src="https://img.shields.io/badge/-Int%20J%20of%20Law%20and%20Information%20Technology-blue.svg?style=for-the-badge&logoColor=white"/> </a> 
 <a href="https://doi.org/10.1093/ijlit/eaae021" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/> </a> 
-<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/LaDBez2024ijlit.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
-<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/LaDBez2024ijlit.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/NotBez2024ijlit.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/NotBez2024ijlit.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
 
 This paper is the first contribution of my Lectureship in Sociotechnical & 
 Responsible AI / Data Science, and discusses whether and how existing and novel regulation
