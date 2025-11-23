@@ -354,7 +354,15 @@ the project.
 
 ---
 
-### Conference papers (11)
+### Conference papers (12)
+
+**Optimizing the logistics operations of distribution network operators from a multinational electric utility company**
+
+<img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.evostar.org/2025/" target="_blank"><img src="https://img.shields.io/badge/-EvoStar-blue.svg?style=for-the-badge&logoColor=white"/></a>
+<a href="https://maps.app.goo.gl/uFarLnk7QtYaFbih9" target="_blank"><img src="https://img.shields.io/badge/-Trieste&comma;%20Italy-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<a href="http://doi.org/10.1007/978-3-031-90062-4_6" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AlmAzeVieOliRodBezNunMenMan2025evo.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AlmAzeVieOliRodBezNunMenMan2025evo.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 
 **High school timetabling at a federal educational institute in Brazil**
 
@@ -396,10 +404,12 @@ the project.
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AraCacBezVieBor2018sc.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AraCacBezVieBor2018sc.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 
-These papers comprise the contributions of data science MSc+MPhil theses I
+These papers comprise the contributions of the data science projects and MSc+MPhil theses I
 (co-)supervised in partnership with public and private institutions. The
 relevance of these papers is evidenced by the socially relevant
-scenarios they address. In detail, the first paper focuses on the
+scenarios they address. In detail, the first paper addresses is a collaboration with
+Neoenergia, the Brazilian subsidiary of the Spanish multinational utility company Iberdrola.
+In turn, the second paper focuses on the
 Brazilian Federal Network of Vocational, Scientific and Technological
 Education, which provides education to over two million students, with
 over half of the students that declared income, gender, and ethnicity
@@ -431,7 +441,7 @@ criminal occurrences.
 
 **Comparing contextual embeddings for semantic textual similarity in Portuguese**
 
-<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://c4ai.inova.usp.br/bracis2021/" target="_blank"><img src="https://img.shields.io/badge/-%20BRACIS%202021-blue.svg?style=for-the-badge"/></a> <img src="https://img.shields.io/badge/-online-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://c4ai.inova.usp.br/bracis2021/" target="_blank"><img src="https://img.shields.io/badge/-BRACIS-blue.svg?style=for-the-badge"/></a> <img src="https://img.shields.io/badge/-online-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/>
 <a href="https://doi.org/10.1007/978-3-030-91699-2_27" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AndCarBez2021bracis.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AndCarBez2021bracis.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a>
