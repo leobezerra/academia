@@ -282,10 +282,25 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 _An exhaustive publication list with full author description is provided in my [CV](#top)._
 
-### Journals (5)
+### Journals (6)
+
+**Can there be responsible AI without AI liability? Incentivizing generative AI safety through ex-post tort liability under the EU AI liability directive**
+
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://academic.oup.com/ijlit" target="_blank"><img src="https://img.shields.io/badge/-International%20Journal%20of%20Law%20and%20Information%Technology-blue.svg?style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://doi.org/10.1093/ijlit/eaae021" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/LaDBez2024ijlit.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/LaDBez2024ijlit.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
+
+This paper is the first contribution of my Lectureship in Sociotechnical & 
+Responsible AI / Data Science, and discusses whether and how existing and novel regulation
+need to be revised to address generative AI (GenAI). The relevance of this paper is evidenced
+by its timing, as the paper was published at the peak of both the (i) surge in GenAI adoption and 
+(ii) regulatory push from the European Union regarding AI. Importantly, this paper addresses policy 
+and regulation, evidencing the multidisciplinary nature of my current Lectureship and research thereof.
+
+---
 
 **A computational study on ant colony optimization for the traveling salesman problem with dynamic demands**
-
 
 <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://www.sciencedirect.com/journal/computers-and-operations-research" target="_blank"><img src="https://img.shields.io/badge/-Computers%20&amp;%20Operations%20Research-blue.svg?logo=elsevier&style=for-the-badge&logoColor=white"/> </a> 
 <a href="https://doi.org/10.1016/j.cor.2021.105359" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/> </a> 
