@@ -422,7 +422,7 @@ the project.
 These papers comprise the contributions of the data science projects and MSc+MPhil theses I
 (co-)supervised in partnership with public and private institutions. The
 relevance of these papers is evidenced by the socially relevant
-scenarios they address. In detail, the first paper addresses is a collaboration with
+scenarios they address. In detail, the first paper results from a collaboration with
 Neoenergia, the Brazilian subsidiary of the Spanish multinational utility company Iberdrola.
 In turn, the second paper focuses on the
 Brazilian Federal Network of Vocational, Scientific and Technological
