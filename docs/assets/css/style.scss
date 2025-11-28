@@ -13,8 +13,14 @@
   width: 100%;
   padding: 5px;
   border-bottom: solid 1px lightgray;
+  overflow: hidden;
 }
 
 body {
   padding: 38px 0 0 0;
+}
+
+.float-child {
+  float: left;
+  width: 30%;
 }
