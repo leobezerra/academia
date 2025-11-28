@@ -35,9 +35,10 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
   3. propose **validation frameworks to assist AI regulators and policymakers** in their proposals and/or revisions. Examples include the **appropriate definition of artificial intelligence systems** to reduce the **risk of overregulation**. 
   4. formulate an **educational framework** to promote a **FAIRTECH by design culture**, targeting key players in government, academia, industry, and civil society more broadly. Relevant partners that have already demonstrated interest include the **Brazilian Computing Society**, **Brazilian Ministry of Human Rights and Citizenship**, and **Toyota Motor Europe**.
 -->
----
 
 <a name="top"/>
+
+---
 
 ## Contents
 
@@ -49,9 +50,9 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 6. [Key and relevant publications](#publications)
 7. [Science communication, networking, and community](#communication)
 
---- 
-
 <a name="news">
+
+--- 
 
 ## News
 
@@ -76,9 +77,9 @@ You can check past news [here](news).
 
 [Back to the top](#top)
 
---- 
-
 <a name="places">
+
+--- 
 
 ## Places & People 
 
