@@ -16,14 +16,14 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="news">
 
-You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio).
-
 <a href="mailto:leonardo.bezerra@stir.ac.uk" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
 <a href="https://www.linkedin.com/in/leonardo-c-t-bezerra-623b7231" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue.svg?logo=linkedin&style=for-the-badge"/></a>
 <a href="https://orcid.org/0000-0003-4654-2553" target="_blank"><img src="https://img.shields.io/badge/-orcid-green.svg?logo=orcid&style=for-the-badge&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=llcIEHIAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://img.shields.io/badge/-scholar-yellow.svg?logo=googlescholar&style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
+
+You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio).
 
 <!--
 [Previously](#history), my **thesis on fundamental AI** resulted on **three journal and nine top-tier conference papers**, being seminal to my **Lectureships in Brazil**, where I worked **between 2016 and 2023** on **data science**, **AI**, and their effects on **socially relevant problems**.
