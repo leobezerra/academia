@@ -21,11 +21,11 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 - **I organize the [Unhyped AI Seminars](https://leobezerra.github.io/seminars)**, a sociotechnical & responsible AI seminar series to improve understanding of AI and its effects on society. The series started on Autumn 2024 and is hosted in collaboration with **PHAWM** and the **StirAI multidisciplinary research lab**, with **guest speakers from academia, industry, government, and civil society**.
 
+<a name="news">
+
 [Previously](#history), my **thesis on fundamental AI** resulted on **three journal and nine top-tier conference papers**, being seminal to my **Lectureships in Brazil**, where I worked **between 2016 and 2023** on **data science**, **AI**, and their effects on **socially relevant problems**.
 
 - **I proposed and collaborated with applied [data science projects](#projects) with both the public and private sectors, comprising circa £3.5mi in total funding**. Partners included the **Brazilian Judicial Branch**, **Ministry of Education**, and **Public Safety Secretariats**, as well as **retail** and **energy companies**, e.g. **Neoenergia**, the Brazilian subsidiary of the Spanish utility company **Iberdrola**. 
-
-<a name="news">
 
 - **I supervised graduate students on [theses](#theses) involving deep and automated machine learning**, as well as the intersection of **multi-objective optimization** with other CI domains, such as **multi-dimensional visualization** and **dynamic optimization**. The quality of those theses is evidenced by the **10 conference and two journal [papers](#publications)** published as a result, including an **EMO best paper award nomination**.
 
@@ -77,9 +77,9 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 -->
 You can check past news [here](news).
 
-[Back to the top](#top)
-
 <a name="places">
+
+[Back to the top](#top)
 
 --- 
 
