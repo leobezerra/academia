@@ -23,7 +23,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
 
-You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio).
+You can check about my **Lectureships in AI & Data Science (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio).
 
 <!--
 [Previously](#history), my **thesis on fundamental AI** resulted on **three journal and nine top-tier conference papers**, being seminal to my **Lectureships in Brazil**, where I worked **between 2016 and 2023** on **data science**, **AI**, and their effects on **socially relevant problems**.
