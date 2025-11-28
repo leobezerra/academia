@@ -8,13 +8,6 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 **I am a Lecturer in Sociotechnical & Responsible Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **assessing and addressing the eco-social-technical effects of AI ecosystems**, and is funded by both the UK and Brazilian governments. 
 
-<a href="mailto:leonardo.bezerra@stir.ac.uk" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
-<a href="https://www.linkedin.com/in/leonardo-c-t-bezerra-623b7231" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue.svg?logo=linkedin&style=for-the-badge"/></a>
-<a href="https://orcid.org/0000-0003-4654-2553" target="_blank"><img src="https://img.shields.io/badge/-orcid-green.svg?logo=orcid&style=for-the-badge&logoColor=white"/></a>
-<a href="https://scholar.google.com/citations?user=llcIEHIAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://img.shields.io/badge/-scholar-yellow.svg?logo=googlescholar&style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
-<a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
-
 - **I am part of a research consortium comprising 40 academics from 7 major UK universities**, as well as **25 industry, government, and civil society partners**. Our project entitled "_Participatory Harm Auditing Workbenches and Methodologies_" ([PHAWM](https://phawm.org)) was awarded **£3.5 million by [Responsible AI UK](https://rai.uk) to enable end-users and decision-subjects of AI applications to participate in their auditing**. The project started in May 2024, has **a total budget of £4 million** and will last for 42 months.
 
 - **I research and supervise computer and social science graduate students at the Itaipu Parquetec Technology Park**. The project entitled _"Human Rights Observatory"_ ([ObservaDH](https://observadh.mdh.gov.br/)) started in Nov 2023, will last 48 months and is funded with **£2.65 million** from **[Itaipu Parquetec](https://www.itaipuparquetec.org.br)**,  **[Itaipu Binacional](https://itaipu.energy)** and the **[Brazilian Ministry of Human Rights and Citizenship](https://mdh.org)**. My team investigates **hate speech detection**, **technology-facilitated gender-based violence (TFGBV)**, and **the political alignment/biases of Large Language Models (LLMs)**. 
@@ -24,6 +17,13 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <a name="news">
 
 You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio).
+
+<a href="mailto:leonardo.bezerra@stir.ac.uk" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
+<a href="https://www.linkedin.com/in/leonardo-c-t-bezerra-623b7231" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue.svg?logo=linkedin&style=for-the-badge"/></a>
+<a href="https://orcid.org/0000-0003-4654-2553" target="_blank"><img src="https://img.shields.io/badge/-orcid-green.svg?logo=orcid&style=for-the-badge&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=llcIEHIAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://img.shields.io/badge/-scholar-yellow.svg?logo=googlescholar&style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
 
 <!--
 [Previously](#history), my **thesis on fundamental AI** resulted on **three journal and nine top-tier conference papers**, being seminal to my **Lectureships in Brazil**, where I worked **between 2016 and 2023** on **data science**, **AI**, and their effects on **socially relevant problems**.
