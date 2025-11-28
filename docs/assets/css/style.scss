@@ -63,7 +63,7 @@ strong {
 
 @media screen and (max-width: 600px) {
   .float-left {
-    width: auto;
+    display: none;
   }
   .float-right {
     float: none;
@@ -71,6 +71,6 @@ strong {
     height: 76px;
   }
   #header {
-    height: 120px;
+    height: 130px;
   }
 }
