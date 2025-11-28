@@ -2,7 +2,6 @@
 title: "Leonardo C. T. Bezerra - Academic webpage"
 ---
 
-<div id="header">
 <h1>Leonardo C. T. Bezerra</h1> 
 
 <a href="mailto:leonardo.bezerra@stir.ac.uk" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
@@ -11,7 +10,6 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <a href="https://scholar.google.com/citations?user=llcIEHIAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://img.shields.io/badge/-scholar-yellow.svg?logo=googlescholar&style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
-</div>
 
 **I am a Lecturer in Sociotechnical & Responsible Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **assessing and addressing the eco-social-technical effects of AI ecosystems**, and is funded by both the UK and Brazilian governments. 
 
