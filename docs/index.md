@@ -98,11 +98,11 @@ You can check past news [here](news).
 
 <iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
 
+<a name="history"/>
+
 [Back to the top](#top)
 
 ---
-
-<a name="history"/>
 
 ## History
 
@@ -156,11 +156,11 @@ You can check past news [here](news).
 
 <img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/en-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/es-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/it-intermediary-green.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/fr-intermediary-green.svg?style=for-the-badge"/> 
 
+<a name="projects"/>
+
 [Back to the top](#top)
 
 ---
-
-<a name="projects"/>
 
 ## Projects and funding
 
@@ -221,11 +221,11 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <img src="https://img.shields.io/badge/start-2009-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2011-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 
+<a name="theses"/>
+
 [Back to the top](#top)
 
 ---
-
-<a name="theses"/>
 
 ## Supervision
 
@@ -275,11 +275,11 @@ _Financial details about the projects are provided in my [CV](#top)._
 <img src="https://img.shields.io/badge/degree-MS-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/26605/1/Abordagemmetaheur%C3%ADsticaproblema_Dantas_2018.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
 
+<a name="publications"/>
+
 [Back to the top](#top)
 
 ---
-
-<a name="publications"/>
 
 ## Key and relevant publications
 
@@ -510,12 +510,12 @@ conducted in my Ph.D. was seminal to relevant future work. In addition,
 they demonstrate that I understand that seeking autonomy as an
 independent researcher does not mean discontinuing previous research.
 
+<a name="communication"/>
+
 [Back to the top](#top)
   
 ---
-  
-<a name="communication"/>
-  
+    
 ## Science communication, networking, and community
 
 ### COVID-19
