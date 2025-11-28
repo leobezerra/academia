@@ -100,6 +100,8 @@ You can check past news [here](news).
 
 <a name="history"/>
 
+&nbsp;
+
 [Back to the top](#top)
 
 ---
