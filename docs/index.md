@@ -3,7 +3,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 ---
 
 <div id="header" style="position: fixed; height=50px">
-# Leonardo C. T. Bezerra
+<h1>Leonardo C. T. Bezerra</h1> 
 
 <a href="mailto:leonardo.bezerra@stir.ac.uk" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
 <a href="https://www.linkedin.com/in/leonardo-c-t-bezerra-623b7231" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue.svg?logo=linkedin&style=for-the-badge"/></a>
