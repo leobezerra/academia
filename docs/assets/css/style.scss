@@ -4,7 +4,11 @@
 @import "{{ site.theme }}";
 
 #header {
-  height: 50px;
+  height: 150px;
   position: fixed;
   background: white;
+  z-index: 100;
+  left: 0px;
+  top: 0px;
+  width: 100%;
 }
