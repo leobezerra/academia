@@ -23,7 +23,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="news">
 
-You can check about my **Lectureship in Big Data** (Brazil) and my **PhD in fundamental AI algorithms** (Belgium) [here](bio).
+You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio).
 
 <!--
 [Previously](#history), my **thesis on fundamental AI** resulted on **three journal and nine top-tier conference papers**, being seminal to my **Lectureships in Brazil**, where I worked **between 2016 and 2023** on **data science**, **AI**, and their effects on **socially relevant problems**.
