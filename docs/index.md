@@ -2,7 +2,7 @@
 title: "Leonardo C. T. Bezerra - Academic webpage"
 ---
 
-<a name="top"/>
+<!-- <a name="top"/> -->
 
 <!-- <h1>Leonardo C. T. Bezerra</h1>  -->
 
