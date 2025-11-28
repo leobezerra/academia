@@ -104,7 +104,7 @@ You can check past news [here](news).
 
 <a name="history"/>
 
-&nbsp;
+The affiliation information in the map above is update sporadically.
 
 [Back to the top](#top)
 
