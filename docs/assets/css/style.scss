@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 #header {
-  height: 150px;
+  height: 20px;
   position: fixed;
   background: white;
   z-index: 100;
@@ -15,5 +15,5 @@
 }
 
 .wrapper {
-  padding: 150px 0 0 0;
+  padding: 20px 0 0 0;
 }
