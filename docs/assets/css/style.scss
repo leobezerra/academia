@@ -62,12 +62,15 @@ strong {
 }
 
 @media screen and (max-width: 600px) {
+  .float-left {
+    width: auto;
+  }
   .float-right {
     float: none;
     width: auto;
     height: 76px;
   }
   #header {
-    height: 108px;
+    height: 120px;
   }
 }
