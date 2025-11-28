@@ -22,6 +22,18 @@ body {
   background: black;
 }
 
+a {
+  color: #f6e06a;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:visited {
+  color: #f6e06a;
+} 
+
 .float-left {
   float: left;
   width: 20%;
