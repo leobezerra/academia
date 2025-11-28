@@ -60,3 +60,10 @@ strong {
 .markdown-body h2 {
   margin-top: 10px;
 }
+
+@media screen and (max-width: 600px) {
+  .float-right {
+    float: none;
+    width: auto;
+    height: 76px;
+  }
