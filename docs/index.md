@@ -2,7 +2,11 @@
 title: "Leonardo C. T. Bezerra - Academic webpage"
 ---
 
-<h1>Leonardo C. T. Bezerra</h1> 
+<a name="top"/>
+
+<!-- <h1>Leonardo C. T. Bezerra</h1>  -->
+
+**I am a Lecturer in Sociotechnical & Responsible Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **assessing and addressing the eco-social-technical effects of AI ecosystems**, and is funded by both the UK and Brazilian governments. 
 
 <a href="mailto:leonardo.bezerra@stir.ac.uk" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
 <a href="https://www.linkedin.com/in/leonardo-c-t-bezerra-623b7231" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue.svg?logo=linkedin&style=for-the-badge"/></a>
@@ -10,8 +14,6 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <a href="https://scholar.google.com/citations?user=llcIEHIAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://img.shields.io/badge/-scholar-yellow.svg?logo=googlescholar&style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
-
-**I am a Lecturer in Sociotechnical & Responsible Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **assessing and addressing the eco-social-technical effects of AI ecosystems**, and is funded by both the UK and Brazilian governments. 
 
 - **I am part of a research consortium comprising 40 academics from 7 major UK universities**, as well as **25 industry, government, and civil society partners**. Our project entitled "_Participatory Harm Auditing Workbenches and Methodologies_" ([PHAWM](https://phawm.org)) was awarded **£3.5 million by [Responsible AI UK](https://rai.uk) to enable end-users and decision-subjects of AI applications to participate in their auditing**. The project started in May 2024, has **a total budget of £4 million** and will last for 42 months.
 
@@ -25,6 +27,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 - **I supervised graduate students on [theses](#theses) involving deep and automated machine learning**, as well as the intersection of **multi-objective optimization** with other CI domains, such as **multi-dimensional visualization** and **dynamic optimization**. The quality of those theses is evidenced by the **10 conference and two journal [papers](#publications)** published as a result, including an **EMO best paper award nomination**.
 
+<a name="news">
+
 - **I developed a deep concern for socially relevant problems**, having for instance **assisted in the fight against the COVID-19 pandemic through science publication and [communication](#communication)**. Importantly, my Lectureships led to **contributions to policymaking in public health, law (enforcement), and higher education**, e.g. the revised and updated **Brazilian Standard Classification of Education** for census, evaluation, and regulation.
   
 <!--
@@ -36,8 +40,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
   4. formulate an **educational framework** to promote a **FAIRTECH by design culture**, targeting key players in government, academia, industry, and civil society more broadly. Relevant partners that have already demonstrated interest include the **Brazilian Computing Society**, **Brazilian Ministry of Human Rights and Citizenship**, and **Toyota Motor Europe**.
 -->
 
-<a name="top"/>
-
+<!--
 ---
 
 ## Contents
@@ -49,8 +52,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 5. [Supervision](#theses)
 6. [Key and relevant publications](#publications)
 7. [Science communication, networking, and community](#communication)
-
-<a name="news">
+-->
 
 --- 
 
