@@ -20,7 +20,11 @@ body {
   padding: 38px 0 0 0;
 }
 
-.float-child {
+.float-left {
   float: left;
   width: 30%;
+}
+.float-right {
+  float: left;
+  width: 70%;
 }
