@@ -63,10 +63,10 @@ strong {
 }
 
 @media screen and (max-width: 600px) {
-  .float-left {
+  .float-left-child {
     display: none;
   }
-  .float-right {
+  .float-right-child {
     width: auto;
   }
   #header {
