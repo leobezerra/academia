@@ -23,7 +23,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
 
-You can check about my **Lectureships in AI & Data Science (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio).
+_You can check about my **Lectureships in AI & Data Science (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio)._
 
 <!--
 - **I am applying for funding to promote a society where AI systems are fair, accountable, inclusive, responsible, transparent, ethical, carbon-neutral, and human-centred (FAIRTECH) by design**. To achieve this, I will:
@@ -71,7 +71,7 @@ You can check about my **Lectureships in AI & Data Science (Brazil)** and my **P
 
 - I was invited to become the **Project Lead** at the **University of Stirling** for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, from April 2025 on. The project is finishing its first year and will run until March 2028. 
 -->
-You can check past news [here](news).
+_You can check past news [here](news)._
 
 [Back to the top](#top)
 
@@ -94,7 +94,7 @@ You can check past news [here](news).
 
 <iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
 
-The affiliation information in the map above is update sporadically.
+_The affiliation information in the map above is updated sporadically._
 
 [Back to the top](#top)
 
@@ -226,6 +226,8 @@ _Financial details about the projects are provided in my [CV](#top)._
 <a name="theses" class="section">
 
 ## Supervision
+
+_Ongoing supervisions are provided in my [CV](#top)._
 
 **Design configuration for the MMAS algorithm applied to the travelling salesman problem with dynamic demands** @ [Federal Center of Technological Education of Minas Gerais (CEFET-MG)](https://cefetmg.br)
 
