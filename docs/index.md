@@ -4,6 +4,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="top"/>
 
+## Bio
+
 <!-- <h1>Leonardo C. T. Bezerra</h1>  -->
 
 **I am a Lecturer in Sociotechnical & Responsible Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **assessing and addressing the eco-social-technical effects of AI ecosystems**, and is funded by both the UK and Brazilian governments. 
