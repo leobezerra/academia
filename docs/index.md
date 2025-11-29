@@ -64,8 +64,6 @@ _You can check about my **Lectureships in AI & Data Science (Brazil)** and my **
 
 - I was invited by **Responsible AI UK** for an "_All Hands Meeting_" gathering funded research projects, our partners, and relevant stakeholders, which will take place from November 18th to 19th, 2025, at the [Mercure Manchester Picaddily Hotel](https://maps.app.goo.gl/RSUc9agRqunyT8jr6).
 
-<a name="spring2025"/>
-
 ### Spring 2025
 
 - I was invited by **Dr. William Oliveira** to be a guest lecturer at the **Information Technology & Society** module of [Universidade Federal do Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil](https://ufrn.br). The lecture took place on June 9th, online, and was organised as a Q&A panel for students to better understand AI and the job market (local and overseas).
