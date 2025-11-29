@@ -49,12 +49,12 @@ strong {
 }
 
 .float-left {
-  float: left;
+  display: inline-block;
   padding: 2px 10px;
 }
 
 .float-right {
-  float: left;
+  display: inline-block;
 }
 
 .markdown-body hr {
@@ -71,7 +71,6 @@ strong {
     display: none;
   }
   .float-right {
-    float: none;
     width: auto;
   }
   #header {
