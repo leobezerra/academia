@@ -92,10 +92,10 @@ _You can check past news [here](news)._
 <img src="https://img.shields.io/badge/-conferences-blue.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-coauthors-darkgreen.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-talks-green.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-wider%20network-orange.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-network-orange.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-iridians-red.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-alumni-darkred.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-coinvestigators-bisque.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-co&#8208;is-bisque.svg?style=for-the-badge"/>
 
 <iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
 
