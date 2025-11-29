@@ -49,9 +49,7 @@ You can check about my **Lectureships in AI & Data Science (Brazil)** and my **P
 --- 
 
 <a name="news">
-
-  ## News
-
+  <h2>News</h2>
 </a>
 
 ### Autumn 2025
