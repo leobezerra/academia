@@ -387,14 +387,6 @@ the project.
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AlmAzeVieOliRodBezNunMenMan2025evo.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AlmAzeVieOliRodBezNunMenMan2025evo.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 
-**High school timetabling at a federal educational institute in Brazil**
-
-<img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <a href="https://wcci2022.org" target="_blank"><img src="https://img.shields.io/badge/-WCCI-blue.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
-<a href="https://goo.gl/maps/f8fQASodnmRVeZ3j6" target="_blank"><img src="https://img.shields.io/badge/-Padua&comma;%20Italy-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<a href="https://doi.org/10.1109/CEC55065.2022.9870388" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a> 
-<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/DanAndBez2022hst.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
-<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/DanAndBez2022hst.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
-
 **Retail sales forecasting for a Brazilian supermarket chain: an empirical assessment**
 
 <img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <a href="https://cbi2022.cs.vu.nl" target="_blank"><img src="https://img.shields.io/badge/-CBI-blue.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
@@ -410,6 +402,24 @@ the project.
 <a href="https://doi.org/10.1109/CBI54897.2022.00015" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/OliAraBez2022cbi.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/OliAraBez2022cbi.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
+
+These papers comprise the contributions of the data science projects and MSc+MPhil theses I
+(co-)supervised in partnership with private institutions. In detail, the first paper results from a collaboration with
+Neoenergia, the Brazilian subsidiary of the Spanish multinational utility company Iberdrola.
+In turn, the 2022 papers use AI techniques to model
+different business processes in the 3rd largest retail supermarket chain
+in the Northeast of Brazil, and are instrumental to assess the impact of
+the COVID-19 pandemic in the industry. 
+
+---
+
+**High school timetabling at a federal educational institute in Brazil**
+
+<img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <a href="https://wcci2022.org" target="_blank"><img src="https://img.shields.io/badge/-WCCI-blue.svg?logo=ieee&style=for-the-badge&logoColor=white"/></a>
+<a href="https://goo.gl/maps/f8fQASodnmRVeZ3j6" target="_blank"><img src="https://img.shields.io/badge/-Padua&comma;%20Italy-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://doi.org/10.1109/CEC55065.2022.9870388" target="_blank"> <img src="https://img.shields.io/badge/-doi-yellow.svg?logo=firefox&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/DanAndBez2022hst.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/></a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/DanAndBez2022hst.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 
 **Time-series features for predictive policing**
 
@@ -428,19 +438,14 @@ the project.
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/conferences/AraCacBezVieBor2018sc.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/></a> 
 
 These papers comprise the contributions of the data science projects and MSc+MPhil theses I
-(co-)supervised in partnership with public and private institutions. The
+(co-)supervised in partnership with public institutions. The
 relevance of these papers is evidenced by the socially relevant
-scenarios they address. In detail, the first paper results from a collaboration with
-Neoenergia, the Brazilian subsidiary of the Spanish multinational utility company Iberdrola.
-In turn, the second paper focuses on the
+scenarios they address. In detail, the first paper focuses on the
 Brazilian Federal Network of Vocational, Scientific and Technological
 Education, which provides education to over two million students, with
 over half of the students that declared income, gender, and ethnicity
 coming from low income families, being women, and self-declaring as
-non-white. The remainder 2022 papers use AI techniques to model
-different business processes in the 3rd largest retail supermarket chain
-in the Northeast of Brazil, and are instrumental to assess the impact of
-the COVID-19 pandemic in the industry. Finally, the 2018 papers address
+non-white. In turn, the 2018 papers address
 predictive policing to assist the local government in the forecasting of
 criminal occurrences.
 
