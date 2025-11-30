@@ -78,6 +78,8 @@ _You can check past news [here](news)._
   
 ## Places & People 
 
+<iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
+
 <img src="https://img.shields.io/badge/-appointments-pink.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-awards-purple.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-funders-darkblue.svg?style=for-the-badge"/>
@@ -88,8 +90,6 @@ _You can check past news [here](news)._
 <img src="https://img.shields.io/badge/-iridians-red.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-alumni-darkred.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-co&#8208;is-bisque.svg?style=for-the-badge"/>
-
-<iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
 
 _The affiliation information in the map above is updated sporadically._
 
