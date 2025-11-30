@@ -185,7 +185,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 <a href="https://goo.gl/maps/LVmYC6tLVA67wJMh9" target="_blank"><img src="https://img.shields.io/badge/-S&atilde;o%20Paulo&comma;%20SP&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
 
-**Revision and update of the Brazilian Standard Classification of Education (CINE Brasil 2018)** @ [UNESCO](https://unesco.org/) & Brazilian Ministry of Education – [INEP](https://www.gov.br/inep/pt-br)
+**Revision and update of the Brazilian Standard Classification of Education (CINE Brasil)** @ [UNESCO](https://unesco.org/) & Brazilian Ministry of Education – [INEP](https://www.gov.br/inep/pt-br)
 
 <img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2019-blue.svg?style=for-the-badge"/> 
 <a href="https://goo.gl/maps/CbpPfxbkoDqF7YD57" target="_blank"><img src="https://img.shields.io/badge/-Bras&iacute;lia&comma;%20DF&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
