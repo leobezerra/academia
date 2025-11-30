@@ -1,32 +1,89 @@
+<a name="top">
+
 ## Bio
 
-### [2016-2023] Lectureships in Brazil
+1. [Background](#background)
+2. [PhD](#phd)
+3. [Lectureships](#lectureships)
 
-Between 2015 and 2016, **I applied for and secured Lectureships in three Federal Universities in Brazil**, the best-established university network in the country. In July 2016, **I declined the position at _Campina Grande_ ([UFCG](https://ufcg.br)) and took the position at _Paraíba_ ([UFPB](https://ufpb.br)) as a Lecturer in Algorithms**. In February 2017, **I moved to _Rio Grande do Norte_ ([UFRN](https://ufrn.br)) as a Lecturer in Big Data**, having taken an unpaid leave in late 2023. At UFRN, my research focused on **data science**, **AI**, and their effects on **socially relevant problems**, whereas my teaching activities focused on **computational thinking and data science for non-programmers**.
+[Back to main page](index.md)
+
+---
+
+<a name="background">
+
+### Background in Brazil (1987-2011)
+_This section is written in narrative form._
+
+I was born in Northeast Brazil and lived until 1990 in the town of Angicos, Rio Grande do Norte. A few decades earlier, Brazilian educator Paulo Freire had conducted his pilot study in the rural area of Angicos, leading to his pivotal book "_Pedagogy of the Oppressed_". Unfortunately, I was only introduced to his work after graduating from University, since education is traditionally not a part of STEM curricula.
+
+Though my family never read nor met Paulo Freire, there was an innate understanding of the importance of education. My grandfather was an iliterate subsistence agricultor in the rural area of the town of Afonso Bezerra, a former district of Angicos. Yet, he sent his children to live in Afonso Bezerra with relatives so that they could go to primary school. My mother started worked right after primary school, because there was no secondary school in Afonso Bezerra until a few years later. By the time she finished secondary school, she had already become a teacher at the primary school and secured two different positions as a public servant. 
+
+In 1979, my mother relocated to Angicos for a better professional opportunity. There, she graduated from high-school just before her thirties, while working and being a mother to my sisters. Similarly to my grandfather, she tried to send her children to a bigger town for better educational opportunities. Initially, she sent my sisters to secondary school in Natal, the capital of Rio Grande do Norte, but they were unable to cope with the distance. After I was born, my mother decided to relocate to Natal for better higher education opportunities for my sisters and a better basic education for me.
+
+I studied in five different schools in Natal from 1992 to 2003. This was largely to secure better schools while trying to accomodate the financial and logistic challenges of private education and the strikes and precarization of public schools. When I was 13, however, the decision to change schools was mine, and so was the planning to apply for and secure a spot in the new school. In truth, my motivation for the change was the widespread bullying culture at the private school I was attending at the time. Though people fail to understand, bullying can be so dire that I have lost three former colleagues from that school to mental health issues. Since the school I moved to was part of the Brazilian Federal Network of Vocational, Scientific and Technological Education, it was easier to convince my mother of the benefits of changing schools.
+
+The year I spent at the Federal school showed me what education should look like - access to sporting and computing facilities; flexibility to attend or miss classes; studying with people from diverse backgrounds, with support for those who had not had the same opportunities as me. It also showed me that education will never be a priority for governments and at times will often be a target. Indeed, the level of precarization of the Federal Network led to a staff strike that lasted for 103 days and ended my experience in public basic education. 
+
+The next time I enrolled in a public education institution was when I started my BSc (Hons) in Computer Science at the Federal University of Rio Grande do Norte (UFRN). Though I was not the first in my family to attend University, the fact that my mother had no experience into higher education posed significant challenges for me. For instance, I applied for two other Federal Universities, but I had no idea how to prepare neither academically nor logistically for institutions that were in other parts of the country. In retrospect, however, I feel glad that I attended UFRN, because it enabled me to understand the institution and its academic community in a way that was critical to my Lectureship there.
+
+The lack of academic mentorship during my Computer Science degree caused me several problems, but was mitigated by the University friends and vocational mentorship I had at the protestant church I had started attending at the time. Ironically, I learned the lessons of "_The Protestant Ethic and The Spirit of Capitalism_" long before reading Max Weber, especially after being introduced to missionary work. During my final undergraduate year, the life ethos I was learning to devise led to a research paper that won the best paper award at the Brazilian Symposium on Virtual and Augmented Reality (SVR 2009). The paper combined several aspects of research that I underappreciate to this date: devising technology for a marginalized group (sign language education for deaf people); user research with friends and children; teamwork to overcome individual limitations. 
+
+In 2009, I applied for and was accepted to the MSc/MPhil in Systems and Computing at UFRN. In parallel, I helped set up a charity to teach arts to marginalized teenagers and support social work in rural and urban areas. I served as vice-president of the charity, and continued the missionary work travelling weekly to the countryside. That year, I organized a camp for 300 teenagers, a concert for 5000 people, a missionary field trip to Africa with 14 teenagers, and enrolled in a BSc in Theology and in an MSc in Religious studies. The latter is the application of social sciences to the study of religion, which interested me a lot because of the missionary colleagues who were enrolled in the BSc (Hons) in Social Sciences and the MSc/MPhil in Social Anthropology at UFRN.
+
+In 2010, I audited three modules from the MSc/MPhil in Language Studies at UFRN which greatly helped me understand the relevance of other sciences. The first concerned literacy, and introduced me to Paulo Freire and other education scholars. The second concerned second language acquisition, and greatly resonated with my languages background - I had studied English as a kid, Japanese as a teenager, and was then studying Hebrew and Spanish. Finally, the third module addressed cognitive linguistics, and was a fantastic opportunity to understand how artificial intelligence (AI) connected to multiple other disciplines in the context of cognitive sciences.
+
+That year, I went to Africa for the second time, but as part of a smaller team for a two-week field trip. I was able to learn enough Criole to communicate to the people I met in Cape Verde, and I met both local and Brazilian academics in addition to the marginalized groups we addressed. Back in Brazil, I left the charity and the protestant church I attended for a plethora of reasons. First, I realized I had lost my identity and was mostly reproducing the thoughts of more senior colleagues. Second, I realized that my experience was no longer based on faith, but on an unhealthy fundamentalist view of the world. Third, having to deal with leaders and managers at multiple churches had been very distressing, for all the corruption that I had to witness. 
+
+Still, I owe to my missionary work the path I took in academia - it was largely because of the missionary experience that I started considering academia overseas. In the second half of 2010, I submitted my first paper in fundamental AI algorithms to an international conference, namely Evolutinary Multi-criterion Optimization (EMO 2011). After graduating in early 2011, I worked for a semester as a substitute professor at UFRN and also as an English teacher at the American language school I had attended. During that time, I attended EMO and pitched my PhD project idea to Dr. Manuel López-Ibáñez, who introduced me to Prof. Thomas Stützle, the optimization group lead at the IRIDIA research lab in Université Libre de Bruxelles (ULB).
+
+To enroll on the PhD at ULB, I used the salaries I had saved to self-fund three work packages. The first concerned publishing my dissertation as a journal paper. I managed to submit the paper in early 2012 to Expert Systems with Applications, and it was accepted shortly after. The second work package concerned identifying and applying for a fellowship. I applied for the F.R.I.A. Doctoral Fellowship from the Belgian National Funds for Scientific Research (FNRS) in the second semester of 2011, having written the project proposal alongside Thomas. The third and final work package was a two-week academic mission to Europe, where I would have to interview for the fellowship. I spent two weeks at IRIDIA working with Thomas and Manuel, and the positive results of the mission led Thomas to offer me a PhD studentship even if the fellowship application were unsuccessful. Fortunately, I was awarded the doctoral fellowship, and used the remainder of my salaries to relocate to Belgium.   
+
+In retrospect, I appreciate that my academic trajectory is a contribution from several outstanding people, starting from my grandfather and mother. Through them, I was able to learn languages, music and other forms of arts, the true meaning of academic community, and a number of different life experiences and scientific disciplines. Most importantly, I learned that education can be achieved in many different ways, but that very often institutions that should promote it will actually hinder it. As a result, there is a significant financial cost to education, which few people can afford - and even fewer people would be willing to. I was privileged to study in private basic education funded by the personal sacrifice of my family, and to live in a country where higher education is still largely public - though extremely precarized. Nonetheless, I only secured my doctoral fellowship through great personal sacrifice, which speaks to the need for better equality, diversity, and inclusion policies in developed countries.  
+
+[Back to the top](#top)
+
+---
+
+<a name="phd">
+
+### PhD in Belgium (2011-2016)
+
+In 2011, **I applied for and was awarded a F.R.I.A. doctoral fellowship from the Belgian National Funds for Scientific Research ([FNRS](https://www.frs-fnrs.be/en/))**. My project was entitled "_Generalization of metaheuristics for optimization problems with three or more objectives_" and **addressed the design of fundamental AI algorithms applied to multi-objective optimization**. I worked at the [IRIDIA research lab](https://iridia.ulb.ac.be) and was supervised by **Prof. Thomas Stützle** (Research Director of FNRS at [Université Libre de Bruxelles](https://ulb.ac.be)) and **Dr. Manuel López-Ibáñez** (currently Chair of Optimisation at [The University of Manchester](https://manchester.ac.uk)). 
+
+**I was awarded a PhD in Engineering and Technology in 2016**, having published **three journal and nine top-tier conference papers** derived from a thesis entitled "_A component-wise approach to multi-objective evolutionary algorithms: from flexible frameworks to automatic design_". The main contributions of the PhD are detailed below.
+
+- **I proposed a methodology for the automated design of multi-objective evolutionary algorithms (MOEAs)**, one of the best-established research communities in the field of fundamental AI algorithms. Importantly, this work helped **structure the rich literature in MOEA techniques into a common framework**. The relevance of this work is evidenced by the paper we published in [_IEEE Transactions on Evolutionary Computation_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), **one of the most prestigious AI journals**, and resonates with the rise in unified software frameworks from the MOEA community, illustrated by the **Randomised Optimisation Algorithms Research Network (ROAR-NET)**.
+
+- **I conducted a large-scale experimental evaluation of high-performing MOEAs, revisiting and improving benchmarking methodologies in the field**. Importantly, this was one of the first works in the field to **rigorously evaluate algorithms for many-objective optimization**. This work was published in the [_MIT Evolutionary Computation Journal_](https://direct.mit.edu/evco), and resonates with the rise in benchmarking efforts in the evolutionary algorithms community, illustrated by the **Benchmarking in Multi-Criteria Optimisation Network (BeMCO)**.
+
+- **I proposed a methodology for the automated design of state-of-the-art multi- and many-objective evolutionary algorithms**, building on the two works discussed above. Importantly, **this work advanced the field of MOEAs in many ways**, from algorithmic techniques to performance assessment and problem characteristics. This work was published in the [_MIT Evolutionary Computation Journal_](https://direct.mit.edu/evco), and resonates with the significant rise in the adoption of automated AI algorithm engineering by both **academia** and **industry**, illustrated by the **Configuration and Selection of Algorithms (COSEAL) group**.
+
+[Back to the top](#top)
+
+---
+
+<a name="lectureships">
+
+### Lectureships in Brazil (2016-2023)
+
+Between 2015 and 2016, **I applied for and secured Lectureships in three Federal Universities in Brazil**, the best-established university network in the country. In July 2016, **I declined the position at _Campina Grande_ ([UFCG](https://ufcg.br)) and took the position at _Paraíba_ ([UFPB](https://ufpb.br)) as a Lecturer in Algorithms**. In February 2017, **I moved to _Rio Grande do Norte_ ([UFRN](https://ufrn.br)) as a Lecturer in Big Data**, having taken an unpaid leave in late 2023. At UFRN, my research focused on **data science, AI, and their effects on socially relevant problems**, whereas my teaching activities focused on **computational thinking and data science for non-programmers**.
 
 #### Research
 
 - **I proposed and collaborated with applied data science projects with both the public and private sectors, comprising circa £3.5mi in total funding**. Partners included the **Brazilian Judicial Branch**, **Ministry of Education**, and **Public Safety Secretariats**, as well as **retail** and **energy companies**, e.g. **Neoenergia**, the Brazilian subsidiary of the Spanish utility company **Iberdrola**. 
 
-- **I supervised graduate students on theses involving deep and automated machine learning**, as well as the intersection of **multi-objective optimization** with other CI domains, such as **multi-dimensional visualization** and **dynamic optimization**. The quality of those theses is evidenced by the **10 conference and two journal papers** published as a result, including an **EMO best paper award nomination**.
+- **I supervised graduate students on theses involving deep and automated machine learning**, as well as the intersection of **multi-objective optimization** with other AI domains, such as **multi-dimensional visualization** and **dynamic optimization**. The quality of those theses is evidenced by the **10 conference and two journal papers** published as a result, including an **EMO best paper award nomination**.
 
 - **I developed a deep concern for socially relevant problems**, having for instance **assisted in the fight against the COVID-19 pandemic through science publication and communication**. Importantly, my Lectureships led to **contributions to policymaking in public health, law (enforcement), and higher education**, e.g. the revised and updated **Brazilian Standard Classification of Education** for census, evaluation, and regulation.
 
 #### Teaching
 
-- **I have helped expand and restructure multiple postgraduate taught and research programmes**, increasing the number of academics, students, and research topics. As a result, the University created a novel **Professional Doctorate in Information Technology** and was able to improve the internationalization of the **PhD programme in Computer Science**. Importantly, several public partners sponsored cohorts for the **Graduate Apprenticeship in Information Technology** programme (MSc), e.g. the **Brazilian Judicial Branch**.
+- **I helped expand and restructure multiple postgraduate taught and research programmes**, increasing their number of academics, students, and research topics. As a result, the University created a novel **Professional Doctorate in Information Technology** and was able to improve the internationalization of the **PhD programme in Computer Science**. Importantly, several public partners sponsored cohorts for the **Graduate Apprenticeship in Information Technology** programme (MSc), e.g. the **Brazilian Judicial Branch**.
 
-- **I have helped expand and restructure multiple undergraduate programmes**, namely the **BSc (Hons) in Information Technology**, the **BSc (Hons) in Computer Science**, and the **BSc (Hons) in Software Engineering**. As a result, the programmes now have **a broader focus on problem-solving through computational thinking**, as well as **minors in multiple tracks such as data science and artificial intelligence**. The relevance of these efforts is evidenced by **the programmes ranking among the best in the country** and **the creation of a BSc (Hons) in Artificial Intelligence**.
+- **I helped expand and restructure multiple undergraduate programmes**, namely the **BSc (Hons) in Information Technology**, the **BSc (Hons) in Computer Science**, and the **BSc (Hons) in Software Engineering**. As a result, the programmes now have **a broader focus on problem-solving through computational thinking**, as well as **minors in data science and artificial intelligence**, among others. The relevance of these efforts is evidenced by **the programmes ranking among the best in the country** and **the creation of a BSc (Hons) in Artificial Intelligence**.
 
 - **I designed and delivered course modules on data science and artificial intelligence for different levels of education
 and coding proficiency**. The modules adopt a **project-based learning methodology, with external collaborators as stakeholders**. The relevance of these modules is evidenced by the **14 cohorts in 4 academic years** who took them, as well as **the book chapter organized by the LISA international network for statistical learning**.
 
-### [2012-2016] PhD in Belgium
-
-<!--
-My **thesis on fundamental AI** resulted on **three journal and nine top-tier conference papers**, 
--->
-
-### [2009-2012] MSc/MPhil & Social enterpreneurship in Brazil
-
-[Back to main page](index.md)
+[Back to the top](#top)
