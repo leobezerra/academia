@@ -56,26 +56,18 @@ _You can check about my **Lectureships in AI & Data Science (Brazil)** and my **
 
 ### Autumn 2025
 
-- I was nominated for **Outstanding Activity to Support Research** by the **Research Culture Awards** of the [University of Stirling](https://www.stir.ac.uk/), as a result of my work organising the "_Sociotechnical & Responsible AI Seminar Series_".
+- I invited **Anna Rezk-Parker** from the **University of Glasgow** for a talk at the _"AI & Media"_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 3rd. 
+
+- Alongside the **School of Law & Philosophy**, I invited **Ron Chrisley** from the **University of Sussex** for a talk at the _"AI & Ethics"_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on February 19th. 
+
+- I was nominated for **Outstanding Activity to Support Research** by the **Research Culture Awards** of the [University of Stirling](https://www.stir.ac.uk/), as a result of my work organising the [Unhyped AI Seminars](https://leobezerra.github.io/seminars).
 
 ### Summer 2025
 
-- I invited **Carolline Querino** from **Cajú Consultoria Nordestina / Itaipu ParqueTec** for a talk at the "_Sociotechnical & Responsible AI Seminar Series_" of the [University of Stirling](https://www.stir.ac.uk/). The talk was hosted by the **StirAI Lab** and the **PHAWM research project** on August 29th, entitled "_Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online_". 
+- I invited **Carolline Querino** from **Cajú Consultoria Nordestina / Itaipu ParqueTec** for a talk at the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk was hosted by the **StirAI Lab** and the **PHAWM research project** on August 29th, entitled _"Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online"_. 
 
-- I was invited by **Responsible AI UK** for an "_All Hands Meeting_" gathering funded research projects, our partners, and relevant stakeholders, which will take place from November 18th to 19th, 2025, at the [Mercure Manchester Picaddily Hotel](https://maps.app.goo.gl/RSUc9agRqunyT8jr6).
-
-### Spring 2025
-
-- I was invited by **Dr. William Oliveira** to be a guest lecturer at the **Information Technology & Society** module of [Universidade Federal do Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil](https://ufrn.br). The lecture took place on June 9th, online, and was organised as a Q&A panel for students to better understand AI and the job market (local and overseas).
-
-- I attended the **International Conference on the Applications of Evolutionary Computation** (EvoApps, part of EvoStar), where I presented a paper entitled "_Optimizing the logistics operations of distribution network operators from a multinational electric utility company_". The paper is the result of a collaboration with **Neoenergia**, the Brazilian subsidiary of Spanish multinational utility company **Iberdrola**. The conference took place from April 23th to 25th, 2025 at the [Università degli Studi di Trieste, Trieste, Italy](https://portale.units.it/en). 
-
-- I was invited by **Google Brasil** to be a panelist at the **Confraria de Dados Meet-up**. The meet-up took place on April 10th, at [Google Brasil, Belo Horizonte, Minas Gerais, Brazil](https://google.com.br), and was entitled "_AI Data Ready: Challenges and opportunities for companies preparing for AI​_".
-
-- I invited **Wiktoria Kulik** from **Accenture UK** for a meet-up on "_AI Ethics_" at the **University of Stirling**, hosted by the **StirAI Lab** and the **PHAWM research project**. The event took place on April 4th and had Wiktoria and myself as panelists, with **Dr. Terrie-Lynn Thompson** as moderator. 
-
-- I was invited to become the **Project Lead** at the **University of Stirling** for the "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" research project, from April 2025 on. The project is finishing its first year and will run until March 2028. 
-
+- I was invited by **Responsible AI UK** for an _"All Hands Meeting"_ gathering funded research projects, our partners, and relevant stakeholders, which will take place from November 18th to 19th, 2025, at the [Mercure Manchester Picaddily Hotel](https://maps.app.goo.gl/RSUc9agRqunyT8jr6).
+  
 _You can check past news [here](news)._
 
 [Back to the top](#top)
