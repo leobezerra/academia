@@ -234,7 +234,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 ### PhD
 
-**Auditing large language models (LLMs)** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
+**Auditing large language models (LLMs): from political bias to human rights** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
 <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/a-fernanda-monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Fernanda%20Monteiro-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
