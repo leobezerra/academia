@@ -10,9 +10,9 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 **I am a Lecturer in Sociotechnical & Responsible Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **assessing and addressing the eco-social-technical effects of AI ecosystems**, and is funded by both the UK and Brazilian governments. 
 
-- **I am part of a research consortium comprising 40 academics from 7 major UK universities**, as well as **25 industry, government, and civil society partners**. Our project entitled _**"Participatory Harm Auditing Workbenches and Methodologies"**_ ([PHAWM](https://phawm.org)) was awarded **£3.5 million by [Responsible AI UK](https://rai.uk) to enable end-users and decision-subjects of AI applications to participate in their auditing**. The project started in May 2024, has **a total budget of £4 million** and will last for 42 months.
+- **I am part of a research consortium comprising 40 academics from 7 major UK universities**, as well as **25 industry, government, and civil society partners**. Our project entitled **"_Participatory Harm Auditing Workbenches and Methodologies_"** ([PHAWM](https://phawm.org)) was awarded **£3.5 million by [Responsible AI UK](https://rai.uk) to enable end-users and decision-subjects of AI applications to participate in their auditing**. The project started in May 2024, has **a total budget of £4 million** and will last for 42 months.
 
-- **I research and supervise computer and social science graduate students at the Itaipu Parquetec Technology Park**. The project entitled _"**Human Rights Observatory**"_ ([ObservaDH](https://observadh.mdh.gov.br/)) started in Nov 2023, will last 48 months and is funded with **£2.65 million** from **[Itaipu Parquetec](https://www.itaipuparquetec.org.br)**,  **[Itaipu Binacional](https://itaipu.energy)** and the **[Brazilian Ministry of Human Rights and Citizenship](https://mdh.org)**. My team investigates **hate speech detection**, **technology-facilitated gender-based violence (TFGBV)**, and **the political alignment/biases of Large Language Models (LLMs)**. 
+- **I research and supervise computer and social science graduate students at the Itaipu Parquetec Technology Park**. The project entitled **"_Human Rights Observatory_"** ([ObservaDH](https://observadh.mdh.gov.br/)) started in Nov 2023, will last 48 months and is funded with **£2.65 million** from **[Itaipu Parquetec](https://www.itaipuparquetec.org.br)**,  **[Itaipu Binacional](https://itaipu.energy)** and the **[Brazilian Ministry of Human Rights and Citizenship](https://mdh.org)**. My team investigates **hate speech detection**, **technology-facilitated gender-based violence (TFGBV)**, and **the political alignment/biases of Large Language Models (LLMs)**. 
 
 - **I organize the [Unhyped AI Seminars](https://leobezerra.github.io/seminars), a sociotechnical & responsible AI seminar series to improve understanding of AI and its effects on society**. The series started on Autumn 2024 and is hosted in collaboration with **PHAWM** and the **StirAI multidisciplinary research lab**, with **guest speakers from academia, industry, government, and civil society**.
 
@@ -58,23 +58,23 @@ _You can check about my **Lectureships in AI & Data Science (Brazil)** and my **
 
 ### Autumn 2025
 
-- I invited **Dr. Raffaele Ciriello** from the **University of Sydney** for a talk at the _**"AI Companions & Relationships"**_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on May 4th.
+- I invited **Dr. Raffaele Ciriello** from the **University of Sydney** for a talk at the **"_AI Companions & Relationships_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on May 4th.
 
-- I invited **Dr. Alberto Franzin** from the **EU AI Office** for a meet-up at the _**"AI & Government"**_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 30th. 
+- I invited **Dr. Alberto Franzin** from the **EU AI Office** for a meet-up at the **"_AI & Government_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 30th. 
 
-- I invited **Dr. Anna Rezk-Parker** from the **University of Glasgow** for a talk at the _**"AI & Media"**_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 3rd. 
+- I invited **Dr. Anna Rezk-Parker** from the **University of Glasgow** for a talk at the **"_AI & Media_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 3rd. 
 
-- Alongside the **School of Law & Philosophy**, I invited **Prof. Ron Chrisley** from the **University of Sussex** for a talk at the _**"AI & Ethics"**_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on February 19th. 
+- Alongside the **School of Law & Philosophy**, I invited **Prof. Ron Chrisley** from the **University of Sussex** for a talk at the **"_AI & Ethics_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on February 19th. 
 
-- I invited **Dr. Michaela Hruskova**, **Dr. Vassilis Galanos**, **Dr. Simon Powers** and **Dr. Conor McKeown** from the **University of Stirling** for a meet-up at the _**"AI & Coding"**_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on January 20th.
+- I invited **Dr. Michaela Hruskova**, **Dr. Vassilis Galanos**, **Dr. Simon Powers** and **Dr. Conor McKeown** from the **University of Stirling** for a meet-up at the **"_AI & Coding_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on January 20th.
  
 - I was nominated for **Outstanding Activity to Support Research** by the **Research Culture Awards** of the [University of Stirling](https://www.stir.ac.uk/), as a result of my work organising the [Unhyped AI Seminars](https://leobezerra.github.io/seminars).
 
 ### Summer 2025
 
-- I invited **Carolline Querino** from **Cajú Consultoria Nordestina / Itaipu ParqueTec** for a talk at the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk was hosted by the **StirAI Lab** and the **PHAWM research project** on August 29th, entitled _"Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online"_. 
+- I invited **Carolline Querino** from **Cajú Consultoria Nordestina / Itaipu ParqueTec** for a talk at the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk was hosted by the **StirAI Lab** and the **PHAWM research project** on August 29th, entitled **"_Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online_"**. 
 
-- I was invited by **Responsible AI UK** for an _"All Hands Meeting"_ gathering funded research projects, our partners, and relevant stakeholders, which will take place from November 18th to 19th, 2025, at the [Mercure Manchester Picaddily Hotel](https://maps.app.goo.gl/RSUc9agRqunyT8jr6).
+- I was invited by **Responsible AI UK** for an **"_All Hands Meeting_"** gathering funded research projects, our partners, and relevant stakeholders, which will take place from November 18th to 19th, 2025, at the [Mercure Manchester Picaddily Hotel](https://maps.app.goo.gl/RSUc9agRqunyT8jr6).
   
 _You can check past news [here](news)._
 
