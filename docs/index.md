@@ -58,10 +58,16 @@ _You can check about my **Lectureships in AI & Data Science (Brazil)** and my **
 
 ### Autumn 2025
 
-- I invited **Anna Rezk-Parker** from the **University of Glasgow** for a talk at the _"AI & Media"_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 3rd. 
+- I invited **Dr. Raffaele Ciriello** from the **University of Sydney** for a talk at the _"AI Companions & Relationships"_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on May 4th.
 
-- Alongside the **School of Law & Philosophy**, I invited **Ron Chrisley** from the **University of Sussex** for a talk at the _"AI & Ethics"_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on February 19th. 
+- I invited **Dr. Alberto Franzin** from the **EU AI Office** for a meet-up at the _"AI & Government"_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 30th. 
 
+- I invited **Dr. Anna Rezk-Parker** from the **University of Glasgow** for a talk at the _"AI & Media"_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 3rd. 
+
+- Alongside the **School of Law & Philosophy**, I invited **Prof. Ron Chrisley** from the **University of Sussex** for a talk at the _"AI & Ethics"_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on February 19th. 
+
+- I invited **Dr. Michaela Hruskova**, **Dr. Vassilis Galanos**, **Dr. Simon Powers** and **Dr. Conor McKeown** from the **University of Stirling** for a meet-up at the _"AI & Coding"_ edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on January 20th.
+ 
 - I was nominated for **Outstanding Activity to Support Research** by the **Research Culture Awards** of the [University of Stirling](https://www.stir.ac.uk/), as a result of my work organising the [Unhyped AI Seminars](https://leobezerra.github.io/seminars).
 
 ### Summer 2025
