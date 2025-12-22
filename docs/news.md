@@ -29,7 +29,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="summer2025"/>
 
-### Summer 2025
+### Summer
 
 - I invited **Carolline Querino** from **Cajú Consultoria Nordestina / Itaipu ParqueTec** for a talk at the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk was hosted by the **StirAI Lab** and the **PHAWM research project** on August 29th, entitled **"_Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online_"**. 
 
@@ -37,7 +37,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
   
 <a name="spring2025"/>
 
-### Spring 2025
+### Spring
 
 - I was invited by **Dr. William Oliveira** to be a guest lecturer at the **Information Technology & Society** module of [Universidade Federal do Rio Grande do Norte, Natal, Rio Grande do Norte, Brazil](https://ufrn.br). The lecture took place on June 9th, online, and was organised as a Q&A panel for students to better understand AI and the job market (local and overseas).
 
@@ -51,7 +51,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="winter2025"/>
 
-### Winter 2025
+### Winter
 
 - I was invited by **Responsible AI UK** and attended the concluding event of the "_Public voices in AI_" research project. The event took place on March 28th, at the [Work Station, Sheffield, UK](https://www.showroomworkstation.org.uk/workstation/default.aspx).
 
@@ -71,7 +71,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="autumn2024"/>
 
-### Autumn 2024
+### Autumn
 
 - I invited **Dr. Elizabeth Wanner** from **Aston University** for a talk at the "_Sociotechnical & Responsible AI Seminar Series_" at the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). The talk was hosted by the Computing Science and Mathematics Division Seminar Series on November 29th, entitled “_Mathematical models for Dominance Move: Comparison and complexity analysis_”. 
 
@@ -81,7 +81,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="summer2024"/>
 
-### Summer 2024
+### Summer
 
 - I was invited by **Dr. Nelson Ferreira de Sousa Junior** to join a research bid about the use of AI in the analysis of oral, written, and archeological records in Brazil, Portugal and Guinea-Bissau. The call was funded by the **CNPq**, the Brazilian National Council for Research.
 
@@ -93,7 +93,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="spring2024"/>
 
-### Spring 2024
+### Spring
 
 - Our project "_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_" was awarded **£3.5mi by Responsible AI UK** to propose approaches that **enable society to take part in AI auditing** over the next four years, starting May 2024. Our consortium comprises **25 investigators from 7 UK universities**, namely Glasgow, Strathclyde, Stirling, Edinburgh, Sheffield, York, and King's College London, as well as **23 external partners**.
 
@@ -115,7 +115,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="winter2024"/>
 
-### Winter 2024
+### Winter
 
 - I was invited by **Dr. Anthony O'Hare** to give a public lecture at the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). The talk was hosted by the **Computing Science and Mathematics Division (CSM)** on March 18th, entitled "_Promoting and sustaining accountability in artificial intelligence applications_".
 
@@ -135,7 +135,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="autumn2023"/>
 
-### Autumn 2023
+### Autumn
 
 - I was invited by the **Benchmarking Network** to attend the "_BeMCO: Benchmarking in Multi-Criteria Optimization_" workshop, which will take place from April 15th to 19th, 2024 at the [Lorentz Center@Oort, Leiden, The Netherlands](https://www.lorentzcenter.nl/bemco-benchmarking-in-multi-criteria-optimisation.html). 
 
@@ -147,7 +147,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="summer2023"/>
 
-### Summer 2023
+### Summer
 
 - I was offered and accepted a **Lecturer in Artificial Intelligence/Data Science** position at the [University of Stirling, Stirling, UK](https://www.stir.ac.uk/). 
 - I was offered a **Senior Lecturer in Data Science** position at the [University of Westminster, London, UK](https://www.westminster.ac.uk/). 
