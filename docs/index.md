@@ -16,7 +16,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 - **I organize the [Unhyped AI Seminars](https://leobezerra.github.io/seminars), a sociotechnical & responsible AI seminar series to improve understanding of AI and its effects on society**. The series started on Autumn 2024 and is hosted in collaboration with **PHAWM** and the **StirAI multidisciplinary research lab**, with **guest speakers from academia, industry, government, and civil society**.
 
-_You can check about my **Lectureships in AI & Data Science (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio)._
+_You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio)._
 
 <div align="center">
   <a href="mailto:leonardo.bezerra@stir.ac.uk" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
