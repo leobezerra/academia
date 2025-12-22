@@ -332,12 +332,7 @@ _An exhaustive publication list with full author description is provided in my [
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/NotBez2024ijlit.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/journals/NotBez2024ijlit.pdf" target="_blank"> <img src="https://img.shields.io/badge/-manuscript-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
 
-This paper is the first contribution of my Lectureship in Sociotechnical & 
-Responsible AI / Data Science, and discusses whether and how existing and novel regulation
-need to be revised to address generative AI (GenAI). The relevance of this paper is evidenced
-by its timing, as the paper was published at the peak of both the (i) surge in GenAI adoption and 
-(ii) regulatory push from the European Union regarding AI. Importantly, this paper addresses policy 
-and regulation, evidencing the multidisciplinary nature of my current Lectureship and research thereof.
+This paper is the first contribution of my Lectureship in AI / Data Science in the UK, and discusses whether and how existing and novel regulation need to be revised to address generative AI (GenAI). The relevance of this paper is evidenced by its timing, as the paper was published at the peak of both the (i) surge in GenAI adoption and  (ii) regulatory push from the European Union regarding AI. Importantly, this paper addresses policy and regulation, evidencing the multidisciplinary nature of my current Lectureship and research thereof.
 
 ---
 
