@@ -125,7 +125,7 @@ _The affiliation information in the map above is updated sporadically._
 
 ### Awards (5)
 
-**Responsible AI UK Keystone Project** @ [Responsible AI UK](https://rai.ac.uk)
+**Keystone Project** @ [Responsible AI UK](https://rai.ac.uk)
 
 <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
