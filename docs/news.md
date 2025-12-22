@@ -6,9 +6,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 ## Past news
 
-<a name="top"/>
-
 1. [2025](#2025)
+   - [Summer](#summer2025)
    - [Spring](#spring2025)
    - [Winter](#winter2025)
 2. [2024](#2024)
@@ -28,6 +27,14 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 ## 2025
 
+<a name="summer2025"/>
+
+### Summer 2025
+
+- I invited **Carolline Querino** from **Cajú Consultoria Nordestina / Itaipu ParqueTec** for a talk at the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk was hosted by the **StirAI Lab** and the **PHAWM research project** on August 29th, entitled **"_Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online_"**. 
+
+- I was invited by **Responsible AI UK** for an **"_All Hands Meeting_"** gathering funded research projects, our partners, and relevant stakeholders, which will take place from November 18th to 19th, 2025, at the [Mercure Manchester Picaddily Hotel](https://maps.app.goo.gl/RSUc9agRqunyT8jr6).
+  
 <a name="spring2025"/>
 
 ### Spring 2025
