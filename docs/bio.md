@@ -77,7 +77,7 @@ Between 2015 and 2016, **I applied for and secured Lectureships in three Federal
 
 - **I supervised graduate students on deep and automated machine learning**, as well as the intersection of **multi-objective optimization** with other AI domains, such as **multi-dimensional visualization** and **dynamic optimization**. The quality of those theses is evidenced by the **11 conference and two journal papers** published as a result, including an **EMO best paper award nomination**.
 
-- **I developed a deep concern for socially relevant problems**, having for instance **assisted in the fight against the COVID-19 pandemic through science publication and communication**. Importantly, my Lectureships led to **contributions to policymaking in public health, law (enforcement), and higher education**, e.g. the revised and updated **Brazilian Standard Classification of Education** for census, evaluation, and regulation.
+- **I engaged with socially relevant problems**, having for instance **assisted in the fight against the COVID-19 pandemic through research and science communication**. Importantly, my work led to **contributions to policymaking in public health, law (enforcement), and higher education**, e.g. the **Brazilian Standard Classification of Education** for census, evaluation, and regulation.
 
 #### Teaching
 
