@@ -575,37 +575,37 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ Decision and Cognitive Science Research Centre - [University of Manchester](https://www.manchester.ac.uk/)
 
-<img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/manuel-lopez-ibanez" target="_blank"><img src="https://img.shields.io/badge/host-Manuel%20López%20Ibáñez-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/manuel-lopez-ibanez" target="_blank"><img src="https://img.shields.io/badge/host-Manuel%20López%20Ibáñez-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/TPwJmJZsz48aABjz8?g_st=ipc" target="_blank"><img src="https://img.shields.io/badge/-Manchester&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
 @ School of Computer Science - [University of St Andrews](https://www.st-andrews.ac.uk/)
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/nguyen-dang-5a0027250" target="_blank"><img src="https://img.shields.io/badge/host-Nguyen%20Dang-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/nguyen-dang-5a0027250" target="_blank"><img src="https://img.shields.io/badge/host-Nguyen%20Dang-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/QY5Bgcy7oLJxuuMc8" target="_blank"><img src="https://img.shields.io/badge/-St&#46;%20Andrews&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
 @ Aerospace Centre of Excellence - [University of Strathclyde](https://www.strath.ac.uk/)
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/annalisariccardi" target="_blank"><img src="https://img.shields.io/badge/host-Annalisa%20Riccardi-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/annalisariccardi" target="_blank"><img src="https://img.shields.io/badge/host-Annalisa%20Riccardi-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/Tjhza4tc8zh2Cue38" target="_blank"><img src="https://img.shields.io/badge/-Glasgow&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
 @ Chair for Artificial Intelligence Methodologies (AIM) - [RWTH Aachen University](https://rwth-aachen.de)
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/holger-hoos-3a37954/" target="_blank"><img src="https://img.shields.io/badge/host-Holger%20Hoos-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/holger-hoos-3a37954/" target="_blank"><img src="https://img.shields.io/badge/host-Holger%20Hoos-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/GyULHzMDKVRHPNk88" target="_blank"><img src="https://img.shields.io/badge/-Aachen&comma;%20Germany-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
 @ Advanced Technology R&D Division - [Toyota Motor Europe](https://toyota-europe.com/)
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gianpierofrancesca/" target="_blank"><img src="https://img.shields.io/badge/host-Gianpiero%20Francesca-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gianpierofrancesca/" target="_blank"><img src="https://img.shields.io/badge/host-Gianpiero%20Francesca-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/Gt4TGnPWYMtdLy1Z6" target="_blank"><img src="https://img.shields.io/badge/-Zaventem&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
 @ IRIDIA Artificial Intelligence Lab - [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/)
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/thomas-stützle-26054a1/" target="_blank"><img src="https://img.shields.io/badge/host-Thomas%20Stützle-blue.svg?style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/thomas-stützle-26054a1/" target="_blank"><img src="https://img.shields.io/badge/host-Thomas%20Stützle-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
@@ -615,37 +615,37 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ Computing Science and Mathematics (CSM) Public Lectures - [University of Stirling](https://stir.ac.uk)
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/anthony-o’hare-1b551a162/" target="_blank"><img src="https://img.shields.io/badge/host-Anthony%20O'Hare-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/anthony-o’hare-1b551a162/" target="_blank"><img src="https://img.shields.io/badge/host-Anthony%20O'Hare-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-public%20lecture-yellow.svg?style=for-the-badge"/>
 
 @ Data Science Institute (DSI) - [London School of Economics and Political Sciences](https://gla.ac.uk)
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/krbenoit/" target="_blank"><img src="https://img.shields.io/badge/host-Kenneth%20Benoit-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/krbenoit/" target="_blank"><img src="https://img.shields.io/badge/host-Kenneth%20Benoit-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/XRv2552XWAkzZkeCA" target="_blank"><img src="https://img.shields.io/badge/-London&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
 @ Information, Data, and Analysis (IDA) Section - [University of Glasgow](https://gla.ac.uk)
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/simone-stumpf-254571b/" target="_blank"><img src="https://img.shields.io/badge/host-Simone%20Stumpf-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/simone-stumpf-254571b/" target="_blank"><img src="https://img.shields.io/badge/host-Simone%20Stumpf-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/rjgEyxCMYQiyJWcG6" target="_blank"><img src="https://img.shields.io/badge/-Glasgow&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
 @ Software Systems Engineering (SSE) Group - [University College London](https://ucl.ac.uk)
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/federica-sarro-5a62a051/" target="_blank"><img src="https://img.shields.io/badge/host-Federica%20Sarro-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/federica-sarro-5a62a051/" target="_blank"><img src="https://img.shields.io/badge/host-Federica%20Sarro-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/XRv2552XWAkzZkeCA" target="_blank"><img src="https://img.shields.io/badge/-London&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
 @ Computing Science and Mathematics (CSM) Seminars - [University of Stirling](https://stir.ac.uk)
 
-<img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wen-shin-lee-20108029/" target="_blank"><img src="https://img.shields.io/badge/host-Wen%20Shin%20Lee-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wen-shin-lee-20108029/" target="_blank"><img src="https://img.shields.io/badge/host-Wen%20Shin%20Lee-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
 @ Aston Centre for Artificial Intelligence Research and Applications (ACAIRA) - [Aston University](https://www.aston.ac.uk/)
 
-<img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-wanner-91607832/" target="_blank"><img src="https://img.shields.io/badge/host-Elizabeth%20Wanner-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-wanner-91607832/" target="_blank"><img src="https://img.shields.io/badge/host-Elizabeth%20Wanner-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://maps.app.goo.gl/aGJuE2actyUHx3UW7" target="_blank"><img src="https://img.shields.io/badge/-Birmingham&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
@@ -655,7 +655,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ Brazilian Ministry of Education - [INEP](https://www.gov.br/inep/pt-br)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/host-INEP-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/CbpPfxbkoDqF7YD57" target="_blank"><img src="https://img.shields.io/badge/-Bras&iacute;lia&comma;%20DF&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/>
 <a href="https://www.youtube.com/watch?v=OJgpViD6OdU&list=PLjz5Kd6rxbE4dwUbbr6AJOyYs7dh4kwKg" target="_blank"><img src="https://img.shields.io/badge/-video-red.svg?logo=youtube&logoColor=white&style=for-the-badge"/></a>
@@ -663,25 +663,25 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ [Federal University of Ceará (UFC)](https://ufc.br)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/host-INEP-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/uwCwwU2jQAtCWzQh8" target="_blank"><img src="https://img.shields.io/badge/-Fortaleza&comma;%20CE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/>
 
 @ [Federal University of São Paulo (Unifesp)](https://unifesp.br)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/host-INEP-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/LVmYC6tLVA67wJMh9" target="_blank"><img src="https://img.shields.io/badge/-S&atilde;o%20Paulo&comma;%20SP&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/>
 
 @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/inepoficial/" target="_blank"><img src="https://img.shields.io/badge/host-INEP-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/>
 
 @ [Computing Education Workshop (WEI@CSBC)](http://www2.sbc.org.br/csbc2018/?page_id=197)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/sbcoficial/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/sbcoficial/" target="_blank"><img src="https://img.shields.io/badge/host-SBC-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/>
 
@@ -689,7 +689,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 **AutoML with Python - machine learning made easy(ish)** @ [Python Brasil 2018](https://2018.pythonbrasil.org.br/)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/apyb/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/company/apyb/" target="_blank"><img src="https://img.shields.io/badge/host-Python%20Brasil-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/> 
 <a href="https://www.youtube.com/watch?v=nuRDxYF_35A" target="_blank"><img src="https://img.shields.io/badge/-video-red.svg?logo=youtube&logoColor=white&style=for-the-badge"/></a>
@@ -700,7 +700,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
   
 @ [University of Sheffield](https://www.sheffield.ac.uk)
 
-<img src="https://img.shields.io/badge/year-2016-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/robin-purshouse-43555227/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2016-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/robin-purshouse-43555227/" target="_blank"><img src="https://img.shields.io/badge/host-Robin%20Purshouse-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/eTMYx3PRri8njDFu8" target="_blank"><img src="https://img.shields.io/badge/-Sheffield&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>   
 
@@ -710,14 +710,14 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ [Federal University of Rio Grande do Sul (UFRGS)](https://ufrgs.br)
 
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/marcus-ritt-a2164737/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/marcus-ritt-a2164737/" target="_blank"><img src="https://img.shields.io/badge/host-Marcus%20Ritt-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/rKBGkSTUYFbKd5s29" target="_blank"><img src="https://img.shields.io/badge/-Porto%20Alegre&comma;%20RS&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/> 
 <a href="https://slides.com/leobezerra/deck-1" target="_blank"><img src="https://img.shields.io/badge/-keynote-orange.svg?logo=slides&logoColor=white&style=for-the-badge"/></a>
 
 @ [Federal University of Paraíba (UFPB)](https://ufpb.br)
 
-<img src="https://img.shields.io/badge/year-2017-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/luc%C3%ADdio-cabral-38249834/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2017-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/luc%C3%ADdio-cabral-38249834/" target="_blank"><img src="https://img.shields.io/badge/host-Lucídio%20Cabral-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/> 
 <a href="https://slides.com/leobezerra/deck-1" target="_blank"><img src="https://img.shields.io/badge/-keynote-orange.svg?logo=slides&logoColor=white&style=for-the-badge"/></a>
@@ -726,7 +726,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 **pagmo C++ scientific library** @ [European Space Agency (ESA)](https://www.esa.int/)
 
-<img src="https://img.shields.io/badge/year-2016-purple.svg?style=for-the-badge"/> <a href="https://www.esa.int/gsp/ACT/team/dario_izzo/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2016-purple.svg?style=for-the-badge"/> <a href="https://www.esa.int/gsp/ACT/team/dario_izzo/" target="_blank"><img src="https://img.shields.io/badge/host-Dario%20Izzo-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/Qx3ZhKBUG6eBQjjR8" target="_blank"><img src="https://img.shields.io/badge/-Leiden&comma;%20The%20Netherlands-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-visit-yellow.svg?style=for-the-badge"/> 
 
@@ -736,14 +736,14 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
-<img src="https://img.shields.io/badge/year-2016-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-goldbarg-a961457/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2016-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-goldbarg-a961457/" target="_blank"><img src="https://img.shields.io/badge/host-Elizabeth%20Goldbarg-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/> 
 <a href="https://iridia.ulb.ac.be/~leonardo/irace/lae-2015-1/" target="_blank"><img src="https://img.shields.io/badge/-tutorial-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
   
 @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
-<img src="https://img.shields.io/badge/year-2015-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-goldbarg-a961457/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2015-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-goldbarg-a961457/" target="_blank"><img src="https://img.shields.io/badge/host-Elizabeth%20Goldbarg-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/> 
 <a href="https://iridia.ulb.ac.be/~leonardo/irace/lae-2015-1/" target="_blank"><img src="https://img.shields.io/badge/-tutorial-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
@@ -751,7 +751,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
   
 @ [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/)
 
-<img src="https://img.shields.io/badge/year-2015-purple.svg?style=for-the-badge"/> <a href="https://code.ulb.ac.be/lab/IRIDIA" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2015-purple.svg?style=for-the-badge"/> <a href="https://code.ulb.ac.be/lab/IRIDIA" target="_blank"><img src="https://img.shields.io/badge/host-IRIDIA-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-workshop-yellow.svg?style=for-the-badge"/> 
 <a href="https://iridia.ulb.ac.be/~leonardo/irace/irace-link/" target="_blank"><img src="https://img.shields.io/badge/-tutorial-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
@@ -762,7 +762,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ [Alpen-Adria-Universität Klagenfurt](https://www.aau.at/) / [Lakeside Labs](https://www.lakeside-labs.com/)
 
-<img src="https://img.shields.io/badge/year-2013-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/istvanfehervari/" target="_blank"><img src="https://img.shields.io/badge/-host-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2013-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/istvanfehervari/" target="_blank"><img src="https://img.shields.io/badge/host-Istvan%20Fehervari-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/zHUuXMvWsxz8wpYE8" target="_blank"><img src="https://img.shields.io/badge/-Klagenfurt&comma;%20Austria-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/> 
 <a href="https://www.youtube.com/watch?v=VbNWZh6HaWA" target="_blank"><img src="https://img.shields.io/badge/-video-red.svg?logo=youtube&logoColor=white&style=for-the-badge"/></a>
