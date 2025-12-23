@@ -79,7 +79,7 @@ Between 2015 and 2016, **I applied for and secured Lectureships in three Federal
 
 #### Teaching
 
-- **I helped expand and restructure multiple postgraduate taught and research programmes**, increasing their number of academics, students, and research topics. As a result, the University created a novel **Professional Doctorate in Information Technology** and was able to improve the internationalization of the **PhD programme in Computer Science**. Importantly, several public partners sponsored cohorts for the **Graduate Apprenticeship in Information Technology** programme (MSc), e.g. the **Brazilian Judicial Branch**.
+- **I helped expand and restructure multiple postgraduate taught and research programmes, increasing their number of academics, students, and research topics**. As a result, the University created a novel **Professional Doctorate in Information Technology** and was able to improve the internationalization of the **PhD programme in Computer Science**. Importantly, several public partners sponsored cohorts for the **Graduate Apprenticeship in Information Technology MSc programme**, e.g. the **Brazilian Judicial Branch**.
 
 - **I helped expand and restructure multiple undergraduate programmes**, namely the **BSc (Hons) in Information Technology**, the **BSc (Hons) in Computer Science**, and the **BSc (Hons) in Software Engineering**. As a result, the programmes now have **a broader focus on problem-solving through computational thinking**, as well as **minors in data science and artificial intelligence**, among others. The relevance of these efforts is evidenced by **the programmes ranking among the best in the country** and **the creation of a BSc (Hons) in Artificial Intelligence**.
 
