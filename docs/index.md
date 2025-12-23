@@ -605,7 +605,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ IRIDIA Artificial Intelligence Lab - [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/)
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/thomas-stützle-26054a1/" target="_blank"><img src="https://img.shields.io/badge/host-Thomas%20Stützle-blue.svg?logo=linkedin"https://img.shields.io/badge/host-Thom</a> 
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/thomas-stützle-26054a1/" target="_blank"><img src="https://img.shields.io/badge/host-Thomas%20Stützle-blue.svg?style=for-the-badge"/></a> 
 <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
