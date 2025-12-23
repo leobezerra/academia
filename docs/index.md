@@ -762,7 +762,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ [Alpen-Adria-Universität Klagenfurt](https://www.aau.at/) / [Lakeside Labs](https://www.lakeside-labs.com/)
 
-<img src="https://img.shields.io/badge/year-2013-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/istvanfehervari/" target="_blank"><img src="https://img.shields.io/badge/host-Istvan%20Fehervari-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2013-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/istvanfehervari/" target="_blank"><img src="https://img.shields.io/badge/host-István%20Fehérvári-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/zHUuXMvWsxz8wpYE8" target="_blank"><img src="https://img.shields.io/badge/-Klagenfurt&comma;%20Austria-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/> 
 <a href="https://www.youtube.com/watch?v=VbNWZh6HaWA" target="_blank"><img src="https://img.shields.io/badge/-video-red.svg?logo=youtube&logoColor=white&style=for-the-badge"/></a>
