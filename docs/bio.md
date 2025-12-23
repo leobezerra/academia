@@ -73,7 +73,7 @@ Between 2015 and 2016, **I applied for and secured Lectureships in three Federal
 
 #### Research
 
-- **I proposed and collaborated with applied data science projects with both the public and private sectors, comprising circa £3.5mi in total funding**. Partners included the **Brazilian Judicial Branch**, **Ministry of Education**, and **Public Safety Secretariats**, as well as **retail** and **energy companies**, e.g. **Neoenergia**, the Brazilian subsidiary of the Spanish utility company **Iberdrola**. 
+- **I proposed and collaborated with applied data science projects with both the public and private sectors, comprising circa £3.3mi in total funding**. Partners included the **Brazilian Judicial Branch**, **Ministry of Education**, and **Public Safety Secretariats**, as well as **retail** and **energy companies**, e.g. **Neoenergia**, the Brazilian subsidiary of the Spanish utility company **Iberdrola**. 
 
 - **I supervised graduate students on theses involving deep and automated machine learning**, as well as the intersection of **multi-objective optimization** with other AI domains, such as **multi-dimensional visualization** and **dynamic optimization**. The quality of those theses is evidenced by the **10 conference and two journal papers** published as a result, including an **EMO best paper award nomination**.
 
