@@ -113,7 +113,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
       <img src="img/news/government.jpeg">
    </div>
    <div class="float-child-description card news">
-      I invited <strong>Dr. Alberto Franzin</strong> from the <strong>EU AI Office</strong> for a talk at the <strong>"<em>AI & Government</em>"</strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
+      I invited <strong>Dr. Alberto Franzin</strong> from the <strong>EU AI Office</strong> for a meet-up at the <strong>"<em>AI & Government</em>"</strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
       The talk will be hosted by the <strong>StirAI Lab</strong> and the <strong>PHAWM research project</strong> on March 30th.
    </div>
 </div>
@@ -156,7 +156,23 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 - Alongside the **School of Law & Philosophy**, I invited **Prof. Ron Chrisley** from the **University of Sussex** for a talk at the **"_AI & Language_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on February 19th. 
 -->
 
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/news/language.jpeg">
+   </div>
+   <div class="float-child-description card news">
+      I invited <strong>Dr. Michaela Hruskova, Dr. Vassilis Galanos, Dr. Simon Powers, Dr. Conor McKeown</strong> from the <strong>University of Stirling</strong> for a meet-up at the <strong>"<em>AI & Coding</em>"</strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
+      The talk will be hosted by the <strong>StirAI Lab</strong> and the <strong>PHAWM research project</strong> on January 20th.
+   </div>
+</div>
+
+---
+
+<!-- 
+
 - I invited **Dr. Michaela Hruskova**, **Dr. Vassilis Galanos**, **Dr. Simon Powers** and **Dr. Conor McKeown** from the **University of Stirling** for a meet-up at the **"_AI & Coding_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on January 20th.
+
+-->
  
 - I was nominated for **Outstanding Activity to Support Research** by the **Research Culture Awards** of the [University of Stirling](https://www.stir.ac.uk/), as a result of my work organising the [Unhyped AI Seminars](https://leobezerra.github.io/seminars).
 
