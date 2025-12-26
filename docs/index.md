@@ -35,7 +35,18 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 - ****. The project entitled **"__"** ([]()) started in Nov 2023, will last 48 months and is funded with **£2.65 million** from **[Itaipu Parquetec](https://www.itaipuparquetec.org.br)**,  **[Itaipu Binacional](https://itaipu.energy)** and the **[Brazilian Ministry of Human Rights and Citizenship](https://mdh.org)**. My team investigates **hate speech detection**, **technology-facilitated gender-based violence**, and **the political alignment/biases of Large Language Models**. 
 -->
 
-- **I organize the [Unhyped AI Seminars](https://leobezerra.github.io/seminars), a sociotechnical & responsible AI seminar series to improve understanding of AI and its effects on society**. The series started on Autumn 2024 and is hosted in collaboration with **PHAWM** and the **StirAI multidisciplinary research lab**, with **guest speakers from academia, industry, government, and civil society**.
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/unhypedAI.png">
+   </div>
+   <div class="float-child-description card">
+      <strong>I organize the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>, a sociotechnical & responsible AI seminar series to improve understanding of AI and its effects on society</strong>. The series started on Autumn 2024 and is hosted in collaboration with <strong>PHAWM</strong> and the <strong>StirAI multidisciplinary research lab</strong>, with <strong>guest speakers from academia, industry, government, and civil society</strong>.
+   </div>
+</div>
+
+<!--
+- ****.  **PHAWM** and the ****,  ****.
+-->
 
 _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio)._
 
