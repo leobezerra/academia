@@ -22,7 +22,18 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 - **I am part of a research consortium comprising 40 academics from 7 major UK universities**, as well as **25 industry, government, and civil society partners**. Our project entitled **"_Participatory Harm Auditing Workbenches and Methodologies_"** ([PHAWM](https://phawm.org)) was awarded **£3.5 million by [Responsible AI UK](https://rai.uk) to enable end-users and decision-subjects of AI applications to participate in their auditing**. The project started in May 2024, has **a total budget of £4 million** and will last for 42 months.
 -->
 
-- **I research and supervise computer and social science graduate students at the Itaipu Parquetec Technology Park**. The project entitled **"_National Observatory of Human Rights_"** ([ObservaDH](https://observadh.mdh.gov.br/)) started in Nov 2023, will last 48 months and is funded with **£2.65 million** from **[Itaipu Parquetec](https://www.itaipuparquetec.org.br)**,  **[Itaipu Binacional](https://itaipu.energy)** and the **[Brazilian Ministry of Human Rights and Citizenship](https://mdh.org)**. My team investigates **hate speech detection**, **technology-facilitated gender-based violence**, and **the political alignment/biases of Large Language Models**. 
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/observaDH.png">
+   </div>
+   <div class="float-child-description card">
+      <strong>I research and supervise computer and social science graduate students at the Itaipu Parquetec Technology Park</strong>. The project entitled <strong>"<em>National Observatory of Human Rights</em>"</strong> (<a href="https://observadh.mdh.gov.br/">ObservaDH</a>) started in Nov 2023, will last 48 months and is funded with <strong>£2.65 million from <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec</a>, <a href="https://itaipu.energy">Itaipu Binacional</a>, and the <a href="https://mdh.org">Brazilian Ministry of Human Rights and Citizenship</a></strong>. My team investigates <strong>hate speech detection**, technology-facilitated gender-based violence, and the political alignment/biases of Large Language Models</strong>.
+   </div>
+</div>
+
+<!--
+- ****. The project entitled **"__"** ([]()) started in Nov 2023, will last 48 months and is funded with **£2.65 million** from **[Itaipu Parquetec](https://www.itaipuparquetec.org.br)**,  **[Itaipu Binacional](https://itaipu.energy)** and the **[Brazilian Ministry of Human Rights and Citizenship](https://mdh.org)**. My team investigates **hate speech detection**, **technology-facilitated gender-based violence**, and **the political alignment/biases of Large Language Models**. 
+-->
 
 - **I organize the [Unhyped AI Seminars](https://leobezerra.github.io/seminars), a sociotechnical & responsible AI seminar series to improve understanding of AI and its effects on society**. The series started on Autumn 2024 and is hosted in collaboration with **PHAWM** and the **StirAI multidisciplinary research lab**, with **guest speakers from academia, industry, government, and civil society**.
 
