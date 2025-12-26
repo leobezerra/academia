@@ -12,7 +12,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <div class="float-parent">
    <div class="float-child-logo picture" id="one">
-      <img src="img/phawm.png">
+      <img src="img/bio/phawm.png">
    </div>
    <div class="float-child-description card">
       <strong>I am part of a research consortium comprising 40 academics from 7 major UK universities</strong>, as well as <strong>25 industry, government, and civil society partners</strong>. Our project entitled <strong>"<em>Participatory Harm Auditing Workbenches and Methodologies</em>"</strong> (<a href="https://phawm.org">PHAWM</a>) was awarded <strong>£3.5 million by <a href="https://rai.uk">Responsible AI UK</a> to enable end-users and decision-subjects of AI applications to participate in their auditing</strong>. The project started in May 2024, has <strong>a total budget of £4 million</strong> and will last for 42 months.
@@ -25,7 +25,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <div class="float-parent">
    <div class="float-child-logo picture" id="one">
-      <img src="img/observaDH.png">
+      <img src="img/bio/observaDH.png">
    </div>
    <div class="float-child-description card">
       <strong>I research and supervise computer and social science graduate students at the Itaipu Parquetec Technology Park</strong>. The project entitled <strong>"<em>National Observatory of Human Rights</em>"</strong> (<a href="https://observadh.mdh.gov.br/">ObservaDH</a>) started in Nov 2023, will last 48 months and is funded with <strong>£2.65 million from <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec</a>, <a href="https://itaipu.energy">Itaipu Binacional</a>, and the <a href="https://mdh.org">Brazilian Ministry of Human Rights and Citizenship</a></strong>. My team investigates <strong>hate speech detection, technology-facilitated gender-based violence, and the political values of Large Language Models</strong>.
@@ -39,7 +39,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <div class="float-parent">
    <div class="float-child-logo picture" id="one">
-      <img src="img/unhypedAI.png">
+      <img src="img/bio/unhypedAI.png">
    </div>
    <div class="float-child-description card">
       <strong>I organize the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>, a sociotechnical & responsible AI seminar series to improve understanding of AI and its effects on society</strong>. The series started on Autumn 2024 and is hosted in collaboration with <strong>PHAWM</strong> and the <strong>StirAI multidisciplinary research lab</strong>, with <strong>guest speakers from academia, industry, government, and civil society, based on the United Kingdom (UK), the European Union (EU), the United States (US), Brazil, and Australia</strong>.
