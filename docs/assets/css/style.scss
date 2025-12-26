@@ -71,7 +71,7 @@ em {
 }
 
 .picture img {
-  width: 90%;
+  width: 80%;
 }
 
 .float-parent {
@@ -87,8 +87,7 @@ em {
 .float-child-description {
   float: left;
   width: 80%;
-  padding-top: 20px;
-  height: 158px;
+  padding-top: 10px;
 }
 
 @media screen and (max-width: 950px) {
