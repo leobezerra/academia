@@ -11,10 +11,10 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 **I am a Lecturer in Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **the sociotechnical effects of AI ecosystems**, and is **funded by both the UK and Brazilian governments**. 
 
 <div class="float-parent">
-   <div class="float-child picture" id="one">
+   <div class="float-child-logo picture" id="one">
       <img src="img/phawm.png">
    </div>
-   <div class="float-child card">
+   <div class="float-child-description card">
       <strong>I am part of a research consortium comprising 40 academics from 7 major UK universities</strong>, as well as <strong>25 industry, government, and civil society partners</strong>. Our project entitled <strong>"<em>Participatory Harm Auditing Workbenches and Methodologies</em>"</strong> (<a href="https://phawm.org">PHAWM</a>) was awarded <strong>£3.5 million by <a href="https://rai.uk">Responsible AI UK</a> to enable end-users and decision-subjects of AI applications to participate in their auditing</strong>. The project started in May 2024, has <strong>a total budget of £4 million</strong> and will last for 42 months.
    </div>
 </div>
