@@ -21,6 +21,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <!--
 - **I am part of a research consortium comprising 40 academics from 7 major UK universities**, as well as **25 industry, government, and civil society partners**. Our project entitled **"_Participatory Harm Auditing Workbenches and Methodologies_"** ([PHAWM](https://phawm.org)) was awarded **£3.5 million by [Responsible AI UK](https://rai.uk) to enable end-users and decision-subjects of AI applications to participate in their auditing**. The project started in May 2024, has **a total budget of £4 million** and will last for 42 months.
 -->
+---
 
 <div class="float-parent">
    <div class="float-child-logo picture" id="one">
@@ -31,6 +32,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
    </div>
 </div>
 
+---
 <!--
 - ****. The project entitled **"__"** ([]()) started in Nov 2023, will last 48 months and is funded with **£2.65 million** from **[Itaipu Parquetec](https://www.itaipuparquetec.org.br)**,  **[Itaipu Binacional](https://itaipu.energy)** and the **[Brazilian Ministry of Human Rights and Citizenship](https://mdh.org)**. My team investigates **hate speech detection**, **technology-facilitated gender-based violence**, and **the political alignment/biases of Large Language Models**. 
 -->
