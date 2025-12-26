@@ -163,6 +163,8 @@ _The affiliation information in the map above is updated sporadically._
 
 <img src="https://img.shields.io/badge/start-2016-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2017-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
+---
+
 ### Awards (5)
 
 **Keystone Project** @ [Responsible AI UK](https://rai.ac.uk)
@@ -186,6 +188,8 @@ _The affiliation information in the map above is updated sporadically._
 **Best paper award** @ [Brazilian Symposium on Augmented and Virtual Reality (SVR)](https://grv.inf.pucrs.br/svr2009)
 
 <img src="https://img.shields.io/badge/year-2009-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/rKBGkSTUYFbKd5s29" target="_blank"><img src="https://img.shields.io/badge/-Porto%20Alegre&comma;%20RS&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+
+---
 
 ### Nominations (3)
 
