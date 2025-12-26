@@ -277,6 +277,8 @@ _The affiliation information in the map above is updated sporadically._
 
 <img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/TMXMVfLxzDACKouN7" target="_blank"><img src="https://img.shields.io/badge/-East%20Lansing&comma;%20MI&comma;%20USA-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 
+---
+
 ### Languages (5)
 
 <img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/en-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/es-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/it-intermediary-green.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/fr-intermediary-green.svg?style=for-the-badge"/> 
