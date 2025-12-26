@@ -246,6 +246,8 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2015-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
 
+---
+
 ### Collaborator (6)
 
 **Human rights observatory (ObservaDH)** @ [Itaipu Parquetec Technology Park](https://www.itaipuparquetec.org.br)
