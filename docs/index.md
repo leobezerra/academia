@@ -10,7 +10,17 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 **I am a Lecturer in Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **the sociotechnical effects of AI ecosystems**, and is **funded by both the UK and Brazilian governments**. 
 
+<div class="float-parent">
+   <div class="float-child picture" id="one">
+      <img src="img/phawm.png">
+   </div>
+   <div class="float-child card">
+      <strong>I am part of a research consortium comprising 40 academics from 7 major UK universities</strong>, as well as <strong>25 industry, government, and civil society partners</strong>. Our project entitled <strong>"<em>Participatory Harm Auditing Workbenches and Methodologies</em>"</strong> (<a href="https://phawm.org">PHAWM</a>) was awarded <strong>£3.5 million by <a href="https://rai.uk">Responsible AI UK</a> to enable end-users and decision-subjects of AI applications to participate in their auditing</strong>. The project started in May 2024, has <strong>a total budget of £4 million</strong> and will last for 42 months.
+   </div>
+</div>
+<!--
 - **I am part of a research consortium comprising 40 academics from 7 major UK universities**, as well as **25 industry, government, and civil society partners**. Our project entitled **"_Participatory Harm Auditing Workbenches and Methodologies_"** ([PHAWM](https://phawm.org)) was awarded **£3.5 million by [Responsible AI UK](https://rai.uk) to enable end-users and decision-subjects of AI applications to participate in their auditing**. The project started in May 2024, has **a total budget of £4 million** and will last for 42 months.
+-->
 
 - **I research and supervise computer and social science graduate students at the Itaipu Parquetec Technology Park**. The project entitled **"_National Observatory of Human Rights_"** ([ObservaDH](https://observadh.mdh.gov.br/)) started in Nov 2023, will last 48 months and is funded with **£2.65 million** from **[Itaipu Parquetec](https://www.itaipuparquetec.org.br)**,  **[Itaipu Binacional](https://itaipu.energy)** and the **[Brazilian Ministry of Human Rights and Citizenship](https://mdh.org)**. My team investigates **hate speech detection**, **technology-facilitated gender-based violence**, and **the political alignment/biases of Large Language Models**. 
 
