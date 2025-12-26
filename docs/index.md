@@ -10,6 +10,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 **I am a Lecturer in Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **the sociotechnical effects of AI ecosystems**, and is **funded by both the UK and Brazilian governments**. 
 
+---
+
 <div class="float-parent">
    <div class="float-child-logo picture" id="one">
       <img src="img/phawm.png">
