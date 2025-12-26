@@ -79,9 +79,14 @@ em {
   margin: 0 0 20px 0;
 }
 
-.float-child {
+.float-child-logo {
   float: left;
-  width: 50%;
+  width: 40%;
+}
+
+.float-child-description {
+  float: left;
+  width: 60%;
 }
 
 @media screen and (max-width: 950px) {
