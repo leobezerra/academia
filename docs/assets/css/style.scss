@@ -97,6 +97,22 @@ em {
   .float-right-child {
     width: auto;
   }
+
+  .float-child-logo {
+    float: none;
+    width: auto;
+  }
+
+  .float-child-description {
+    float: none;
+    width: auto;
+  }
+
+  .picture {
+    text-align: center;
+    margin: 0 0 20px 0;
+  }
+
   #header {
     height: 108px;
   }
