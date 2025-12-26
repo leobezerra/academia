@@ -134,13 +134,27 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
    </div>
 </div>
 
---
+---
 
 <!--
 - I invited **Dr. Anna Rezk-Parker** from the **University of Glasgow** for a talk at the **"_AI & Media_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 3rd. 
 -->
 
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/news/language.jpeg">
+   </div>
+   <div class="float-child-description card news">
+      Alongside the <strong>School of Law & Philosophy</strong> I invited <strong>Prof. Ron Chrisley</strong> from the <strong>University of Sussex</strong> for a talk at the <strong>"<em>AI & Language</em>"</strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
+      The talk will be hosted by the <strong>StirAI Lab</strong> and the <strong>PHAWM research project</strong> on February 19th.
+   </div>
+</div>
+
+---
+
+<!--
 - Alongside the **School of Law & Philosophy**, I invited **Prof. Ron Chrisley** from the **University of Sussex** for a talk at the **"_AI & Language_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on February 19th. 
+-->
 
 - I invited **Dr. Michaela Hruskova**, **Dr. Vassilis Galanos**, **Dr. Simon Powers** and **Dr. Conor McKeown** from the **University of Stirling** for a meet-up at the **"_AI & Coding_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on January 20th.
  
