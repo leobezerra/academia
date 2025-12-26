@@ -103,6 +103,10 @@ em {
     width: auto;
   }
 
+  .float-child-logo img {
+    max-width: 300px;
+  }
+
   .float-child-description {
     float: none;
     width: auto;
@@ -110,7 +114,6 @@ em {
 
   .picture {
     text-align: center;
-    max-width: 200px;
     margin: 0 0 20px 0;
   }
 
