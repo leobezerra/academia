@@ -300,6 +300,8 @@ _Financial details about the projects are provided in my [CV](#top)._
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-co--supervisor-orange.svg?style=for-the-badge"/> <a href="https://sig.cefetmg.br/sigaa/verArquivo?idArquivo=4512267&key=f5474cbd7e730a9473e2c3dab7013dfc" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
 
+---
+
 ### MSc+MRes
 
 **Political bias in large language models (LLMs): a critical review and a responsible methodology** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
