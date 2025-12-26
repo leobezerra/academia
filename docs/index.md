@@ -94,7 +94,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 
 <div class="float-parent">
    <div class="float-child-logo picture" id="one">
-      <img src="img/news/relationships.png">
+      <img src="img/news/relationships.jpeg">
    </div>
    <div class="float-child-description card">
       I invited <strong>Dr. Raffaele Ciriello</strong> from the <strong>University of Sydney</strong> for a talk at the <strong>"<em>AI Companions & Relationships</em>"</strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
