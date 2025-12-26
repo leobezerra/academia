@@ -158,7 +158,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 
 <div class="float-parent">
    <div class="float-child-logo picture" id="one">
-      <img src="img/news/language.jpeg">
+      <img src="img/news/coding.jpeg">
    </div>
    <div class="float-child-description card news">
       I invited <strong>Dr. Michaela Hruskova, Dr. Vassilis Galanos, Dr. Simon Powers, Dr. Conor McKeown</strong> from the <strong>University of Stirling</strong> for a meet-up at the <strong>"<em>AI & Coding</em>"</strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
