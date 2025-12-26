@@ -102,11 +102,27 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
    </div>
 </div>
 
+---
+
 <!--
 - I invited **Dr. Raffaele Ciriello** from the **University of Sydney** for a talk at the **"_AI Companions & Relationships_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on May 4th.
 -->
 
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/news/government.jpeg">
+   </div>
+   <div class="float-child-description card news">
+      I invited <strong>Dr. Alberto Franzin</strong> from the <strong>EU AI Office</strong> for a talk at the <strong>"<em>AI & Government</em>"</strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
+      The talk will be hosted by the <strong>StirAI Lab</strong> and the <strong>PHAWM research project</strong> on March 30th.
+   </div>
+</div>
+
+---
+
+<!--
 - I invited **Dr. Alberto Franzin** from the **EU AI Office** for a meet-up at the **"_AI & Government_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 30th. 
+-->
 
 - I invited **Dr. Anna Rezk-Parker** from the **University of Glasgow** for a talk at the **"_AI & Media_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 3rd. 
 
