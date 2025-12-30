@@ -275,28 +275,89 @@ _The affiliation information in the map above is updated sporadically._
 
 ### Awards (5)
 
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/history/rai.png">
+   </div>
+   <div class="float-child-description card news">
+      <strong>Keystone Project</strong> @ <a href="https://rai.ac.uk">Responsible AI UK</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+   </div>
+</div>
+
+<!--
 **Keystone Project** @ [Responsible AI UK](https://rai.ac.uk)
 
 <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/history/ercim.png">
+   </div>
+   <div class="float-child-description card news">
+      <strong>Alain Bensoussan fellowship</strong> @ <a href="https://www.ercim.eu">European Research Consortium for Informatics and Mathematics (ERCIM)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/WDxsQVzGprUmcet76" target="_blank"><img src="https://img.shields.io/badge/-M&aacute;laga&comma;%20Spain-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+   </div>
+</div>
+
+<!--
 **Alain Bensoussan fellowship** @ [European Research Consortium for Informatics and Mathematics (ERCIM)](https://www.ercim.eu)
 
 <img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/WDxsQVzGprUmcet76" target="_blank"><img src="https://img.shields.io/badge/-M&aacute;laga&comma;%20Spain-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/history/ulb.png">
+   </div>
+   <div class="float-child-description card news">
+      <strong>Ph.D. degree in Engineering and Technology</strong> @ <a href="https://ulb.ac.be">Université Libre de Bruxelles (ULB)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/theses/BezerraPhD.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
+<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/theses/BezerraPhD.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
+   </div>
+</div>
+
+<!--
 **Ph.D. degree in Engineering and Technology** @ [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/)
 
 <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/theses/BezerraPhD.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/theses/BezerraPhD.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/history/fnrs.png">
+   </div>
+   <div class="float-child-description card news">
+      <strong>F.R.I.A doctoral fellowship</strong> @ <a href="https://frs-fnrs.be">Fonds de la Recherche Scientifique (FNRS)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+   </div>
+</div>
+
+<!--
 **F.R.I.A doctoral fellowship** @ [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be)
 
 <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/history/fnrs.png">
+   </div>
+   <div class="float-child-description card news">
+      <strong>Best paper award</strong> @ <a href="https://grv.inf.pucrs.br/svr2009">Brazilian Symposium on Augmented and Virtual Reality (SVR)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2009-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/rKBGkSTUYFbKd5s29" target="_blank"><img src="https://img.shields.io/badge/-Porto%20Alegre&comma;%20RS&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+   </div>
+</div>
+
+<!--
 **Best paper award** @ [Brazilian Symposium on Augmented and Virtual Reality (SVR)](https://grv.inf.pucrs.br/svr2009)
 
 <img src="https://img.shields.io/badge/year-2009-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/rKBGkSTUYFbKd5s29" target="_blank"><img src="https://img.shields.io/badge/-Porto%20Alegre&comma;%20RS&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
-
+-->
 ---
 
 ### Nominations (3)
