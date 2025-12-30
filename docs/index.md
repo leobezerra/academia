@@ -239,13 +239,37 @@ _The affiliation information in the map above is updated sporadically._
 <img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 -->
 
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/history/ufrn.png">
+   </div>
+   <div class="float-child-description card news">
+      <strong>Assistant professor</strong> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-leave-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+   </div>
+</div>
+
+<!--
 **Assistant professor** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
 <img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-leave-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/history/ufpb.png">
+   </div>
+   <div class="float-child-description card news">
+      <strong>Assistant professor</strong> @ <a href="https://ufpb.br">Federal University of Paraíba (UFPB)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2016-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2017-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+   </div>
+</div>
+
+<!--
 **Assistant professor** @ [Federal University of Paraíba (UFPB)](https://ufpb.br)
 
 <img src="https://img.shields.io/badge/start-2016-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2017-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+-->
 
 ---
 
