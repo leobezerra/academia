@@ -223,9 +223,21 @@ _The affiliation information in the map above is updated sporadically._
 
 ### Appointments (3)
 
+<div class="float-parent">
+   <div class="float-child-logo picture" id="one">
+      <img src="img/history/stirling.png">
+   </div>
+   <div class="float-child-description card news">
+      <strong>Lecturer</strong> @ <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+   </div>
+</div>
+
+<!--
 **Lecturer** @ [University of Stirling](https://stir.ac.uk)
 
 <img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+-->
 
 **Assistant professor** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
