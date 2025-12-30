@@ -345,7 +345,7 @@ _The affiliation information in the map above is updated sporadically._
 
 <div class="float-parent">
    <div class="float-child-logo picture" id="one">
-      <img src="img/history/fnrs.png">
+      <img src="img/history/svr.png">
    </div>
    <div class="float-child-description card news">
       <strong>Best paper award</strong> @ <a href="https://grv.inf.pucrs.br/svr2009">Brazilian Symposium on Augmented and Virtual Reality (SVR)</a><br/><br/> 
