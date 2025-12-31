@@ -497,7 +497,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/projects/fnrs.png">
+      <img src="img/history/fnrs.png">
    </div>
    <div class="float-child-description card badges2">
       <strong>Generalization of metaheuristics for optimization problems with three or more objectives</strong> <br/>
