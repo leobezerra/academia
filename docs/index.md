@@ -663,7 +663,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 **Ensuring priority rights for people assisted by the Public Defendant's Office of Rio Grande do Norte through responsible data science** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gabriel-lucas-medeiros-leite-241578201/" target="_blank"><img src="https://img.shields.io/badge/-Acsa%20Augusto-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/acsa-augusto-02432615b/" target="_blank"><img src="https://img.shields.io/badge/-Acsa%20Augusto-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
