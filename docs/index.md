@@ -516,29 +516,115 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 ### Collaborator (6)
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/bio/observaDH.png">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>Human rights observatory (ObservaDH)</strong> @ <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/nrrjWbAEWB3e5JbPA" target="_blank"><img src="https://img.shields.io/badge/-Foz%20do%20Igua&ccedil;u&comma;%20PR&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> 
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Human rights observatory (ObservaDH)** @ [Itaipu Parquetec Technology Park](https://www.itaipuparquetec.org.br)
 
 <img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/nrrjWbAEWB3e5JbPA" target="_blank"><img src="https://img.shields.io/badge/-Foz%20do%20Igua&ccedil;u&comma;%20PR&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> 
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/projects/trf5.png">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>Information technology graduate apprenticeship (MSc class of 2024)</strong> <br/>
+      @ <a href="https://trf5.jus.br">5th Region Federal Regional Court (TRF5)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2024-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Information technology graduate apprenticeship (MSc class of 2024)** @ [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br)
 
 <img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2024-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/projects/trf5.png">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>Information technology graduate apprenticeship (MSc class of 2023)</strong> <br/>
+      @ <a href="https://trf5.jus.br">5th Region Federal Regional Court (TRF5)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Information technology graduate apprenticeship (MSc class of 2023)** @ [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br)
 
 <img src="https://img.shields.io/badge/start-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/projects/sm.png">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>SmartMetropolis</strong> @ Multiple local and national government branches<br/><br/> 
+      <img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2018-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>  <a href="https://smlab.imd.ufrn.br/" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>  
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **SmartMetropolis** @ Multiple local and national government branches
 
 <img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2018-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>  <a href="https://smlab.imd.ufrn.br/" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/projects/belspo.png">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>Combinatorial optimization: metaheuristics and exact methods (COMEX)</strong> <br/>
+      @ <a href="https://belspo.be">Belgian Federal Science Policy Office (BELSPO)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2015-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Combinatorial optimization: metaheuristics and exact methods (COMEX)** @ [Belgian Federal Science Policy Office (BELSPO)](https://belspo.be/)
 
 <img src="https://img.shields.io/badge/start-2015-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/projects/cnpq.png">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>Algorithms for mobile robot path planning considering multiple objectives</strong> <br/>
+      @ <a href="https://www.gov.br/cnpq/pt-br">National Council for Scientific and Technological Development (CNPq)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2009-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2011-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<!--
 **Algorithms for mobile robot path planning considering multiple objectives** @ [National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br)
 
 <img src="https://img.shields.io/badge/start-2009-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2011-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+-->
 
 [Back to the top](#top)
 
