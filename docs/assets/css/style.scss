@@ -98,6 +98,10 @@ em {
   padding-top: 30px;
 }
 
+.hrule {
+  display: none;
+}
+
 @media screen and (max-width: 950px) {
   .float-left-child {
     display: none;
@@ -131,5 +135,9 @@ em {
   .markdown-body h2 {
     padding-top: 108px;
   }
-  
+
+  .hrule {
+    display: block;
+  }
+
 }
