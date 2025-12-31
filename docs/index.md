@@ -411,30 +411,105 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 ### Proponent (5)
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/history/rai.png">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>Participatory harm auditing workbenches and methodologies (PHAWM)</strong> @ <a href="https://rai.ac.uk">Responsible AI UK</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>  <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Participatory harm auditing workbenches and methodologies (PHAWM)** @ [Responsible AI UK](https://rai.ac.uk)
 
 <img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>  <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> 
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/projects/iberdrola.png">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>Technological innovation cell</strong> @ <a href="https://www.neoenergia.com">Iberdrola Neoenergia COSERN</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2022-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Technological innovation cell** @ [Iberdrola Neoenergia COSERN](https://www.neoenergia.com)
 
 <img src="https://img.shields.io/badge/start-2022-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/projects/huawei.png">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>Applied research and human resource development in hardware technologies for artificial intelligence</strong> @ <a href="https://huawei.com.br">Huawei Telecommunications in Brazil</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2020-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2021-blue.svg?style=for-the-badge"/> 
+<a href="https://goo.gl/maps/LVmYC6tLVA67wJMh9" target="_blank"><img src="https://img.shields.io/badge/-S&atilde;o%20Paulo&comma;%20SP&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Applied research and human resource education in hardware technologies for artificial intelligence** @ [Huawei Telecommunications in Brazil](https://huawei.com.br/)
 
 <img src="https://img.shields.io/badge/start-2020-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2021-blue.svg?style=for-the-badge"/> 
 <a href="https://goo.gl/maps/LVmYC6tLVA67wJMh9" target="_blank"><img src="https://img.shields.io/badge/-S&atilde;o%20Paulo&comma;%20SP&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/projects/inep.png">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>Revision and update of the Brazilian Standard Classification of Education (CINE Brasil)</strong> @ <a href="https://unesco.org">UNESCO</a> & Brazilian Ministry of Education – <a href="https://www.gov.br/inep/pt-br">INEP</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2019-blue.svg?style=for-the-badge"/> 
+<a href="https://goo.gl/maps/CbpPfxbkoDqF7YD57" target="_blank"><img src="https://img.shields.io/badge/-Bras&iacute;lia&comma;%20DF&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
+<a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/cine-brasil" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Revision and update of the Brazilian Standard Classification of Education (CINE Brasil)** @ [UNESCO](https://unesco.org/) & Brazilian Ministry of Education – [INEP](https://www.gov.br/inep/pt-br)
 
 <img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2019-blue.svg?style=for-the-badge"/> 
 <a href="https://goo.gl/maps/CbpPfxbkoDqF7YD57" target="_blank"><img src="https://img.shields.io/badge/-Bras&iacute;lia&comma;%20DF&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
 <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/cine-brasil" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/projects/fnrs.png">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>Generalization of metaheuristics for optimization problems with three or more objectives</strong> @ <a href="https://frs-fnrs.be">Fonds de la Recherche Scientifique (FNRS)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2015-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Generalization of metaheuristics for optimization problems with three or more objectives** @ [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be)
 
 <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2015-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
+-->
 
 ---
 
