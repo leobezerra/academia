@@ -636,38 +636,126 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 ### PhD
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/fernanda-monteiro.jpeg">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>Auditing large language models (LLMs): from political bias to human rights</strong> <br/>
+      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/a-fernanda-monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Fernanda%20Monteiro-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Auditing large language models (LLMs): from political bias to human rights** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
 <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/a-fernanda-monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Fernanda%20Monteiro-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/sabrina-oliveira.jpeg">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>Design configuration for the MMAS algorithm applied to the travelling salesman problem with dynamic demands</strong> <br/>
+      @ <a href="https://cefetmg.br">Federal Center of Technological Education of Minas Gerais (CEFET-MG)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/sabrina-oliveira-78780713b/" target="_blank"><img src="https://img.shields.io/badge/-Sabrina%20Oliveira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/nyNDnqb4qfzCWW3j7" target="_blank"><img src="https://img.shields.io/badge/-Belo%20Horizonte&comma;%20MG&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-co--supervisor-orange.svg?style=for-the-badge"/> <a href="https://sig.cefetmg.br/sigaa/verArquivo?idArquivo=4512267&key=f5474cbd7e730a9473e2c3dab7013dfc" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a> 
+   </div>
+</div>
+
+<!--
 **Design configuration for the MMAS algorithm applied to the travelling salesman problem with dynamic demands** @ [Federal Center of Technological Education of Minas Gerais (CEFET-MG)](https://cefetmg.br)
 
 <img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/sabrina-oliveira-78780713b/" target="_blank"><img src="https://img.shields.io/badge/-Sabrina%20Oliveira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/nyNDnqb4qfzCWW3j7" target="_blank"><img src="https://img.shields.io/badge/-Belo%20Horizonte&comma;%20MG&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-co--supervisor-orange.svg?style=for-the-badge"/> <a href="https://sig.cefetmg.br/sigaa/verArquivo?idArquivo=4512267&key=f5474cbd7e730a9473e2c3dab7013dfc" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+-->
 
 ---
 
 ### MSc+MRes
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/gabriel-medeiros.jpeg">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>Political bias in large language models (LLMs): a critical review and a responsible methodology</strong> <br/>
+      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gabriel-lucas-medeiros-leite-241578201/" target="_blank"><img src="https://img.shields.io/badge/-Gabriel%20Medeiros-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Political bias in large language models (LLMs): a critical review and a responsible methodology** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
 <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gabriel-lucas-medeiros-leite-241578201/" target="_blank"><img src="https://img.shields.io/badge/-Gabriel%20Medeiros-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/acsa-augusto.jpeg">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>Ensuring priority rights for people assisted by the Public Defendant's Office of Rio Grande do Norte through responsible data science</strong> <br/>
+      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/acsa-augusto-02432615b/" target="_blank"><img src="https://img.shields.io/badge/-Acsa%20Augusto-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Ensuring priority rights for people assisted by the Public Defendant's Office of Rio Grande do Norte through responsible data science** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
 <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/acsa-augusto-02432615b/" target="_blank"><img src="https://img.shields.io/badge/-Acsa%20Augusto-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/wellerson-oliveira.jpeg">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>A case study on customer segmentation of a supermarket chain</strong> <br/>
+      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wellerson-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-Wellerson%20Oliveira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
+<a href="https://repositorio.ufrn.br/bitstream/123456789/47160/1/Casestudycustomer_Oliveira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **A case study on customer segmentation of a supermarket chain** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
 <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wellerson-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-Wellerson%20Oliveira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
@@ -675,7 +763,26 @@ _Financial details about the projects are provided in my [CV](#top)._
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
 <a href="https://repositorio.ufrn.br/bitstream/123456789/47160/1/Casestudycustomer_Oliveira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/fernanda-monteiro.jpeg">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>Sales forecasting for a supermarket chain in Natal, Brazil: an empirical assessment</strong> <br/>
+      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/a-fernanda-monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Fernanda%20Monteiro-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
+<a href="https://repositorio.ufrn.br/bitstream/123456789/47159/1/Salesforecastingsupermarket_Almeida_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Sales forecasting for a supermarket chain in Natal, Brazil: an empirical assessment** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
 <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/a-fernanda-monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Fernanda%20Monteiro-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
@@ -683,7 +790,26 @@ _Financial details about the projects are provided in my [CV](#top)._
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
 <a href="https://repositorio.ufrn.br/bitstream/123456789/47159/1/Salesforecastingsupermarket_Almeida_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/carlos-vieira.jpeg">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>Assessing irace for automated machine and deep learning in computer vision</strong> <br/>
+      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/carlosemv/" target="_blank"><img src="https://img.shields.io/badge/-Carlos%20Vieira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
+<a href="https://repositorio.ufrn.br/bitstream/123456789/43771/1/Assessingiraceautomated_Vieira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Assessing irace for automated machine and deep learning in computer vision** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
 <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/carlosemv/" target="_blank"><img src="https://img.shields.io/badge/-Carlos%20Vieira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
@@ -691,7 +817,26 @@ _Financial details about the projects are provided in my [CV](#top)._
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
 <a href="https://repositorio.ufrn.br/bitstream/123456789/43771/1/Assessingiraceautomated_Vieira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/adelson-araujo.jpeg">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>Predspot: predicting crime hotspots with machine learning</strong> <br/>
+      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/adelson-araujo/" target="_blank"><img src="https://img.shields.io/badge/-Adelson%20Araujo-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-co--supervisor-orange.svg?style=for-the-badge"/> 
+<a href="https://repositorio.ufrn.br/bitstream/123456789/29155/1/Predspotpredictingcrime_AraujoJunior_2019.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<!--
 **Predspot: predicting crime hotspots with machine learning** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
 <img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/adelson-araujo/" target="_blank"><img src="https://img.shields.io/badge/-Adelson%20Araujo-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
@@ -699,13 +844,30 @@ _Financial details about the projects are provided in my [CV](#top)._
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-co--supervisor-orange.svg?style=for-the-badge"/> 
 <a href="https://repositorio.ufrn.br/bitstream/123456789/29155/1/Predspotpredictingcrime_AraujoJunior_2019.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+-->
 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/lucas-dantas.jpg">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>A metaheuristic approach to the high school timetabling problem at IFRN</strong> <br/>
+      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/>  <a href="https://integra.ifrn.edu.br/portfolio/pessoas/lucas-hiago-de-azevedo-dantas" target="_blank"><img src="https://img.shields.io/badge/-Lucas%20Dantas-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/26605/1/Abordagemmetaheur%C3%ADsticaproblema_Dantas_2018.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+   </div>
+</div>
+
+<!--
 **A metaheuristic approach to the high school timetabling problem at IFRN** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
 <img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/>  <a href="https://integra.ifrn.edu.br/portfolio/pessoas/lucas-hiago-de-azevedo-dantas" target="_blank"><img src="https://img.shields.io/badge/-Lucas%20Dantas-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/26605/1/Abordagemmetaheur%C3%ADsticaproblema_Dantas_2018.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+-->
 
 [Back to the top](#top)
 
