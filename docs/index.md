@@ -503,8 +503,6 @@ _Financial details about the projects are provided in my [CV](#top)._
    </div>
 </div>
 
-<hr class="hrule">
-
 <!--
 **Generalization of metaheuristics for optimization problems with three or more objectives** @ [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be)
 
