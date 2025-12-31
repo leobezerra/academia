@@ -451,8 +451,9 @@ _Financial details about the projects are provided in my [CV](#top)._
    <div class="float-child-logo picture">
       <img src="img/projects/huawei.png">
    </div>
-   <div class="float-child-description card badges">
-      <strong>Applied research and human resource development in hardware technologies for artificial intelligence</strong> @ <a href="https://huawei.com.br">Huawei Telecommunications in Brazil</a><br/><br/> 
+   <div class="float-child-description card news">
+      <strong>Applied research and human resource development in hardware technologies for artificial intelligence</strong> <br/>
+      @ <a href="https://huawei.com.br">Huawei Telecommunications in Brazil</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2020-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2021-blue.svg?style=for-the-badge"/> 
 <a href="https://goo.gl/maps/LVmYC6tLVA67wJMh9" target="_blank"><img src="https://img.shields.io/badge/-S&atilde;o%20Paulo&comma;%20SP&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
@@ -473,8 +474,9 @@ _Financial details about the projects are provided in my [CV](#top)._
    <div class="float-child-logo picture">
       <img src="img/projects/inep.png">
    </div>
-   <div class="float-child-description card badges">
-      <strong>Revision and update of the Brazilian Standard Classification of Education (CINE Brasil)</strong> @ <a href="https://unesco.org">UNESCO</a> & Brazilian Ministry of Education – <a href="https://www.gov.br/inep/pt-br">INEP</a><br/><br/> 
+   <div class="float-child-description card news">
+      <strong>Revision and update of the Brazilian Standard Classification of Education (CINE Brasil)</strong> <br/>
+      @ <a href="https://unesco.org">UNESCO</a> & Brazilian Ministry of Education – <a href="https://www.gov.br/inep/pt-br">INEP</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2019-blue.svg?style=for-the-badge"/> 
 <a href="https://goo.gl/maps/CbpPfxbkoDqF7YD57" target="_blank"><img src="https://img.shields.io/badge/-Bras&iacute;lia&comma;%20DF&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
@@ -497,8 +499,9 @@ _Financial details about the projects are provided in my [CV](#top)._
    <div class="float-child-logo picture">
       <img src="img/projects/fnrs.png">
    </div>
-   <div class="float-child-description card badges">
-      <strong>Generalization of metaheuristics for optimization problems with three or more objectives</strong> @ <a href="https://frs-fnrs.be">Fonds de la Recherche Scientifique (FNRS)</a><br/><br/> 
+   <div class="float-child-description card news">
+      <strong>Generalization of metaheuristics for optimization problems with three or more objectives</strong> <br/>
+      @ <a href="https://frs-fnrs.be">Fonds de la Recherche Scientifique (FNRS)</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2015-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
    </div>
 </div>
