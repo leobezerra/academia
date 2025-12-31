@@ -642,7 +642,7 @@ _Financial details about the projects are provided in my [CV](#top)._
    </div>
    <div class="float-child-description card badges3">
       <strong>Auditing large language models (LLMs): from political bias to human rights</strong> <br/>
-      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <em>Systems and Computing</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/a-fernanda-monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Fernanda%20Monteiro-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
@@ -694,7 +694,7 @@ _A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of 
    </div>
    <div class="float-child-description card badges3">
       <strong>Political bias in large language models (LLMs): a critical review and a responsible methodology</strong> <br/>
-      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <em>Systems and Computing</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gabriel-lucas-medeiros-leite-241578201/" target="_blank"><img src="https://img.shields.io/badge/-Gabriel%20Medeiros-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
@@ -719,7 +719,7 @@ _A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of 
    </div>
    <div class="float-child-description card badges3">
       <strong>Ensuring priority rights for people assisted by the Public Defendant's Office of Rio Grande do Norte through responsible data science</strong> <br/>
-      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <em>Systems and Computing</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/acsa-augusto-02432615b/" target="_blank"><img src="https://img.shields.io/badge/-Acsa%20Augusto-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
@@ -744,7 +744,7 @@ _A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of 
    </div>
    <div class="float-child-description card badges3">
       <strong>A case study on customer segmentation of a supermarket chain</strong> <br/>
-      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <em>Information Technology</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wellerson-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-Wellerson%20Oliveira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
@@ -771,7 +771,7 @@ _A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of 
    </div>
    <div class="float-child-description card badges3">
       <strong>Sales forecasting for a supermarket chain in Natal, Brazil: an empirical assessment</strong> <br/>
-      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <em>Information Technology</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/a-fernanda-monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Fernanda%20Monteiro-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
@@ -798,7 +798,7 @@ _A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of 
    </div>
    <div class="float-child-description card badges3">
       <strong>Assessing irace for automated machine and deep learning in computer vision</strong> <br/>
-      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <em>Information Technology</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/carlosemv/" target="_blank"><img src="https://img.shields.io/badge/-Carlos%20Vieira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
@@ -825,7 +825,7 @@ _A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of 
    </div>
    <div class="float-child-description card badges3">
       <strong>Predspot: predicting crime hotspots with machine learning</strong> <br/>
-      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <em>Systems and Computing</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/adelson-araujo/" target="_blank"><img src="https://img.shields.io/badge/-Adelson%20Araujo-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
@@ -852,7 +852,7 @@ _A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of 
    </div>
    <div class="float-child-description card badges3">
       <strong>A metaheuristic approach to the high school timetabling problem at IFRN</strong> <br/>
-      @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <em>Information Technology</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/>  <a href="https://integra.ifrn.edu.br/portfolio/pessoas/lucas-hiago-de-azevedo-dantas" target="_blank"><img src="https://img.shields.io/badge/-Lucas%20Dantas-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
