@@ -23,7 +23,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <!--
 - **I am part of a research consortium comprising 40 academics from 7 major UK universities**, as well as **25 industry, government, and civil society partners**. Our project entitled **"_Participatory Harm Auditing Workbenches and Methodologies_"** ([PHAWM](https://phawm.org)) was awarded **£3.5 million by [Responsible AI UK](https://rai.uk) to enable end-users and decision-subjects of AI applications to participate in their auditing**. The project started in May 2024, has **a total budget of £4 million** and will last for 42 months.
 -->
-<hr class="hrule">
+
+---
 
 <div class="float-parent">
    <div class="float-child-logo picture">
@@ -34,7 +35,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
    </div>
 </div>
 
-<hr class="hrule">
+---
+
 <!--
 - ****. The project entitled **"__"** ([]()) started in Nov 2023, will last 48 months and is funded with **£2.65 million** from **[Itaipu Parquetec](https://www.itaipuparquetec.org.br)**,  **[Itaipu Binacional](https://itaipu.energy)** and the **[Brazilian Ministry of Human Rights and Citizenship](https://mdh.org)**. My team investigates **hate speech detection**, **technology-facilitated gender-based violence**, and **the political alignment/biases of Large Language Models**. 
 -->
@@ -61,6 +63,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
   <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
 </div>
 
+<br/><br/>
 _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio)._
 
 <!--
@@ -104,7 +107,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
    </div>
 </div>
 
----
+<hr class="hrule">
 
 <!--
 - I invited **Dr. Raffaele Ciriello** from the **University of Sydney** for a talk at the **"_AI Companions & Relationships_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on May 4th.
@@ -120,7 +123,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
    </div>
 </div>
 
----
+<hr class="hrule">
 
 <!--
 - I invited **Dr. Alberto Franzin** from the **EU AI Office** for a meet-up at the **"_AI & Government_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 30th. 
@@ -136,7 +139,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
    </div>
 </div>
 
----
+<hr class="hrule">
 
 <!--
 - I invited **Dr. Anna Rezk-Parker** from the **University of Glasgow** for a talk at the **"_AI & Media_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 3rd. 
@@ -152,7 +155,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
    </div>
 </div>
 
----
+<hr class="hrule">
 
 <!--
 - Alongside the **School of Law & Philosophy**, I invited **Prof. Ron Chrisley** from the **University of Sussex** for a talk at the **"_AI & Language_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on February 19th. 
@@ -168,7 +171,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
    </div>
 </div>
 
----
+<hr class="hrule">
 
 <!-- 
 
@@ -235,6 +238,8 @@ _The affiliation information in the map above is updated sporadically._
    </div>
 </div>
 
+<hr class="hrule">
+
 <!--
 **Lecturer** @ [University of Stirling](https://stir.ac.uk)
 
@@ -251,6 +256,8 @@ _The affiliation information in the map above is updated sporadically._
    </div>
 </div>
 
+<hr class="hrule">
+
 <!--
 **Assistant professor** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
 
@@ -266,6 +273,8 @@ _The affiliation information in the map above is updated sporadically._
       <img src="https://img.shields.io/badge/start-2016-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2017-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
 </div>
+
+<hr class="hrule">
 
 <!--
 **Assistant professor** @ [Federal University of Paraíba (UFPB)](https://ufpb.br)
@@ -287,6 +296,8 @@ _The affiliation information in the map above is updated sporadically._
    </div>
 </div>
 
+<hr class="hrule">
+
 <!--
 **Keystone Project** @ [Responsible AI UK](https://rai.ac.uk)
 
@@ -302,6 +313,8 @@ _The affiliation information in the map above is updated sporadically._
       <img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/WDxsQVzGprUmcet76" target="_blank"><img src="https://img.shields.io/badge/-M&aacute;laga&comma;%20Spain-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
 </div>
+
+<hr class="hrule">
 
 <!--
 **Alain Bensoussan fellowship** @ [European Research Consortium for Informatics and Mathematics (ERCIM)](https://www.ercim.eu)
@@ -321,6 +334,8 @@ _The affiliation information in the map above is updated sporadically._
    </div>
 </div>
 
+<hr class="hrule">
+
 <!--
 **Ph.D. degree in Engineering and Technology** @ [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/)
 
@@ -338,6 +353,8 @@ _The affiliation information in the map above is updated sporadically._
       <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
 </div>
+
+<hr class="hrule">
 
 <!--
 **F.R.I.A doctoral fellowship** @ [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be)
