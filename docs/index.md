@@ -11,7 +11,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 **I am a Lecturer in Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **the sociotechnical effects of AI ecosystems**, and is **funded by both the UK and Brazilian governments**. 
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/bio/phawm.png">
    </div>
    <div class="float-child-description card">
@@ -24,7 +24,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 ---
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/bio/observaDH.png">
    </div>
    <div class="float-child-description card">
@@ -38,7 +38,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 -->
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/bio/unhypedAI.png">
    </div>
    <div class="float-child-description card">
@@ -93,7 +93,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 ### Autumn 2025
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/news/relationships.jpeg">
    </div>
    <div class="float-child-description card news">
@@ -109,7 +109,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 -->
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/news/government.jpeg">
    </div>
    <div class="float-child-description card news">
@@ -125,7 +125,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 -->
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/news/media.jpeg">
    </div>
    <div class="float-child-description card news">
@@ -141,7 +141,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 -->
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/news/language.jpeg">
    </div>
    <div class="float-child-description card news">
@@ -157,7 +157,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 -->
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/news/coding.jpeg">
    </div>
    <div class="float-child-description card news">
@@ -175,7 +175,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 -->
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/bio/unhypedAI.png">
    </div>
    <div class="float-child-description card news">
@@ -224,10 +224,10 @@ _The affiliation information in the map above is updated sporadically._
 ### Appointments (3)
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/history/stirling.png">
    </div>
-   <div class="float-child-description card news">
+   <div class="float-child-description card badges">
       <strong>Lecturer</strong> @ <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
@@ -240,10 +240,10 @@ _The affiliation information in the map above is updated sporadically._
 -->
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/history/ufrn.png">
    </div>
-   <div class="float-child-description card news">
+   <div class="float-child-description card badges">
       <strong>Assistant professor</strong> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-leave-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
@@ -256,10 +256,10 @@ _The affiliation information in the map above is updated sporadically._
 -->
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/history/ufpb.png">
    </div>
-   <div class="float-child-description card news">
+   <div class="float-child-description card badges">
       <strong>Assistant professor</strong> @ <a href="https://ufpb.br">Federal University of Paraíba (UFPB)</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2016-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2017-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
@@ -276,10 +276,10 @@ _The affiliation information in the map above is updated sporadically._
 ### Awards (5)
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/history/rai.png">
    </div>
-   <div class="float-child-description card news">
+   <div class="float-child-description card badges">
       <strong>Keystone Project</strong> @ <a href="https://rai.ac.uk">Responsible AI UK</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
@@ -292,10 +292,10 @@ _The affiliation information in the map above is updated sporadically._
 -->
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/history/ercim.png">
    </div>
-   <div class="float-child-description card news">
+   <div class="float-child-description card badges">
       <strong>Alain Bensoussan fellowship</strong> @ <a href="https://www.ercim.eu">European Research Consortium for Informatics and Mathematics (ERCIM)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/WDxsQVzGprUmcet76" target="_blank"><img src="https://img.shields.io/badge/-M&aacute;laga&comma;%20Spain-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
@@ -308,10 +308,10 @@ _The affiliation information in the map above is updated sporadically._
 -->
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/history/ulb.png">
    </div>
-   <div class="float-child-description card news">
+   <div class="float-child-description card badges">
       <strong>Ph.D. degree in Engineering and Technology</strong> @ <a href="https://ulb.ac.be">Université Libre de Bruxelles (ULB)</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/theses/BezerraPhD.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
@@ -328,10 +328,10 @@ _The affiliation information in the map above is updated sporadically._
 -->
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/history/fnrs.png">
    </div>
-   <div class="float-child-description card news">
+   <div class="float-child-description card badges">
       <strong>F.R.I.A doctoral fellowship</strong> @ <a href="https://frs-fnrs.be">Fonds de la Recherche Scientifique (FNRS)</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
@@ -344,10 +344,10 @@ _The affiliation information in the map above is updated sporadically._
 -->
 
 <div class="float-parent">
-   <div class="float-child-logo picture" id="one">
+   <div class="float-child-logo picture">
       <img src="img/history/svr.png">
    </div>
-   <div class="float-child-description card news">
+   <div class="float-child-description card badges">
       <strong>Best paper award</strong> @ <a href="https://grv.inf.pucrs.br/svr2009">Brazilian Symposium on Augmented and Virtual Reality (SVR)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2009-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/rKBGkSTUYFbKd5s29" target="_blank"><img src="https://img.shields.io/badge/-Porto%20Alegre&comma;%20RS&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
