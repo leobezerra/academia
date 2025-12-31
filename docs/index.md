@@ -641,7 +641,7 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/supervision/carolline-querino.jpeg">
    </div>
    <div class="float-child-description card badges3">
-      <strong>Information democratiser or desinformation multiplier? How artificial intelligence became a tool for reproducing race, class, and gender violence in digital spaces.</strong> @ <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a><br/><br/> 
+      <strong>Information democratiser or desinformation multiplier? How artificial intelligence became a tool for reproducing race, class, and gender violence in digital spaces</strong> @ <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/><a href="https://www.linkedin.com/in/carolline-querino/" target="_blank"><img src="https://img.shields.io/badge/-Carolline%20Querino-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
