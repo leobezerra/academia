@@ -413,7 +413,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/history/phawm.png">
+      <img src="img/bio/phawm.png">
    </div>
    <div class="float-child-description card badges">
       <strong>Participatory harm auditing workbenches and methodologies (PHAWM)</strong> @ <a href="https://rai.ac.uk">Responsible AI UK</a><br/><br/> 
