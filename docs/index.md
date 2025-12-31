@@ -877,7 +877,7 @@ _A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of 
    </div>
    <div class="float-child-description card badges3">
       <strong>Comparing contextual embeddings for the semantic textual similarity in Portuguese</strong> <br/>
-      @ BEng (Hons) in Computer engineering<a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <em>BEng (Hons) in Computer engineering</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/andrade-junior/" target="_blank"><img src="https://img.shields.io/badge/-Jose%20Andrade-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
