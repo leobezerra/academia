@@ -594,7 +594,7 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/projects/belspo.png">
    </div>
    <div class="float-child-description card badges2">
-      <strong>Combinatorial optimization: metaheuristics and exact methods (COMEX)</strong> <br/>
+      <strong>Combinatorial optimization: metaheuristics and exact methods (<a href="https://mathopt.be/comex.ulb.ac.be/">COMEX</a>)</strong> <br/>
       @ <a href="https://belspo.be">Belgian Federal Science Policy Office (BELSPO)</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2015-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
    </div>
