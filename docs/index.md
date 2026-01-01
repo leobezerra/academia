@@ -46,7 +46,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
    <div class="float-child-logo picture">
       <img src="img/bio/unhypedAI.png">
    </div>
-   <div class="float-child-description badges2">
+   <div class="float-child-description card badges">
       <strong>I organize the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>, a sociotechnical & responsible AI seminar series to improve understanding of AI and its effects on society</strong>. The series is a collaboration with <strong>PHAWM</strong> and the <strong>StirAI multidisciplinary research lab</strong>, with <strong>guest speakers from academia, industry, government, and civil society</strong>.
    </div>
 </div>
