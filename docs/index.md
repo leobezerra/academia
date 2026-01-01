@@ -237,7 +237,7 @@ _The affiliation information in the map above is updated sporadically._
 
 ## History
 
-_You can check about nominations I received and the languages I speak clicking [here](history)._
+_You can check about nominations I received and the languages I speak [here](history)._
 
 ### Appointments (3)
 
