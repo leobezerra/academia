@@ -1277,6 +1277,7 @@ independent researcher does not mean discontinuing previous research.
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-wanner-91607832/" target="_blank"><img src="https://img.shields.io/badge/speaker-Elizabeth%20Wanner-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://maps.app.goo.gl/aGJuE2actyUHx3UW7" target="_blank"><img src="https://img.shields.io/badge/-Birmingham&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
+   </div>
 </div>
 
 ---
