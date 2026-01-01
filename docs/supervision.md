@@ -1,3 +1,15 @@
+<a name="top">
+
+## Supervision
+
+<!-- 1. [MSc](#msc) -->
+2. [Bachelor](#bachelor)
+
+[Back to main page](index.md)
+
+---
+
+<a name="bachelor">
 ### Bachelor
 
 <div class="float-parent">
