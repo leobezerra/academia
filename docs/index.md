@@ -716,9 +716,9 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 ---
 
-### MSc+MRes
+### Masters
 
-**Disclaimers**
+**_Disclaimers_**
 - A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of research.
 - Each concluded dissertation below led to the publication of one or more papers in international conferences.
 
