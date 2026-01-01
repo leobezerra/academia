@@ -378,6 +378,7 @@ _The affiliation information in the map above is updated sporadically._
 
 <img src="https://img.shields.io/badge/year-2009-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/rKBGkSTUYFbKd5s29" target="_blank"><img src="https://img.shields.io/badge/-Porto%20Alegre&comma;%20RS&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 -->
+<!--
 ---
 
 ### Nominations (3)
@@ -399,6 +400,9 @@ _The affiliation information in the map above is updated sporadically._
 ### Languages (5)
 
 <img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/en-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/es-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/it-intermediary-green.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/fr-intermediary-green.svg?style=for-the-badge"/> 
+-->
+
+_You can check about nominations I received and the languages I speak clicking [here](history)._
 
 [Back to the top](#top)
 
