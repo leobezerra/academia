@@ -1363,7 +1363,7 @@ independent researcher does not mean discontinuing previous research.
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
 ---
-
+<!--
 **Brazilian Standard Classification of Education (CINE Brasil 2018)** 
 
 @ Brazilian Ministry of Education - [INEP](https://www.gov.br/inep/pt-br)
@@ -1494,6 +1494,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 <a href="https://www.youtube.com/playlist?list=PLU35_2f9Kc6q-KmGmaMevXa5_qfRcVUmt" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observatory-red.svg?logo=youtube&style=for-the-badge&logoColor=white"/></a>  
 
 ---
+-->
 
 ### Community
 
