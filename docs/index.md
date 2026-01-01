@@ -5,7 +5,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <a name="top"/>
 
 ## Bio
-_You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio)._
+_You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** [here](bio)._
 
 <!-- <h1>Leonardo C. T. Bezerra</h1>  -->
 
@@ -94,6 +94,8 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 <a name="news" class="section">
 
 ## News
+
+_You can check past news [here](news)._
 
 ### Autumn 2025
 
@@ -192,8 +194,6 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 <!--
 - I was nominated for **Outstanding Activity to Support Research** by the **Research Culture Awards** of the [University of Stirling](https://www.stir.ac.uk/), as a result of my work organising the [Unhyped AI Seminars](https://leobezerra.github.io/seminars).
 -->
-
-_You can check past news [here](news)._
 
 [Back to the top](#top)
 
