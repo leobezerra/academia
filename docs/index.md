@@ -416,7 +416,7 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/bio/phawm.png">
    </div>
    <div class="float-child-description card badges">
-      <strong>Participatory harm auditing workbenches and methodologies (<em>PHAWM</em>)</strong> @ <a href="https://rai.ac.uk">Responsible AI UK</a><br/><br/> 
+      <strong>Participatory harm auditing workbenches and methodologies (<a href="https://phawm.org">PHAWM</a>)</strong> @ <a href="https://rai.ac.uk">Responsible AI UK</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>  <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
    </div>
 </div>
@@ -475,12 +475,11 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/projects/inep.png">
    </div>
    <div class="float-child-description card badges2">
-      <strong>Revision and update of the Brazilian Standard Classification of Education (<em>CINE Brasil</em>)</strong> <br/>
+      <strong>Revision and update of the Brazilian Standard Classification of Education (<a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/cine-brasil">CINE Brasil</a>)</strong> <br/>
       @ <a href="https://unesco.org">UNESCO</a> & <em>Brazilian Ministry of Education</em> – <a href="https://www.gov.br/inep/pt-br">INEP</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2019-blue.svg?style=for-the-badge"/> 
 <a href="https://goo.gl/maps/CbpPfxbkoDqF7YD57" target="_blank"><img src="https://img.shields.io/badge/-Bras&iacute;lia&comma;%20DF&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
-<a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/cine-brasil" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
    </div>
 </div>
 
@@ -521,7 +520,7 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/bio/observaDH.png">
    </div>
    <div class="float-child-description card badges">
-      <strong>Human rights observatory (<em>ObservaDH</em>)</strong> @ <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a><br/><br/> 
+      <strong>Human rights observatory (<a href="https://observadh.mdh.gov.br/">ObservaDH</a>)</strong> @ <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/nrrjWbAEWB3e5JbPA" target="_blank"><img src="https://img.shields.io/badge/-Foz%20do%20Igua&ccedil;u&comma;%20PR&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> 
    </div>
 </div>
