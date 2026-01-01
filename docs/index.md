@@ -1242,7 +1242,7 @@ independent researcher does not mean discontinuing previous research.
       <img src="img/supervision/carolline-querino.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <strong>AI & Gender<br/><br/> 
+      <strong>AI & Gender</strong><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/carolline-querino/" target="_blank"><img src="https://img.shields.io/badge/speaker-Carolline%20Querino-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/nrrjWbAEWB3e5JbPA" target="_blank"><img src="https://img.shields.io/badge/-Foz%20do%20Igua&ccedil;u&comma;%20PR&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1258,7 +1258,7 @@ independent researcher does not mean discontinuing previous research.
       <img src="img/speakers/wiktoria-kulik.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <strong>AI & Governance<br/><br/> 
+      <strong>AI & Governance</strong><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wiktoria-kulik/" target="_blank"><img src="https://img.shields.io/badge/speaker-Wiktoria%20Kulik-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/rNBtQqEk5zwRCXih6" target="_blank"><img src="https://img.shields.io/badge/-Edinburgh&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-meet--up-yellow.svg?style=for-the-badge"/>
@@ -1274,7 +1274,7 @@ independent researcher does not mean discontinuing previous research.
       <img src="img/speakers/elizabeth-wanner.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <strong>AI & Metrics<br/><br/> 
+      <strong>AI & Metrics</strong><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-wanner-91607832/" target="_blank"><img src="https://img.shields.io/badge/speaker-Elizabeth%20Wanner-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://maps.app.goo.gl/aGJuE2actyUHx3UW7" target="_blank"><img src="https://img.shields.io/badge/-Birmingham&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
