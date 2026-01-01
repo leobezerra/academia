@@ -1234,7 +1234,6 @@ independent researcher does not mean discontinuing previous research.
 
 ### Unhyped AI Seminars
 
-**AI & Gender** 
 <!--@ [Cajú Consultoria Nordestina](https://cajuconsultoria.com/en) & <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a>-->
 
 <div class="float-parent">
