@@ -14,7 +14,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
       <img src="img/bio/stirling.png">
    </div>
    <div class="float-child-description badges">
-      <strong>I am a Lecturer in Artificial Intelligence (AI) / Data Science at the University of Stirling</strong>, which I joined in 2023. My research focuses on <strong>the sociotechnical effects of AI ecosystems</strong>, and is <strong>funded by both the UK and Brazilian governments</strong>.
+      <strong>I am a Lecturer in Artificial Intelligence (AI) / Data Science at the <a href="https://stir.ac.uk">University of Stirling</a></strong>, which I joined in 2023. My research focuses on <strong>the sociotechnical effects of AI ecosystems</strong>, and is <strong>funded by both the UK and Brazilian governments</strong>.
       <!-- The project started in May 2024, has <strong>a total budget of £4 million</strong> and will last for 42 months. -->
    </div>
 </div>
