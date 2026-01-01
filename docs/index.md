@@ -23,7 +23,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 **I am a Lecturer in Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **the sociotechnical effects of AI ecosystems**, and is **funded by both the UK and Brazilian governments**. 
 -->
 
-<hr class="hrule">
+---
 
 <div class="float-parent">
    <div class="float-child-logo picture">
