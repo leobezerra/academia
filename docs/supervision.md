@@ -6,8 +6,8 @@
 2. [Undergraduate (Final year)](#bachelor)
 
 **Disclaimers**
-- _I was either the 1st or the only supervisor for all dissertations listed here;_
-- _All but one of the undergraduate dissertations listed here were published as international conference papers._
+- I was either the 1st or the only supervisor for all dissertations listed here.
+- All but one of the undergraduate dissertations listed here were published as international conference papers.
 
 [Back to main page](index.md)
 
