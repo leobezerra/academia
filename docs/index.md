@@ -655,7 +655,7 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/supervision/penny-johnston.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <strong>Participatory harm auditing workbenches and methodologies (PHAWM)</strong> @ <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
+      <strong>Participatory harm auditing workbenches and methodologies (<a href="https://phawm.org">PHAWM</a>)</strong> @ <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/pennyjohnston/" target="_blank"><img src="https://img.shields.io/badge/-Penny%20Johnston-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-line%20manager-orange.svg?style=for-the-badge"/> 
