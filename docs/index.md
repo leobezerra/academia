@@ -227,6 +227,8 @@ _The affiliation information in the map above is updated sporadically._
 
 ## History
 
+_You can check about nominations I received and the languages I speak clicking [here](history)._
+
 ### Appointments (3)
 
 <div class="float-parent">
@@ -401,8 +403,6 @@ _The affiliation information in the map above is updated sporadically._
 
 <img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/en-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/es-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/it-intermediary-green.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/fr-intermediary-green.svg?style=for-the-badge"/> 
 -->
-
-_You can check about nominations I received and the languages I speak clicking [here](history)._
 
 [Back to the top](#top)
 
