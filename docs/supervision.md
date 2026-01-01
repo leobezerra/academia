@@ -2,8 +2,8 @@
 
 ## Supervision
 
-1. [Graduate Apprenticeship (MSc)](#msc) -->
-2. [Bachelor (Hons)](#bachelor)
+1. [Graduate Apprenticeship (MSc)](#msc)
+2. [Undergraduate (Final year)](#bachelor)
 
 [Back to main page](index.md)
 
@@ -18,6 +18,70 @@
       <strong>Artificial intelligence governance at the 5th Region Federal Court: diagnostic and improvements</strong> <br/>
       <em>MSc in Information technology </em> @ <a href="https://trf5.jus.br">5th Region Federal Regional Court (TRF5)</a> & <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gabriel-lucas-medeiros-leite-241578201/" target="_blank"><img src="https://img.shields.io/badge/-Gabriel%20Medeiros-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/paulo-melo.jpeg">
+   </div>
+   <div class="float-child-description card badges3">
+      <strong>Municipal revenue at the Rio Grande do Norte state</strong> <br/>
+      <em>MSc in Information technology </em> @ <a href="https://www.tce.rn.gov.br">Court of Accounts of Rio Grande do Norte (TCE-RN)</a> & <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/paulo-melo-6b6235239/" target="_blank"><img src="https://img.shields.io/badge/-Paulo%20Melo-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/gabriel-sousa.jpeg">
+   </div>
+   <div class="float-child-description card badges3">
+      <strong>A data-driven approach to aid payment auditing in the Court of Accounts of Rio Grande do Norte</strong> <br/>
+      <em>MSc in Information technology </em> @ <a href="https://www.tce.rn.gov.br">Court of Accounts of Rio Grande do Norte (TCE-RN)</a> & <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2020-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gabrielfas/" target="_blank"><img src="https://img.shields.io/badge/-Gabriel%20Sousa-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/giuliard-rodrigues.jpeg">
+   </div>
+   <div class="float-child-description card badges3">
+      <strong>Business intelligence to aid electoral accounts auditing in Rio Grande do Norte</strong> <br/>
+      <em>MSc in Information technology </em> @ <a href="https://www.tre-rn.jus.br">Regional Electoral Court of Rio Grande do Norte (TRE-RN)</a> & <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2020-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/giulr/" target="_blank"><img src="https://img.shields.io/badge/-Giuliard%20Rodrigues-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/thiago-oliveira.jpeg">
+   </div>
+   <div class="float-child-description card badges3">
+      <strong>A review of workflow management tools for ETL orchestration at TRE-RN</strong> <br/>
+      <em>MSc in Information technology </em> @ <a href="https://www.tre-rn.jus.br">Regional Electoral Court of Rio Grande do Norte (TRE-RN)</a> & <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2020-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/thiago-de-oliveira-33908b131/" target="_blank"><img src="https://img.shields.io/badge/-Thiago%20Oliveira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
@@ -27,7 +91,7 @@
 ---
 
 <a name="bachelor">
-### Bachelor (Hons)
+### Undergraduate (Final year)
 
 <div class="float-parent">
    <div class="float-child-logo picture">
