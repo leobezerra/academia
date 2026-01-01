@@ -5,9 +5,9 @@
 1. [Graduate Apprenticeship (MSc)](#msc)
 2. [Undergraduate (Final year)](#bachelor)
 
-_Disclaimer #1: I was either the 1st or the only supervisor for all dissertations listed here._
-
-_Disclaimer #2: All but one of the undergraduate dissertations listed here were published as international conference papers._
+**Disclaimers**
+- _I was either the 1st or the only supervisor for all dissertations listed here;_
+- _All but one of the undergraduate dissertations listed here were published as international conference papers._
 
 [Back to main page](index.md)
 
