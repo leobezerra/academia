@@ -1232,6 +1232,8 @@ independent researcher does not mean discontinuing previous research.
 
 ## Science communication, networking, and community
 
+_You can check about my COVID-19 engagement and my communication and networking activities in Brazil [here](communication)._
+
 ### Unhyped AI Seminars
 
 <!--@ [Cajú Consultoria Nordestina](https://cajuconsultoria.com/en) & <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a>-->
@@ -1283,8 +1285,6 @@ independent researcher does not mean discontinuing previous research.
 ---
 
 ### Communication and networking
-
-_You can check about my COVID-19 engagement and my communication and networking activities in Brazil [here](communication).
 
 **FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence** 
 
