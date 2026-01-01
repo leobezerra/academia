@@ -5,14 +5,14 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <a name="top"/>
 
 ## Bio
+_You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio)._
 
 <!-- <h1>Leonardo C. T. Bezerra</h1>  -->
 
 **I am a Lecturer in Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **the sociotechnical effects of AI ecosystems**, and is **funded by both the UK and Brazilian governments**. 
 
-_You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio)._
 
----
+<hr class="hrule">
 
 <div class="float-parent">
    <div class="float-child-logo picture">
