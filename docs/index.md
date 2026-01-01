@@ -1284,6 +1284,8 @@ independent researcher does not mean discontinuing previous research.
 
 ### Communication and networking
 
+_You can check about my COVID-19 engagement and my communication and networking activities in Brazil [here](communication).
+
 **FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence** 
 
 @ Decision and Cognitive Science Research Centre - [University of Manchester](https://www.manchester.ac.uk/)
