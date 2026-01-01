@@ -649,6 +649,8 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 ## Supervision
 
+_You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate (Final year)** dissertation supervisions [here](supervision)._
+
 ### Researchers
 
 <div class="float-parent">
@@ -986,8 +988,6 @@ _Financial details about the projects are provided in my [CV](#top)._
    </div>
 </div>
 -->
-
-_You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate (Final year)** dissertation supervisions clicking [here](supervision)._
 
 [Back to the top](#top)
 
