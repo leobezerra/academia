@@ -665,7 +665,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 ---
 
-### PhD
+### Doctorate
 
 <div class="float-parent">
    <div class="float-child-logo picture">
