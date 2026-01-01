@@ -1232,19 +1232,6 @@ independent researcher does not mean discontinuing previous research.
 
 ## Science communication, networking, and community
 
-### COVID-19
-
-During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed and collaborated with several science communication efforts to help disseminate the guidelines from the [World Health Organization (WHO)](https://who.int) and counter the disinformation campaigns that were strongly affecting the social distance adherence in Brazil.
-
-<a href="https://www.instagram.com/covidvisual/" target="_blank"> <img src="https://img.shields.io/badge/-visualcovid-purple.svg?logo=instagram&style=for-the-badge&logoColor=white"/></a>
-<a href="https://twitter.com/isola_ai" target="_blank"> <img src="https://img.shields.io/badge/-isola&#46;ai-blue.svg?logo=twitter&style=for-the-badge&logoColor=white"/></a>
-<a href="https://leobezerra.github.io/covid19/" target="_blank"> <img src="https://img.shields.io/badge/-visualizing%20covid--19-green.svg?logo=jupyter&style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.sciencedirect.com/science/article/pii/S2352340920305928" target="_blank"> <img src="https://img.shields.io/badge/-dataset-yellow.svg?logo=elsevier&style=for-the-badge&logoColor=white"/></a>
-<a href="https://demografiaufrn.net/category/onas-covid19/" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observatory-orange.svg?logo=wordpress&style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.youtube.com/playlist?list=PLU35_2f9Kc6q-KmGmaMevXa5_qfRcVUmt" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observatory-red.svg?logo=youtube&style=for-the-badge&logoColor=white"/></a>  
-
----
-
 ### Unhyped AI Seminars
 
 **AI & Gender** 
@@ -1252,7 +1239,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/speakers/carolline-querino.jpeg">
+      <img src="img/supervision/carolline-querino.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>AI & Gender<br/><br/> 
@@ -1492,6 +1479,19 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 <a href="https://goo.gl/maps/zHUuXMvWsxz8wpYE8" target="_blank"><img src="https://img.shields.io/badge/-Klagenfurt&comma;%20Austria-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/> 
 <a href="https://www.youtube.com/watch?v=VbNWZh6HaWA" target="_blank"><img src="https://img.shields.io/badge/-video-red.svg?logo=youtube&logoColor=white&style=for-the-badge"/></a>
+
+---
+
+### COVID-19
+
+During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed and collaborated with several science communication efforts to help disseminate the guidelines from the [World Health Organization (WHO)](https://who.int) and counter the disinformation campaigns that were strongly affecting the social distance adherence in Brazil.
+
+<a href="https://www.instagram.com/covidvisual/" target="_blank"> <img src="https://img.shields.io/badge/-visualcovid-purple.svg?logo=instagram&style=for-the-badge&logoColor=white"/></a>
+<a href="https://twitter.com/isola_ai" target="_blank"> <img src="https://img.shields.io/badge/-isola&#46;ai-blue.svg?logo=twitter&style=for-the-badge&logoColor=white"/></a>
+<a href="https://leobezerra.github.io/covid19/" target="_blank"> <img src="https://img.shields.io/badge/-visualizing%20covid--19-green.svg?logo=jupyter&style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.sciencedirect.com/science/article/pii/S2352340920305928" target="_blank"> <img src="https://img.shields.io/badge/-dataset-yellow.svg?logo=elsevier&style=for-the-badge&logoColor=white"/></a>
+<a href="https://demografiaufrn.net/category/onas-covid19/" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observatory-orange.svg?logo=wordpress&style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.youtube.com/playlist?list=PLU35_2f9Kc6q-KmGmaMevXa5_qfRcVUmt" target="_blank"> <img src="https://img.shields.io/badge/-covid--19%20observatory-red.svg?logo=youtube&style=for-the-badge&logoColor=white"/></a>  
 
 ---
 
