@@ -1,13 +1,7 @@
 ## Science communication, networking, and community
-
-1. [COVID-19](#covid)
-2. [Communication and networking](#communication)
-   
 _[Back to main page](index.md)_
 
 ---
-
-<a name="covid">
   
 ### COVID-19
 
@@ -22,8 +16,6 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 ---
 
-<a name="communication">
-  
 ### Communication and networking
 
 **Brazilian Standard Classification of Education (CINE Brasil 2018)** 
