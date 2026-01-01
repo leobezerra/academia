@@ -166,7 +166,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
       <img src="img/news/coding.jpeg">
    </div>
    <div class="float-child-description card news">
-      I invited <strong>Dr. Michaela Hruskova, Dr. Vassilis Galanos, Dr. Simon Powers, Dr. Conor McKeown</strong> from the <strong>University of Stirling</strong> for a meet-up at the <strong>"<em>AI & Coding</em>"</strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
+      I invited <strong>Dr. Michaela Hruskova, Dr. Vassilis Galanos, Dr. Simon Powers, Dr. Conor McKeown</strong> from the <strong>University of Stirling</strong> for a meet-up at the <strong><em>"AI & Coding"</em></strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
       The talk will be hosted by the <strong>StirAI Lab</strong> and the <strong>PHAWM research project</strong> on January 20th.
    </div>
 </div>
@@ -309,7 +309,7 @@ _The affiliation information in the map above is updated sporadically._
       <img src="img/history/ercim.png">
    </div>
    <div class="float-child-description card badges">
-      <strong>Alain Bensoussan fellowship</strong> @ <a href="https://www.ercim.eu">European Research Consortium for Informatics and Mathematics (ERCIM)</a><br/><br/> 
+      <strong>Alain Bensoussan fellowship</strong> @ <a href="https://www.ercim.eu">European Research Consortium for Informatics and Mathematics</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/WDxsQVzGprUmcet76" target="_blank"><img src="https://img.shields.io/badge/-M&aacute;laga&comma;%20Spain-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
 </div>
@@ -327,7 +327,7 @@ _The affiliation information in the map above is updated sporadically._
       <img src="img/history/ulb.png">
    </div>
    <div class="float-child-description card badges">
-      <strong>Ph.D. degree in Engineering and Technology</strong> @ <a href="https://ulb.ac.be">Université Libre de Bruxelles (ULB)</a><br/><br/> 
+      <strong>Ph.D. degree in Engineering and Technology</strong> @ <a href="https://ulb.ac.be">Université Libre de Bruxelles</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/theses/BezerraPhD.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
 <a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/theses/BezerraPhD.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
@@ -349,7 +349,7 @@ _The affiliation information in the map above is updated sporadically._
       <img src="img/history/fnrs.png">
    </div>
    <div class="float-child-description card badges">
-      <strong>F.R.I.A doctoral fellowship</strong> @ <a href="https://frs-fnrs.be">Fonds de la Recherche Scientifique (FNRS)</a><br/><br/> 
+      <strong>F.R.I.A doctoral fellowship</strong> @ <a href="https://frs-fnrs.be">Fonds de la Recherche Scientifique</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
 </div>
@@ -416,7 +416,7 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/bio/phawm.png">
    </div>
    <div class="float-child-description card badges">
-      <strong>Participatory harm auditing workbenches and methodologies (PHAWM)</strong> @ <a href="https://rai.ac.uk">Responsible AI UK</a><br/><br/> 
+      <strong>Participatory harm auditing workbenches and methodologies (<em>PHAWM</em>)</strong> @ <a href="https://rai.ac.uk">Responsible AI UK</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>  <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
    </div>
 </div>
@@ -475,8 +475,8 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/projects/inep.png">
    </div>
    <div class="float-child-description card badges2">
-      <strong>Revision and update of the Brazilian Standard Classification of Education (CINE Brasil)</strong> <br/>
-      @ <a href="https://unesco.org">UNESCO</a> & Brazilian Ministry of Education – <a href="https://www.gov.br/inep/pt-br">INEP</a><br/><br/> 
+      <strong>Revision and update of the Brazilian Standard Classification of Education (<em>CINE Brasil</em>)</strong> <br/>
+      @ <a href="https://unesco.org">UNESCO</a> & <em>Brazilian Ministry of Education</em> – <a href="https://www.gov.br/inep/pt-br">INEP</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2019-blue.svg?style=for-the-badge"/> 
 <a href="https://goo.gl/maps/CbpPfxbkoDqF7YD57" target="_blank"><img src="https://img.shields.io/badge/-Bras&iacute;lia&comma;%20DF&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
@@ -521,7 +521,7 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/bio/observaDH.png">
    </div>
    <div class="float-child-description card badges">
-      <strong>Human rights observatory (ObservaDH)</strong> @ <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a><br/><br/> 
+      <strong>Human rights observatory (<em>ObservaDH</em>)</strong> @ <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/nrrjWbAEWB3e5JbPA" target="_blank"><img src="https://img.shields.io/badge/-Foz%20do%20Igua&ccedil;u&comma;%20PR&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> 
    </div>
 </div>
@@ -539,8 +539,8 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/projects/trf5.png">
    </div>
    <div class="float-child-description card badges2">
-      <strong>Information technology graduate apprenticeship (MSc class of 2024)</strong> <br/>
-      @ <a href="https://trf5.jus.br">5th Region Federal Regional Court (TRF5)</a><br/><br/> 
+      <strong>Information technology graduate apprenticeship</strong> <br/>
+      <em>MSc class of 2024</em> @ <a href="https://trf5.jus.br">5th Region Federal Regional Court (TRF5)</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2024-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
    </div>
 </div>
@@ -558,8 +558,8 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/projects/trf5.png">
    </div>
    <div class="float-child-description card badges2">
-      <strong>Information technology graduate apprenticeship (MSc class of 2023)</strong> <br/>
-      @ <a href="https://trf5.jus.br">5th Region Federal Regional Court (TRF5)</a><br/><br/> 
+      <strong>Information technology graduate apprenticeship</strong> <br/>
+      <em>MSc class of 2023</em> @ <a href="https://trf5.jus.br">5th Region Federal Regional Court (TRF5)</a><br/><br/> 
       <img src="https://img.shields.io/badge/start-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
    </div>
 </div>
@@ -577,7 +577,7 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/projects/sm.png">
    </div>
    <div class="float-child-description card badges">
-      <strong>SmartMetropolis</strong> @ Multiple local and national government branches<br/><br/> 
+      <strong>SmartMetropolis</strong> @ <em>Multiple local and national government branches</em><br/><br/> 
       <img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2018-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>  <a href="https://smlab.imd.ufrn.br/" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>  
    </div>
 </div>
@@ -656,7 +656,7 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="img/supervision/penny-johnston.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <strong>Participatory harm auditing workbenches and methodologies (PHAWM)</strong> @ <a href="https://rai.ac.uk">Responsible AI UK</a><br/><br/> 
+      <strong>Participatory harm auditing workbenches and methodologies (PHAWM)</strong> @ <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/pennyjohnston/" target="_blank"><img src="https://img.shields.io/badge/-Penny%20Johnston-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/role-line%20manager-orange.svg?style=for-the-badge"/> 
