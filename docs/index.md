@@ -1250,23 +1250,50 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 **AI & Gender** 
 <!--@ [Cajú Consultoria Nordestina](https://cajuconsultoria.com/en) & <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a>-->
 
-<img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/carolline-querino/" target="_blank"><img src="https://img.shields.io/badge/speaker-Carolline%20Querino-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/speakers/carolline-querino.jpeg">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>AI & Gender<br/><br/> 
+      <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/carolline-querino/" target="_blank"><img src="https://img.shields.io/badge/speaker-Carolline%20Querino-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/nrrjWbAEWB3e5JbPA" target="_blank"><img src="https://img.shields.io/badge/-Foz%20do%20Igua&ccedil;u&comma;%20PR&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
 
-**AI & Governance** 
+<hr class="hrule">
+
 <!--@ [Accenture](https://www.accenture.com/gb-en)-->
 
-<img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wiktoria-kulik/" target="_blank"><img src="https://img.shields.io/badge/speaker-Wiktoria%20Kulik-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/speakers/wiktoria-kulik.jpeg">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>AI & Governance<br/><br/> 
+      <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wiktoria-kulik/" target="_blank"><img src="https://img.shields.io/badge/speaker-Wiktoria%20Kulik-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/rNBtQqEk5zwRCXih6" target="_blank"><img src="https://img.shields.io/badge/-Edinburgh&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-meet--up-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
 
-**AI & Metrics**
+<hr class="hrule">
+
 <!--@ [Aston University](https://www.aston.ac.uk)-->
 
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-wanner-91607832/" target="_blank"><img src="https://img.shields.io/badge/speaker-Elizabeth%20Wanner-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/speakers/elizabeth-wanner.jpeg">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>AI & Metrics<br/><br/> 
+      <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-wanner-91607832/" target="_blank"><img src="https://img.shields.io/badge/speaker-Elizabeth%20Wanner-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://maps.app.goo.gl/aGJuE2actyUHx3UW7" target="_blank"><img src="https://img.shields.io/badge/-Birmingham&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
+</div>
+
+---
 
 ### Communication and networking
 
