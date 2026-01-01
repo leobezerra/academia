@@ -1213,7 +1213,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ Decision and Cognitive Science Research Centre - [University of Manchester](https://www.manchester.ac.uk/)
 
-<img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/manuel-lopez-ibanez" target="_blank"><img src="https://img.shields.io/badge/host-Manuel%20López%20Ibáñez-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/manuel-lopez-ibanez" target="_blank"><img src="https://img.shields.io/badge/host-Manuel%20López--Ibáñez-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/TPwJmJZsz48aABjz8?g_st=ipc" target="_blank"><img src="https://img.shields.io/badge/-Manchester&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
@@ -1277,7 +1277,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 @ Computing Science and Mathematics (CSM) Seminars - [University of Stirling](https://stir.ac.uk)
 
-<img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wen-shin-lee-20108029/" target="_blank"><img src="https://img.shields.io/badge/host-Wen%20Shin%20Lee-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wen-shin-lee-20108029/" target="_blank"><img src="https://img.shields.io/badge/host-Wen--Shin%20Lee-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 
