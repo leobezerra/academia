@@ -907,7 +907,7 @@ _A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of 
       <img src="img/supervision/diego-almeida.jpeg">
    </div>
    <div class="float-child-description card badges3">
-      <strong></strong> <br/>
+      <strong>Optimizing the operational logistics of an electrical energy distribution company</strong> <br/>
       <em>BEng (Hons) in Computer engineering</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/diego-almeida-2120b2269/" target="_blank"><img src="https://img.shields.io/badge/-Diego%20Almeida-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
