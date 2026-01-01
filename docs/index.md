@@ -32,7 +32,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
       <img src="img/bio/observaDH.png">
    </div>
    <div class="float-child-description badges2">
-      <strong>I research and supervise computer and social science graduate students at the Itaipu Parquetec Technology Park</strong>. The project <strong>"<em>National Observatory of Human Rights</em>"</strong> (<a href="https://observadh.mdh.gov.br/">ObservaDH</a>) is funded with <strong>£2.65 million in collaboration with <a href="https://itaipu.energy">Itaipu Binacional</a> and the <a href="https://mdh.org">Brazilian Ministry of Human Rights and Citizenship</a></strong>. My team investigates <strong>hate speech detection, technology-facilitated gender-based violence, and the political values of LLMs</strong>.
+      <strong>I research and supervise computer and social science researchers at the Itaipu Parquetec Technology Park</strong>. The project <strong>"<em>National Observatory of Human Rights</em>"</strong> (<a href="https://observadh.mdh.gov.br/">ObservaDH</a>) is funded with <strong>£2.65 million in collaboration with <a href="https://itaipu.energy">Itaipu Binacional</a> and the <a href="https://mdh.org">Brazilian Ministry of Human Rights and Citizenship</a></strong>. My team investigates <strong>hate speech detection, technology-facilitated gender-based violence, and the political values of LLMs</strong>.
    </div>
 </div>
 
