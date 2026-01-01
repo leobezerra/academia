@@ -2,15 +2,32 @@
 
 ## Supervision
 
-<!-- 1. [MSc](#msc) -->
-2. [Bachelor](#bachelor)
+1. [Graduate Apprenticeship (MSc)](#msc) -->
+2. [Bachelor (Hons)](#bachelor)
 
 [Back to main page](index.md)
+
+<a name="msc">
+### Graduate Apprenticeship (MSc)
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/supervision/gabriel-medeiros.jpeg">
+   </div>
+   <div class="float-child-description card badges3">
+      <strong>Artificial intelligence governance at the 5th Region Federal Court: diagnostic and improvements</strong> <br/>
+      <em>MSc in Information technology </em> @ <a href="https://trf5.jus.br">5th Region Federal Regional Court (TRF5)</a> & <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gabriel-lucas-medeiros-leite-241578201/" target="_blank"><img src="https://img.shields.io/badge/-Gabriel%20Medeiros-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
+   </div>
+</div>
 
 ---
 
 <a name="bachelor">
-### Bachelor
+### Bachelor (Hons)
 
 <div class="float-parent">
    <div class="float-child-logo picture">
