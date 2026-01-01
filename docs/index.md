@@ -969,6 +969,8 @@ _A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of 
 </div>
 -->
 
+_You can check about my **MSc** and **Bachelor** dissertation supervisions clicking [here](supervision)._
+
 [Back to the top](#top)
 
 ---
