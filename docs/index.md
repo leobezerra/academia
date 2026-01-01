@@ -102,7 +102,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
       <img src="img/news/relationships.jpeg">
    </div>
    <div class="float-child-description card news">
-      I invited <strong>Dr. Raffaele Ciriello</strong> from the <strong>University of Sydney</strong> for a talk at the <strong>"<em>AI Companions & Relationships</em>"</strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
+      I invited <strong>Dr. Raffaele Ciriello</strong> from the <strong>University of Sydney</strong> for a talk at the <strong><em>AI Companions & Relationships</em></strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
       The talk will be hosted by the <strong>StirAI Lab</strong> and the <strong>PHAWM research project</strong> on May 4th.
    </div>
 </div>
@@ -118,7 +118,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
       <img src="img/news/government.jpeg">
    </div>
    <div class="float-child-description card news">
-      I invited <strong>Dr. Alberto Franzin</strong> from the <strong>EU AI Office</strong> for a meet-up at the <strong>"<em>AI & Government</em>"</strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
+      I invited <strong>Dr. Alberto Franzin</strong> from the <strong>EU AI Office</strong> for a meet-up at the <strong><em>AI & Government</em></strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
       The talk will be hosted by the <strong>StirAI Lab</strong> and the <strong>PHAWM research project</strong> on March 30th.
    </div>
 </div>
@@ -134,7 +134,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
       <img src="img/news/media.jpeg">
    </div>
    <div class="float-child-description card news">
-      I invited <strong>Dr. Anna Rezk-Parker</strong> from the <strong>University of Glasgow</strong> for a talk at the <strong>"<em>AI & Media</em>"</strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
+      I invited <strong>Dr. Anna Rezk-Parker</strong> from the <strong>University of Glasgow</strong> for a talk at the <strong><em>AI & Media</em></strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
       The talk will be hosted by the <strong>StirAI Lab</strong> and the <strong>PHAWM research project</strong> on March 3rd.
    </div>
 </div>
@@ -150,7 +150,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
       <img src="img/news/language.jpeg">
    </div>
    <div class="float-child-description card news">
-      Alongside the <strong>School of Law & Philosophy</strong> I invited <strong>Prof. Ron Chrisley</strong> from the <strong>University of Sussex</strong> for a talk at the <strong>"<em>AI & Language</em>"</strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
+      Alongside the <strong>School of Law & Philosophy</strong> I invited <strong>Prof. Ron Chrisley</strong> from the <strong>University of Sussex</strong> for a talk at the <strong><em>AI & Language</em></strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
       The talk will be hosted by the <strong>StirAI Lab</strong> and the <strong>PHAWM research project</strong> on February 19th.
    </div>
 </div>
@@ -166,7 +166,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
       <img src="img/news/coding.jpeg">
    </div>
    <div class="float-child-description card news">
-      I invited <strong>Dr. Michaela Hruskova, Dr. Vassilis Galanos, Dr. Simon Powers, Dr. Conor McKeown</strong> from the <strong>University of Stirling</strong> for a meet-up at the <strong><em>"AI & Coding"</em></strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
+      I invited <strong>Dr. Michaela Hruskova, Dr. Vassilis Galanos, Dr. Simon Powers, Dr. Conor McKeown</strong> from the <strong>University of Stirling</strong> for a meet-up at the <strong><em>AI & Coding</em></strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
       The talk will be hosted by the <strong>StirAI Lab</strong> and the <strong>PHAWM research project</strong> on January 20th.
    </div>
 </div>
