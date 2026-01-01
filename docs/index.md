@@ -9,8 +9,19 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 
 <!-- <h1>Leonardo C. T. Bezerra</h1>  -->
 
-**I am a Lecturer in Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **the sociotechnical effects of AI ecosystems**, and is **funded by both the UK and Brazilian governments**. 
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/bio/stirling.png">
+   </div>
+   <div class="float-child-description badges">
+      <strong>I am a Lecturer in Artificial Intelligence (AI) / Data Science at the University of Stirling</strong>, which I joined in 2023. My research focuses on <strong>the sociotechnical effects of AI ecosystems</strong>, and is <strong>funded by both the UK and Brazilian governments</strong>.
+      <!-- The project started in May 2024, has <strong>a total budget of £4 million</strong> and will last for 42 months. -->
+   </div>
+</div>
 
+<!--
+**I am a Lecturer in Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **the sociotechnical effects of AI ecosystems**, and is **funded by both the UK and Brazilian governments**. 
+-->
 
 <hr class="hrule">
 
@@ -232,7 +243,7 @@ _You can check about nominations I received and the languages I speak clicking [
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/history/stirling.png">
+      <img src="img/bio/stirling.png">
    </div>
    <div class="float-child-description card badges">
       <strong>Lecturer</strong> @ <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
