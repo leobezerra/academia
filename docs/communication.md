@@ -1,4 +1,4 @@
-_[Back to main page](#index.md)_
+_[Back to main page](index.md)_
 
 ### COVID-19
 
