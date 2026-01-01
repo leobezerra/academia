@@ -899,6 +899,7 @@ _A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of 
 <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/26605/1/Abordagemmetaheur%C3%ADsticaproblema_Dantas_2018.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
 -->
 
+<!--
 ### Bachelor
 
 <div class="float-parent">
@@ -966,6 +967,7 @@ _A Masters degree in Brazil comprises 1 year of disciplines and 1 or 2 years of 
 <a href="https://repositorio.ufrn.br/handle/123456789/43663" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
    </div>
 </div>
+-->
 
 [Back to the top](#top)
 
