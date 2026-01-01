@@ -10,7 +10,9 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 **I am a Lecturer in Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **the sociotechnical effects of AI ecosystems**, and is **funded by both the UK and Brazilian governments**. 
 
-<hr class="hrule">
+_You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio)._
+
+---
 
 <div class="float-parent">
    <div class="float-child-logo picture">
@@ -63,9 +65,6 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
   <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
   <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
 </div>
-
-<br/><br/>
-_You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** clicking [here](bio)._
 
 <!--
 - **I am applying for funding to promote a society where AI systems are fair, accountable, inclusive, responsible, transparent, ethical, carbon-neutral, and human-centred (FAIRTECH) by design**. To achieve this, I will:
