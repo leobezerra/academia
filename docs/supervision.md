@@ -11,6 +11,8 @@ _Disclaimer #2: All but one of the undergraduate dissertations listed here were 
 
 [Back to main page](index.md)
 
+---
+
 <a name="msc">
 ### Graduate Apprenticeship (MSc)
 
@@ -92,6 +94,8 @@ _Disclaimer #2: All but one of the undergraduate dissertations listed here were 
    </div>
 </div>
 
+[Back to the top](#top)
+
 ---
 
 <a name="bachelor">
@@ -162,3 +166,5 @@ _Disclaimer #2: All but one of the undergraduate dissertations listed here were 
 <a href="https://repositorio.ufrn.br/handle/123456789/43663" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
    </div>
 </div>
+
+[Back to the top](#top)
