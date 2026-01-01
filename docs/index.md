@@ -539,8 +539,9 @@ _Financial details about the projects are provided in my [CV](#top)._
    </div>
    <div class="float-child-description card badges2">
       <strong>Information technology graduate apprenticeship</strong> <br/>
+      <em>MSc class of 2023</em> @ <a href="https://trf5.jus.br">5th Region Federal Regional Court (TRF5)</a><br/><br/> 
       <em>MSc class of 2024</em> @ <a href="https://trf5.jus.br">5th Region Federal Regional Court (TRF5)</a><br/><br/> 
-      <img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2024-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+      <img src="https://img.shields.io/badge/start-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2024-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
    </div>
 </div>
 
@@ -552,7 +553,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 <img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2024-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 -->
 
-<div class="float-parent">
+<!-- <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/projects/trf5.png">
    </div>
@@ -563,7 +564,7 @@ _Financial details about the projects are provided in my [CV](#top)._
    </div>
 </div>
 
-<hr class="hrule">
+<hr class="hrule"> -->
 
 <!--
 **Information technology graduate apprenticeship (MSc class of 2023)** @ [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br)
