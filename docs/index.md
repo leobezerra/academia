@@ -4,9 +4,9 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="top"/>
 
-<img src="img/wallace.jpeg" class="badges">
+<img src="img/wallace.jpeg">
 
-_The National Wallace Monument_ @ **Stirling, Scotland** ([Source](https://greyarro.ws/t/stirling-castle-the-wallace-monument/60003))  
+_The National Wallace Monument_ @ **Stirling, Scotland** ([Credits](https://greyarro.ws/t/stirling-castle-the-wallace-monument/60003): John Carroll)  
 
 ---
 
