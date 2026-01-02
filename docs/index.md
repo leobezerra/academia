@@ -150,14 +150,16 @@ _You can check past news [here](sections/news)._
 
 <a name="places" class="section">
   
-## Places, People & Organisations 
+## Places, People & Organisations
 
+<!--
 In addition to my formal collaborations through supervision and authoring, I have also met incredible people along my research career.
 - **Wider network**, researchers that always wholeheartedly assist me when I reach out to them.
 - **IRIDIAns**, the whole family of researchers that graduated with my from the IRIDIA lab.
 - **Alumni**, the amazing students I had the privilege to supervise.
   
 Check their whereabouts (updated eventually) at the interactive map below.
+-->
 
 <iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
 
@@ -171,6 +173,8 @@ Check their whereabouts (updated eventually) at the interactive map below.
 <img src="https://img.shields.io/badge/-iridians-red.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-alumni-darkred.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-co&#8208;is-bisque.svg?style=for-the-badge"/>
+
+_The affiliation information in the map below is updated sporadically._
 
 [Back to the top](#top)
 
