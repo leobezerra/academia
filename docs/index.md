@@ -1243,7 +1243,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
       <img src="img/supervision/carolline-querino.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <strong>AI & Gender</strong><br/><br/> 
+      <strong>Gender, Violence and Artificial Intelligence</strong> @ <a href="https://leobezerra.github.io/seminars/#gender">AI & Gender Edition</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/carolline-querino/" target="_blank"><img src="https://img.shields.io/badge/speaker-Carolline%20Querino-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/nrrjWbAEWB3e5JbPA" target="_blank"><img src="https://img.shields.io/badge/-Foz%20do%20Igua&ccedil;u&comma;%20PR&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1259,7 +1259,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
       <img src="img/speakers/wiktoria-kulik.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <strong>AI & Governance</strong><br/><br/> 
+      <strong>The challenges of digital ethics & responsible AI</strong> @ <a href="https://leobezerra.github.io/seminars/#governance">AI & Governance Edition</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wiktoria-kulik/" target="_blank"><img src="https://img.shields.io/badge/speaker-Wiktoria%20Kulik-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/rNBtQqEk5zwRCXih6" target="_blank"><img src="https://img.shields.io/badge/-Edinburgh&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-meet--up-yellow.svg?style=for-the-badge"/>
@@ -1275,7 +1275,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
       <img src="img/speakers/elizabeth-wanner.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <strong>AI & Metrics</strong><br/><br/> 
+      <strong>Mathematical models for dominance move</strong> @ <a href="https://leobezerra.github.io/seminars/#metrics">AI & Metrics Edition</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-wanner-91607832/" target="_blank"><img src="https://img.shields.io/badge/speaker-Elizabeth%20Wanner-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 <a href="https://maps.app.goo.gl/aGJuE2actyUHx3UW7" target="_blank"><img src="https://img.shields.io/badge/-Birmingham&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1293,7 +1293,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
       <img src="img/hosts/eu-ai-office.png">
    </div>
    <div class="float-child-description card badges">
-      @ <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-office">European Union AI Office</a><br/><br/> 
+      AI Safety Unit 4 @ <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-office">European Union AI Office</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/albertofranzin/" target="_blank"><img src="https://img.shields.io/badge/host-Alberto%20Franzin-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
