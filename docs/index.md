@@ -1,5 +1,6 @@
 ---
 title: "Leonardo C. T. Bezerra - Academic webpage"
+image: img/map.png
 ---
 
 <img src="img/wallace.jpeg" id="cover-picture">
