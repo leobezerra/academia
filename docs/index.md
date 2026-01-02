@@ -1328,7 +1328,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 ---
 
-**Data & AI Meetup: Ethics**
+**Supporting society to assess AI**
 
 <div class="float-parent">
    <div class="float-child-logo picture">
@@ -1344,12 +1344,12 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/bio/unhypedAI.png">
+      <img src="img/hosts/the-data-lab.jpg">
    </div>
    <div class="float-child-description card badges">
-      <em>AI & Governance Edition</em> @ <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a><br/><br/> 
-      <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/terrie-lynn-thompson-0b36979/" target="_blank"><img src="https://img.shields.io/badge/host-Terry--Lynn%20Thompson-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-      <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+      <em>Data & AI Meet-up: Ethics</em> @ <a href="https://thedatalab.com">The Data Lab</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/marian-dunbar/" target="_blank"><img src="https://img.shields.io/badge/host-Marian%20Dunbar-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+      <a href="https://maps.app.goo.gl/rNBtQqEk5zwRCXih6" target="_blank"><img src="https://img.shields.io/badge/-Edinburgh&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-meet--up-yellow.svg?style=for-the-badge"/>
    </div>
 </div>
