@@ -2,13 +2,13 @@
 title: "Leonardo C. T. Bezerra - Academic webpage"
 ---
 
-<a name="top"/>
-
 <img src="img/wallace.jpeg">
 
 _The National Wallace Monument_ @ **Stirling, Scotland** ([Credits](https://greyarro.ws/t/stirling-castle-the-wallace-monument/60003): John Carroll)  
 
 ---
+
+<a name="top"/>
 
 ## Bio
 _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** [here](sections/bio)._
