@@ -1288,11 +1288,11 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/speakers/alberto-franzin.jpeg">
+      <img src="img/hosts/alberto-franzin.jpeg">
    </div>
-   <div class="float-child-description card badges">
+   <div class="float-child-description card badges2">
       <strong>Empowering decision-subjects & end-users to audit AI Applications</strong> <br/>
-      <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-office">European Union AI Office</a><br/><br/> 
+      @ <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-office">European Union AI Office</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/albertofranzin/" target="_blank"><img src="https://img.shields.io/badge/host-Alberto%20Franzin-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1308,6 +1308,19 @@ _You can check about my COVID-19 engagement and my communication and networking 
 <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 -->
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/hosts/alberto-franzin.jpeg">
+   </div>
+   <div class="float-child-description card badges2">
+      <strong>Empowering decision-subjects & end-users to audit AI Applications</strong> <br/>
+      @ <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-office">European Union AI Office</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/albertofranzin/" target="_blank"><img src="https://img.shields.io/badge/host-Alberto%20Franzin-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+      <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+      <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
 
 **FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence** 
 
