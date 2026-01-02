@@ -20,5 +20,3 @@
 
 ### Languages (5)
 <img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/en-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/es-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/it-intermediary-green.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/fr-intermediary-green.svg?style=for-the-badge"/> 
-
-[Back to top page](#top)
