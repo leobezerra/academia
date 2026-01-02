@@ -1,7 +1,7 @@
-# Science communication, networking, and community
+## Science communication, networking, and community
 [Back to main page](../index.md)
   
-## COVID-19
+### COVID-19
 
 During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed and collaborated with several science communication efforts to help disseminate the guidelines from the [World Health Organization (WHO)](https://who.int) and counter the disinformation campaigns that were strongly affecting the social distance adherence in Brazil.
 
@@ -14,7 +14,7 @@ During the climax of the first wave of the COVID-19 pandemic in 2020, I proposed
 
 ---
 
-## Communication and networking
+### Communication and networking
 
 **Brazilian Standard Classification of Education (CINE Brasil 2018)** 
 
