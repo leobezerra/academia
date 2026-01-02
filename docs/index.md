@@ -1344,7 +1344,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/the-data-lab.jpg">
+      <img src="img/hosts/the-data-lab.png">
    </div>
    <div class="float-child-description card badges">
       <em>Data & AI Meet-up: Ethics</em> @ <a href="https://thedatalab.com">The Data Lab</a><br/><br/> 
