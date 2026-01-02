@@ -9,6 +9,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 1. [2025](#2025)
 2. [2024](#2024)
 3. [2023](#2023)
+   
 <!--
    - [Summer](#summer2025)
    - [Spring](#spring2025)
