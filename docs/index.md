@@ -5,7 +5,7 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 <a name="top"/>
 
 ## Bio
-_You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** [here](bio)._
+_You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** [here](sections/bio)._
 
 <!-- <h1>Leonardo C. T. Bezerra</h1>  -->
 
@@ -106,7 +106,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 
 ## News
 
-_You can check past news [here](news)._
+_You can check past news [here](sections/news)._
 
 ### Autumn 2025
 
@@ -237,7 +237,7 @@ _The affiliation information in the map above is updated sporadically._
 
 ## History
 
-_You can check about nominations I received and the languages I speak [here](history)._
+_You can check about nominations I received and the languages I speak [here](sections/history)._
 
 ### Appointments (3)
 
@@ -649,7 +649,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 ## Supervision
 
-_You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate (Final year)** dissertation supervisions [here](supervision)._
+_You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate (Final year)** dissertation supervisions [here](sections/supervision)._
 
 ### Researchers
 
@@ -1232,7 +1232,7 @@ independent researcher does not mean discontinuing previous research.
 
 ## Science communication, networking, and community
 
-_You can check about my COVID-19 engagement and my communication and networking activities in Brazil [here](communication)._
+_You can check about my COVID-19 engagement and my communication and networking activities in Brazil [here](sections/communication)._
 
 ### Unhyped AI Seminars
 
