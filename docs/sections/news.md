@@ -7,19 +7,25 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 ## Past news
 
 1. [2025](#2025)
+<!--
    - [Summer](#summer2025)
    - [Spring](#spring2025)
    - [Winter](#winter2025)
+-->
 2. [2024](#2024)
+<!--
    - [Autumn](#autumn2024)
    - [Summer](#summer2024)
    - [Spring](#spring2024)
    - [Winter](#winter2024)
+-->
 3. [2023](#2023)
+<!--
    - [Autumn](#autumn2023)
    - [Summer](#summer2023)
-  
-[Back to main page](index.md)
+-->
+
+[Back to main page](../index.md)
 
 --- 
 
