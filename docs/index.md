@@ -66,6 +66,38 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 
 --- 
 
+<a name="places" class="section">
+  
+## Places, People & Organisations
+
+<!--
+In addition to my formal collaborations through supervision and authoring, I have also met incredible people along my research career.
+- **Wider network**, researchers that always wholeheartedly assist me when I reach out to them.
+- **IRIDIAns**, the whole family of researchers that graduated with my from the IRIDIA lab.
+- **Alumni**, the amazing students I had the privilege to supervise.
+  
+Check their whereabouts (updated eventually) at the interactive map below.
+-->
+
+<iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
+
+<img src="https://img.shields.io/badge/-appointments-pink.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-awards-purple.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-funders-darkblue.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-conferences-blue.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-coauthors-darkgreen.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-talks-green.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-network-orange.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-iridians-red.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-alumni-darkred.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-co&#8208;is-bisque.svg?style=for-the-badge"/>
+
+_The affiliation information in the map below is updated sporadically._
+
+[Back to the top](#top)
+
+--- 
+
 <a name="news" class="section">
 
 ## News
@@ -143,38 +175,6 @@ _You can check past news [here](sections/news)._
       The nomination was a result of my work organising the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.
    </div>
 </div>
-
-[Back to the top](#top)
-
---- 
-
-<a name="places" class="section">
-  
-## Places, People & Organisations
-
-<!--
-In addition to my formal collaborations through supervision and authoring, I have also met incredible people along my research career.
-- **Wider network**, researchers that always wholeheartedly assist me when I reach out to them.
-- **IRIDIAns**, the whole family of researchers that graduated with my from the IRIDIA lab.
-- **Alumni**, the amazing students I had the privilege to supervise.
-  
-Check their whereabouts (updated eventually) at the interactive map below.
--->
-
-<iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
-
-<img src="https://img.shields.io/badge/-appointments-pink.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-awards-purple.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-funders-darkblue.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-conferences-blue.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-coauthors-darkgreen.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-talks-green.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-network-orange.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-iridians-red.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-alumni-darkred.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-co&#8208;is-bisque.svg?style=for-the-badge"/>
-
-_The affiliation information in the map below is updated sporadically._
 
 [Back to the top](#top)
 
