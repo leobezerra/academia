@@ -1,7 +1,5 @@
 ## Science communication, networking, and community
-_[Back to main page](index.md)_
-
----
+[Back to main page](index.md)
   
 ### COVID-19
 
