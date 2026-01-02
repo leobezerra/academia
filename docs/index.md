@@ -7,6 +7,10 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 ## Bio
 _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** [here](sections/bio)._
 
+<img src="img/wallace.jpeg">
+
+---
+
 <!-- <h1>Leonardo C. T. Bezerra</h1>  -->
 
 <div class="float-parent">
