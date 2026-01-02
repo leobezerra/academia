@@ -1380,7 +1380,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
       <img src="img/hosts/anthony-o-hare.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <em>Computing Science and Mathematics (CSM) Public Lectures</em> @ <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
+      <strong>@</strong> <em>Computing Science and Mathematics (CSM) Public Lectures</em> - <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/anthony-o’hare-1b551a162/" target="_blank"><img src="https://img.shields.io/badge/host-Anthony%20O'Hare-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-public%20lecture-yellow.svg?style=for-the-badge"/>
@@ -1389,20 +1389,12 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <hr class="hrule">
 
-<!--
-@ Computing Science and Mathematics (CSM) Public Lectures - [University of Stirling](https://stir.ac.uk)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/anthony-o’hare-1b551a162/" target="_blank"><img src="https://img.shields.io/badge/host-Anthony%20O'Hare-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-<a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-public%20lecture-yellow.svg?style=for-the-badge"/>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/hosts/kenneth-benoit.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <em>Data Science Institute (DSI)</em> @ <a href="https://lse.ac.uk">London School of Economics and Political Sciences</a><br/><br/> 
+      <strong>@</strong> <em>Data Science Institute (DSI)</em> - <a href="https://lse.ac.uk">London School of Economics and Political Sciences</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/krbenoit/" target="_blank"><img src="https://img.shields.io/badge/host-Kenneth%20Benoit-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/XRv2552XWAkzZkeCA" target="_blank"><img src="https://img.shields.io/badge/-London&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1411,20 +1403,12 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <hr class="hrule">
 
-<!--
-@ Data Science Institute (DSI) - [London School of Economics and Political Sciences](https://lse.ac.uk)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/krbenoit/" target="_blank"><img src="https://img.shields.io/badge/host-Kenneth%20Benoit-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-<a href="https://maps.app.goo.gl/XRv2552XWAkzZkeCA" target="_blank"><img src="https://img.shields.io/badge/-London&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/hosts/simone-stumpf.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <em>Information, Data, and Analysis (IDA) Section</em> @ <a href="https://gla.ac.uk">University of Glasgow</a><br/><br/> 
+      <strong>@</strong> <em>Information, Data, and Analysis (IDA) Section</em> - <a href="https://gla.ac.uk">University of Glasgow</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/simone-stumpf-254571b/" target="_blank"><img src="https://img.shields.io/badge/host-Simone%20Stumpf-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/rjgEyxCMYQiyJWcG6" target="_blank"><img src="https://img.shields.io/badge/-Glasgow&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1433,20 +1417,12 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <hr class="hrule">
 
-<!--
-@ Information, Data, and Analysis (IDA) Section - [University of Glasgow](https://gla.ac.uk)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/simone-stumpf-254571b/" target="_blank"><img src="https://img.shields.io/badge/host-Simone%20Stumpf-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-<a href="https://maps.app.goo.gl/rjgEyxCMYQiyJWcG6" target="_blank"><img src="https://img.shields.io/badge/-Glasgow&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/hosts/federica-sarro.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <em>Software Systems Engineering (SSE) Group</em> @ <a href="https://ucl.ac.uk">University College London (UCL)</a><br/><br/> 
+      <strong>@</strong> <em>Software Systems Engineering (SSE) Group</em> - <a href="https://ucl.ac.uk">University College London (UCL)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/federica-sarro-5a62a051/" target="_blank"><img src="https://img.shields.io/badge/host-Federica%20Sarro-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/XRv2552XWAkzZkeCA" target="_blank"><img src="https://img.shields.io/badge/-London&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1455,20 +1431,12 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <hr class="hrule">
 
-<!--
-@ Software Systems Engineering (SSE) Group - [University College London](https://ucl.ac.uk)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/federica-sarro-5a62a051/" target="_blank"><img src="https://img.shields.io/badge/host-Federica%20Sarro-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-<a href="https://maps.app.goo.gl/XRv2552XWAkzZkeCA" target="_blank"><img src="https://img.shields.io/badge/-London&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/hosts/wen-shin-lee.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <em>Computing Science and Mathematics (CSM) Seminars</em> @ <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
+      <strong>@</strong> <em>Computing Science and Mathematics (CSM) Seminars</em> - <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wen-shin-lee-20108029/" target="_blank"><img src="https://img.shields.io/badge/host-Wen--Shin%20Lee-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1477,32 +1445,16 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <hr class="hrule">
 
-<!--
-@ Computing Science and Mathematics (CSM) Seminars - [University of Stirling](https://stir.ac.uk)
-
-<img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wen-shin-lee-20108029/" target="_blank"><img src="https://img.shields.io/badge/host-Wen--Shin%20Lee-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-<a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/speakers/elizabeth-wanner.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <em>Aston Centre for Artificial Intelligence Research and Applications (ACAIRA)</em> @ <a href="[https://stir.ac.uk](https://www.aston.ac.uk/)">Aston University</a><br/><br/> 
+      <strong>@</strong> <em>Aston Centre for Artificial Intelligence Research and Applications (ACAIRA)</em> - <a href="[https://stir.ac.uk](https://www.aston.ac.uk/)">Aston University</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-wanner-91607832/" target="_blank"><img src="https://img.shields.io/badge/host-Elizabeth%20Wanner-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
       <a href="https://maps.app.goo.gl/aGJuE2actyUHx3UW7" target="_blank"><img src="https://img.shields.io/badge/-Birmingham&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
    </div>
 </div>
-
-<!--
-@ Aston Centre for Artificial Intelligence Research and Applications (ACAIRA) - [Aston University](https://www.aston.ac.uk/)
-
-<img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/elizabeth-wanner-91607832/" target="_blank"><img src="https://img.shields.io/badge/host-Elizabeth%20Wanner-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://maps.app.goo.gl/aGJuE2actyUHx3UW7" target="_blank"><img src="https://img.shields.io/badge/-Birmingham&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
--->
   
 [Back to the top](#top)  
