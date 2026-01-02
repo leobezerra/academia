@@ -1311,16 +1311,18 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/alberto-franzin.jpeg">
+      <img src="img/hosts/google.jpg">
    </div>
    <div class="float-child-description card badges2">
-      <strong>Empowering decision-subjects & end-users to audit AI Applications</strong> <br/>
-      @ <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-office">European Union AI Office</a><br/><br/> 
-      <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/albertofranzin/" target="_blank"><img src="https://img.shields.io/badge/host-Alberto%20Franzin-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-      <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-      <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
+      <strong>AI Data Ready: Challenges and opportunities for companies preparing for AI</strong> <br/>
+      <em>Confraria de dados</em> @ <a href="https://google.com">Google Brasil</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/britohenrique/" target="_blank"><img src="https://img.shields.io/badge/host-Henrique%20Brito-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+      <a href="https://goo.gl/maps/nyNDnqb4qfzCWW3j7" target="_blank"><img src="https://img.shields.io/badge/-Belo%20Horizonte&comma;%20MG&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+      <img src="https://img.shields.io/badge/type-meet-up-yellow.svg?style=for-the-badge"/>
    </div>
 </div>
+
+---
 
 **FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence** 
 
