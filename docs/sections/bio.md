@@ -12,7 +12,7 @@
 
 <a name="background">
 
-### Background in Brazil (1987-2011)
+## Background in Brazil (1987-2011)
 _This section is written in narrative form._
 
 I was born in Northeast Brazil and lived until 1990 in the town of Angicos, Rio Grande do Norte. A few decades earlier, Brazilian educator Paulo Freire had conducted his pilot study in the rural area of Angicos, leading to his pivotal book "_Pedagogy of the Oppressed_". Unfortunately, I was only introduced to his work after graduating from University, since education is traditionally not a part of STEM curricula.
@@ -49,7 +49,7 @@ In retrospect, I appreciate that my academic trajectory is a contribution from s
 
 <a name="phd">
 
-### PhD in Belgium (2011-2016)
+## PhD in Belgium (2011-2016)
 
 In 2011, **I applied for and was awarded a F.R.I.A. doctoral fellowship from the Belgian National Funds for Scientific Research ([FNRS](https://www.frs-fnrs.be/en/))**. My project was entitled **"_Generalization of metaheuristics for optimization problems with three or more objectives_"** and **addressed the design of fundamental AI algorithms applied to multi-objective optimization**. I worked at the [IRIDIA research lab](https://iridia.ulb.ac.be) and was supervised by [Prof. Thomas Stützle](https://iridia.ulb.ac.be/~stuetzle) (Research Director of FNRS at [Université Libre de Bruxelles](https://ulb.ac.be)) and [Dr. Manuel López-Ibáñez](https://lopez-ibanez.eu) (currently Chair of Optimisation at [The University of Manchester](https://manchester.ac.uk)). 
 
@@ -67,7 +67,7 @@ In 2011, **I applied for and was awarded a F.R.I.A. doctoral fellowship from the
 
 <a name="lectureships">
 
-### Lectureships in Brazil (2016-2023)
+## Lectureships in Brazil (2016-2023)
 
 Between 2015 and 2016, **I applied for and secured Lectureships in three Federal Universities in Brazil**, the best-established university network in the country. In July 2016, **I declined the position at _Campina Grande_ ([UFCG](https://ufcg.br)) and took the position at _Paraíba_ ([UFPB](https://ufpb.br)) as a Lecturer in Algorithms**. In February 2017, **I moved to _Rio Grande do Norte_ ([UFRN](https://ufrn.br)) as a Lecturer in Big Data**, having taken an unpaid leave in late 2023. At UFRN, my research focused on **data science, AI, and their effects on socially relevant problems**, whereas my teaching activities focused on **computational thinking and data science for non-programmers**.
 
