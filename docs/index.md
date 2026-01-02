@@ -1460,7 +1460,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/thomas-stutzle.png">
+      <img src="img/hosts/thomas-stutzle.jpeg">
    </div>
    <div class="float-child-description card badges">
       <em>IRIDIA Artificial Intelligence Lab</em> @ <a href="https://ulb.ac.be">Université Libre de Bruxelles (ULB)</a><br/><br/> 
