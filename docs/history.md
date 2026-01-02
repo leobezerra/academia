@@ -1,3 +1,6 @@
+## History
+[Back to main page](index.md)
+
 ### Nominations (3)
 
 **Outstanding Activity to Support Research** @ _Research Culture Awards_, [University of Stirling](https://stir.ac.uk)
@@ -18,4 +21,4 @@
 ### Languages (5)
 <img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/en-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/es-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/it-intermediary-green.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/fr-intermediary-green.svg?style=for-the-badge"/> 
 
-[Back to main page](index.md)
+[Back to top page](#top)
