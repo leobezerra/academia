@@ -41,7 +41,9 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 - I invited **Carolline Querino** from **Cajú Consultoria Nordestina / Itaipu ParqueTec** for a talk at the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk was hosted by the **StirAI Lab** and the **PHAWM research project** on August 29th, entitled **"_Gender, Violence and Artificial Intelligence: How Generative AI Reproduces Violence Online_"**. 
 
 - I was invited by **Responsible AI UK** for an **"_All Hands Meeting_"** gathering funded research projects, our partners, and relevant stakeholders, which will take place from November 18th to 19th, 2025, at the [Mercure Manchester Picaddily Hotel](https://maps.app.goo.gl/RSUc9agRqunyT8jr6).
-  
+
+---
+
 <a name="spring2025"/>
 
 ### Spring
@@ -55,6 +57,10 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 - I invited **Wiktoria Kulik** from **Accenture UK** for a meet-up at the **"_AI & Governance_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The meet-up was hosted by the **StirAI Lab** and the **PHAWM research project** on April 4th and had Wiktoria and myself as panelists, with **Dr. Terrie-Lynn Thompson** as moderator. 
 
 - I was invited to become the **Project Lead** at the **University of Stirling** for the **"_PHAWM: Participatory Harm Auditing Workbenches and Methodologies_"** research project, from April 2025 on. The project is finishing its first year and will run until March 2028. 
+
+[Back to the top](#top)
+
+---
 
 <a name="winter2025"/>
 
@@ -86,6 +92,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 [Back to the top](#top)
 
+---
+
 <a name="summer2024"/>
 
 ### Summer
@@ -97,6 +105,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 - I published a paper with **Dr. Guido Noto La Diega** entitled **"_Can there be responsible AI without AI liability? Incentivizing generative AI safety through ex-post tort liability under the EU AI liability directive_"**. The paper will appear on the **International Journal of Law and Information Technology**, published by the **Oxford University Press**.
 
 [Back to the top](#top)
+
+---
 
 <a name="spring2024"/>
 
@@ -119,6 +129,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 - I was invited by **Prof. Thomas Stützle**, **Prof. Mauro Birattari**, and **Prof. Marco Dorigo** to give a talk at [Université Libre de Bruxelles, Brussels, BE](https://www.ulb.ac.be/). The talk was hosted by the **IRIDIA Artificial Intelligence Laboratory** on April 11th, entitled **"_FAIRTECH by design: assessing and addressing the social impacts of artificial intelligence systems_"**.
 
 [Back to the top](#top)
+
+---
 
 <a name="winter2024"/>
 
@@ -151,6 +163,8 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 - I was invited by **Dr. Elizabeth Wanner** to give a talk at [Aston University, Birmingham, UK](https://www.aston.ac.uk/). The talk was hosted by the **Aston Centre for Artificial Intelligence Research and Applications (ACAIRA)** on October 16th, entitled **"_Promoting and sustaining accountability in artificial intelligence applications_"**.
 
 [Back to the top](#top)
+
+---
 
 <a name="summer2023"/>
 
