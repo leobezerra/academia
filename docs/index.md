@@ -13,21 +13,14 @@ _The National Wallace Monument_ @ **Stirling, Scotland** ([Credits](https://grey
 ## Bio
 _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** [here](sections/bio)._
 
-<!-- <h1>Leonardo C. T. Bezerra</h1>  -->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/bio/stirling.png">
    </div>
    <div class="float-child-description badges">
       <strong>I am a Lecturer in Artificial Intelligence (AI) / Data Science at the <a href="https://stir.ac.uk">University of Stirling</a></strong>, which I joined in 2023. My research focuses on <strong>the sociotechnical effects of AI ecosystems</strong>, and is <strong>funded by both the UK and Brazilian governments</strong>.
-      <!-- The project started in May 2024, has <strong>a total budget of £4 million</strong> and will last for 42 months. -->
    </div>
 </div>
-
-<!--
-**I am a Lecturer in Artificial Intelligence (AI) / Data Science at the University of Stirling**, which I joined in 2023. My research focuses on **the sociotechnical effects of AI ecosystems**, and is **funded by both the UK and Brazilian governments**. 
--->
 
 ---
 
@@ -37,12 +30,8 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
    </div>
    <div class="float-child-description badges2">
       <strong>I am part of a research consortium comprising 40 academics from 7 major UK universities</strong>, as well as <strong>25 industry, government, and civil society partners</strong>. Our project entitled <strong>"<em>Participatory Harm Auditing Workbenches and Methodologies</em>"</strong> (<a href="https://phawm.org">PHAWM</a>) was awarded <strong>£3.5 million by <a href="https://rai.uk">Responsible AI UK</a> to enable end-users and decision-subjects of AI applications to participate in their auditing</strong>.
-      <!-- The project started in May 2024, has <strong>a total budget of £4 million</strong> and will last for 42 months. -->
    </div>
 </div>
-<!--
-- **I am part of a research consortium comprising 40 academics from 7 major UK universities**, as well as **25 industry, government, and civil society partners**. Our project entitled **"_Participatory Harm Auditing Workbenches and Methodologies_"** ([PHAWM](https://phawm.org)) was awarded **£3.5 million by [Responsible AI UK](https://rai.uk) to enable end-users and decision-subjects of AI applications to participate in their auditing**. The project started in May 2024, has **a total budget of £4 million** and will last for 42 months.
--->
 
 ---
 
@@ -57,10 +46,6 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 
 ---
 
-<!--
-- ****. The project entitled **"__"** ([]()) started in Nov 2023, will last 48 months and is funded with **£2.65 million** from **[Itaipu Parquetec](https://www.itaipuparquetec.org.br)**,  **[Itaipu Binacional](https://itaipu.energy)** and the **[Brazilian Ministry of Human Rights and Citizenship](https://mdh.org)**. My team investigates **hate speech detection**, **technology-facilitated gender-based violence**, and **the political alignment/biases of Large Language Models**. 
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/bio/unhypedAI.png">
@@ -70,10 +55,6 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
    </div>
 </div>
 
-<!--
-- ****.  **PHAWM** and the ****,  ****.
--->
-
 <div align="center">
   <a href="mailto:leonardo.bezerra@stir.ac.uk" target="_blank"><img src="https://img.shields.io/badge/-mail-purple.svg?logo=gmail&style=for-the-badge"/></a> 
   <a href="https://www.linkedin.com/in/leonardo-c-t-bezerra-623b7231" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
@@ -82,29 +63,6 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
   <a href="https://www.researchgate.net/profile/Leonardo-Bezerra-3" target="_blank"><img src="https://img.shields.io/badge/-researchgate-orange.svg?logo=researchgate&style=for-the-badge&logoColor=white"/></a>
   <a href="https://github.com/leobezerra/academia/raw/master/docs/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/-cv-red.svg?logo=adobeacrobatreader&style=for-the-badge"/></a>
 </div>
-
-<!--
-- **I am applying for funding to promote a society where AI systems are fair, accountable, inclusive, responsible, transparent, ethical, carbon-neutral, and human-centred (FAIRTECH) by design**. To achieve this, I will:
-
-  1. structure an **Observatory of the Potentially Incurred Social Damage from Artificial Intelligence (PISD.ai)**, which will survey current (and future) relevant real-world examples where the **lack of appropriate AI regulation (potentially) incurs significant social damage**. A prototypical  example is **the role of social media recommendation algorithms in disinformation** and its impact on **democracy, human rights, public health, and climate change**, and how this impact can be further **worsened by generative AI**.
-  2. survey the existing **AI regulation proposals** from major Western and non-Western democratic players, as well as the **legal, economical, and technical limitations** for appropriate regulation. Major player examples include the **European Union**, the **United Kingdom**, the **United States of America**, **Brazil**, **Chile**, and **Japan**.
-  3. propose **validation frameworks to assist AI regulators and policymakers** in their proposals and/or revisions. Examples include the **appropriate definition of artificial intelligence systems** to reduce the **risk of overregulation**. 
-  4. formulate an **educational framework** to promote a **FAIRTECH by design culture**, targeting key players in government, academia, industry, and civil society more broadly. Relevant partners that have already demonstrated interest include the **Brazilian Computing Society**, **Brazilian Ministry of Human Rights and Citizenship**, and **Toyota Motor Europe**.
--->
-
-<!--
----
-
-## Contents
-
-1. [News](#news)
-2. [Places & People](#places)
-3. [History](#history)
-4. [Projects and funding](#projects)
-5. [Supervision](#theses)
-6. [Key and relevant publications](#publications)
-7. [Science communication, networking, and community](#communication)
--->
 
 --- 
 
@@ -128,10 +86,6 @@ _You can check past news [here](sections/news)._
 
 <hr class="hrule">
 
-<!--
-- I invited **Dr. Raffaele Ciriello** from the **University of Sydney** for a talk at the **"_AI Companions & Relationships_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on May 4th.
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/news/government.jpeg">
@@ -143,10 +97,6 @@ _You can check past news [here](sections/news)._
 </div>
 
 <hr class="hrule">
-
-<!--
-- I invited **Dr. Alberto Franzin** from the **EU AI Office** for a meet-up at the **"_AI & Government_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 30th. 
--->
 
 <div class="float-parent">
    <div class="float-child-logo picture">
@@ -160,10 +110,6 @@ _You can check past news [here](sections/news)._
 
 <hr class="hrule">
 
-<!--
-- I invited **Dr. Anna Rezk-Parker** from the **University of Glasgow** for a talk at the **"_AI & Media_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on March 3rd. 
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/news/language.jpeg">
@@ -175,10 +121,6 @@ _You can check past news [here](sections/news)._
 </div>
 
 <hr class="hrule">
-
-<!--
-- Alongside the **School of Law & Philosophy**, I invited **Prof. Ron Chrisley** from the **University of Sussex** for a talk at the **"_AI & Language_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on February 19th. 
--->
 
 <div class="float-parent">
    <div class="float-child-logo picture">
@@ -192,12 +134,6 @@ _You can check past news [here](sections/news)._
 
 <hr class="hrule">
 
-<!-- 
-
-- I invited **Dr. Michaela Hruskova**, **Dr. Vassilis Galanos**, **Dr. Simon Powers** and **Dr. Conor McKeown** from the **University of Stirling** for a meet-up at the **"_AI & Coding_"** edition of the [Unhyped AI Seminars](https://leobezerra.github.io/seminars). The talk will be hosted by the **StirAI Lab** and the **PHAWM research project** on January 20th.
-
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/bio/unhypedAI.png">
@@ -208,17 +144,20 @@ _You can check past news [here](sections/news)._
    </div>
 </div>
 
-<!--
-- I was nominated for **Outstanding Activity to Support Research** by the **Research Culture Awards** of the [University of Stirling](https://www.stir.ac.uk/), as a result of my work organising the [Unhyped AI Seminars](https://leobezerra.github.io/seminars).
--->
-
 [Back to the top](#top)
 
 --- 
 
 <a name="places" class="section">
   
-## Places & People 
+## Places, People & Organisations 
+
+In addition to my formal collaborations through supervision and authoring, I have also met incredible people along my research career.
+- **Wider network**, researchers that always wholeheartedly assist me when I reach out to them.
+- **IRIDIAns**, the whole family of researchers that graduated with my from the IRIDIA lab.
+- **Alumni**, the amazing students I had the privilege to supervise.
+  
+Check their whereabouts (updated eventually) at the interactive map below.
 
 <iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
 
@@ -232,8 +171,6 @@ _You can check past news [here](sections/news)._
 <img src="https://img.shields.io/badge/-iridians-red.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-alumni-darkred.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-co&#8208;is-bisque.svg?style=for-the-badge"/>
-
-_The affiliation information in the map above is updated sporadically._
 
 [Back to the top](#top)
 
@@ -1627,16 +1564,5 @@ _You can check about my COVID-19 engagement and my communication and networking 
 <a href="https://maps.app.goo.gl/aGJuE2actyUHx3UW7" target="_blank"><img src="https://img.shields.io/badge/-Birmingham&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
 -->
-
----
-
-### Community
-
-In addition to my formal collaborations through supervision and authoring, I have also met incredible people along my research career.
-- **Wider network**, researchers that always wholeheartedly assist me when I reach out to them.
-- **IRIDIAns**, the whole family of researchers that graduated with my from the IRIDIA lab.
-- **Alumni**, the amazing students I had the privilege to supervise.
-  
-Check their whereabouts (updated eventually) at the interactive map at the beginning of this CV :blush:
   
 [Back to the top](#top)  
