@@ -1283,13 +1283,6 @@ _You can check about my COVID-19 engagement and my communication and networking 
 </div>
 
 ---
-
-   <div class="float-child-description card badges3">
-      <img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/>  <a href="https://integra.ifrn.edu.br/portfolio/pessoas/lucas-hiago-de-azevedo-dantas" target="_blank"><img src="https://img.shields.io/badge/-Lucas%20Dantas-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/26605/1/Abordagemmetaheur%C3%ADsticaproblema_Dantas_2018.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
-   </div>
    
 ### Communication and networking
 
