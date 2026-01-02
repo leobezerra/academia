@@ -9,6 +9,8 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 
 <img src="img/wallace.jpeg">
 
+_The National Wallace Monument_ @ **Stirling, Scotland** ([Source](https://greyarro.ws/t/stirling-castle-the-wallace-monument/60003))  
+
 ---
 
 <!-- <h1>Leonardo C. T. Bezerra</h1>  -->
