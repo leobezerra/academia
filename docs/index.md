@@ -1286,11 +1286,11 @@ _You can check about my COVID-19 engagement and my communication and networking 
    
 ### Communication and networking
 
-**Empowering decision-subjects & end-users to audit AI Applications**
+**Empowering decision-subjects & end-users to audit AI applications**
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/alberto-franzin.jpeg">
+      <img src="img/hosts/eu-ai-office.png">
    </div>
    <div class="float-child-description card badges">
       @ <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-office">European Union AI Office</a><br/><br/> 
@@ -1303,7 +1303,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 ---
 
 <!--
-**Empowering decision-subjects & end-users to audit AI Applications**
+**Empowering decision-subjects & end-users to audit AI applications**
 
 @ [EU AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office)
 
