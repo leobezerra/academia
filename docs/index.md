@@ -1440,7 +1440,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/toyota-motor-europe.png">
+      <img src="img/hosts/toyota.jpg">
    </div>
    <div class="float-child-description card badges">
       <em>Advanced Technology R&D Division</em> @ <a href="https://toyota-europe.com">Toyota Motor Europe</a><br/><br/> 
