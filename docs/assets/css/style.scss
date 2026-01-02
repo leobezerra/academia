@@ -110,7 +110,7 @@ em {
   display: none;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 950px) {  
   .float-left-child {
     display: none;
   }
@@ -142,6 +142,11 @@ em {
   }
   .markdown-body h2 {
     padding-top: 108px;
+  }
+
+  #cover-picture {
+    padding-top: 108px;
+    background-color: black;
   }
 
   .hrule {
