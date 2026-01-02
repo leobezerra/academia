@@ -6,7 +6,7 @@
 2. [PhD](#phd)
 3. [Lectureships](#lectureships)
 
-[Back to main page](index.md)
+[Back to main page](../index.md)
 
 ---
 
