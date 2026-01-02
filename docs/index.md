@@ -4,14 +4,14 @@ title: "Leonardo C. T. Bezerra - Academic webpage"
 
 <a name="top"/>
 
-## Bio
-_You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** [here](sections/bio)._
-
-<img src="img/wallace.jpeg">
+<img src="img/wallace.jpeg" class="badges">
 
 _The National Wallace Monument_ @ **Stirling, Scotland** ([Source](https://greyarro.ws/t/stirling-castle-the-wallace-monument/60003))  
 
 ---
+
+## Bio
+_You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fundamental AI algorithms (Belgium)** [here](sections/bio)._
 
 <!-- <h1>Leonardo C. T. Bezerra</h1>  -->
 
