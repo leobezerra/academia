@@ -9,12 +9,12 @@
 - I was either the 1st or the only supervisor for all dissertations listed here.
 - All but one of the undergraduate dissertations listed here were published as international conference papers.
 
-[Back to main page](index.md)
+[Back to main page](../index.md)
 
 ---
 
 <a name="msc">
-### Graduate Apprenticeship (MSc)
+## Graduate Apprenticeship (MSc)
 
 <div class="float-parent">
    <div class="float-child-logo picture">
@@ -99,7 +99,7 @@
 ---
 
 <a name="bachelor">
-### Undergraduate (Final year)
+## Undergraduate (Final year)
 
 <div class="float-parent">
    <div class="float-child-logo picture">
