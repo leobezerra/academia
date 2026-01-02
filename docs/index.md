@@ -1179,8 +1179,6 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 ### Unhyped AI Seminars
 
-<!--@ [Cajú Consultoria Nordestina](https://cajuconsultoria.com/en) & <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a>-->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/supervision/carolline-querino.jpeg">
@@ -1195,8 +1193,6 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <hr class="hrule">
 
-<!--@ [Accenture](https://www.accenture.com/gb-en)-->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/speakers/wiktoria-kulik.jpeg">
@@ -1210,8 +1206,6 @@ _You can check about my COVID-19 engagement and my communication and networking 
 </div>
 
 <hr class="hrule">
-
-<!--@ [Aston University](https://www.aston.ac.uk)-->
 
 <div class="float-parent">
    <div class="float-child-logo picture">
@@ -1236,7 +1230,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
       <img src="img/hosts/eu-ai-office.png">
    </div>
    <div class="float-child-description card badges">
-      AI Safety Unit 4 @ <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-office">European Union AI Office</a><br/><br/> 
+      <strong>@</strong> <em>AI Safety Unit 4</em> - <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-office">European Union AI Office</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/albertofranzin/" target="_blank"><img src="https://img.shields.io/badge/host-Alberto%20Franzin-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1245,16 +1239,6 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 ---
 
-<!--
-**Empowering decision-subjects & end-users to audit AI applications**
-
-@ [EU AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office)
-
-<img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/albertofranzin/" target="_blank"><img src="https://img.shields.io/badge/host-Alberto%20Franzin-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-<a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
--->
-
 **AI Data Ready: Challenges and opportunities for companies preparing for AI**
 
 <div class="float-parent">
@@ -1262,7 +1246,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
       <img src="img/hosts/google.jpg">
    </div>
    <div class="float-child-description card badges">
-      <em>Confraria de dados</em> @ <a href="https://google.com">Google Brasil</a><br/><br/> 
+      <strong>@</strong> <em>Confraria de dados</em> - <a href="https://google.com">Google Brasil</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/britohenrique/" target="_blank"><img src="https://img.shields.io/badge/host-Henrique%20Brito-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://goo.gl/maps/nyNDnqb4qfzCWW3j7" target="_blank"><img src="https://img.shields.io/badge/-Belo%20Horizonte&comma;%20MG&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-meet--up-yellow.svg?style=for-the-badge"/>
@@ -1278,7 +1262,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
       <img src="img/bio/unhypedAI.png">
    </div>
    <div class="float-child-description card badges">
-      <em>AI & Governance Edition</em> @ <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a><br/><br/> 
+      <strong>@</strong> <em>AI & Governance Edition</em> - <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/terrie-lynn-thompson-0b36979/" target="_blank"><img src="https://img.shields.io/badge/host-Terry--Lynn%20Thompson-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-meet--up-yellow.svg?style=for-the-badge"/>
@@ -1290,7 +1274,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
       <img src="img/hosts/the-data-lab.png">
    </div>
    <div class="float-child-description card badges">
-      <em>Data & AI Meet-up: Ethics</em> @ <a href="https://thedatalab.com">The Data Lab</a><br/><br/> 
+      <strong>@</strong> <em>Data & AI Meet-up: Ethics</em> - <a href="https://thedatalab.com">The Data Lab</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/marian-dunbar/" target="_blank"><img src="https://img.shields.io/badge/host-Marian%20Dunbar-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/rNBtQqEk5zwRCXih6" target="_blank"><img src="https://img.shields.io/badge/-Edinburgh&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-meet--up-yellow.svg?style=for-the-badge"/>
@@ -1306,7 +1290,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
       <img src="img/hosts/manuel-lopez-ibanez.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <em>Decision and Cognitive Science Research Centre</em> @ <a href="https://www.manchester.ac.uk">University of Manchester</a><br/><br/> 
+      <strong>@</strong> <em>Decision and Cognitive Science Research Centre</em> - <a href="https://www.manchester.ac.uk">University of Manchester</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/manuel-lopez-ibanez" target="_blank"><img src="https://img.shields.io/badge/host-Manuel%20López--Ibáñez-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/TPwJmJZsz48aABjz8?g_st=ipc" target="_blank"><img src="https://img.shields.io/badge/-Manchester&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1315,20 +1299,12 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <hr class="hrule">
 
-<!--
-@ Decision and Cognitive Science Research Centre - [University of Manchester](https://www.manchester.ac.uk/)
-
-<img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/manuel-lopez-ibanez" target="_blank"><img src="https://img.shields.io/badge/host-Manuel%20López--Ibáñez-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-<a href="https://maps.app.goo.gl/TPwJmJZsz48aABjz8?g_st=ipc" target="_blank"><img src="https://img.shields.io/badge/-Manchester&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/hosts/nguyen-dang.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <em>School of Computer Science</em> @ <a href="https://www.st-andrews.ac.uk">University of St Andrews</a><br/><br/> 
+      <strong>@</strong> <em>School of Computer Science</em> - <a href="https://www.st-andrews.ac.uk">University of St Andrews</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/nguyen-dang-5a0027250" target="_blank"><img src="https://img.shields.io/badge/host-Nguyen%20Dang-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/QY5Bgcy7oLJxuuMc8" target="_blank"><img src="https://img.shields.io/badge/-St&#46;%20Andrews&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1337,20 +1313,12 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <hr class="hrule">
 
-<!--
-@ School of Computer Science - [University of St Andrews](https://www.st-andrews.ac.uk/)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/nguyen-dang-5a0027250" target="_blank"><img src="https://img.shields.io/badge/host-Nguyen%20Dang-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-<a href="https://maps.app.goo.gl/QY5Bgcy7oLJxuuMc8" target="_blank"><img src="https://img.shields.io/badge/-St&#46;%20Andrews&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/hosts/annalisa-riccardi.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <em>Aerospace Centre of Excellence</em> @ <a href="https://www.strath.ac.uk">University of Strathclyde</a><br/><br/> 
+      <strong>@</strong> <em>Aerospace Centre of Excellence</em> - <a href="https://www.strath.ac.uk">University of Strathclyde</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/annalisariccardi" target="_blank"><img src="https://img.shields.io/badge/host-Annalisa%20Riccardi-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/Tjhza4tc8zh2Cue38" target="_blank"><img src="https://img.shields.io/badge/-Glasgow&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1359,20 +1327,12 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <hr class="hrule">
 
-<!--
-@ Aerospace Centre of Excellence - [University of Strathclyde](https://www.strath.ac.uk/)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/annalisariccardi" target="_blank"><img src="https://img.shields.io/badge/host-Annalisa%20Riccardi-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-<a href="https://maps.app.goo.gl/Tjhza4tc8zh2Cue38" target="_blank"><img src="https://img.shields.io/badge/-Glasgow&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/hosts/holger-hoos.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <em>Chair for Artificial Intelligence Methodologies</em> @ <a href="https://rwth-aachen.de">RWTH Aachen University</a><br/><br/> 
+      <strong>@</strong> <em>Chair for Artificial Intelligence Methodologies</em> - <a href="https://rwth-aachen.de">RWTH Aachen University</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/holger-hoos-3a37954/" target="_blank"><img src="https://img.shields.io/badge/host-Holger%20Hoos-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/GyULHzMDKVRHPNk88" target="_blank"><img src="https://img.shields.io/badge/-Aachen&comma;%20Germany-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1381,20 +1341,12 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <hr class="hrule">
 
-<!--
-@ Chair for Artificial Intelligence Methodologies (AIM) - [RWTH Aachen University](https://rwth-aachen.de)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/holger-hoos-3a37954/" target="_blank"><img src="https://img.shields.io/badge/host-Holger%20Hoos-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-<a href="https://maps.app.goo.gl/GyULHzMDKVRHPNk88" target="_blank"><img src="https://img.shields.io/badge/-Aachen&comma;%20Germany-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/hosts/toyota.jpg">
    </div>
    <div class="float-child-description card badges">
-      <em>Advanced Technology R&D Division</em> @ <a href="https://toyota-europe.com">Toyota Motor Europe</a><br/><br/> 
+      <strong>@</strong><em>Advanced Technology R&D Division</em> - <a href="https://toyota-europe.com">Toyota Motor Europe</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gianpierofrancesca/" target="_blank"><img src="https://img.shields.io/badge/host-Gianpiero%20Francesca-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/Gt4TGnPWYMtdLy1Z6" target="_blank"><img src="https://img.shields.io/badge/-Zaventem&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
@@ -1403,33 +1355,17 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <hr class="hrule">
 
-<!--
-@ Advanced Technology R&D Division - [Toyota Motor Europe](https://toyota-europe.com/)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gianpierofrancesca/" target="_blank"><img src="https://img.shields.io/badge/host-Gianpiero%20Francesca-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-<a href="https://maps.app.goo.gl/Gt4TGnPWYMtdLy1Z6" target="_blank"><img src="https://img.shields.io/badge/-Zaventem&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
       <img src="img/hosts/thomas-stutzle.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <em>IRIDIA Artificial Intelligence Lab</em> @ <a href="https://ulb.ac.be">Université Libre de Bruxelles (ULB)</a><br/><br/> 
+      <strong>@</strong> <em>IRIDIA Artificial Intelligence Lab</em> - <a href="https://ulb.ac.be">Université Libre de Bruxelles (ULB)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/thomas-stützle-26054a1/" target="_blank"><img src="https://img.shields.io/badge/host-Thomas%20Stützle-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
    </div>
 </div>
-
-<!--
-@ IRIDIA Artificial Intelligence Lab - [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/thomas-stützle-26054a1/" target="_blank"><img src="https://img.shields.io/badge/host-Thomas%20Stützle-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-<a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
--->
 
 ---
 
