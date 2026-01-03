@@ -1186,10 +1186,80 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
+      <img src="img/hosts/raffaele-ciriello.jpeg">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>Brave new world of AI companion apps</strong> @ <a href="https://leobezerra.github.io/seminars/#relationships">AI Companions & Relationships Edition</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/raffaele-ciriello/" target="_blank"><img src="https://img.shields.io/badge/speaker-Raffaele%20Ciriello-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+      <a href="https://maps.app.goo.gl/2BqYQ14yFiQvMVbC7" target="_blank"><img src="https://img.shields.io/badge/-Sydney&comma;%20NSW&comma;%20Australia-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/type-meet--up-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/hosts/alberto-franzin.jpeg">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>Innovation & regulation: the European Union approach to trustworthy AI</strong> @ <a href="https://leobezerra.github.io/seminars/#government">AI & Government Edition</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/albertofranzin/" target="_blank"><img src="https://img.shields.io/badge/speaker-Alberto%20Franzin-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+      <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/type-meet--up-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/speakers/anna-rezk.jpeg">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>Beyond the click: AI search and the disintermediation of news</strong> @ <a href="https://leobezerra.github.io/seminars/#media">AI & Media Edition</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/anna-rezk/" target="_blank"><img src="https://img.shields.io/badge/speaker-Anna%20Rezk-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+      <a href="https://maps.app.goo.gl/Tjhza4tc8zh2Cue38" target="_blank"><img src="https://img.shields.io/badge/-Glasgow&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/speakers/ron-chrisley.jpeg">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>Apropos of nothing? Singular reference and semantic grounding in LLMs</strong> @ <a href="https://leobezerra.github.io/seminars/#language">AI & Language Edition</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/ronchrisley/" target="_blank"><img src="https://img.shields.io/badge/speaker-Ron%20Chrisley-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+      <a href="https://maps.app.goo.gl/SJdMBgq3748WuZfw8" target="_blank"><img src="https://img.shields.io/badge/-Brighton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/speakers/stirAI-lab.jpeg">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>Vibe coding in higher education</strong> @ <a href="https://leobezerra.github.io/seminars/#coding">AI & Coding Edition</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2026-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/michaelahruskova/" target="_blank"><img src="https://img.shields.io/badge/speaker-Michaela%20Hruskova-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> <a href="https://www.linkedin.com/in/vassilis-galanos-4a39a955/" target="_blank"><img src="https://img.shields.io/badge/speaker-Vassilis%20Galanos-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> <a href="https://www.linkedin.com/in/simon-powers-b47233373/" target="_blank"><img src="https://img.shields.io/badge/speaker-Simon%20Powers-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+      <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/type-meet--up-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
       <img src="img/supervision/carolline-querino.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <strong>Gender, Violence and Artificial Intelligence</strong> @ <a href="https://leobezerra.github.io/seminars/#gender">AI & Gender Edition</a><br/><br/> 
+      <strong>Gender, violence and artificial intelligence</strong> @ <a href="https://leobezerra.github.io/seminars/#gender">AI & Gender Edition</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/carolline-querino/" target="_blank"><img src="https://img.shields.io/badge/speaker-Carolline%20Querino-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://maps.app.goo.gl/nrrjWbAEWB3e5JbPA" target="_blank"><img src="https://img.shields.io/badge/-Foz%20do%20Igua&ccedil;u&comma;%20PR&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
