@@ -16,7 +16,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/bio/stirling.png">
+      <img src="img/institutional/stirling.png">
    </div>
    <div class="float-child-description badges">
       <strong>I am a Lecturer in Artificial Intelligence (AI) / Data Science at the <a href="https://stir.ac.uk">University of Stirling</a></strong>, which I joined in 2023. My research focuses on <strong>the sociotechnical effects of AI ecosystems</strong>, and is <strong>funded by both the UK and Brazilian governments</strong>.
@@ -27,7 +27,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/bio/phawm.png">
+      <img src="img/institutional/phawm.png">
    </div>
    <div class="float-child-description badges2">
       <strong>I am part of a research consortium comprising 40 academics from 7 major UK universities</strong>, as well as <strong>25 industry, government, and civil society partners</strong>. Our project entitled <strong>"<em>Participatory Harm Auditing Workbenches and Methodologies</em>"</strong> (<a href="https://phawm.org">PHAWM</a>) was awarded <strong>£3.5 million by <a href="https://rai.uk">Responsible AI UK</a> to enable end-users and decision-subjects of AI applications to participate in their auditing</strong>.
@@ -38,7 +38,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/bio/observaDH.png">
+      <img src="img/institutional/observaDH.png">
    </div>
    <div class="float-child-description badges2">
       <strong>I research and supervise computer and social science researchers at the Itaipu Parquetec Technology Park</strong>. The project <strong>"<em>National Observatory of Human Rights</em>"</strong> (<a href="https://observadh.mdh.gov.br/">ObservaDH</a>) is funded with <strong>£2.65 million in collaboration with <a href="https://itaipu.energy">Itaipu Binacional</a> and the <a href="https://mdh.org">Brazilian Ministry of Human Rights and Citizenship</a></strong>. My team investigates <strong>hate speech detection, technology-facilitated gender-based violence, and the political values of LLMs</strong>.
@@ -49,7 +49,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/bio/unhypedAI.png">
+      <img src="img/institutional/unhypedAI.png">
    </div>
    <div class="float-child-description card badges">
       <strong>I organize the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>, a sociotechnical & responsible AI seminar series to improve understanding of AI and its effects on society</strong>. The series is a collaboration with <strong>PHAWM</strong> and the <strong>StirAI multidisciplinary research lab</strong>, with <strong>guest speakers from academia, industry, government, and civil society</strong>.
@@ -109,7 +109,7 @@ _You can check past news [here](sections/news)._
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/news/relationships.jpeg">
+      <img src="img/people/raffaele-ciriello.jpeg">
    </div>
    <div class="float-child-description card news">
       I invited <strong>Dr. Raffaele Ciriello</strong> from the <strong>University of Sydney</strong> for a talk at the <strong><em>AI Companions & Relationships</em></strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
@@ -121,7 +121,7 @@ _You can check past news [here](sections/news)._
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/news/government.jpeg">
+      <img src="img/people/alberto-franzin.jpeg">
    </div>
    <div class="float-child-description card news">
       I invited <strong>Dr. Alberto Franzin</strong> from the <strong>EU AI Office</strong> for a meet-up at the <strong><em>AI & Government</em></strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
@@ -133,7 +133,7 @@ _You can check past news [here](sections/news)._
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/news/media.jpeg">
+      <img src="img/people/anna-rezk.jpeg">
    </div>
    <div class="float-child-description card news">
       I invited <strong>Dr. Anna Rezk-Parker</strong> from the <strong>University of Glasgow</strong> for a talk at the <strong><em>AI & Media</em></strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
@@ -145,7 +145,7 @@ _You can check past news [here](sections/news)._
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/news/language.jpeg">
+      <img src="img/people/ron-chrisley.jpeg">
    </div>
    <div class="float-child-description card news">
       Alongside the <strong>School of Law & Philosophy</strong> I invited <strong>Prof. Ron Chrisley</strong> from the <strong>University of Sussex</strong> for a talk at the <strong><em>AI & Language</em></strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
@@ -157,7 +157,7 @@ _You can check past news [here](sections/news)._
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/news/coding.jpeg">
+      <img src="img/institutional/stirAI-lab.jpeg">
    </div>
    <div class="float-child-description card news">
       I invited <strong>Dr. Michaela Hruskova, Dr. Vassilis Galanos, Dr. Simon Powers, Dr. Conor McKeown</strong> from the <strong>University of Stirling</strong> for a meet-up at the <strong><em>AI & Coding</em></strong> edition of the <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a>.<br/><br/> 
@@ -169,7 +169,7 @@ _You can check past news [here](sections/news)._
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/bio/unhypedAI.png">
+      <img src="img/institutional/unhypedAI.png">
    </div>
    <div class="float-child-description card news">
       I was nominated for <strong>Outstanding Activity to Support Research</strong> by the <strong>Research Culture Awards</strong> of the <a href="https://stir.ac.uk">University of Stirling</a>.<br/><br/> 
@@ -191,7 +191,7 @@ _You can check about nominations I received and the languages I speak [here](sec
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/bio/stirling.png">
+      <img src="img/institutional/stirling.png">
    </div>
    <div class="float-child-description card badges">
       <strong>Lecturer</strong> @ <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
@@ -201,15 +201,9 @@ _You can check about nominations I received and the languages I speak [here](sec
 
 <hr class="hrule">
 
-<!--
-**Lecturer** @ [University of Stirling](https://stir.ac.uk)
-
-<img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/history/ufrn.png">
+      <img src="img/institutional/ufrn.png">
    </div>
    <div class="float-child-description card badges">
       <strong>Assistant professor</strong> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
@@ -219,15 +213,9 @@ _You can check about nominations I received and the languages I speak [here](sec
 
 <hr class="hrule">
 
-<!--
-**Assistant professor** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-leave-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/history/ufpb.png">
+      <img src="img/institutional/ufpb.png">
    </div>
    <div class="float-child-description card badges">
       <strong>Assistant professor</strong> @ <a href="https://ufpb.br">Federal University of Paraíba (UFPB)</a><br/><br/> 
@@ -235,21 +223,13 @@ _You can check about nominations I received and the languages I speak [here](sec
    </div>
 </div>
 
-<hr class="hrule">
-
-<!--
-**Assistant professor** @ [Federal University of Paraíba (UFPB)](https://ufpb.br)
-
-<img src="https://img.shields.io/badge/start-2016-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2017-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/LHXb9Srhdmmd6Krw7" target="_blank"><img src="https://img.shields.io/badge/-Jo&atilde;o%20Pessoa&comma;%20PB&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
--->
-
 ---
 
 ### Awards (5)
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/history/rai.png">
+      <img src="img/institutional/rai.png">
    </div>
    <div class="float-child-description card badges">
       <strong>Keystone Project</strong> @ <a href="https://rai.ac.uk">Responsible AI UK</a><br/><br/> 
@@ -267,7 +247,7 @@ _You can check about nominations I received and the languages I speak [here](sec
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/history/ercim.png">
+      <img src="img/institutional/ercim.png">
    </div>
    <div class="float-child-description card badges">
       <strong>Alain Bensoussan fellowship</strong> @ <a href="https://www.ercim.eu">European Research Consortium for Informatics and Mathematics</a><br/><br/> 
@@ -285,7 +265,7 @@ _You can check about nominations I received and the languages I speak [here](sec
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/history/ulb.png">
+      <img src="img/institutional/ulb.png">
    </div>
    <div class="float-child-description card badges">
       <strong>Ph.D. degree in Engineering and Technology</strong> @ <a href="https://ulb.ac.be">Université Libre de Bruxelles</a><br/><br/> 
@@ -297,17 +277,9 @@ _You can check about nominations I received and the languages I speak [here](sec
 
 <hr class="hrule">
 
-<!--
-**Ph.D. degree in Engineering and Technology** @ [Université Libre de Bruxelles (ULB)](https://ulb.ac.be/)
-
-<img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
-<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/theses/BezerraPhD.bib" target="_blank"> <img src="https://img.shields.io/badge/-bibtex-orange.svg?logo=sublimetext&style=for-the-badge&logoColor=white"/> </a> 
-<a href="https://raw.githubusercontent.com/leobezerra/academia/master/data/theses/BezerraPhD.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=white"/> </a> 
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/history/fnrs.png">
+      <img src="img/institutional/fnrs.png">
    </div>
    <div class="float-child-description card badges">
       <strong>F.R.I.A doctoral fellowship</strong> @ <a href="https://frs-fnrs.be">Fonds de la Recherche Scientifique</a><br/><br/> 
@@ -317,50 +289,15 @@ _You can check about nominations I received and the languages I speak [here](sec
 
 <hr class="hrule">
 
-<!--
-**F.R.I.A doctoral fellowship** @ [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be)
-
-<img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/history/svr.png">
+      <img src="img/institutional/svr.png">
    </div>
    <div class="float-child-description card badges">
       <strong>Best paper award</strong> @ <a href="https://grv.inf.pucrs.br/svr2009">Brazilian Symposium on Augmented and Virtual Reality (SVR)</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2009-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/rKBGkSTUYFbKd5s29" target="_blank"><img src="https://img.shields.io/badge/-Porto%20Alegre&comma;%20RS&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
    </div>
 </div>
-
-<!--
-**Best paper award** @ [Brazilian Symposium on Augmented and Virtual Reality (SVR)](https://grv.inf.pucrs.br/svr2009)
-
-<img src="https://img.shields.io/badge/year-2009-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/rKBGkSTUYFbKd5s29" target="_blank"><img src="https://img.shields.io/badge/-Porto%20Alegre&comma;%20RS&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
--->
-<!--
----
-
-### Nominations (3)
-
-**Outstanding Activity to Support Research** @ _Research Culture Awards_, [University of Stirling](https://stir.ac.uk)
-
-<img src="https://img.shields.io/badge/year-2025-purple.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
-
-**Outstanding Early Career Researcher** @ _Research Culture Awards_, [University of Stirling](https://stir.ac.uk)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/DkutGxNxLQzSrk718" target="_blank"><img src="https://img.shields.io/badge/-Stirling&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
-
-**Best paper award** @ [Evolutionary Multi-Criterion Optimization (EMO)](https://link.springer.com/book/10.1007/978-3-030-12598-1)
-
-<img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/TMXMVfLxzDACKouN7" target="_blank"><img src="https://img.shields.io/badge/-East%20Lansing&comma;%20MI&comma;%20USA-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
-
----
-
-### Languages (5)
-
-<img src="https://img.shields.io/badge/pt--br-native-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/en-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/es-fluent-blue.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/it-intermediary-green.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/fr-intermediary-green.svg?style=for-the-badge"/> 
--->
 
 [Back to the top](#top)
 
@@ -376,7 +313,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/bio/phawm.png">
+      <img src="img/institutional/phawm.png">
    </div>
    <div class="float-child-description card badges">
       <strong>Participatory harm auditing workbenches and methodologies (<a href="https://phawm.org">PHAWM</a>)</strong> @ <a href="https://rai.ac.uk">Responsible AI UK</a><br/><br/> 
@@ -386,15 +323,9 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <hr class="hrule">
 
-<!--
-**Participatory harm auditing workbenches and methodologies (PHAWM)** @ [Responsible AI UK](https://rai.ac.uk)
-
-<img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/VbHxrhRBkvqDPYyZA" target="_blank"><img src="https://img.shields.io/badge/-Southampton&comma;%20UK-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>  <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> 
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/projects/iberdrola.png">
+      <img src="img/institutional/iberdrola.png">
    </div>
    <div class="float-child-description card badges">
       <strong>Technological innovation cell</strong> @ <a href="https://www.neoenergia.com">Iberdrola Neoenergia COSERN</a><br/><br/> 
@@ -404,15 +335,9 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <hr class="hrule">
 
-<!--
-**Technological innovation cell** @ [Iberdrola Neoenergia COSERN](https://www.neoenergia.com)
-
-<img src="https://img.shields.io/badge/start-2022-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/projects/huawei.png">
+      <img src="img/institutional/huawei.png">
    </div>
    <div class="float-child-description card badges2">
       <strong>Applied research and human resource development in hardware technologies for artificial intelligence</strong> <br/>
@@ -425,17 +350,9 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <hr class="hrule">
 
-<!--
-**Applied research and human resource education in hardware technologies for artificial intelligence** @ [Huawei Telecommunications in Brazil](https://huawei.com.br/)
-
-<img src="https://img.shields.io/badge/start-2020-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2021-blue.svg?style=for-the-badge"/> 
-<a href="https://goo.gl/maps/LVmYC6tLVA67wJMh9" target="_blank"><img src="https://img.shields.io/badge/-S&atilde;o%20Paulo&comma;%20SP&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/projects/inep.png">
+      <img src="img/institutional/inep.png">
    </div>
    <div class="float-child-description card badges2">
       <strong>Revision and update of the Brazilian Standard Classification of Education (<a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/cine-brasil">CINE Brasil</a>)</strong> <br/>
@@ -448,18 +365,9 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <hr class="hrule">
 
-<!--
-**Revision and update of the Brazilian Standard Classification of Education (CINE Brasil)** @ [UNESCO](https://unesco.org/) & Brazilian Ministry of Education – [INEP](https://www.gov.br/inep/pt-br)
-
-<img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2019-blue.svg?style=for-the-badge"/> 
-<a href="https://goo.gl/maps/CbpPfxbkoDqF7YD57" target="_blank"><img src="https://img.shields.io/badge/-Bras&iacute;lia&comma;%20DF&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
-<a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/cine-brasil" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/history/fnrs.png">
+      <img src="img/institutional/fnrs.png">
    </div>
    <div class="float-child-description card badges2">
       <strong>Generalization of metaheuristics for optimization problems with three or more objectives</strong> <br/>
@@ -468,19 +376,13 @@ _Financial details about the projects are provided in my [CV](#top)._
    </div>
 </div>
 
-<!--
-**Generalization of metaheuristics for optimization problems with three or more objectives** @ [Fonds de la Recherche Scientifique (FNRS)](https://frs-fnrs.be)
-
-<img src="https://img.shields.io/badge/start-2011-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2015-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
--->
-
 ---
 
 ### Collaborator (6)
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/bio/observaDH.png">
+      <img src="img/institutional/observaDH.png">
    </div>
    <div class="float-child-description card badges">
       <strong>Human rights observatory (<a href="https://observadh.mdh.gov.br/">ObservaDH</a>)</strong> @ <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a><br/><br/> 
@@ -490,15 +392,9 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <hr class="hrule">
 
-<!--
-**Human rights observatory (ObservaDH)** @ [Itaipu Parquetec Technology Park](https://www.itaipuparquetec.org.br)
-
-<img src="https://img.shields.io/badge/start-2024-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-current-blue.svg?style=for-the-badge"/> <a href="https://maps.app.goo.gl/nrrjWbAEWB3e5JbPA" target="_blank"><img src="https://img.shields.io/badge/-Foz%20do%20Igua&ccedil;u&comma;%20PR&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/> 
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/projects/trf5.png">
+      <img src="img/institutional/trf5.png">
    </div>
    <div class="float-child-description card">
       <strong>Information technology graduate apprenticeship</strong> <br/>
@@ -510,34 +406,9 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <hr class="hrule">
 
-<!--
-**Information technology graduate apprenticeship (MSc class of 2024)** @ [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br)
-
-<img src="https://img.shields.io/badge/start-2023-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2024-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
--->
-
-<!-- <div class="float-parent">
-   <div class="float-child-logo picture">
-      <img src="img/projects/trf5.png">
-   </div>
-   <div class="float-child-description card badges2">
-      <strong>Information technology graduate apprenticeship</strong> <br/>
-      <em>MSc class of 2023</em> @ <a href="https://trf5.jus.br">5th Region Federal Regional Court (TRF5)</a><br/><br/> 
-      <img src="https://img.shields.io/badge/start-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
-   </div>
-</div>
-
-<hr class="hrule"> -->
-
-<!--
-**Information technology graduate apprenticeship (MSc class of 2023)** @ [5th Region Federal Regional Court (TRF5)](https://trf5.jus.br)
-
-<img src="https://img.shields.io/badge/start-2021-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2023-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/FnsBrCsXqXjEDtaR9" target="_blank"><img src="https://img.shields.io/badge/-Recife&comma;%20PE&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> <a href="https://residenciaregional.jfrn.jus.br" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/projects/sm.png">
+      <img src="img/institutional/sm.png">
    </div>
    <div class="float-child-description card badges">
       <strong>SmartMetropolis</strong> @ <em>Multiple local and national government branches</em><br/><br/> 
@@ -547,15 +418,9 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <hr class="hrule">
 
-<!--
-**SmartMetropolis** @ Multiple local and national government branches
-
-<img src="https://img.shields.io/badge/start-2017-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2018-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>  <a href="https://smlab.imd.ufrn.br/" target="_blank"><img src="https://img.shields.io/badge/-Deliverables-orange.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/projects/belspo.png">
+      <img src="img/institutional/belspo.png">
    </div>
    <div class="float-child-description card badges2">
       <strong>Combinatorial optimization: metaheuristics and exact methods (<a href="https://mathopt.be/comex.ulb.ac.be/">COMEX</a>)</strong> <br/>
@@ -566,15 +431,9 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 <hr class="hrule">
 
-<!--
-**Combinatorial optimization: metaheuristics and exact methods (COMEX)** @ [Belgian Federal Science Policy Office (BELSPO)](https://belspo.be/)
-
-<img src="https://img.shields.io/badge/start-2015-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2016-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/MKYig57yGJhiMnoi6" target="_blank"><img src="https://img.shields.io/badge/-Brussels&comma;%20Belgium-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/> 
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/projects/cnpq.png">
+      <img src="img/institutional/cnpq.png">
    </div>
    <div class="float-child-description card badges2">
       <strong>Algorithms for mobile robot path planning considering multiple objectives</strong> <br/>
@@ -582,12 +441,6 @@ _Financial details about the projects are provided in my [CV](#top)._
       <img src="https://img.shields.io/badge/start-2009-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2011-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
    </div>
 </div>
-
-<!--
-**Algorithms for mobile robot path planning considering multiple objectives** @ [National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br)
-
-<img src="https://img.shields.io/badge/start-2009-purple.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/end-2011-blue.svg?style=for-the-badge"/> <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
--->
 
 [Back to the top](#top)
 
@@ -603,7 +456,7 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/supervision/carolline-querino.jpeg">
+      <img src="img/people/carolline-querino.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>Information democratiser or desinformation multiplier? How artificial intelligence became a tool for reproducing race, class, and gender violence in digital spaces</strong> @ <a href="https://www.itaipuparquetec.org.br">Itaipu Parquetec Technology Park</a><br/><br/> 
@@ -618,7 +471,7 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/supervision/penny-johnston.jpeg">
+      <img src="img/people/penny-johnston.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>Participatory harm auditing workbenches and methodologies (<a href="https://phawm.org">PHAWM</a>)</strong> @ <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
@@ -634,7 +487,7 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/supervision/fernanda-monteiro.jpeg">
+      <img src="img/people/fernanda-monteiro.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>Auditing large language models (LLMs): from political bias to human rights</strong> <br/>
@@ -648,18 +501,9 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 <hr class="hrule">
 
-<!--
-**Auditing large language models (LLMs): from political bias to human rights** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/a-fernanda-monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Fernanda%20Monteiro-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/supervision/sabrina-oliveira.jpeg">
+      <img src="img/people/sabrina-oliveira.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>Design configuration for the MMAS algorithm applied to the travelling salesman problem with dynamic demands</strong> @ <a href="https://cefetmg.br">Federal Center of Technological Education of Minas Gerais (CEFET-MG)</a><br/><br/> 
@@ -670,15 +514,6 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
    </div>
 </div>
 
-<!--
-**Design configuration for the MMAS algorithm applied to the travelling salesman problem with dynamic demands** @ [Federal Center of Technological Education of Minas Gerais (CEFET-MG)](https://cefetmg.br)
-
-<img src="https://img.shields.io/badge/year-2022-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/sabrina-oliveira-78780713b/" target="_blank"><img src="https://img.shields.io/badge/-Sabrina%20Oliveira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/nyNDnqb4qfzCWW3j7" target="_blank"><img src="https://img.shields.io/badge/-Belo%20Horizonte&comma;%20MG&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-co--supervisor-orange.svg?style=for-the-badge"/> <a href="https://sig.cefetmg.br/sigaa/verArquivo?idArquivo=4512267&key=f5474cbd7e730a9473e2c3dab7013dfc" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
--->
-
 ---
 
 ### Masters
@@ -688,7 +523,7 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/supervision/gabriel-medeiros.jpeg">
+      <img src="img/people/gabriel-medeiros.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>Political bias in large language models (LLMs): a critical review and a responsible methodology</strong> <br/>
@@ -702,18 +537,9 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 <hr class="hrule">
 
-<!--
-**Political bias in large language models (LLMs): a critical review and a responsible methodology** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gabriel-lucas-medeiros-leite-241578201/" target="_blank"><img src="https://img.shields.io/badge/-Gabriel%20Medeiros-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/supervision/acsa-augusto.jpeg">
+      <img src="img/people/acsa-augusto.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>Ensuring priority rights for people assisted by the Public Defendant's Office of Rio Grande do Norte through responsible data science</strong> <br/>
@@ -727,18 +553,9 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 <hr class="hrule">
 
-<!--
-**Ensuring priority rights for people assisted by the Public Defendant's Office of Rio Grande do Norte through responsible data science** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/acsa-augusto-02432615b/" target="_blank"><img src="https://img.shields.io/badge/-Acsa%20Augusto-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-active-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/supervision/wellerson-oliveira.jpeg">
+      <img src="img/people/wellerson-oliveira.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>A case study on customer segmentation of a supermarket chain</strong> <br/>
@@ -753,19 +570,9 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 <hr class="hrule">
 
-<!--
-**A case study on customer segmentation of a supermarket chain** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/wellerson-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-Wellerson%20Oliveira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>
-<a href="https://repositorio.ufrn.br/bitstream/123456789/47160/1/Casestudycustomer_Oliveira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/supervision/fernanda-monteiro.jpeg">
+      <img src="img/people/fernanda-monteiro.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>Sales forecasting for a supermarket chain in Natal, Brazil: an empirical assessment</strong> <br/>
@@ -780,19 +587,9 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 <hr class="hrule">
 
-<!--
-**Sales forecasting for a supermarket chain in Natal, Brazil: an empirical assessment** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/a-fernanda-monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Fernanda%20Monteiro-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
-<a href="https://repositorio.ufrn.br/bitstream/123456789/47159/1/Salesforecastingsupermarket_Almeida_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/supervision/carlos-vieira.jpeg">
+      <img src="img/people/carlos-vieira.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>Assessing irace for automated machine and deep learning in computer vision</strong> <br/>
@@ -807,19 +604,9 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 <hr class="hrule">
 
-<!--
-**Assessing irace for automated machine and deep learning in computer vision** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/carlosemv/" target="_blank"><img src="https://img.shields.io/badge/-Carlos%20Vieira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
-<a href="https://repositorio.ufrn.br/bitstream/123456789/43771/1/Assessingiraceautomated_Vieira_2021.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/supervision/adelson-araujo.jpeg">
+      <img src="img/people/adelson-araujo.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>Predspot: predicting crime hotspots with machine learning</strong> <br/>
@@ -834,19 +621,9 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 <hr class="hrule">
 
-<!--
-**Predspot: predicting crime hotspots with machine learning** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/adelson-araujo/" target="_blank"><img src="https://img.shields.io/badge/-Adelson%20Araujo-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-co--supervisor-orange.svg?style=for-the-badge"/> 
-<a href="https://repositorio.ufrn.br/bitstream/123456789/29155/1/Predspotpredictingcrime_AraujoJunior_2019.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
--->
-
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/supervision/lucas-dantas.jpg">
+      <img src="img/people/lucas-dantas.jpg">
    </div>
    <div class="float-child-description card badges3">
       <strong>A metaheuristic approach to the high school timetabling problem at IFRN</strong> <br/>
@@ -857,85 +634,6 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/26605/1/Abordagemmetaheur%C3%ADsticaproblema_Dantas_2018.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
    </div>
 </div>
-
-<!--
-**A metaheuristic approach to the high school timetabling problem at IFRN** @ [Federal University of Rio Grande do Norte (UFRN)](https://ufrn.br)
-
-<img src="https://img.shields.io/badge/year-2018-purple.svg?style=for-the-badge"/>  <a href="https://integra.ifrn.edu.br/portfolio/pessoas/lucas-hiago-de-azevedo-dantas" target="_blank"><img src="https://img.shields.io/badge/-Lucas%20Dantas-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> <a href="https://repositorio.ufrn.br/bitstream/123456789/26605/1/Abordagemmetaheur%C3%ADsticaproblema_Dantas_2018.pdf" target="_blank"> <img src="https://img.shields.io/badge/-thesis-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
--->
-
-<!--
-### Bachelor
-
-<div class="float-parent">
-   <div class="float-child-logo picture">
-      <img src="img/supervision/diego-almeida.jpeg">
-   </div>
-   <div class="float-child-description card badges3">
-      <strong>Optimizing the operational logistics of an electrical energy distribution company</strong> <br/>
-      <em>BEng (Hons) in Computer engineering</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
-      <img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/diego-almeida-2120b2269/" target="_blank"><img src="https://img.shields.io/badge/-Diego%20Almeida-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
-<a href="https://repositorio.ufrn.br/handle/123456789/53747" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
-   </div>
-</div>
-
-<hr class="hrule">
-
-<div class="float-parent">
-   <div class="float-child-logo picture">
-      <img src="img/supervision/jose-andrade.jpeg">
-   </div>
-   <div class="float-child-description card badges3">
-      <strong>Comparing contextual embeddings for the semantic textual similarity in Portuguese</strong> <br/>
-      <em>BEng (Hons) in Computer engineering</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
-      <img src="https://img.shields.io/badge/year-2021-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/andrade-junior/" target="_blank"><img src="https://img.shields.io/badge/-Jose%20Andrade-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
-<a href="https://repositorio.ufrn.br/handle/123456789/43620" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
-   </div>
-</div>
-
-<hr class="hrule">
-
-<div class="float-parent">
-   <div class="float-child-logo picture">
-      <img src="img/supervision/carlos-vieira.jpeg">
-   </div>
-   <div class="float-child-description card badges3">
-      <strong>Assessing irace for automated machine learning</strong> <br/>
-      <em>BSc (Hons) in Computer science</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
-      <img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/>  <a href="https://www.linkedin.com/in/carlosemv/" target="_blank"><img src="https://img.shields.io/badge/-Carlos%20Vieira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
-<a href="https://repositorio.ufrn.br/handle/123456789/34163" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
-   </div>
-</div>
-
-<hr class="hrule">
-
-<div class="float-parent">
-   <div class="float-child-logo picture">
-      <img src="img/supervision/deangela-neves.jpeg">
-   </div>
-   <div class="float-child-description card badges3">
-      <strong>Using artificial intelligence to aid depression detection</strong> <br/>
-      <em>BEng (Hons) in Computer engineering</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
-      <img src="https://img.shields.io/badge/year-2019-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/deangelaneves/" target="_blank"><img src="https://img.shields.io/badge/-Deângela%20Neves-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
-<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/> 
-<a href="https://repositorio.ufrn.br/handle/123456789/43663" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
-   </div>
-</div>
--->
 
 [Back to the top](#top)
 
@@ -1186,7 +884,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/speakers/raffaele-ciriello.jpeg">
+      <img src="img/people/raffaele-ciriello.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>Brave new world of AI companion apps</strong> @ <a href="https://leobezerra.github.io/seminars/#relationships">AI Companions & Relationships Edition</a><br/><br/> 
@@ -1200,7 +898,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/speakers/alberto-franzin.jpeg">
+      <img src="img/people/alberto-franzin.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>Innovation & regulation: the European Union approach to trustworthy AI</strong> @ <a href="https://leobezerra.github.io/seminars/#government">AI & Government Edition</a><br/><br/> 
@@ -1214,7 +912,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/speakers/anna-rezk.jpeg">
+      <img src="img/people/anna-rezk.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>Beyond the click: AI search and the disintermediation of news</strong> @ <a href="https://leobezerra.github.io/seminars/#media">AI & Media Edition</a><br/><br/> 
@@ -1228,7 +926,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/speakers/ron-chrisley.jpeg">
+      <img src="img/people/ron-chrisley.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>Apropos of nothing? Singular reference and semantic grounding in LLMs</strong> @ <a href="https://leobezerra.github.io/seminars/#language">AI & Language Edition</a><br/><br/> 
@@ -1242,7 +940,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/speakers/stirAI-lab.jpeg">
+      <img src="img/institutional/stirAI-lab.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>Vibe coding in higher education</strong> @ <a href="https://leobezerra.github.io/seminars/#coding">AI & Coding Edition</a><br/><br/> 
@@ -1256,7 +954,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/speakers/carolline-querino.jpeg">
+      <img src="img/people/carolline-querino.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>Gender, violence and artificial intelligence</strong> @ <a href="https://leobezerra.github.io/seminars/#gender">AI & Gender Edition</a><br/><br/> 
@@ -1270,7 +968,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/speakers/wiktoria-kulik.jpeg">
+      <img src="img/people/wiktoria-kulik.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>The challenges of digital ethics & responsible AI</strong> @ <a href="https://leobezerra.github.io/seminars/#governance">AI & Governance Edition</a><br/><br/> 
@@ -1284,7 +982,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/speakers/elizabeth-wanner.jpeg">
+      <img src="img/people/elizabeth-wanner.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>Mathematical models for dominance move</strong> @ <a href="https://leobezerra.github.io/seminars/#metrics">AI & Metrics Edition</a><br/><br/> 
@@ -1302,7 +1000,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/eu-ai-office.png">
+      <img src="img/institutional/eu-ai-office.png">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>AI Safety Unit 4</em> - <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-office">European Union AI Office</a><br/><br/> 
@@ -1318,7 +1016,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/google.jpg">
+      <img src="img/institutional/google.jpg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>Confraria de dados</em> - <a href="https://google.com">Google Brasil</a><br/><br/> 
@@ -1334,7 +1032,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/unhypedAI.png">
+      <img src="img/institutional/unhypedAI.png">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>AI & Governance Edition</em> - <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a><br/><br/> 
@@ -1346,7 +1044,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/the-data-lab.png">
+      <img src="img/institutional/the-data-lab.png">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>Data & AI Meet-up: Ethics</em> - <a href="https://thedatalab.com">The Data Lab</a><br/><br/> 
@@ -1362,7 +1060,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/manuel-lopez-ibanez.jpeg">
+      <img src="img/people/manuel-lopez-ibanez.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>Decision and Cognitive Science Research Centre</em> - <a href="https://www.manchester.ac.uk">University of Manchester</a><br/><br/> 
@@ -1376,7 +1074,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/nguyen-dang.jpeg">
+      <img src="img/people/nguyen-dang.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>School of Computer Science</em> - <a href="https://www.st-andrews.ac.uk">University of St Andrews</a><br/><br/> 
@@ -1390,7 +1088,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/annalisa-riccardi.jpeg">
+      <img src="img/people/annalisa-riccardi.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>Aerospace Centre of Excellence</em> - <a href="https://www.strath.ac.uk">University of Strathclyde</a><br/><br/> 
@@ -1404,7 +1102,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/holger-hoos.jpeg">
+      <img src="img/people/holger-hoos.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>Chair for Artificial Intelligence Methodologies</em> - <a href="https://rwth-aachen.de">RWTH Aachen University</a><br/><br/> 
@@ -1418,7 +1116,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/toyota.jpg">
+      <img src="img/institutional/toyota.jpg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong><em>Advanced Technology R&D Division</em> - <a href="https://toyota-europe.com">Toyota Motor Europe</a><br/><br/> 
@@ -1432,7 +1130,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/thomas-stutzle.jpeg">
+      <img src="img/people/thomas-stutzle.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>IRIDIA Artificial Intelligence Lab</em> - <a href="https://ulb.ac.be">Université Libre de Bruxelles (ULB)</a><br/><br/> 
@@ -1448,7 +1146,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/anthony-o-hare.jpeg">
+      <img src="img/people/anthony-o-hare.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>Computing Science and Mathematics (CSM) Public Lectures</em> - <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
@@ -1462,7 +1160,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/kenneth-benoit.jpeg">
+      <img src="img/people/kenneth-benoit.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>Data Science Institute (DSI)</em> - <a href="https://lse.ac.uk">London School of Economics and Political Sciences</a><br/><br/> 
@@ -1476,7 +1174,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/simone-stumpf.jpeg">
+      <img src="img/people/simone-stumpf.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>Information, Data, and Analysis (IDA) Section</em> - <a href="https://gla.ac.uk">University of Glasgow</a><br/><br/> 
@@ -1490,7 +1188,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/federica-sarro.jpeg">
+      <img src="img/people/federica-sarro.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>Software Systems Engineering (SSE) Group</em> - <a href="https://ucl.ac.uk">University College London (UCL)</a><br/><br/> 
@@ -1504,7 +1202,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/wen-shin-lee.jpeg">
+      <img src="img/people/wen-shin-lee.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>Computing Science and Mathematics (CSM) Seminars</em> - <a href="https://stir.ac.uk">University of Stirling</a><br/><br/> 
@@ -1518,7 +1216,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/elizabeth-wanner.jpeg">
+      <img src="img/people/elizabeth-wanner.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>Aston Centre for Artificial Intelligence Research and Applications (ACAIRA)</em> - <a href="[https://stir.ac.uk](https://www.aston.ac.uk/)">Aston University</a><br/><br/> 
