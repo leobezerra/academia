@@ -1186,7 +1186,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/raffaele-ciriello.jpeg">
+      <img src="img/speakers/raffaele-ciriello.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>Brave new world of AI companion apps</strong> @ <a href="https://leobezerra.github.io/seminars/#relationships">AI Companions & Relationships Edition</a><br/><br/> 
@@ -1200,7 +1200,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/hosts/alberto-franzin.jpeg">
+      <img src="img/speakers/alberto-franzin.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>Innovation & regulation: the European Union approach to trustworthy AI</strong> @ <a href="https://leobezerra.github.io/seminars/#government">AI & Government Edition</a><br/><br/> 
@@ -1256,7 +1256,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/supervision/carolline-querino.jpeg">
+      <img src="img/speakers/carolline-querino.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>Gender, violence and artificial intelligence</strong> @ <a href="https://leobezerra.github.io/seminars/#gender">AI & Gender Edition</a><br/><br/> 
@@ -1334,7 +1334,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/bio/unhypedAI.png">
+      <img src="img/hosts/unhypedAI.png">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>AI & Governance Edition</em> - <a href="https://leobezerra.github.io/seminars">Unhyped AI Seminars</a><br/><br/> 
@@ -1518,7 +1518,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="img/speakers/elizabeth-wanner.jpeg">
+      <img src="img/hosts/elizabeth-wanner.jpeg">
    </div>
    <div class="float-child-description card badges">
       <strong>@</strong> <em>Aston Centre for Artificial Intelligence Research and Applications (ACAIRA)</em> - <a href="[https://stir.ac.uk](https://www.aston.ac.uk/)">Aston University</a><br/><br/> 
