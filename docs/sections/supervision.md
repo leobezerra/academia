@@ -3,10 +3,10 @@
 ## Supervision
 
 1. [Graduate Apprenticeship (MSc)](#msc)
-2. [Undergraduate (Final year)](#bachelor)
+2. [Undergraduate](#bachelor)
 
 **Disclaimers**
-- I was either the 1st or the only supervisor for all dissertations listed here.
+- I was either the 1st or the only supervisor for all dissertations and publications listed here.
 - All but one of the undergraduate dissertations listed here were published as international conference papers.
 
 [Back to main page](../index.md)
@@ -99,7 +99,7 @@
 ---
 
 <a name="bachelor">
-## Undergraduate (Final year)
+## Undergraduate
 
 <div class="float-parent">
    <div class="float-child-logo picture">
@@ -112,7 +112,41 @@
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 <!-- <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>  -->
-<a href="https://repositorio.ufrn.br/handle/123456789/53747" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+<a href="https://repositorio.ufrn.br/handle/123456789/53747" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="../img/supervision/mariana-brito.jpeg">
+   </div>
+   <div class="float-child-description card badges3">
+      <strong>Technological innovation cell</strong> <br/>
+      <em>BEng (Hons) in Computer engineering</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/mariana-brito-azevedo/" target="_blank"><img src="https://img.shields.io/badge/-Mariana%20Brito-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>  -->
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=llcIEHIAAAAJ&cstart=20&pagesize=80&citation_for_view=llcIEHIAAAAJ:hC7cP41nSMkC" target="_blank"> <img src="https://img.shields.io/badge/-publication-red.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="../img/supervision/victor-vieira.jpeg">
+   </div>
+   <div class="float-child-description card badges3">
+      <strong>Technological innovation cell</strong> <br/>
+      <em>BEng (Hons) in Information technology</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2023-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/victorvieirat/" target="_blank"><img src="https://img.shields.io/badge/-Victor%20Vieira-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>  -->
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=llcIEHIAAAAJ&cstart=20&pagesize=80&citation_for_view=llcIEHIAAAAJ:hC7cP41nSMkC" target="_blank"> <img src="https://img.shields.io/badge/-publication-red.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
    </div>
 </div>
 
@@ -129,7 +163,7 @@
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 <!-- <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>  -->
-<a href="https://repositorio.ufrn.br/handle/123456789/43620" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+<a href="https://repositorio.ufrn.br/handle/123456789/43620" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
    </div>
 </div>
 
@@ -146,7 +180,24 @@
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 <!-- <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>  -->
-<a href="https://repositorio.ufrn.br/handle/123456789/34163" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+<a href="https://repositorio.ufrn.br/handle/123456789/34163" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="../img/supervision/gabi-cavalcante.jpeg">
+   </div>
+   <div class="float-child-description card badges3">
+      <strong>Comparing community mobility reduction between first and second COVID-19 waves</strong> <br/>
+      <em>BSc (Hons) in Information Technology</em> @ <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2020-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/gabrielacavalcante/" target="_blank"><img src="https://img.shields.io/badge/-Gabriela%20Cavalcante-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
+<a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>  -->
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=llcIEHIAAAAJ&citation_for_view=llcIEHIAAAAJ:QIV2ME_5wuYC" target="_blank"> <img src="https://img.shields.io/badge/-publication-red.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
    </div>
 </div>
 
@@ -163,7 +214,7 @@
 <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/status-done-yellow.svg?style=for-the-badge"/>
 <!-- <img src="https://img.shields.io/badge/role-supervisor-orange.svg?style=for-the-badge"/>  -->
-<a href="https://repositorio.ufrn.br/handle/123456789/43663" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/></a>
+<a href="https://repositorio.ufrn.br/handle/123456789/43663" target="_blank"> <img src="https://img.shields.io/badge/-dissertation-red.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a>
    </div>
 </div>
 
