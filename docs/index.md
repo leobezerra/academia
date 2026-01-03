@@ -597,7 +597,7 @@ _Financial details about the projects are provided in my [CV](#top)._
 
 ## Supervision
 
-_You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate (Final year)** dissertation supervisions [here](sections/supervision)._
+_You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** dissertation and publication supervisions [here](sections/supervision)._
 
 ### Researchers
 
