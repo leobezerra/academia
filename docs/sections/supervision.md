@@ -18,7 +18,7 @@
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="../img/supervision/gabriel-medeiros.jpeg">
+      <img src="../img/people/gabriel-medeiros.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>Artificial intelligence governance at the 5th Region Federal Court: diagnostic and improvements</strong> <br/>
@@ -34,7 +34,7 @@
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="../img/supervision/paulo-melo.jpeg">
+      <img src="../img/people/paulo-melo.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>Municipal revenue at the Rio Grande do Norte state</strong> <br/>
@@ -50,7 +50,7 @@
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="../img/supervision/gabriel-sousa.jpeg">
+      <img src="../img/people/gabriel-sousa.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>A data-driven approach to aid payment auditing in the Court of Accounts of Rio Grande do Norte</strong> <br/>
@@ -66,7 +66,7 @@
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="../img/supervision/giuliard-rodrigues.jpeg">
+      <img src="../img/people/giuliard-rodrigues.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>Business intelligence to aid electoral accounts auditing in Rio Grande do Norte</strong> <br/>
@@ -82,7 +82,7 @@
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="../img/supervision/thiago-oliveira.jpeg">
+      <img src="../img/people/thiago-oliveira.jpeg">
    </div>
    <div class="float-child-description card badges3">
       <strong>A review of workflow management tools for ETL orchestration at TRE-RN</strong> <br/>
@@ -103,7 +103,7 @@
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="../img/supervision/diego-almeida.jpeg">
+      <img src="../img/people/diego-almeida.jpeg">
    </div>
    <div class="float-child-description card badges2">
       <strong>Optimizing the operational logistics of an electrical energy distribution company</strong> <br/>
@@ -120,7 +120,7 @@
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="../img/supervision/mariana-brito.jpeg">
+      <img src="../img/people/mariana-brito.jpeg">
    </div>
    <div class="float-child-description card badges2">
       <strong>Technological innovation cell</strong> <br/>
@@ -137,7 +137,7 @@
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="../img/supervision/victor-vieira.jpeg">
+      <img src="../img/people/victor-vieira.jpeg">
    </div>
    <div class="float-child-description card badges2">
       <strong>Technological innovation cell</strong> <br/>
@@ -154,7 +154,7 @@
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="../img/supervision/jose-andrade.jpeg">
+      <img src="../img/people/jose-andrade.jpeg">
    </div>
    <div class="float-child-description card badges2">
       <strong>Comparing contextual embeddings for the semantic textual similarity in Portuguese</strong> <br/>
@@ -171,7 +171,7 @@
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="../img/supervision/carlos-vieira.jpeg">
+      <img src="../img/people/carlos-vieira.jpeg">
    </div>
    <div class="float-child-description card badges2">
       <strong>Assessing irace for automated machine learning</strong> <br/>
@@ -188,7 +188,7 @@
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="../img/supervision/gabi-cavalcante.jpeg">
+      <img src="../img/people/gabi-cavalcante.jpeg">
    </div>
    <div class="float-child-description card badges2">
       <strong>Comparing community mobility reduction between first and second COVID-19 waves</strong> <br/>
@@ -205,7 +205,7 @@
 
 <div class="float-parent">
    <div class="float-child-logo picture">
-      <img src="../img/supervision/deangela-neves.jpeg">
+      <img src="../img/people/deangela-neves.jpeg">
    </div>
    <div class="float-child-description card badges2">
       <strong>Using artificial intelligence to aid depression detection</strong> <br/>
