@@ -70,7 +70,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 <a name="places" class="section">
   
 ## Places, People & Organisations
-You can find more information on how to explore the interactive map below [here](sections/places.md)._
+_You can find more information on how to explore the interactive map below [here](sections/places.md)._
 
 <!--
 In addition to my formal collaborations through supervision and authoring, I have also met incredible people along my research career.
