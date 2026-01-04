@@ -1,11 +1,11 @@
 ## Places, People & Organisations
 [Back to main page](../index.md)
 
-In the interactive map below, you can (mobile alternative in parenthesis):
-- _scroll_ (pinch) to zoom in and out of regions;
-- _drag and drop_ (swipe) to move between regions;
-- _click on_ (tap) a marker clusters to expand them;
-- _hover over_ (tap) a marker to visualize their associated information.
+In the interactive map below, you can (_mobile alternative_ in parenthesis):
+- _scroll_ (_pinch_) to zoom in and out of regions;
+- _drag and drop_ (_swipe_) to move between regions;
+- _click on_ (_tap_) a marker clusters to expand them;
+- _hover over_ (_tap_) a marker to visualize their associated information.
 
 ---
 
