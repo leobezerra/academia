@@ -1082,7 +1082,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
       <img src="img/people/leslie-perez-caceres.jpeg">
    </div>
    <div class="float-child-description card badges">
-      <strong>@</strong> <em>School of Computer Science</em> - <a href="https://www.st-andrews.ac.uk">University of St Andrews</a><br/><br/> 
+      <strong>@</strong> <em>School of Informatic Engineering</em> - <a href="https://www.pucv.cl">Pontifical Catholic University of Valparaíso</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/leslie-perez-caceres/
 " target="_blank"><img src="https://img.shields.io/badge/host-Leslie%20Perez--Caceres-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/3rAdVwB9M83egmZ99" target="_blank"><img src="https://img.shields.io/badge/-Valparaiso&comma;%20Chile-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
