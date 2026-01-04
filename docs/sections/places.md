@@ -2,15 +2,15 @@
 [Back to main page](../index.md)
 
 In the interactive map below, you can:
-- zoom in and out of regions;
-- swipe (or drag and drop) to move between regions;
-- click on marker clusters to expand them;
-- click on markers to visualize their associated information.
+- _zoom_ in and out of regions;
+- _swipe_ (or drag and drop) to move between regions;
+- _click on marker clusters_ to expand them;
+- _click on markers_ to visualize their associated information.
 
 In addition to the categories explained in the main page, a few additional categories are given: 
-- **Wider network**, senior researchers that wholeheartedly assist me when I reach out to them.
-- **IRIDIAns**, the whole family of researchers that graduated with my from the IRIDIA lab.
-- **Researchers**, early career researchers (ECRs) that I currently supervise or work with in research projects.
+- **_Wider network_**, senior researchers that wholeheartedly assist me when I reach out to them.
+- **_IRIDIAns_**, the whole family of researchers that graduated with my from the IRIDIA lab.
+- **_Researchers_**, early career researchers (ECRs) that I currently supervise or work with in research projects.
 
 _The affiliation information in the map below is updated sporadically._
 
