@@ -7,11 +7,16 @@ In the interactive map below, you can (mobile alternative in parenthesis):
 - _click on_ (tap) a marker clusters to expand them;
 - _hover over_ (tap) a marker to visualize their associated information.
 
+---
+
 In addition to the categories explained in the main page, a few additional categories are given: 
-- **_Wider network_**, senior researchers that wholeheartedly assist me when I reach out to them.
+- **_Brazilians_**, academics from Brazil working overseas.
+- **_Wider network_**, senior academics from around the world.
 - **_IRIDIAns_**, the whole family of researchers that graduated with my from the IRIDIA lab.
 - **_Researchers_**, early career researchers (ECRs) that I currently supervise or work with in research projects.
+- **_StirAI lab**, colleagues from the StirAI multidisciplinary research lab at the University of Stirling.
 
+---
 _The affiliation information in the map below is updated sporadically._
 
 <iframe src="../places.html" height="500" width="100%" frameBorder=0></iframe>
@@ -20,8 +25,9 @@ _The affiliation information in the map below is updated sporadically._
 <img src="https://img.shields.io/badge/-awards-purple.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-funders-darkblue.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-conferences-blue.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-talks-lightblue.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-coauthors-darkgreen.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-talks-green.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-brazilians-green.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-network-orange.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-iridians-red.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-alumni-darkred.svg?style=for-the-badge"/>
