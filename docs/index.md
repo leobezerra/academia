@@ -1079,6 +1079,21 @@ _You can check about my COVID-19 engagement and my communication and networking 
 
 <div class="float-parent">
    <div class="float-child-logo picture">
+      <img src="img/people/leslie-perez-caceres.jpeg">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>@</strong> <em>School of Computer Science</em> - <a href="https://www.st-andrews.ac.uk">University of St Andrews</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/leslie-perez-caceres/
+" target="_blank"><img src="https://img.shields.io/badge/host-Leslie%20Perez--Caceres-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+      <a href="https://maps.app.goo.gl/3rAdVwB9M83egmZ99" target="_blank"><img src="https://img.shields.io/badge/-Valparaiso&comma;%20Chile-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
+      <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
       <img src="img/people/nguyen-dang.jpeg">
    </div>
    <div class="float-child-description card badges">
@@ -1148,6 +1163,20 @@ _You can check about my COVID-19 engagement and my communication and networking 
 ---
 
 **Promoting and sustaining accountability in artificial intelligence applications** 
+
+<div class="float-parent">
+   <div class="float-child-logo picture">
+      <img src="img/institutional/ufrn.png">
+   </div>
+   <div class="float-child-description card badges">
+      <strong>@</strong> <em>Graduate School of Architecture and Urban Studies</em> - <a href="https://ufrn.br">Federal University of Rio Grande do Norte (UFRN)</a><br/><br/> 
+      <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/george-dantas-0a182750/" target="_blank"><img src="https://img.shields.io/badge/host-George%20Dantas-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+      <a href="https://goo.gl/maps/iS9PUqgSrShn9mEq8" target="_blank"><img src="https://img.shields.io/badge/-Natal&comma;%20RN&comma;%20Brazil-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
+   </div>
+</div>
+
+<hr class="hrule">
 
 <div class="float-parent">
    <div class="float-child-logo picture">
