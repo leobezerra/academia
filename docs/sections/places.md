@@ -14,7 +14,7 @@ In addition to the categories explained in the main page, a few additional categ
 - **_Wider network_**, senior academics from around the world.
 - **_IRIDIAns_**, the whole family of researchers that graduated with my from the IRIDIA lab.
 - **_Researchers_**, early career researchers (ECRs) that I currently supervise or work with in research projects.
-- **_StirAI lab**, colleagues from the StirAI multidisciplinary research lab at the University of Stirling.
+- **_StirAI lab_**, colleagues from the StirAI multidisciplinary research lab at the University of Stirling.
 
 ---
 _The affiliation information in the map below is updated sporadically._
