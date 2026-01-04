@@ -70,6 +70,7 @@ _You can check about my **Lectureship in Big Data (Brazil)** and my **PhD in fun
 <a name="places" class="section">
   
 ## Places, People & Organisations
+You can find more information on how to explore the interactive map below [here](sections/places.md)._
 
 <!--
 In addition to my formal collaborations through supervision and authoring, I have also met incredible people along my research career.
@@ -97,7 +98,7 @@ Check their whereabouts (updated eventually) at the interactive map below.
 <img src="https://img.shields.io/badge/-co&#8208;is-FFCB92.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-unhypedAI-black.svg?style=for-the-badge"/>
 
-_The affiliation information in the map below is updated sporadically._
+_The affiliation information in the map above is updated sporadically._
 
 [Back to the top](#top)
 
