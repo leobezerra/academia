@@ -35,4 +35,4 @@ _The affiliation information in the map below is updated sporadically._
 <img src="https://img.shields.io/badge/-researchers-5B3A6B.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-stirAI%20lab-446978.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-co&#8208;is-FFCB92.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-unhypedAI-black.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-unhyped%20AI-black.svg?style=for-the-badge"/>
