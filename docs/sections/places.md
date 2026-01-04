@@ -2,10 +2,10 @@
 [Back to main page](../index.md)
 
 In the interactive map below, you can:
-- _scroll_ (or swipe) to zoom in and out of regions;
-- _drag and drop_ (or swipe) to move between regions;
-- _click_ (or tap) on marker clusters to expand them;
-- _hover over_ (or tap) a marker to visualize their associated information.
+- _scroll_ (mobile: pinch) to zoom in and out of regions;
+- _drag and drop_ (mobile: swipe) to move between regions;
+- _click_ (mobile: tap) on marker clusters to expand them;
+- _hover over_ (mobile: tap) a marker to visualize their associated information.
 
 In addition to the categories explained in the main page, a few additional categories are given: 
 - **_Wider network_**, senior researchers that wholeheartedly assist me when I reach out to them.
