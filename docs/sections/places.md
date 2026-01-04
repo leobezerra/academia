@@ -1,11 +1,17 @@
 ## Places, People & Organisations
 [Back to main page](../index.md)
 
-- **Wider network**, researchers that always wholeheartedly assist me when I reach out to them.
+In the interactive map below, you can:
+- zoom in and out of regions;
+- swipe (or drag and drop) to move between regions;
+- click on marker clusters to expand them;
+- click on markers to visualize their associated information.
+
+In addition to the categories explained in the main page, a few additional categories are given: 
+- **Wider network**, senior researchers that wholeheartedly assist me when I reach out to them.
 - **IRIDIAns**, the whole family of researchers that graduated with my from the IRIDIA lab.
-- **Alumni**, the amazing students I had the privilege to supervise.
-- **Researchers**, ECRs that I currently supervise or work with in research projects.
-    
+- **Researchers**, early career researchers (ECRs) that I currently supervise or work with in research projects.
+
 _The affiliation information in the map below is updated sporadically._
 
 <iframe src="../places.html" height="500" width="100%" frameBorder=0></iframe>
