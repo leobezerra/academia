@@ -82,7 +82,6 @@ Check their whereabouts (updated eventually) at the interactive map below.
 -->
 
 <iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
-<br/>
 <img src="https://img.shields.io/badge/-appointments-F50292.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-awards-purple.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-funders-darkblue.svg?style=for-the-badge"/>
