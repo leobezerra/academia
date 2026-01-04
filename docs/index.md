@@ -87,8 +87,9 @@ Check their whereabouts (updated eventually) at the interactive map below.
 <img src="https://img.shields.io/badge/-awards-purple.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-funders-darkblue.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-conferences-blue.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-talks-lightblue.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-coauthors-darkgreen.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-talks-green.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-brazilians-green.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-network-orange.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-iridians-red.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-alumni-darkred.svg?style=for-the-badge"/>
