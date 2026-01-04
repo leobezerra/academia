@@ -1084,7 +1084,7 @@ _You can check about my COVID-19 engagement and my communication and networking 
    <div class="float-child-description card badges">
       <strong>@</strong> <em>School of Informatic Engineering</em> - <a href="https://www.pucv.cl">Pontifical Catholic University of Valparaíso</a><br/><br/> 
       <img src="https://img.shields.io/badge/year-2024-purple.svg?style=for-the-badge"/> <a href="https://www.linkedin.com/in/leslie-perez-caceres/
-" target="_blank"><img src="https://img.shields.io/badge/host-Leslie%20Perez--Caceres-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
+" target="_blank"><img src="https://img.shields.io/badge/host-Leslie%20Pérez--Cáceres-blue.svg?logo=firefox&logoColor=white&style=for-the-badge"/></a> 
       <a href="https://maps.app.goo.gl/3rAdVwB9M83egmZ99" target="_blank"><img src="https://img.shields.io/badge/-Valparaiso&comma;%20Chile-green.svg?logo=googlemaps&style=for-the-badge&logoColor=white"/></a> 
       <img src="https://img.shields.io/badge/type-talk-yellow.svg?style=for-the-badge"/>
    </div>
