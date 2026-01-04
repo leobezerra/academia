@@ -8,7 +8,7 @@
     
 _The affiliation information in the map below is updated sporadically._
 
-<iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
+<iframe src="../places.html" height="500" width="100%" frameBorder=0></iframe>
 <br/>
 <img src="https://img.shields.io/badge/-appointments-F50292.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-awards-purple.svg?style=for-the-badge"/>
