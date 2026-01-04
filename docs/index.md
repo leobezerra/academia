@@ -81,8 +81,8 @@ Check their whereabouts (updated eventually) at the interactive map below.
 -->
 
 <iframe src="places.html" height="500" width="100%" frameBorder=0></iframe>
-
-<img src="https://img.shields.io/badge/-appointments-pink.svg?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/-appointments-F50292.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-awards-purple.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-funders-darkblue.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-conferences-blue.svg?style=for-the-badge"/>
@@ -91,7 +91,11 @@ Check their whereabouts (updated eventually) at the interactive map below.
 <img src="https://img.shields.io/badge/-network-orange.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-iridians-red.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-alumni-darkred.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-co&#8208;is-bisque.svg?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/-researchers-5B3A6B.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-stirAI%20lab-446978.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-co&#8208;is-FFCB92.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-unhypedAI-black.svg?style=for-the-badge"/>
 
 _The affiliation information in the map below is updated sporadically._
 
