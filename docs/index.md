@@ -650,6 +650,8 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 _An exhaustive publication list with full author description is provided in my [CV](#top)._
 
+_The manuscripts of all of my publications are publicly available [here](https://github.com/leobezerra/academia/tree/master/data)._
+
 ### Journals (6)
 
 **Can there be responsible AI without AI liability? Incentivizing generative AI safety through ex-post tort liability under the EU AI liability directive**
