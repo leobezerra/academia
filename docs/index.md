@@ -648,7 +648,7 @@ _You can check about my **Graduate Apprenticeship (MSc)** and **Undergraduate** 
 
 ## Key and relevant publications
 
-_An exhaustive publication list with full author description is provided in my [CV](#top). The manuscripts of all of my publications are publicly available [here](https://github.com/leobezerra/academia/tree/master/data)._
+_Full author description for all my publications are provided in my [CV](#top). Manuscripts are publicly available [here](https://github.com/leobezerra/academia/tree/master/data)._
 
 <!--
 _The manuscripts of all of my publications are publicly available [here](https://github.com/leobezerra/academia/tree/master/data)._
