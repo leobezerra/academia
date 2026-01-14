@@ -9,7 +9,7 @@ No mapa interativo abaixo, você pode (_alternativa para dispositivos móveis_ e
 
 ---
 
-_You can see this page in English clicking [here](sbmaps.md)._
+_You can see this page in English clicking [here](sbmaps)._
 
 <iframe src="../maps/sbmap.html" height="500" width="100%" frameBorder=0></iframe>
 
