@@ -1,0 +1,1019 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_43018e1ac096ef4a42f3b44ee46a98c4 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_43018e1ac096ef4a42f3b44ee46a98c4" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_43018e1ac096ef4a42f3b44ee46a98c4 = L.map(
+                "map_43018e1ac096ef4a42f3b44ee46a98c4",
+                {
+                    center: [58.2, -3.752445],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 7,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_74dad32674870f4f35071e45d8cf927e = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_74dad32674870f4f35071e45d8cf927e.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            var feature_group_b955f57110e796d736328678f70676d9 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            feature_group_b955f57110e796d736328678f70676d9.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            var feature_group_23b0c027878c10a27f15b713a0169abc = L.featureGroup(
+                {
+}
+            );
+        
+    
+            feature_group_23b0c027878c10a27f15b713a0169abc.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            var feature_group_bf8d7a98e100aeeac41be1f7864023df = L.featureGroup(
+                {
+}
+            );
+        
+    
+            feature_group_bf8d7a98e100aeeac41be1f7864023df.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            var feature_group_354b5dcf715b78f6fc63ddcc23e53fcd = L.featureGroup(
+                {
+}
+            );
+        
+    
+            feature_group_354b5dcf715b78f6fc63ddcc23e53fcd.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            var feature_group_251a4bc0f4d9bf838be05ec62f830dce = L.featureGroup(
+                {
+}
+            );
+        
+    
+            feature_group_251a4bc0f4d9bf838be05ec62f830dce.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            var feature_group_5328dbc0bfc330766c876cbcff9b5abb = L.featureGroup(
+                {
+}
+            );
+        
+    
+            feature_group_5328dbc0bfc330766c876cbcff9b5abb.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            var feature_group_c6a23011e7ee6066b4e2e2806fb2a09b = L.featureGroup(
+                {
+}
+            );
+        
+    
+            feature_group_c6a23011e7ee6066b4e2e2806fb2a09b.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            var feature_group_d4b574f476460fde4b25aac175d9bfe4 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            feature_group_d4b574f476460fde4b25aac175d9bfe4.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            var feature_group_4a417ef382884e9270d61a6561b9de1e = L.featureGroup(
+                {
+}
+            );
+        
+    
+            feature_group_4a417ef382884e9270d61a6561b9de1e.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            var feature_group_12e464d28e281ef59ec554b7b859c643 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            feature_group_12e464d28e281ef59ec554b7b859c643.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            var marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5 = L.markerClusterGroup(
+                {
+  "polygonOptions": {
+  "stroke": false,
+  "color": "transparent",
+},
+}
+            );
+        
+    
+            var marker_676d60b42918a0eec00da57353310bea = L.marker(
+                [55.8432538, -4.4297906],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_ecbab4f5aefa33d9f86d506ce14cc727 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "pink",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_676d60b42918a0eec00da57353310bea.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Sandro Carnicelli</strong><br><em>University of the West of Scotland</em><br>sandro.carnicelli@uws.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_676d60b42918a0eec00da57353310bea.setIcon(icon_ecbab4f5aefa33d9f86d506ce14cc727);
+            
+    
+            var marker_7df9258b0938623bd781ac5f08e91ade = L.marker(
+                [56.1462288, -3.9210947],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_d39f0586d444770d568e42626d2c772e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_7df9258b0938623bd781ac5f08e91ade.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Leonardo C. T. Bezerra</strong><br><em>University of Stirling</em><br>leonardo.bezerra@stir.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7df9258b0938623bd781ac5f08e91ade.setIcon(icon_d39f0586d444770d568e42626d2c772e);
+            
+    
+            var marker_cd01d1c8a20106f781b269d12fca3599 = L.marker(
+                [55.92408, -3.2884699],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_cdd5c3a91c2ff3cf8e3e4c8b4289e64e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkblue",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_cd01d1c8a20106f781b269d12fca3599.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Fabio Neves da Rocha</strong><br><em>Edinburgh Napier University</em><br>fndrocha@gmail.com
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_cd01d1c8a20106f781b269d12fca3599.setIcon(icon_cdd5c3a91c2ff3cf8e3e4c8b4289e64e);
+            
+    
+            var marker_f103f71b98fe0ba56ecb7b25cd3a7cef = L.marker(
+                [55.9475603, -3.1873509],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_8fdaf77a3edab6e0533db5d9cea4fca8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_f103f71b98fe0ba56ecb7b25cd3a7cef.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Augusto Rocha</strong><br><em>University of Edinburgh</em><br>augusto.rocha@ed.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f103f71b98fe0ba56ecb7b25cd3a7cef.setIcon(icon_8fdaf77a3edab6e0533db5d9cea4fca8);
+            
+    
+            var marker_ad3bc3486d17ef4dc9a647fce6bc84c2 = L.marker(
+                [55.92408, -3.2884699],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_280bd7b213717d272de596e8a6dafe9c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkblue",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_ad3bc3486d17ef4dc9a647fce6bc84c2.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Arthur Henrique Bossi</strong><br><em>Edinburgh Napier University</em><br>a.bossi@napier.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ad3bc3486d17ef4dc9a647fce6bc84c2.setIcon(icon_280bd7b213717d272de596e8a6dafe9c);
+            
+    
+            var marker_a9e3f7b2e6a43763b825b030b5860a6a = L.marker(
+                [56.3388165, -2.8113724],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_6291db98c96e4e83a6193e06d62b2259 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_a9e3f7b2e6a43763b825b030b5860a6a.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Clarissa Melo Czekster</strong><br><em>University of St Andrews</em><br>cmc27@st-andrews.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a9e3f7b2e6a43763b825b030b5860a6a.setIcon(icon_6291db98c96e4e83a6193e06d62b2259);
+            
+    
+            var marker_6b870f018bf1d4be3e7a60ac6208c0df = L.marker(
+                [56.4577128, -2.9815954],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_e71a66701b4c7b1ea02ebe798ddc850a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "lightblue",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_6b870f018bf1d4be3e7a60ac6208c0df.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Felippe de Medeiros Oliveira</strong><br><em>University of Dundee</em><br>foliveira001@dundee.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6b870f018bf1d4be3e7a60ac6208c0df.setIcon(icon_e71a66701b4c7b1ea02ebe798ddc850a);
+            
+    
+            var marker_d37d4153ff739302686aa53fd6f80da2 = L.marker(
+                [55.9475603, -3.1873509],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_3c72ee652d5138e9c298381570f5eefb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_d37d4153ff739302686aa53fd6f80da2.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Fabio Nudelman</strong><br><em>University of Edinburgh</em><br>fabio.nudelman@ed.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d37d4153ff739302686aa53fd6f80da2.setIcon(icon_3c72ee652d5138e9c298381570f5eefb);
+            
+    
+            var marker_2a3f74c487bb80157e623bd97c23d3d5 = L.marker(
+                [55.8620962, -4.2443238],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_1daad2c53b84f9bbf0264961287a3662 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_2a3f74c487bb80157e623bd97c23d3d5.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Bianca Vasquez Pistorio</strong><br><em>University of Strathclyde</em><br>bianca.vasquez-pistorio@strath.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2a3f74c487bb80157e623bd97c23d3d5.setIcon(icon_1daad2c53b84f9bbf0264961287a3662);
+            
+    
+            var marker_7f6b74401b9e296ff5d8199448fd0876 = L.marker(
+                [57.1648176, -2.1002737],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_af58527d72e33929cb212dfa7b100bea = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_7f6b74401b9e296ff5d8199448fd0876.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Juliano Morimoto</strong><br><em>University of Aberdeen</em><br>juliano.morimoto@abdn.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7f6b74401b9e296ff5d8199448fd0876.setIcon(icon_af58527d72e33929cb212dfa7b100bea);
+            
+    
+            var marker_57b17f8f205d86b0a1f56ccd9a6b57b6 = L.marker(
+                [55.8720706, -4.2900005],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_274b16ac611cd4d2409bf0a1239fe6e4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkred",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_57b17f8f205d86b0a1f56ccd9a6b57b6.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Patrícia Rossini</strong><br><em>University of Glasgow</em><br>patricia.rossini@glasgow.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_57b17f8f205d86b0a1f56ccd9a6b57b6.setIcon(icon_274b16ac611cd4d2409bf0a1239fe6e4);
+            
+    
+            var marker_1201424d3d8d7a3cb1b76686c1aa89a8 = L.marker(
+                [55.8620962, -4.2443238],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_35d9b3b677cfb555fc1af4f465aba835 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_1201424d3d8d7a3cb1b76686c1aa89a8.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Karla Bianca Neves</strong><br><em>University of Strathclyde</em><br>karla.neves@strath.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1201424d3d8d7a3cb1b76686c1aa89a8.setIcon(icon_35d9b3b677cfb555fc1af4f465aba835);
+            
+    
+            var marker_b0f56c25a604645623101f295e699a98 = L.marker(
+                [56.3388165, -2.8113724],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_dd45411ebb6c29c4d020ebfa0d6dc696 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_b0f56c25a604645623101f295e699a98.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Rafael Guimaraes da Silva</strong><br><em>University of St Andrews</em><br>rgds@st-andrews.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b0f56c25a604645623101f295e699a98.setIcon(icon_dd45411ebb6c29c4d020ebfa0d6dc696);
+            
+    
+            var marker_910a6ab5cd246e0d278a0d224cbc5c13 = L.marker(
+                [55.9102836, -3.3213533],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_2edbcee51e42b76a07601767fc4e5bd1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "beige",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_910a6ab5cd246e0d278a0d224cbc5c13.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Joatan Preis Dutra</strong><br><em>Heriot-Watt University</em><br>joatan@gmail.com
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_910a6ab5cd246e0d278a0d224cbc5c13.setIcon(icon_2edbcee51e42b76a07601767fc4e5bd1);
+            
+    
+            var marker_3c04a209d30bb03648dca1735a0636a2 = L.marker(
+                [55.9475603, -3.1873509],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_c31cf878ac4dd1580df082f7c2a3927f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_3c04a209d30bb03648dca1735a0636a2.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Fernando Moreira</strong><br><em>University of Edinburgh</em><br>fernando.moreira@ed.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3c04a209d30bb03648dca1735a0636a2.setIcon(icon_c31cf878ac4dd1580df082f7c2a3927f);
+            
+    
+            var marker_db38ea66cbd71e66010199dcecc96c86 = L.marker(
+                [56.1462288, -3.9210947],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_c5e45257300142bce954f90e5d8185bc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_db38ea66cbd71e66010199dcecc96c86.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Claudio Rocha</strong><br><em>University of Stirling</em><br>claudio.rocha@stir.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_db38ea66cbd71e66010199dcecc96c86.setIcon(icon_c5e45257300142bce954f90e5d8185bc);
+            
+    
+            var marker_306f5bb30d2e648fced463ac5f584a58 = L.marker(
+                [55.8720706, -4.2900005],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_c72a006ebd7237bd538b852de3e4d19f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkred",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_306f5bb30d2e648fced463ac5f584a58.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Tatiana Signorelli Heise</strong><br><em>University of Glasgow</em><br>tatiana.heise@glasgow.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_306f5bb30d2e648fced463ac5f584a58.setIcon(icon_c72a006ebd7237bd538b852de3e4d19f);
+            
+    
+            var marker_a5fed7d4419e6009ad940b85be444e66 = L.marker(
+                [55.9102836, -3.3213533],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_196ed695c8610894f719922f3676d11b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "beige",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_a5fed7d4419e6009ad940b85be444e66.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Ana Paula Fonseca</strong><br><em>Heriot-Watt University</em><br>a.fonseca@hw.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a5fed7d4419e6009ad940b85be444e66.setIcon(icon_196ed695c8610894f719922f3676d11b);
+            
+    
+            var marker_2a3ef8e4d1906d3e3d08323101d82a89 = L.marker(
+                [55.9475603, -3.1873509],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_8969a67d85f208a5818ef5db15c942fc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_2a3ef8e4d1906d3e3d08323101d82a89.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Douglas Alem</strong><br><em>University of Edinburgh</em><br>douglas.alem@ed.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2a3ef8e4d1906d3e3d08323101d82a89.setIcon(icon_8969a67d85f208a5818ef5db15c942fc);
+            
+    
+            var marker_5bfb0228b1a83dd4df4da3c6ebd19ac0 = L.marker(
+                [55.9475603, -3.1873509],
+                {
+}
+            ).addTo(marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5);
+        
+    
+            var icon_4083a35eef1a632c43c520c619001a75 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "map-marker",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_5bfb0228b1a83dd4df4da3c6ebd19ac0.bindTooltip(
+                `<div style="width: 220px; max-width:1000px; white-space:normal;">
+                     <strong>Cláudio Michelon</strong><br><em>University of Edinburgh</em><br>c.michelon@ed.ac.uk
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5bfb0228b1a83dd4df4da3c6ebd19ac0.setIcon(icon_4083a35eef1a632c43c520c619001a75);
+            
+    
+            marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            tile_layer_74dad32674870f4f35071e45d8cf927e.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_b955f57110e796d736328678f70676d9.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_23b0c027878c10a27f15b713a0169abc.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_bf8d7a98e100aeeac41be1f7864023df.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_354b5dcf715b78f6fc63ddcc23e53fcd.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_251a4bc0f4d9bf838be05ec62f830dce.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_5328dbc0bfc330766c876cbcff9b5abb.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_c6a23011e7ee6066b4e2e2806fb2a09b.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_d4b574f476460fde4b25aac175d9bfe4.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_4a417ef382884e9270d61a6561b9de1e.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_12e464d28e281ef59ec554b7b859c643.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+                marker_676d60b42918a0eec00da57353310bea.setIcon(icon_ecbab4f5aefa33d9f86d506ce14cc727);
+            
+    
+                marker_7df9258b0938623bd781ac5f08e91ade.setIcon(icon_d39f0586d444770d568e42626d2c772e);
+            
+    
+                marker_cd01d1c8a20106f781b269d12fca3599.setIcon(icon_cdd5c3a91c2ff3cf8e3e4c8b4289e64e);
+            
+    
+                marker_f103f71b98fe0ba56ecb7b25cd3a7cef.setIcon(icon_8fdaf77a3edab6e0533db5d9cea4fca8);
+            
+    
+                marker_ad3bc3486d17ef4dc9a647fce6bc84c2.setIcon(icon_280bd7b213717d272de596e8a6dafe9c);
+            
+    
+                marker_a9e3f7b2e6a43763b825b030b5860a6a.setIcon(icon_6291db98c96e4e83a6193e06d62b2259);
+            
+    
+                marker_6b870f018bf1d4be3e7a60ac6208c0df.setIcon(icon_e71a66701b4c7b1ea02ebe798ddc850a);
+            
+    
+                marker_d37d4153ff739302686aa53fd6f80da2.setIcon(icon_3c72ee652d5138e9c298381570f5eefb);
+            
+    
+                marker_2a3f74c487bb80157e623bd97c23d3d5.setIcon(icon_1daad2c53b84f9bbf0264961287a3662);
+            
+    
+                marker_7f6b74401b9e296ff5d8199448fd0876.setIcon(icon_af58527d72e33929cb212dfa7b100bea);
+            
+    
+                marker_57b17f8f205d86b0a1f56ccd9a6b57b6.setIcon(icon_274b16ac611cd4d2409bf0a1239fe6e4);
+            
+    
+                marker_1201424d3d8d7a3cb1b76686c1aa89a8.setIcon(icon_35d9b3b677cfb555fc1af4f465aba835);
+            
+    
+                marker_b0f56c25a604645623101f295e699a98.setIcon(icon_dd45411ebb6c29c4d020ebfa0d6dc696);
+            
+    
+                marker_910a6ab5cd246e0d278a0d224cbc5c13.setIcon(icon_2edbcee51e42b76a07601767fc4e5bd1);
+            
+    
+                marker_3c04a209d30bb03648dca1735a0636a2.setIcon(icon_c31cf878ac4dd1580df082f7c2a3927f);
+            
+    
+                marker_db38ea66cbd71e66010199dcecc96c86.setIcon(icon_c5e45257300142bce954f90e5d8185bc);
+            
+    
+                marker_306f5bb30d2e648fced463ac5f584a58.setIcon(icon_c72a006ebd7237bd538b852de3e4d19f);
+            
+    
+                marker_a5fed7d4419e6009ad940b85be444e66.setIcon(icon_196ed695c8610894f719922f3676d11b);
+            
+    
+                marker_2a3ef8e4d1906d3e3d08323101d82a89.setIcon(icon_8969a67d85f208a5818ef5db15c942fc);
+            
+    
+                marker_5bfb0228b1a83dd4df4da3c6ebd19ac0.setIcon(icon_4083a35eef1a632c43c520c619001a75);
+            
+    
+            marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            tile_layer_74dad32674870f4f35071e45d8cf927e.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_b955f57110e796d736328678f70676d9.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_23b0c027878c10a27f15b713a0169abc.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_bf8d7a98e100aeeac41be1f7864023df.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_354b5dcf715b78f6fc63ddcc23e53fcd.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_251a4bc0f4d9bf838be05ec62f830dce.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_5328dbc0bfc330766c876cbcff9b5abb.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_c6a23011e7ee6066b4e2e2806fb2a09b.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_d4b574f476460fde4b25aac175d9bfe4.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_4a417ef382884e9270d61a6561b9de1e.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+            feature_group_12e464d28e281ef59ec554b7b859c643.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+    
+                marker_676d60b42918a0eec00da57353310bea.setIcon(icon_ecbab4f5aefa33d9f86d506ce14cc727);
+            
+    
+                marker_7df9258b0938623bd781ac5f08e91ade.setIcon(icon_d39f0586d444770d568e42626d2c772e);
+            
+    
+                marker_cd01d1c8a20106f781b269d12fca3599.setIcon(icon_cdd5c3a91c2ff3cf8e3e4c8b4289e64e);
+            
+    
+                marker_f103f71b98fe0ba56ecb7b25cd3a7cef.setIcon(icon_8fdaf77a3edab6e0533db5d9cea4fca8);
+            
+    
+                marker_ad3bc3486d17ef4dc9a647fce6bc84c2.setIcon(icon_280bd7b213717d272de596e8a6dafe9c);
+            
+    
+                marker_a9e3f7b2e6a43763b825b030b5860a6a.setIcon(icon_6291db98c96e4e83a6193e06d62b2259);
+            
+    
+                marker_6b870f018bf1d4be3e7a60ac6208c0df.setIcon(icon_e71a66701b4c7b1ea02ebe798ddc850a);
+            
+    
+                marker_d37d4153ff739302686aa53fd6f80da2.setIcon(icon_3c72ee652d5138e9c298381570f5eefb);
+            
+    
+                marker_2a3f74c487bb80157e623bd97c23d3d5.setIcon(icon_1daad2c53b84f9bbf0264961287a3662);
+            
+    
+                marker_7f6b74401b9e296ff5d8199448fd0876.setIcon(icon_af58527d72e33929cb212dfa7b100bea);
+            
+    
+                marker_57b17f8f205d86b0a1f56ccd9a6b57b6.setIcon(icon_274b16ac611cd4d2409bf0a1239fe6e4);
+            
+    
+                marker_1201424d3d8d7a3cb1b76686c1aa89a8.setIcon(icon_35d9b3b677cfb555fc1af4f465aba835);
+            
+    
+                marker_b0f56c25a604645623101f295e699a98.setIcon(icon_dd45411ebb6c29c4d020ebfa0d6dc696);
+            
+    
+                marker_910a6ab5cd246e0d278a0d224cbc5c13.setIcon(icon_2edbcee51e42b76a07601767fc4e5bd1);
+            
+    
+                marker_3c04a209d30bb03648dca1735a0636a2.setIcon(icon_c31cf878ac4dd1580df082f7c2a3927f);
+            
+    
+                marker_db38ea66cbd71e66010199dcecc96c86.setIcon(icon_c5e45257300142bce954f90e5d8185bc);
+            
+    
+                marker_306f5bb30d2e648fced463ac5f584a58.setIcon(icon_c72a006ebd7237bd538b852de3e4d19f);
+            
+    
+                marker_a5fed7d4419e6009ad940b85be444e66.setIcon(icon_196ed695c8610894f719922f3676d11b);
+            
+    
+                marker_2a3ef8e4d1906d3e3d08323101d82a89.setIcon(icon_8969a67d85f208a5818ef5db15c942fc);
+            
+    
+                marker_5bfb0228b1a83dd4df4da3c6ebd19ac0.setIcon(icon_4083a35eef1a632c43c520c619001a75);
+            
+    
+            marker_cluster_ffcd1af59cc1e78de5ca4339fc77f4a5.addTo(map_43018e1ac096ef4a42f3b44ee46a98c4);
+        
+</script>
+</html>
