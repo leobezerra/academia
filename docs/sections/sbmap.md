@@ -9,7 +9,7 @@ In the interactive map below, you can (_mobile alternative_ in parenthesis):
 
 ---
 
-_You can see this page in Brazilian Portuguese clicking [here](mabe.md)._
+_Você pode visualizar esta página em português clicando [aqui](beca.md)._
 
 <iframe src="../maps/sbmap.html" height="500" width="100%" frameBorder=0></iframe>
 
