@@ -1,4 +1,4 @@
-## Scotland-Brazil Maps of Academics & Partnerships
+## Scotland-Brazil Maps for Academics Partnerships (SBMAPs)
 [Back to main page](../index.md)
 
 In the interactive map below, you can (_mobile alternative_ in parenthesis):
